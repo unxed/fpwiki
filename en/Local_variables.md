@@ -1,7 +1,6 @@
 # Local variables
 
-│ **[Deutsch (de)](</Local_variables/de> "Local variables/de")** │  **English (en)** │  **[español (es)](</Local_variables/es> "Local variables/es")** │  **[suomi (fi)](</Local_variables/fi> "Local variables/fi")** │  **[русский (ru)](<../ru/Local_variables.md> "Local variables/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Local_variables.md>)** │
 
 A local [variable](<Variable.md> "Variable") is defined inside a [Procedure](<Procedure.md> "Procedure"), [Function](<Function.md> "Function"), [Method](<Method.md> "Method") or the [implementation](<Implementation.md> "Implementation") section of a [Unit](<Unit.md> "Unit") and is only accessible from there. It is said to have local scope and cannot be accessed from outside (i.e. by another outside procedure, function or unit). 
     

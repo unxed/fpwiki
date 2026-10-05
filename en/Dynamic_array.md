@@ -1,7 +1,6 @@
 # Dynamic array
 
-│ **English (en)** │  **[español (es)](</Dynamic_array/es> "Dynamic array/es")** │  **[suomi (fi)](</Dynamic_array/fi> "Dynamic array/fi")** │  **[français (fr)](</Dynamic_array/fr> "Dynamic array/fr")** │  **[日本語 (ja)](</Dynamic_array/ja> "Dynamic array/ja")** │  **[русский (ru)](<../ru/Dynamic_array.md> "Dynamic array/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Dynamic_array.md>)** │
 
 A **dynamic array** is an [array](<Array.md> "Array") whose dimensions are not known at [compile-time](<Compile_time.md> "Compile time"). The dynamic array type is not the only type providing variable-length arrays, but as of 2022 it is the only one [FPC](<FPC.md> "FPC") supports. 
 

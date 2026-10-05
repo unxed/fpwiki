@@ -1,7 +1,6 @@
 # IDE Development
 
-│ **English (en)** │  **[한국어 (ko)](</IDE_Development/ko> "IDE Development/ko")** │  **[русский (ru)](<../ru/IDE_Development.md> "IDE Development/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/IDE_Development.md>)** │
 
 This page contains notes for lazarus core developers about ongoing development. 
 

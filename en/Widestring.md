@@ -1,7 +1,6 @@
 # Widestring
 
-│ **[Deutsch (de)](</Widestring/de> "Widestring/de")** │  **English (en)** │  **[français (fr)](</Widestring/fr> "Widestring/fr")** │    
-****
+│ **English (en)** │
 
   
 Back to [data types](<Data_type.md> "Data type"). 

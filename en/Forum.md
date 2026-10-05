@@ -1,7 +1,6 @@
 # Forum
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 The [Lazarus and Free Pascal forum](<https://forum.lazarus.freepascal.org>), which acted for a while as the welcome page for the Lazarus project, is a common place to ask questions and the best place for discussions. It's a more user friendly way of communication and might be preferred by beginning users than the mailing lists. 
 

@@ -1,7 +1,6 @@
 # FPTest
 
-│ **English (en)** │  **[français (fr)](</FPTest/fr> "FPTest/fr")** │  **[polski (pl)](</FPTest/pl> "FPTest/pl")** │    
-****
+│ **English (en)** │
 
 FPTest (Free Pascal Testing Framework) is a unit testing framework. It is a fork of the DUnit2 project created by the late Peter McNab, but tweaked specifically for use with the Free Pascal Compiler. 
 

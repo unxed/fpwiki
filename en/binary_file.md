@@ -1,7 +1,6 @@
 # binary file
 
-│ **[Deutsch (de)](</binary_file/de> "binary file/de")** │  **English (en)** │  **[polski (pl)](</binary_file/pl> "binary file/pl")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

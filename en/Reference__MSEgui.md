@@ -1,7 +1,6 @@
 # Reference: MSEgui
 
-│ **English (en)** │  [**français (fr)**](</Reference:_MSEgui/fr> "Reference: MSEgui/fr") │    
-****
+│ **English (en)** │
 
 ## Contents
 

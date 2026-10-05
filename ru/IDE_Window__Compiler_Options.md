@@ -1,7 +1,7 @@
 # IDE Window: Compiler Options
 
-│ [**Deutsch (de)**](</IDE_Window:_Compiler_Options/de> "IDE Window: Compiler Options/de") │  [**English (en)**](<../en/IDE_Window__Compiler_Options.md> "IDE Window: Compiler Options") │  [**español (es)**](</IDE_Window:_Compiler_Options/es> "IDE Window: Compiler Options/es") │  [**français (fr)**](</IDE_Window:_Compiler_Options/fr> "IDE Window: Compiler Options/fr") │  [**日本語 (ja)**](</IDE_Window:_Compiler_Options/ja> "IDE Window: Compiler Options/ja") │  **русский (ru)** │    
-  
+│ **[English (en)](<../en/IDE_Window__Compiler_Options.md>)** │  **русский (ru)** │
+
 
 
 ## Contents

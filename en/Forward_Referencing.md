@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Chapter 4/Forward Referencing
 
-│ **[български (bg)](</Basic_Pascal_Tutorial/Chapter_4/Forward_Referencing/bg> "Basic Pascal Tutorial/Chapter 4/Forward Referencing/bg")** │  **English (en)** │  **[français (fr)](</Basic_Pascal_Tutorial/Chapter_4/Forward_Referencing/fr> "Basic Pascal Tutorial/Chapter 4/Forward Referencing/fr")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Chapter_4/Forward_Referencing/ja> "Basic Pascal Tutorial/Chapter 4/Forward Referencing/ja")** │  **[中文（中国大陆）‎ (zh_CN)](</Basic_Pascal_Tutorial/Chapter_4/Forward_Referencing/zh_CN> "Basic Pascal Tutorial/Chapter 4/Forward Referencing/zh CN")** │    
-****
+│ **English (en)** │
 
 [ ◄ ](<Basic_Pascal_Tutorial/Chapter_4/Recursion.md> "Basic Pascal Tutorial/Chapter 4/Recursion") | [ ▲ ](<Basic_Pascal_Tutorial/Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Basic_Pascal_Tutorial/Chapter_4/Programming_Assignment.md> "Basic Pascal Tutorial/Chapter 4/Programming Assignment")  
 ---|---|---  

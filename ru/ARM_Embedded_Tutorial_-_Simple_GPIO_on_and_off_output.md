@@ -1,6 +1,6 @@
 # ARM Embedded Tutorial - Simple GPIO on and off output
 
-│ **[Deutsch (de)](</ARM_Embedded_Tutorial_-_Simple_GPIO_on_and_off_output/de> "ARM Embedded Tutorial - Simple GPIO on and off output/de")** │  **[English (en)](<../en/ARM_Embedded_Tutorial_-_Simple_GPIO_on_and_off_output.md> "ARM Embedded Tutorial - Simple GPIO on and off output")** │  **русский (ru)** │ 
+│ **[English (en)](<../en/ARM_Embedded_Tutorial_-_Simple_GPIO_on_and_off_output.md>)** │  **русский (ru)** │
 
 ## Contents
 

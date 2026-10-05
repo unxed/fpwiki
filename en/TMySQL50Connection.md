@@ -1,7 +1,6 @@
 # TMySQL50Connection
 
-│ **English (en)** │  **[français (fr)](</TMySQL50Connection/fr> "TMySQL50Connection/fr")** │  **[русский (ru)](<../ru/TMySQL50Connection.md> "TMySQL50Connection/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TMySQL50Connection.md>)** │
 
 ![Light bulb](https://upload.wikimedia.org/wikipedia/commons/d/d8/Nuvola_apps_ktip.png) **Note:** Instead of using a TMySQL50Connection a proxy-like [TSQLConnector](<TSQLConnector.md> "TSQLConnector") may be used to create more generic database applications
 

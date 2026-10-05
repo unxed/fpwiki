@@ -1,7 +1,6 @@
 # Sand Box/Mia SandBox
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
   
 This page describes the basic classes and techniques regarding drawing graphics with Lazarus. Other more specific topics are in separate articles. 

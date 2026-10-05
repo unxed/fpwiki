@@ -1,7 +1,6 @@
 # fcl-registry
 
-│ **English (en)** │  **[español (es)](</fcl-registry/es> "fcl-registry/es")** │  **[русский (ru)](<../ru/fcl-registry.md> "fcl-registry/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/fcl-registry.md>)** │
 
 fcl-registry is an [FCL](<FCL.md> "FCL") unit that provides access to the Windows registry. **It is cross-platform**. How? In non-Windows operating systems it creates a `reg.xml` file. For example, under non-Windows operating systems it creates the per user XML file (HKEY_CURRENT_USER) `reg.xml` in the `/home/[user]/.config/application_name/` directory; the global XML file (HKEY_LOCAL_MACHINE) `reg.xml` is created in the `/etc/application_name/` directory which is invariably a read-only location unless you are the root or Admin user. 
 

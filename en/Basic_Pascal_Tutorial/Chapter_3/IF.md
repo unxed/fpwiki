@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Chapter 3/IF
 
-│ **[български (bg)](</Basic_Pascal_Tutorial/Chapter_3/IF/bg> "Basic Pascal Tutorial/Chapter 3/IF/bg")** │  **English (en)** │  **[français (fr)](</Basic_Pascal_Tutorial/Chapter_3/IF/fr> "Basic Pascal Tutorial/Chapter 3/IF/fr")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Chapter_3/IF/ja> "Basic Pascal Tutorial/Chapter 3/IF/ja")** │  **[中文（中国大陆） (zh_CN)](</Basic_Pascal_Tutorial/Chapter_3/IF/zh_CN> "Basic Pascal Tutorial/Chapter 3/IF/zh CN")** │    
-****
+│ **English (en)** │
 
 [ ◄ ](<Boolean_Expressions.md> "Basic Pascal Tutorial/Chapter 3/Boolean Expressions") | [ ▲ ](<../Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<CASE.md> "Basic Pascal Tutorial/Chapter 3/CASE")  
 ---|---|---  

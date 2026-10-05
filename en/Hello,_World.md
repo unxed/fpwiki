@@ -1,5 +1,7 @@
 # Hello, World
 
+│ **English (en)** │  **[русский (ru)](<../ru/Hello,_World.md>)** │
+
 **Hello, World** refers to a trivial [program](<Program.md> "Program") printing `Hello, World!` to some standard means of output. It is used to illustrate some basic characteristics of a programming language. This page elaborates a _Hello, World_ in [Pascal](<Pascal.md> "Pascal"). 
 
 ## Contents

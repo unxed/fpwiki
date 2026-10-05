@@ -1,7 +1,6 @@
 # FPC Internals/CPU Target
 
-│ **English (en)** │  **[français (fr)](</FPC_Internals/CPU_Target/fr> "FPC Internals/CPU Target/fr")** │    
-****
+│ **English (en)** │
 
 back to contents [FPC internals](<../FPC_internals.md> "FPC internals")
 

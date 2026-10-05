@@ -1,7 +1,6 @@
 # $IF
 
-│ **[Deutsch (de)](</$IF/de> "$IF/de")** │  **English (en)** │  **[français (fr)](</$IF/fr> "$IF/fr")** │  **[русский (ru)](<../ru/$IF.md> "$IF/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/$IF.md>)** │
 
 The `{$if …}` directive can be used in [conditional compilation](<Conditional_compilation.md> "Conditional compilation"). 
     

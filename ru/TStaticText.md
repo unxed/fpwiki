@@ -1,7 +1,6 @@
 # TStaticText
 
-│ **[Deutsch (de)](</TStaticText/de> "TStaticText/de")** │  **[English (en)](<../en/TStaticText.md> "TStaticText")** │  **[français (fr)](</TStaticText/fr> "TStaticText/fr")** │  **[日本語 (ja)](</TStaticText/ja> "TStaticText/ja")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TStaticText.md>)** │  **русский (ru)** │
 
 **TStaticText** [![tstatictext.png](https://wiki.freepascal.org/images/7/72/tstatictext.png)](</File:tstatictext.png>) \- компонент, создающий текстовую подпись для другого компонента. Компонент TStaticText является потомком [TWinControl](</index.php?title=TWinControl/ru&action=edit&redlink=1> "TWinControl/ru \(page does not exist\)") и доступен на вкладке [Additional](<Additional_tab.md> "Additional tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

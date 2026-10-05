@@ -1,7 +1,6 @@
 # Real
 
-│ **[Deutsch (de)](</Real/de> "Real/de")** │  **English (en)** │  **[français (fr)](</Real/fr> "Real/fr")** │  **[русский (ru)](<../ru/Real.md> "Real/ru")** │    
-****
+│ **English (en)** │
 
 ` real` is a [standard type](<Standard_type.md> "Standard type") of the [Pascal](<Pascal.md> "Pascal") programming language. Despite its name, the data type `real` only provides a “reasonable approximation” of ℝ, the set of real numbers. For example the real number [math]\displaystyle{ \sqrt{2} }[/math] may have the `real` value of `1.4` in Pascal. 
 

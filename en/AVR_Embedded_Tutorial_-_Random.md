@@ -1,6 +1,6 @@
 # AVR Embedded Tutorial - Random
 
-│ **[Deutsch (de)](</AVR_Embedded_Tutorial_-_Random/de> "AVR Embedded Tutorial - Random/de")** │  **English (en)** │ 
+│ **English (en)** │
 
 ## Contents
 

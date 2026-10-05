@@ -1,7 +1,6 @@
 # TCalculatorDialog
 
-│ **English (en)** │  **[français (fr)](</TCalculatorDialog/fr> "TCalculatorDialog/fr")** │  **[русский (ru)](<../ru/TCalculatorDialog.md> "TCalculatorDialog/ru")** │  **[中文（中国大陆）‎ (zh_CN)](</TCalculatorDialog/zh_CN> "TCalculatorDialog/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TCalculatorDialog.md>)** │
 
 **TCalculatorDialog** [![tcalculatordialog.png](https://wiki.freepascal.org/images/0/08/tcalculatordialog.png)](</File:tcalculatordialog.png>) is a dialog that aids in selecting a calculated result. It can be found on the [Dialogs tab](<Dialogs_tab.md> "Dialogs tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

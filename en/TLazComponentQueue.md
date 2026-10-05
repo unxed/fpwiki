@@ -1,7 +1,6 @@
 # TLazComponentQueue
 
-│ **English (en)** │  [**français (fr)**](</TLazComponentQueue/fr> "TLazComponentQueue/fr") │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TLazComponentQueue.md>)** │
 
 **TLazComponentQueue** [![tlazcomponentqueue.png](https://wiki.freepascal.org/images/d/d1/tlazcomponentqueue.png)](</File:tlazcomponentqueue.png>) is a non-visual component that assists in streaming components when multithreading or networking. It is available from the [System tab](<System_tab.md> "System tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

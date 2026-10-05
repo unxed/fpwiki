@@ -1,7 +1,6 @@
 # Pascal basics
 
-│ **[Deutsch (de)](</Pascal_basics/de> "Pascal basics/de")** │  **English (en)** │  **[polski (pl)](</Pascal_basics/pl> "Pascal basics/pl")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

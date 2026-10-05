@@ -1,7 +1,6 @@
 # Compiler test suite
 
-│ **English (en)** │  **[français (fr)](</Compiler_test_suite/fr> "Compiler test suite/fr")** │    
-****
+│ **English (en)** │
 
 ## Overview
 

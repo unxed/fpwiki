@@ -1,7 +1,6 @@
 # LCL Tips
 
-│ **[Deutsch (de)](</LCL_Tips/de> "LCL Tips/de")** │  **English (en)** │  **[français (fr)](</LCL_Tips/fr> "LCL Tips/fr")** │  **[русский (ru)](<../ru/LCL_Tips.md> "LCL Tips/ru")** │  **[中文（中国大陆）‎ (zh_CN)](</LCL_Tips/zh_CN> "LCL Tips/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/LCL_Tips.md>)** │
 
 ## Contents
 

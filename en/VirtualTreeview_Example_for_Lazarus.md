@@ -1,7 +1,6 @@
 # VirtualTreeview Example for Lazarus
 
-│ **English (en)** │  **[español (es)](</VirtualTreeview_Example_for_Lazarus/es> "VirtualTreeview Example for Lazarus/es")** │  **[français (fr)](</VirtualTreeview_Example_for_Lazarus/fr> "VirtualTreeview Example for Lazarus/fr")** │  **[polski (pl)](</VirtualTreeview_Example_for_Lazarus/pl> "VirtualTreeview Example for Lazarus/pl")** │  **[русский (ru)](<../ru/VirtualTreeview_Example_for_Lazarus.md> "VirtualTreeview Example for Lazarus/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/VirtualTreeview_Example_for_Lazarus.md>)** │
 
 Here are a few examples on how to use [VirtualTreeview](<VirtualTreeview.md> "VirtualTreeview") for Lazarus (tested on win32). These are mostly collected from the web written for Delphi, and from the tutorial/docs by Philipp Frenzel and Mike Lischke. 
 

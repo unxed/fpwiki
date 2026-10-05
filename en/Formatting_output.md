@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Chapter 2/Formatting output
 
-│ **[български (bg)](</Basic_Pascal_Tutorial/Chapter_2/Formatting_output/bg> "Basic Pascal Tutorial/Chapter 2/Formatting output/bg")** │  **[Deutsch (de)](</Basic_Pascal_Tutorial/Chapter_2/Formatting_output/de> "Basic Pascal Tutorial/Chapter 2/Formatting output/de")** │  **English (en)** │  **[français (fr)](</Basic_Pascal_Tutorial/Chapter_2/Formatting_output/fr> "Basic Pascal Tutorial/Chapter 2/Formatting output/fr")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Chapter_2/Formatting_output/ja> "Basic Pascal Tutorial/Chapter 2/Formatting output/ja")** │  **[中文（中国大陆） (zh_CN)](</Basic_Pascal_Tutorial/Chapter_2/Formatting_output/zh_CN> "Basic Pascal Tutorial/Chapter 2/Formatting output/zh CN")** │    
-****
+│ **English (en)** │
 
 [ ◄ ](<Basic_Pascal_Tutorial/Chapter_2/Output.md> "Basic Pascal Tutorial/Chapter 2/Output") | [ ▲ ](<Basic_Pascal_Tutorial/Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Basic_Pascal_Tutorial/Chapter_2/Files.md> "Basic Pascal Tutorial/Chapter 2/Files")  
 ---|---|---  

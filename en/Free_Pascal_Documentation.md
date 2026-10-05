@@ -4,7 +4,7 @@
 
 (Redirected from [Free Pascal Documentation](</index.php?title=Free_Pascal_Documentation&redirect=no> "Free Pascal Documentation"))
 
-[ **Deutsch (de)**](</FPC_documentation/de> "FPC documentation/de") | ****English (en)**** | [**Français (fr)**](</FPC_documentation/fr> "FPC documentation/fr") | [**Bahasa Indonesia (id)**](</FPC_documentation/id> "FPC documentation/id") | [**Japanese (ja)**](</FPC_documentation/ja> "FPC documentation/ja") | [**한국어 (ko)**](</FPC_documentation/ko> "FPC documentation/ko") | [**中文（简体）(zh_CN)**](</FPC_documentation/zh_CN> "FPC documentation/zh CN") | [**正體中文 (zh_TW)**](</FPC_documentation/zh_TW> "FPC documentation/zh TW")
+│ **English (en)** │
 
   
 This page collects FPC related articles which doesn't fit into the official documentation or which aren't ready for the offical documentation yet. 

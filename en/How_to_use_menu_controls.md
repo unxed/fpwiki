@@ -1,7 +1,6 @@
 # How to use menu controls
 
-│ **English (en)** │  **[suomi (fi)](</How_to_use_menu_controls/fi> "How to use menu controls/fi")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

@@ -1,7 +1,6 @@
 # Lazarus on Raspberry Pi
 
-│ **[Deutsch (de)](</Lazarus_on_Raspberry_Pi/de> "Lazarus on Raspberry Pi/de")** │  **English (en)** │  **[español (es)](</Lazarus_on_Raspberry_Pi/es> "Lazarus on Raspberry Pi/es")** │  **[suomi (fi)](</Lazarus_on_Raspberry_Pi/fi> "Lazarus on Raspberry Pi/fi")** │  **[中文（中国大陆） (zh_CN)](</Lazarus_on_Raspberry_Pi/zh_CN> "Lazarus on Raspberry Pi/zh CN")** │    
-****
+│ **English (en)** │
 
 [![Lazarus on Raspbian Wheezy.](https://wiki.freepascal.org/images/e/ef/Lazarus_on_Raspberry_Pi_Raspian_Wheezy_version_2012-10-28.png)](</File:Lazarus_on_Raspberry_Pi_Raspian_Wheezy_version_2012-10-28.png>)
 

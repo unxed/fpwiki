@@ -1,7 +1,6 @@
 # Cross-compilation from Win32 to GO32v2
 
-│ **English (en)** │  **[magyar (hu)](</Cross-compilation_from_Win32_to_GO32v2/hu> "Cross-compilation from Win32 to GO32v2/hu")** │  **[Bahasa Indonesia (id)](</Cross-compilation_from_Win32_to_GO32v2/id> "Cross-compilation from Win32 to GO32v2/id")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

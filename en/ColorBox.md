@@ -1,7 +1,6 @@
 # ColorBox
 
-│ **[Deutsch (de)](</ColorBox/de> "ColorBox/de")** │  **English (en)** │  **[français (fr)](</ColorBox/fr> "ColorBox/fr")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

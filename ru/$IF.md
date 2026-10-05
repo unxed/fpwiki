@@ -1,7 +1,6 @@
 # $IF
 
-│ **[Deutsch (de)](</$IF/de> "$IF/de")** │  **[English (en)](<../en/$IF.md> "$IF")** │  **[français (fr)](</$IF/fr> "$IF/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/$IF.md>)** │  **русский (ru)** │
 
 Директива компилятора `$IF` в [условной компиляции](<Conditional_compilation.md> "Conditional compilation/ru"). 
     

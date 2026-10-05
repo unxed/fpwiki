@@ -1,7 +1,6 @@
 # TDateEdit
 
-│ **[English (en)](<../en/TDateEdit.md> "TDateEdit")** │  **[français (fr)](</TDateEdit/fr> "TDateEdit/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TDateEdit.md>)** │  **русский (ru)** │
 
 Компонент **TDateEdit** [![tdateedit.png](https://wiki.freepascal.org/images/b/be/tdateedit.png)](</File:tdateedit.png>) является элементом управления, предназначенным для ввода корректной даты. Компонент TDateEdit находится на вкладке [Misc](<Misc_tab.md> "Misc tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

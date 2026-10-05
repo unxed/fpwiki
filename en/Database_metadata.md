@@ -1,6 +1,6 @@
 # Database metadata
 
-│ **English (en)** │  **[polski (pl)](</Database_metadata/pl> "Database metadata/pl")** │ 
+│ **English (en)** │
 
 Database metadata is data about a database. In this article, we also cover information about the database connection/server/client. 
 

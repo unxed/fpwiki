@@ -12,8 +12,7 @@ This article applies to [iOS](</Category:iOS> "Category:iOS") only.
 
 See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **English (en)** │  **[русский (ru)](<../ru/Xcode.md> "Xcode/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Xcode.md>)** │
 
 ## Contents
 

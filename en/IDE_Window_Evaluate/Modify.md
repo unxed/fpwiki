@@ -1,8 +1,6 @@
 # IDE Window: Evaluate/Modify
 
-│ [**Deutsch (de)**](</IDE_Window:_Evaluate/Modify/de> "IDE Window: Evaluate/Modify/de") │  **English (en)** │  [**français (fr)**](</IDE_Window:_Evaluate/Modify/fr> "IDE Window: Evaluate/Modify/fr") │    
-****  
-****
+│ **English (en)** │
 
 ## Contents
 

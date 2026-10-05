@@ -1,7 +1,6 @@
 # Hexadecimal
 
-│ **[Deutsch (de)](</Hexadecimal/de> "Hexadecimal/de")** │  **English (en)** │  **[suomi (fi)](</Hexadecimal/fi> "Hexadecimal/fi")** │  **[français (fr)](</Hexadecimal/fr> "Hexadecimal/fr")** │  **[português (pt)](</Hexadecimal/pt> "Hexadecimal/pt")** │  **[русский (ru)](<../ru/Hexadecimal.md> "Hexadecimal/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Hexadecimal.md>)** │
 
 Hexadecimal (hex) is number system to the base 16. In hexadecimal the decimal numbers 0–15 are represented by the symbols 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E and F. Hexadecimal numbers are easy to convert to the computer's internal binary code and are more compact than [binary numbers](<Binary_numeral_system.md> "Binary numeral system"). One hexadecimal digit stands in place of four binary bits (4-bits). 
 

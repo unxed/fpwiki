@@ -1,7 +1,6 @@
 # Character and string types
 
-│ **[Deutsch (de)](</Character_and_string_types/de> "Character and string types/de")** │  **[English (en)](<../en/Character_and_string_types.md> "Character and string types")** │  **[español (es)](</Character_and_string_types/es> "Character and string types/es")** │  **[français (fr)](</Character_and_string_types/fr> "Character and string types/fr")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</Character_and_string_types/zh_CN> "Character and string types/zh CN")** │    
-****
+│ **[English (en)](<../en/Character_and_string_types.md>)** │  **русский (ru)** │
 
 Free Pascal поддерживает несколько **[символьных](<../en/Char.md> "Char") и [строковых](<../en/String.md> "String") типов**, от одиночных символов ANSI до юникодных строк, включая указатели. Различия также касаются кодировок и подсчёта ссылок. 
 

@@ -1,7 +1,6 @@
 # TTaskDialog
 
-│ **English (en)** │  **[suomi (fi)](</TTaskDialog/fi> "TTaskDialog/fi")** │  **[français (fr)](</TTaskDialog/fr> "TTaskDialog/fr")** │  **[русский (ru)](<../ru/TTaskDialog.md> "TTaskDialog/ru")** │  **[中文（中国大陆） (zh_CN)](</TTaskDialog/zh_CN> "TTaskDialog/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TTaskDialog.md>)** │
 
 **TTaskDialog** [![ttaskdialogicon.png](https://wiki.freepascal.org/images/0/02/ttaskdialogicon.png)](</File:ttaskdialogicon.png>) is a non-visual component, which shows full-featured dialogs at runtime, dialogs with rich features like Windows TaskDialog API has. It is available on the [Dialogs tab](<Dialogs_tab.md> "Dialogs tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). It is available since Lazarus 1.8. 
 

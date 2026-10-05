@@ -1,5 +1,7 @@
 # BGRABitmap Pixel types
 
+│ **English (en)** │  **[русский (ru)](<../ru/BGRABitmap_Pixel_types.md>)** │
+
 List of pixel types and functions of [BGRABitmap](<BGRABitmap.md> "BGRABitmap") library. They are provided by _BGRABitmapTypes_ unit. 
 
 ### Pixel types and functions

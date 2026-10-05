@@ -1,7 +1,6 @@
 # Windows Programming Tips
 
-│ **English (en)** │  **[français (fr)](</Windows_Programming_Tips/fr> "Windows Programming Tips/fr")** │    
-****
+│ **English (en)** │
 
 [![Windows logo - 2012.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/50px-Windows_logo_-_2012.svg.png)](</File:Windows_logo_-_2012.svg>)
 

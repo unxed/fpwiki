@@ -1,7 +1,7 @@
 # Version Numbering
 
-[**Deutsch (de)**](</Version_Numbering/de> "Version Numbering/de") | [**English (en)**](<../en/Version_Numbering.md> "Version Numbering") | [**español (es)**](</Version_Numbering/es> "Version Numbering/es") | [**日本語 (ja)**](</Version_Numbering/ja> "Version Numbering/ja") | **русский (ru)**   
-****
+│ **[English (en)](<../en/Version_Numbering.md>)** │  **русский (ru)** │
+
 
 ## Комбинации FPC и Lazarus
 

@@ -1,7 +1,6 @@
 # statement
 
-│ **English (en)** │  **[suomi (fi)](</statement/fi> "statement/fi")** │    
-****
+│ **English (en)** │
 
 Statements are parts of a [program](<Executable_program.md> "Executable program") that alter its state, e. g. by changing a [variable’s](<Variable.md> "Variable") value. 
 

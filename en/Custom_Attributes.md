@@ -1,6 +1,6 @@
 # Custom Attributes
 
-│ **English (en)** │  **[русский (ru)](<../ru/Custom_Attributes.md> "Custom Attributes/ru")** │ 
+│ **English (en)** │  **[русский (ru)](<../ru/Custom_Attributes.md>)** │
 
 Custom Attributes currently allow you to decorate type definitions and published properties of classes with additional metadata that can be queried using RTTI (runtime type information). 
 

@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Chapter 2/Files
 
-│ **[български (bg)](</Basic_Pascal_Tutorial/Chapter_2/Files/bg> "Basic Pascal Tutorial/Chapter 2/Files/bg")** │  **[Deutsch (de)](</Basic_Pascal_Tutorial/Chapter_2/Files/de> "Basic Pascal Tutorial/Chapter 2/Files/de")** │  **English (en)** │  **[français (fr)](</Basic_Pascal_Tutorial/Chapter_2/Files/fr> "Basic Pascal Tutorial/Chapter 2/Files/fr")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Chapter_2/Files/ja> "Basic Pascal Tutorial/Chapter 2/Files/ja")** │  **[中文（中国大陆） (zh_CN)](</Basic_Pascal_Tutorial/Chapter_2/Files/zh_CN> "Basic Pascal Tutorial/Chapter 2/Files/zh CN")** │    
-****
+│ **English (en)** │
 
 [ ◄ ](<Formatting_output.md> "Basic Pascal Tutorial/Chapter 2/Formatting output") | [ ▲ ](<../Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<EOLN_and_EOF.md> "Basic Pascal Tutorial/Chapter 2/EOLN and EOF")  
 ---|---|---  

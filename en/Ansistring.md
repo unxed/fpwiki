@@ -1,6 +1,6 @@
 # AnsiString
 
-│ **English (en)** │ 
+│ **English (en)** │
 
 **`AnsiString`** is a variable-length string [data type](<Data_type.md> "Data type"). It can store characters that have a size of one Byte. 
 

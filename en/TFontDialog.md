@@ -1,7 +1,6 @@
 # TFontDialog
 
-│ **English (en)** │  **[français (fr)](</TFontDialog/fr> "TFontDialog/fr")** │  **[русский (ru)](<../ru/TFontDialog.md> "TFontDialog/ru")** │  **[中文（中国大陆） (zh_CN)](</TFontDialog/zh_CN> "TFontDialog/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TFontDialog.md>)** │
 
 **TFontDialog** [![tfontdialog.png](https://wiki.freepascal.org/images/6/61/tfontdialog.png)](</File:tfontdialog.png>) is a component that aids in selecting a font. It can be found on the [Dialogs tab](<Dialogs_tab.md> "Dialogs tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

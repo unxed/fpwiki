@@ -1,7 +1,6 @@
 # TSelectDirectoryDialog
 
-│ [**English (en)**](<../en/TSelectDirectoryDialog.md> "TSelectDirectoryDialog") │  [**français (fr)**](</TSelectDirectoryDialog/fr> "TSelectDirectoryDialog/fr") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TSelectDirectoryDialog.md>)** │  **русский (ru)** │
 
 **TSelectDirectoryDialog** [![tselectdirectorydialog.png](https://wiki.freepascal.org/images/d/d6/tselectdirectorydialog.png)](</File:tselectdirectorydialog.png>) позволяет выбрать директории в файловой системе. Он расположен на вкладке [Dialogs](<Dialogs_tab.md> "Dialogs tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

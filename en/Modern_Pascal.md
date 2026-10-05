@@ -1,6 +1,6 @@
 # Modern Pascal
 
-│ **English (en)** │  [**français (fr)**](</Modern_Pascal/fr> "Modern Pascal/fr") │  [**русский (ru)**](<../ru/Modern_Pascal.md> "Modern Pascal/ru") │    
+│ **English (en)** │  **[русский (ru)](<../ru/Modern_Pascal.md>)** │
 
 
 **also: Pascal 2000**

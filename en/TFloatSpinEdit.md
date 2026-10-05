@@ -1,7 +1,6 @@
 # TFloatSpinEdit
 
-│ **English (en)** │  **[français (fr)](</TFloatSpinEdit/fr> "TFloatSpinEdit/fr")** │  **[русский (ru)](<../ru/TFloatSpinEdit.md> "TFloatSpinEdit/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TFloatSpinEdit.md>)** │
 
 The **TFloatSpinEdit** [![tfloatspinedit.png](https://wiki.freepascal.org/images/4/45/tfloatspinedit.png)](</File:tfloatspinedit.png>) control is found on the the [miscellaneous tab](<Misc_tab.md> "Misc tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). It is useful for setting a floatingnumeric setting made on a form. TFloatSpinEdit is in fact a combination of a [TUpDown](<TUpDown.md> "TUpDown") and an associated [TEdit](<TEdit.md> "TEdit") control specialized for floating point numbers. 
 

@@ -1,7 +1,6 @@
 # TDBLookupListBox
 
-│ **English (en)** │  **[français (fr)](</TDBLookupListBox/fr> "TDBLookupListBox/fr")** │  **[русский (ru)](<../ru/TDBLookupListBox.md> "TDBLookupListBox/ru")** │  **[中文（中国大陆） (zh_CN)](</TDBLookupListBox/zh_CN> "TDBLookupListBox/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TDBLookupListBox.md>)** │
 
 A **TDBLookupListBox** [![tdblookuplistbox.png](https://wiki.freepascal.org/images/c/cf/tdblookuplistbox.png)](</File:tdblookuplistbox.png>) is a component that shows a list of (short) strings from an associated [TDataSet](<TDataSet.md> "TDataSet"). It is available from the [Data Controls tab](<Data_Controls_tab.md> "Data Controls tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

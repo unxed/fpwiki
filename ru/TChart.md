@@ -1,7 +1,6 @@
 # TChart
 
-│ **[English (en)](<../en/TChart.md> "TChart")** │  **[suomi (fi)](</TChart/fi> "TChart/fi")** │  **[français (fr)](</TChart/fr> "TChart/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TChart.md>)** │  **русский (ru)** │
 
 **TChart** [![tchart.png](https://wiki.freepascal.org/images/2/23/tchart.png)](</File:tchart.png>) представляет собой компонент для рисования различных графиков и диаграмм. Он является частью пакета [TAChart](<TAChart.md> "TAChart/ru") и доступен на вкладке [Chart](<Chart_tab.md> "Chart tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

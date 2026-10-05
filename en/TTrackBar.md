@@ -1,7 +1,6 @@
 # TTrackBar
 
-│ **English (en)** │  **[suomi (fi)](</TTrackBar/fi> "TTrackBar/fi")** │  **[français (fr)](</TTrackBar/fr> "TTrackBar/fr")** │  **[русский (ru)](<../ru/TTrackBar.md> "TTrackBar/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TTrackBar.md>)** │
 
 A **TTrackBar** [![ttrackbar.png](https://wiki.freepascal.org/images/8/82/ttrackbar.png)](</File:ttrackbar.png>) is a component on the [Common Controls tab](<Common_Controls_tab.md> "Common Controls tab") of the [Component Palette](<Component_Palette.md> "Component Palette") shows a tracking bar control. A TTrackBar contains a slider and sometimes tick marks. The TTrackBar is a scrollable control similar to the [TScrollBar](<TScrollBar.md> "TScrollBar"). 
 

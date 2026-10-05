@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Introduction
 
-│ **[العربية (ar)](</Basic_Pascal_Tutorial/Introduction/ar> "Basic Pascal Tutorial/Introduction/ar")** │  **[български (bg)](</Basic_Pascal_Tutorial/Introduction/bg> "Basic Pascal Tutorial/Introduction/bg")** │  **[Deutsch (de)](</Basic_Pascal_Tutorial/Introduction/de> "Basic Pascal Tutorial/Introduction/de")** │  **English (en)** │  **[español (es)](</Basic_Pascal_Tutorial/Introduction/es> "Basic Pascal Tutorial/Introduction/es")** │  **[français (fr)](</Basic_Pascal_Tutorial/Introduction/fr> "Basic Pascal Tutorial/Introduction/fr")** │  **[italiano (it)](</Basic_Pascal_Tutorial/Introduction/it> "Basic Pascal Tutorial/Introduction/it")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Introduction/ja> "Basic Pascal Tutorial/Introduction/ja")** │  **[한국어 (ko)](</Basic_Pascal_Tutorial/Introduction/ko> "Basic Pascal Tutorial/Introduction/ko")** │  **[русский (ru)](<../../ru/Basic_Pascal_Tutorial/Introduction.md> "Basic Pascal Tutorial/Introduction/ru")** │  **[svenska (sv)](</Basic_Pascal_Tutorial/Introduction/sv> "Basic Pascal Tutorial/Introduction/sv")** │  **[中文（中国大陆） (zh_CN)](</Basic_Pascal_Tutorial/Introduction/zh_CN> "Basic Pascal Tutorial/Introduction/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../../ru/Basic_Pascal_Tutorial/Introduction.md>)** │
 
 [ ◄ ](</index.php?title=Basic_Pascal_Tutorial/Basic_Pascal_Tutorial&action=edit&redlink=1> "Basic Pascal Tutorial/Basic Pascal Tutorial \(page does not exist\)") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<History.md> "Basic Pascal Tutorial/History")  
 ---|---|---  

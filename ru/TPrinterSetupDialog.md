@@ -1,7 +1,6 @@
 # TPrinterSetupDialog
 
-│ **[English (en)](<../en/TPrinterSetupDialog.md> "TPrinterSetupDialog")** │  **[français (fr)](</TPrinterSetupDialog/fr> "TPrinterSetupDialog/fr")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</TPrinterSetupDialog/zh_CN> "TPrinterSetupDialog/zh CN")** │    
-****
+│ **[English (en)](<../en/TPrinterSetupDialog.md>)** │  **русский (ru)** │
 
 **TPrinterSetupDialog** [![tprintersetupdialog.png](https://wiki.freepascal.org/images/b/b3/tprintersetupdialog.png)](</File:tprintersetupdialog.png>) позволяет выбрать корректные настройки принтера. Он располагается на вкладке [Dialogs](<Dialogs_tab.md> "Dialogs tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

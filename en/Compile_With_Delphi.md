@@ -1,7 +1,6 @@
 # Compile With Delphi
 
-│ **English (en)** │  **[español (es)](</Compile_With_Delphi/es> "Compile With Delphi/es")** │  **[Bahasa Indonesia (id)](</Compile_With_Delphi/id> "Compile With Delphi/id")** │  **[русский (ru)](<../ru/Compile_With_Delphi.md> "Compile With Delphi/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Compile_With_Delphi.md>)** │
 
 ## Why can't the Free Pascal Compiler be compiled with Delphi ?
 

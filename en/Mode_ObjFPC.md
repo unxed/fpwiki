@@ -1,7 +1,6 @@
 # Mode ObjFPC
 
-│ **English (en)** │  **[español (es)](</Mode_ObjFPC/es> "Mode ObjFPC/es")** │  **[français (fr)](</Mode_ObjFPC/fr> "Mode ObjFPC/fr")** │    
-****
+│ **English (en)** │
 
 The mode **ObjFPC** , switched on with `{$mode objfpc}` in [source code](<Source_code.md> "Source code"), or `-Mobjfpc` on the [command line](<Command-line_interface.md> "Command-line interface"), is the default mode for [Lazarus](<Lazarus.md> "Lazarus") source files (the default [compiler mode](<Compiler_Mode.md> "Compiler Mode") when not using Lazarus is [FPC mode](<Mode_FPC.md> "Mode FPC")). 
 

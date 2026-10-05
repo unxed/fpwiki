@@ -1,7 +1,6 @@
 # Comp
 
-│ **[Deutsch (de)](</Comp/de> "Comp/de")** │  **English (en)** │  **[français (fr)](</Comp/fr> "Comp/fr")** │    
-****
+│ **English (en)** │
 
 Value range: -2E64 + 1 .. 2E63-1. 
 

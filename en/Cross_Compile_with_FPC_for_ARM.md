@@ -1,7 +1,6 @@
 # Cross Compile with FPC for ARM
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 ## Overview
 

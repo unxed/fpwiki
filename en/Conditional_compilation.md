@@ -1,7 +1,6 @@
 # Conditional compilation
 
-│ **[Deutsch (de)](</Conditional_compilation/de> "Conditional compilation/de")** │  **English (en)** │  **[suomi (fi)](</Conditional_compilation/fi> "Conditional compilation/fi")** │  **[français (fr)](</Conditional_compilation/fr> "Conditional compilation/fr")** │  **[русский (ru)](<../ru/Conditional_compilation.md> "Conditional compilation/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Conditional_compilation.md>)** │
 
 **Conditional compilation** refers to compiling or omitting parts of [source code](<Source_code.md> "Source code") based on an [expression evaluated at compile-time](</index.php?title=compile_time_expressions&action=edit&redlink=1> "compile time expressions \(page does not exist\)"). This allows taking account of, for example, different interfaces or architectures of specific [operating systems](<operating_system.md> "operating system") or platforms, while still being able to program in a generic way. 
 

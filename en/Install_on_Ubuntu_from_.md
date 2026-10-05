@@ -10,8 +10,7 @@ See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md>
 
 This page is substantially out of date and may be removed. 
 
-│ **[Deutsch (de)](</Install_on_Ubuntu_from_.deb_files/de> "Install on Ubuntu from .deb files/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
 ## Contents
 

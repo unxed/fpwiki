@@ -1,7 +1,6 @@
 # BGRASpriteAnimation
 
-│ **English (en)** │  **[español (es)](</BGRASpriteAnimation/es> "BGRASpriteAnimation/es")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

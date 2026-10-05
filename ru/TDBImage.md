@@ -1,7 +1,6 @@
 # TDBImage
 
-│ **[English (en)](<../en/TDBImage.md> "TDBImage")** │  **[français (fr)](</TDBImage/fr> "TDBImage/fr")** │  **[日本語 (ja)](</TDBImage/ja> "TDBImage/ja")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</TDBImage/zh_CN> "TDBImage/zh CN")** │    
-****
+│ **[English (en)](<../en/TDBImage.md>)** │  **русский (ru)** │
 
 **TDBImage** [![tdbimage.png](https://wiki.freepascal.org/images/d/d6/tdbimage.png)](</File:tdbimage.png>) является элементом управления для отображения картинок, сохраненных в BLOB-полях базы данных. Данный компонент доступен на вкладке [Data Controls](<Data_Controls_tab.md> "Data Controls tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

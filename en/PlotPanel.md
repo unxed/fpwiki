@@ -1,7 +1,6 @@
 # PlotPanel
 
-│ **[Deutsch (de)](</PlotPanel/de> "PlotPanel/de")** │  **English (en)** │  **[español (es)](</PlotPanel/es> "PlotPanel/es")** │  **[français (fr)](</PlotPanel/fr> "PlotPanel/fr")** │  **[português (pt)](</PlotPanel/pt> "PlotPanel/pt")** │  **[中文（中国大陆） (zh_CN)](</PlotPanel/zh_CN> "PlotPanel/zh CN")** │    
-****
+│ **English (en)** │
 
 [![Warning-icon.png](https://wiki.freepascal.org/images/b/b2/Warning-icon.png)](</File:Warning-icon.png>)
 

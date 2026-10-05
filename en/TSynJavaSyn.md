@@ -1,7 +1,6 @@
 # TSynJavaSyn
 
-│ **English (en)** │  [**français (fr)**](</TSynJavaSyn/fr> "TSynJavaSyn/fr") │  [**русский (ru)**](<../ru/TSynJavaSyn.md> "TSynJavaSyn/ru") │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TSynJavaSyn.md>)** │
 
 **TSynJavaSyn** [![tsynjavasyn.png](https://wiki.freepascal.org/images/1/14/tsynjavasyn.png)](</File:tsynjavasyn.png>) is a component that provides the Java-language syntaxchecking-part of syntax-highlighting editing. It is part of the [SynEdit](<SynEdit.md> "SynEdit") package and is available under the [SynEdit tab](<SynEdit_tab.md> "SynEdit tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

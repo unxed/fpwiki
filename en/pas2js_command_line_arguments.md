@@ -1,7 +1,6 @@
 # pas2js command line arguments
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 [Pascal](<Pascal.md> "Pascal") to [JavaScript](<JavaScript.md> "JavaScript") transpiler [pas2js](<pas2js.md> "pas2js") [command line](<Command-line_interface.md> "Command-line interface") arguments 
 

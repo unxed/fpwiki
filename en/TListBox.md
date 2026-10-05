@@ -1,7 +1,6 @@
 # TListBox
 
-│ **[Deutsch (de)](</TListBox/de> "TListBox/de")** │  **English (en)** │  **[suomi (fi)](</TListBox/fi> "TListBox/fi")** │  **[français (fr)](</TListBox/fr> "TListBox/fr")** │    
-****
+│ **English (en)** │
 
 A **TListBox** [![tlistbox.png](https://wiki.freepascal.org/images/7/7f/tlistbox.png)](</File:tlistbox.png>) is a component that shows a (scrollable) list of (short) strings where user is to select one. It is available from the [Standard tab](<Standard_tab.md> "Standard tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

@@ -1,7 +1,6 @@
 # TSpeedButton
 
-│ **[Deutsch (de)](</TSpeedButton/de> "TSpeedButton/de")** │  **[English (en)](<../en/TSpeedButton.md> "TSpeedButton")** │  **[français (fr)](</TSpeedButton/fr> "TSpeedButton/fr")** │  **[日本語 (ja)](</TSpeedButton/ja> "TSpeedButton/ja")** │  **[polski (pl)](</TSpeedButton/pl> "TSpeedButton/pl")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TSpeedButton.md>)** │  **русский (ru)** │
 
 **TSpeedButton** [![tspeedbutton.png](https://wiki.freepascal.org/images/d/df/tspeedbutton.png)](</File:tspeedbutton.png>) \- компонент, предназначенный для создания кнопки (обычно небольшого размера для размещения на [TToolBar](<TToolBar.md> "TToolBar/ru")е) с изображением на её поверхности. TSpeedButton является потомком [TGraphicControl](<TGraphicControl.md> "TGraphicControl/ru") и доступен на вкладке [Additional](<Additional_tab.md> "Additional tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

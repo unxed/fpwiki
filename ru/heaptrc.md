@@ -1,7 +1,6 @@
 # heaptrc
 
-│ **[English (en)](<../en/heaptrc.md> "heaptrc")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/heaptrc.md>)** │  **русский (ru)** │
 
 **`heaptrc`** \- это модуль, который можно использовать для отладки выделения и освобождения блоков памяти. Он отслеживает вызовы [`getMem`](<https://www.freepascal.org/docs-html/rtl/system/getmem.html>)/[`freeMem`](<https://www.freepascal.org/docs-html/rtl/system/freemem.html>) и, неявно, операторы [`new`](<https://www.freepascal.org/docs-html/rtl/system/new.html>)/[`dispose`](<https://www.freepascal.org/docs-html/rtl/system/dispose.html>). 
 

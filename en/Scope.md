@@ -1,6 +1,6 @@
 # Scope
 
-│ **English (en)** │  [**français (fr)**](</Scope/fr> "Scope/fr") │  [**日本語 (ja)**](</Scope/ja> "Scope/ja") │  [**中文（中国大陆）‎ (zh_CN)**](</Scope/zh_CN> "Scope/zh CN") │    
+│ **English (en)** │
 
 
 [ ◄ ](<Functions.md> "Functions") |  [ ▲ ](<Contents.md> "Contents") |  [ ► ](<Recursion.md> "Recursion")  

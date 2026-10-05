@@ -1,7 +1,6 @@
 # ATGroups
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 ## Contents
 

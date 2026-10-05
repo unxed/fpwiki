@@ -1,6 +1,6 @@
 # CASE
 
-│ **English (en)** │  [**español (es)**](</CASE/es> "CASE/es") │  [**français (fr)**](</CASE/fr> "CASE/fr") │  [**日本語 (ja)**](</CASE/ja> "CASE/ja") │  [**中文（中国大陆）‎ (zh_CN)**](</CASE/zh_CN> "CASE/zh CN") │    
+│ **English (en)** │
 
 
 [ ◄ ](<IF.md> "IF") |  [ ▲ ](<Contents.md> "Contents") |  [ ► ](<FOR..md> "FOR..DO")  

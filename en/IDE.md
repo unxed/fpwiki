@@ -1,8 +1,7 @@
 # IDE
 
-│ **[Deutsch (de)](</IDE/de> "IDE/de")** │  **English (en)** │  **[suomi (fi)](</IDE/fi> "IDE/fi")** │    
-****  
-  
+│ **English (en)** │
+
 An **Integrated Development Environment** or _**IDE**_ is a system comprising an [editor](<Editor.md> "Editor"), [compiler](<Compiler.md> "Compiler"), and means to execute compiled code immediately after compiling. It will also usually provide a means to create an [executable program](<Executable_program.md> "Executable program") for use as a standalone executable outside of the IDE. Generally, an IDE allows errors in the source code to be reported by the compiler back to the editor, usually allowing the editor to position to the specific line of source code that the compiler discovered was in error. 
 
 An IDE provides significant improvements in programmer productivity over the older practice of editing a program using a text editor, then submitting it to a compiler to be informed of the error or errors in the program, then having (usually) to write down the line number where the error occurred, then going back to the editor to find the specific line and make a repair, then repeat the process. 

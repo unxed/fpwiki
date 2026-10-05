@@ -1,6 +1,6 @@
 # maxint
 
-│ [**Deutsch (de)**](</maxint/de> "maxint/de") │  **English (en)** │  [**français (fr)**](</maxint/fr> "maxint/fr") │    
+│ **English (en)** │
 
 
   

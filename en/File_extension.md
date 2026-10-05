@@ -1,7 +1,6 @@
 # File extension
 
-│ **English (en)** │  **[suomi (fi)](</File_extension/fi> "File extension/fi")** │    
-****
+│ **English (en)** │
 
 File extension is a suffix to the name of a file applied to indicate the encoding convention of its contents. Often [file extensions](<File_extensions.md> "File extensions") are used by computer to identify how the file is to be used and what [programs](<Program.md> "Program") can be used to open them. 
 

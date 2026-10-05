@@ -1,7 +1,6 @@
 # Flexible Array Member
 
-│ **English (en)** │  **[français (fr)](</Flexible_Array_Member/fr> "Flexible Array Member/fr")** │    
-****
+│ **English (en)** │
 
 Is a rarely used feature of C language. It was introduced with C99 standard. The feature was never adopted by C++ compiler (and that might be the reason of the rate use). Some C-like APIs could benefit from the feature, especially low level ones. 
 

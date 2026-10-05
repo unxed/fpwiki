@@ -1,6 +1,6 @@
 # AVR Embedded Tutorial - Analog Write
 
-│ **[Deutsch (de)](</AVR_Embedded_Tutorial_-_Analog_Write/de> "AVR Embedded Tutorial - Analog Write/de")** │  **English (en)** │ 
+│ **English (en)** │
 
 ## Contents
 

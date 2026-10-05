@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Chapter 2/Output
 
-│ **[български (bg)](</Basic_Pascal_Tutorial/Chapter_2/Output/bg> "Basic Pascal Tutorial/Chapter 2/Output/bg")** │  **[Deutsch (de)](</Basic_Pascal_Tutorial/Chapter_2/Output/de> "Basic Pascal Tutorial/Chapter 2/Output/de")** │  **English (en)** │  **[français (fr)](</Basic_Pascal_Tutorial/Chapter_2/Output/fr> "Basic Pascal Tutorial/Chapter 2/Output/fr")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Chapter_2/Output/ja> "Basic Pascal Tutorial/Chapter 2/Output/ja")** │  **[русский (ru)](<../../../ru/Basic_Pascal_Tutorial/Chapter_2/Output.md> "Basic Pascal Tutorial/Chapter 2/Output/ru")** │  **[中文（中国大陆） (zh_CN)](</Basic_Pascal_Tutorial/Chapter_2/Output/zh_CN> "Basic Pascal Tutorial/Chapter 2/Output/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../../../ru/Basic_Pascal_Tutorial/Chapter_2/Output.md>)** │
 
 [ ◄ ](<Input.md> "Basic Pascal Tutorial/Chapter 2/Input") | [ ▲ ](<../Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Formatting_output.md> "Basic Pascal Tutorial/Chapter 2/Formatting output")  
 ---|---|---  

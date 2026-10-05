@@ -1,7 +1,6 @@
 # TButton
 
-│ **[Deutsch (de)](</TButton/de> "TButton/de")** │  **English (en)** │  **[español (es)](</TButton/es> "TButton/es")** │  **[suomi (fi)](</TButton/fi> "TButton/fi")** │  **[français (fr)](</TButton/fr> "TButton/fr")** │  **[日本語 (ja)](</TButton/ja> "TButton/ja")** │  **[русский (ru)](<../ru/TButton.md> "TButton/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TButton.md>)** │
 
 ## Contents
 

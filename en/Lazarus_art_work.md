@@ -1,7 +1,7 @@
 # Logos and Banners
 
-│ **English (en)** │  **[français (fr)](</Logos_and_Banners/fr> "Logos and Banners/fr")** │    
-****  
+│ **English (en)** │
+
 This article lists logos, banners and other artworks for the promotion of [Lazarus](<Lazarus.md> "Lazarus") and [Free Pascal](<Free_Pascal.md> "Free Pascal"). 
 
 ## Contents

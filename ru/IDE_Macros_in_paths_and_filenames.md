@@ -1,6 +1,6 @@
 # IDE Macros in paths and filenames
 
-│ [**Deutsch (de)**](</IDE_Macros_in_paths_and_filenames/de> "IDE Macros in paths and filenames/de") │  [**English (en)**](<../en/IDE_Macros_in_paths_and_filenames.md> "IDE Macros in paths and filenames") │  [**español (es)**](</IDE_Macros_in_paths_and_filenames/es> "IDE Macros in paths and filenames/es") │  [**français (fr)**](</IDE_Macros_in_paths_and_filenames/fr> "IDE Macros in paths and filenames/fr") │  [**日本語 (ja)**](</IDE_Macros_in_paths_and_filenames/ja> "IDE Macros in paths and filenames/ja") │  [**português (pt)**](</IDE_Macros_in_paths_and_filenames/pt> "IDE Macros in paths and filenames/pt") │  **русский (ru)** │    
+│ **[English (en)](<../en/IDE_Macros_in_paths_and_filenames.md>)** │  **русский (ru)** │
 
 
 ## Contents

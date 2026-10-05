@@ -1,7 +1,6 @@
 # TDBGroupBox
 
-│ **English (en)** │  **[français (fr)](</TDBGroupBox/fr> "TDBGroupBox/fr")** │    
-****
+│ **English (en)** │
 
 **TDBGroupBox** [![tdbgroupbox.png](https://wiki.freepascal.org/images/e/e0/tdbgroupbox.png)](</File:tdbgroupbox.png>) is groupbox control for use with a connected database. It is available from the [Data Controls tab](<Data_Controls_tab.md> "Data Controls tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

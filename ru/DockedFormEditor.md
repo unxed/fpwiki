@@ -1,7 +1,6 @@
 # DockedFormEditor
 
-│ **[English (en)](<../en/DockedFormEditor.md> "DockedFormEditor")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/DockedFormEditor.md>)** │  **русский (ru)** │
 
 DockedFormEditor - это пакет для Lazarus IDE, который закрепляет форму рядом с модулем редактора исходного кода. Этот пакет поставляется с Lazarus версии 2.1 и выше. 
 

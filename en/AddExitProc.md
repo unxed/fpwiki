@@ -1,7 +1,6 @@
 # AddExitProc
 
-│ **[Deutsch (de)](</AddExitProc/de> "AddExitProc/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
 ## AddExitProc
 

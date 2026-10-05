@@ -1,7 +1,6 @@
 # Object Pascal Tutorial
 
-│ [**العربية (ar)**](</Object_Pascal_Tutorial/ar> "Object Pascal Tutorial/ar") │  [**Deutsch (de)**](</Object_Pascal_Tutorial/de> "Object Pascal Tutorial/de") │  [**English (en)**](<../en/Object_Pascal_Tutorial.md> "Object Pascal Tutorial") │  [**español (es)**](</Object_Pascal_Tutorial/es> "Object Pascal Tutorial/es") │  [**français (fr)**](</Object_Pascal_Tutorial/fr> "Object Pascal Tutorial/fr") │  [**italiano (it)**](</Object_Pascal_Tutorial/it> "Object Pascal Tutorial/it") │  [**日本語 (ja)**](</Object_Pascal_Tutorial/ja> "Object Pascal Tutorial/ja") │  [**한국어 (ko)**](</Object_Pascal_Tutorial/ko> "Object Pascal Tutorial/ko") │  **русский (ru)** │  [**slovenčina (sk)**](</Object_Pascal_Tutorial/sk> "Object Pascal Tutorial/sk") │  [**中文（中国大陆）‎ (zh_CN)**](</Object_Pascal_Tutorial/zh_CN> "Object Pascal Tutorial/zh CN") │    
-****
+│ **[English (en)](<../en/Object_Pascal_Tutorial.md>)** │  **русский (ru)** │
 
 ## Contents
 

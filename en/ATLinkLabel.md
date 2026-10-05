@@ -1,7 +1,6 @@
 # ATLinkLabel
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 ## About
 

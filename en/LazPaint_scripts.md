@@ -1,7 +1,6 @@
 # LazPaint scripts
 
-│ **English (en)** │  **[français (fr)](</LazPaint_scripts/fr> "LazPaint scripts/fr")** │    
-****
+│ **English (en)** │
 
 [Go back](<LazPaint.md> "LazPaint")
 

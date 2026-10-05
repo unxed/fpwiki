@@ -1,7 +1,6 @@
 # Lazarus Application Gallery
 
-│ [**English (en)**](<../en/Lazarus_Application_Gallery.md> "Lazarus Application Gallery") │  [**français (fr)**](</Lazarus_Application_Gallery/fr> "Lazarus Application Gallery/fr") │  [**Bahasa Indonesia (id)**](</Lazarus_Application_Gallery/id> "Lazarus Application Gallery/id") │  [**한국어 (ko)**](</Lazarus_Application_Gallery/ko> "Lazarus Application Gallery/ko") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Lazarus_Application_Gallery.md>)** │  **русский (ru)** │
 
 ## Contents
 

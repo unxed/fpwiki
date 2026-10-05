@@ -1,7 +1,6 @@
 # TCanvas
 
-│ **[English (en)](<../en/TCanvas.md> "TCanvas")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TCanvas.md>)** │  **русский (ru)** │
 
 Класс **TCanvas** является базовым инструментом для рисования графики. 
 

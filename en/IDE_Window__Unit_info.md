@@ -1,7 +1,6 @@
 # IDE Window: Unit info
 
-│ **[Deutsch (de)](</IDE_Window:_Unit_info/de> "IDE Window: Unit info/de")** │  **English (en)** │  **[français (fr)](</IDE_Window:_Unit_info/fr> "IDE Window: Unit info/fr")** │    
-****
+│ **English (en)** │
 
 The **Unit information dialog** as available from the menu [Source|Unit information] shows various information of the current file in the source editor. 
 

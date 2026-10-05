@@ -1,7 +1,6 @@
 # RackCtls
 
-│ **English (en)** │  **[中文（中国大陆）‎ (zh_CN)](</RackCtls/zh_CN> "RackCtls/zh CN")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

@@ -1,7 +1,6 @@
 # Hexadecimal
 
-│ **[Deutsch (de)](</Hexadecimal/de> "Hexadecimal/de")** │  **[English (en)](<../en/Hexadecimal.md> "Hexadecimal")** │  **[suomi (fi)](</Hexadecimal/fi> "Hexadecimal/fi")** │  **[français (fr)](</Hexadecimal/fr> "Hexadecimal/fr")** │  **[português (pt)](</Hexadecimal/pt> "Hexadecimal/pt")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Hexadecimal.md>)** │  **русский (ru)** │
 
 Шестнадцатеричная система (hex) - это система счисления по основанию 16. В шестнадцатеричной системе числа 0–15 представляются символами 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E и F. Шестнадцатеричные числа легко преобразовываются во внутренний двоичный код компьютера и намного компактнее, чем [двоичные числа](<Binary_numeral_system.md> "Binary numeral system/ru"): одна шестнадцатеричная цифра вместо четырех двоичных бит. 
 

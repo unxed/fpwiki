@@ -1,8 +1,6 @@
 # Portal:HowTo Demos
 
-│ **English (en)** │    
-****  
-****
+│ **English (en)** │
 
 < [Lookup](</Help:Contents> "Help:Contents") < [Portals](</Category:Portals> "Category:Portals") < **Portal:HowTo Demos**
 

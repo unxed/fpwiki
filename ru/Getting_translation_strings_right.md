@@ -1,7 +1,6 @@
 # Getting translation strings right
 
-│ [**Deutsch (de)**](</Getting_translation_strings_right/de> "Getting translation strings right/de") │  [**English (en)**](<../en/Getting_translation_strings_right.md> "Getting translation strings right") │  [**español (es)**](</Getting_translation_strings_right/es> "Getting translation strings right/es") │  [**français (fr)**](</Getting_translation_strings_right/fr> "Getting translation strings right/fr") │  [**日本語 (ja)**](</Getting_translation_strings_right/ja> "Getting translation strings right/ja") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Getting_translation_strings_right.md>)** │  **русский (ru)** │
 
 Правильный перевод строк. 
 

@@ -1,7 +1,6 @@
 # FPReport FAQ
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 ## Contents
 

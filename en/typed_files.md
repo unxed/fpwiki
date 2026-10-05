@@ -1,7 +1,6 @@
 # typed files
 
-│ **[Deutsch (de)](</typed_files/de> "typed files/de")** │  **English (en)** │  **[polski (pl)](</typed_files/pl> "typed files/pl")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

@@ -1,7 +1,6 @@
 # pas2js
 
-│ **[English (en)](<../en/pas2js.md> "pas2js")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/pas2js.md>)** │  **русский (ru)** │
 
 ## Contents
 

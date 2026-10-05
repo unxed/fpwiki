@@ -1,8 +1,6 @@
 # IDE Window: Threads
 
-│ **[English (en)](<../en/IDE_Window__Threads.md> "IDE Window: Threads")** │  **русский (ru)** │    
-****  
-****
+│ **[English (en)](<../en/IDE_Window__Threads.md>)** │  **русский (ru)** │
 
 # Важно
 

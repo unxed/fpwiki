@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Chapter 5/Enumerated types
 
-│ **[български (bg)](</Basic_Pascal_Tutorial/Chapter_5/Enumerated_types/bg> "Basic Pascal Tutorial/Chapter 5/Enumerated types/bg")** │  **English (en)** │  **[français (fr)](</Basic_Pascal_Tutorial/Chapter_5/Enumerated_types/fr> "Basic Pascal Tutorial/Chapter 5/Enumerated types/fr")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Chapter_5/Enumerated_types/ja> "Basic Pascal Tutorial/Chapter 5/Enumerated types/ja")** │  **[中文（中国大陆） (zh_CN)](</Basic_Pascal_Tutorial/Chapter_5/Enumerated_types/zh_CN> "Basic Pascal Tutorial/Chapter 5/Enumerated types/zh CN")** │    
-****
+│ **English (en)** │
 
 [ ◄ ](<Basic_Pascal_Tutorial/Chapter_4/Solution.md> "Basic Pascal Tutorial/Chapter 4/Solution") | [ ▲ ](<Basic_Pascal_Tutorial/Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Basic_Pascal_Tutorial/Chapter_5/Subranges.md> "Basic Pascal Tutorial/Chapter 5/Subranges")  
 ---|---|---  

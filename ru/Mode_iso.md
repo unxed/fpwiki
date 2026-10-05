@@ -1,7 +1,6 @@
 # Mode iso
 
-│ **[English (en)](<../en/Mode_iso.md> "Mode iso")** │  **[français (fr)](</Mode_iso/fr> "Mode iso/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Mode_iso.md>)** │  **русский (ru)** │
 
 Начиная с версии 3.0.2 FPC в режиме **ISO 7185** (включаемый с помощью директивы **{$mode iso}** в исходном файле или опцией **-Miso** в командной строке) компилирует файлы с учетом рекомендаций уровня 0 и уровня 1 стандарта ISO/IEC 7185. Стандарт **ISO 7185** также известен как [Стандартный Pascal](<Standard_Pascal.md> "Standard Pascal/ru"). 
 

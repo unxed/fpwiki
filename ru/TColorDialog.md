@@ -1,7 +1,6 @@
 # TColorDialog
 
-│ **[Deutsch (de)](</TColorDialog/de> "TColorDialog/de")** │  **[English (en)](<../en/TColorDialog.md> "TColorDialog")** │  **[français (fr)](</TColorDialog/fr> "TColorDialog/fr")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</TColorDialog/zh_CN> "TColorDialog/zh CN")** │    
-****
+│ **[English (en)](<../en/TColorDialog.md>)** │  **русский (ru)** │
 
 **TColorDialog** [![tcolordialog.png](https://wiki.freepascal.org/images/4/4b/tcolordialog.png)](</File:tcolordialog.png>) это диалоговое окно, которое позволяет выбрать цвет из палитры. Он расположен на вкладке [Dialogs](<Dialogs_tab.md> "Dialogs tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). [![component-TColorDialog.png](https://wiki.freepascal.org/images/1/11/component-TColorDialog.png)](</File:component-TColorDialog.png>)
 

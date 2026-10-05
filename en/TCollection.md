@@ -1,7 +1,6 @@
 # TCollection
 
-│ **[Deutsch (de)](</TCollection/de> "TCollection/de")** │  **English (en)** │  **[français (fr)](</TCollection/fr> "TCollection/fr")** │  **[polski (pl)](</TCollection/pl> "TCollection/pl")** │    
-****
+│ **English (en)** │
 
 A **TCollection** is a base class for (unordered) collections of [TCollectionItems](</index.php?title=TCollectionItem&action=edit&redlink=1> "TCollectionItem \(page does not exist\)"). 
 

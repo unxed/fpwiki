@@ -1,7 +1,6 @@
 # MPW
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 [![Logo OSX.png](https://wiki.freepascal.org/images/7/7a/Logo_OSX.png)](</File:Logo_OSX.png>)
 

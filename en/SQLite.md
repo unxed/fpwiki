@@ -1,8 +1,7 @@
 # SQLite
 
-│ **English (en)** │  [**español (es)**](</SQLite/es> "SQLite/es") │  [**français (fr)**](</SQLite/fr> "SQLite/fr") │  [**日本語 (ja)**](</SQLite/ja> "SQLite/ja") │  [**polski (pl)**](</SQLite/pl> "SQLite/pl") │  [**русский (ru)**](<../ru/SQLite.md> "SQLite/ru") │    
-****  
-  
+│ **English (en)** │  **[русский (ru)](<../ru/SQLite.md>)** │
+
 ---  
 [**Databases portal**](<Portal_Databases.md> "Portal:Databases")  
 References: 

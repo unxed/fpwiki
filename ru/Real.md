@@ -1,7 +1,6 @@
 # Real
 
-│ **[Deutsch (de)](</Real/de> "Real/de")** │  **[English (en)](<../en/Real.md> "Real")** │  **[français (fr)](</Real/fr> "Real/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Real.md>)** │  **русский (ru)** │
 
 Тип **real** является [стандартным типом](<Standard_type.md> "Standard type/ru") данных языка программирования [Pascal](<../en/Pascal.md> "Pascal"). Он применяется для представления вещественных чисел, которые могут состоять из десятичной точки и экспоненты, в отличие от типа [Integer](<Integer.md> "Integer/ru"), который используется для представления целых чисел. 
 

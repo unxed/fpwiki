@@ -1,7 +1,6 @@
 # complex number
 
-│ **English (en)** │  **[français (fr)](</complex_number/fr> "complex number/fr")** │    
-****
+│ **English (en)** │
 
 Complex numbers is a mathematical concept providing solutions to equations such as [math]\displaystyle{ x^2 = -1 }[/math]. In [FPC](<FPC.md> "FPC")'s default [runtime library](<RTL.md> "RTL") the unit `uComplex` defines a type `complex` and lots of operator and other functions. `u` in `uComplex` stands for the Greek letter μ, meaning “micro”, as the implementation is kept as simple as possible. 
 

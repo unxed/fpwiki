@@ -1,6 +1,7 @@
 # Other Firebird libraries
 
-│ **English (en)** │  [**français (fr)**](</Other_Firebird_libraries/fr> "Other Firebird libraries/fr") │    
+│ **English (en)** │
+
 This page lists third party libraries/code for using Firebird in Lazarus/FPC. 
 
 For the native SQLDB (the FPC/Lazarus built-in database library), see [Firebird](<Firebird.md> "Firebird"). That page also contains some general Firebird-related information 

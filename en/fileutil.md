@@ -1,7 +1,6 @@
 # fileutil
 
-│ **English (en)** │  **[français (fr)](</fileutil/fr> "fileutil/fr")** │  **[русский (ru)](<../ru/fileutil.md> "fileutil/ru")** │  **[中文（中国大陆） (zh_CN)](</fileutil/zh_CN> "fileutil/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/fileutil.md>)** │
 
 The Lazarus **FileUtil** unit contains functions and procedures to maintain compatibility with Delphi's FileUtil unit. File routines that specifically deal with UTF8 file names should go into the [LazFileUtils](<LazFileUtils.md> "LazFileUtils") unit. 
 

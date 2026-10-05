@@ -1,7 +1,6 @@
 # DoDont
 
-│ **[Deutsch (de)](</DoDont/de> "DoDont/de")** │  **English (en)** │  **[français (fr)](</DoDont/fr> "DoDont/fr")** │    
-****
+│ **English (en)** │
 
 # The right and wrong of Pascal Programming
 

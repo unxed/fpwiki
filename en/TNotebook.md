@@ -1,7 +1,6 @@
 # TNotebook
 
-│ **English (en)** │  **[français (fr)](</TNotebook/fr> "TNotebook/fr")** │  **[русский (ru)](<../ru/TNotebook.md> "TNotebook/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TNotebook.md>)** │
 
 [![tnotebook.png](https://wiki.freepascal.org/images/a/a4/tnotebook.png)](</File:tnotebook.png>) **TNoteBook** is a component that provides a container to hold a variety of controls arranged in pages, much like a real-world notebook. It is a descendant of [TWinControl](</index.php?title=TWinControl&action=edit&redlink=1> "TWinControl \(page does not exist\)") and is available under the [Additional tab](<Additional_tab.md> "Additional tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

@@ -1,7 +1,6 @@
 # LazFreeType
 
-│ **English (en)** │  **[français (fr)](</LazFreeType/fr> "LazFreeType/fr")** │    
-****
+│ **English (en)** │
 
 The original FreeType was written in Pascal and it has been resuscitated and placed in Lazarus. 
 

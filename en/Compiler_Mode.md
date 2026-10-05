@@ -1,7 +1,6 @@
 # Compiler Mode
 
-│ **[Deutsch (de)](</Compiler_Mode/de> "Compiler Mode/de")** │  **English (en)** │  **[español (es)](</Compiler_Mode/es> "Compiler Mode/es")** │  **[suomi (fi)](</Compiler_Mode/fi> "Compiler Mode/fi")** │  **[français (fr)](</Compiler_Mode/fr> "Compiler Mode/fr")** │  **[中文（中国大陆） (zh_CN)](</Compiler_Mode/zh_CN> "Compiler Mode/zh CN")** │    
-****
+│ **English (en)** │
 
 The [FPC](<FPC.md> "FPC") intends to be (in part) a free and open source alternative to commercial [Pascal](<Pascal.md> "Pascal") compilers. In order to achieve this a compiler switch determining the _compiler compatibility mode_ has been introduced. 
 

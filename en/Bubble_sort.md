@@ -1,7 +1,6 @@
 # Bubble sort
 
-│ **English (en)** │  [**suomi (fi)**](</Bubble_sort/fi> "Bubble sort/fi") │  [**français (fr)**](</Bubble_sort/fr> "Bubble sort/fr") │    
-****
+│ **English (en)** │
 
 Bubble sort is a simple [sorting algorithm](<sorting_algorithm.md> "sorting algorithm"). 
 

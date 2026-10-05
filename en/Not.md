@@ -1,7 +1,6 @@
 # Not
 
-│ **[Deutsch (de)](</Not/de> "Not/de")** │  **English (en)** │  **[suomi (fi)](</Not/fi> "Not/fi")** │  **[français (fr)](</Not/fr> "Not/fr")** │  **[русский (ru)](<../ru/Not.md> "Not/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Not.md>)** │
 
 The unary [operator](<Operator.md> "Operator") `not` negates a Boolean value. [FPC](<FPC.md> "FPC") also knows the bitwise `not` when supplied with an ordinal type. 
 

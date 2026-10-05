@@ -1,7 +1,6 @@
 # FPC and Apache Modules
 
-│ **[English (en)](<../en/FPC_and_Apache_Modules.md> "FPC and Apache Modules")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/FPC_and_Apache_Modules.md>)** │  **русский (ru)** │
 
 ## Contents
 

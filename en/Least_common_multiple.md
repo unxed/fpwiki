@@ -1,7 +1,6 @@
 # Least common multiple
 
-│ **English (en)** │  **[suomi (fi)](</Least_common_multiple/fi> "Least common multiple/fi")** │  **[français (fr)](</Least_common_multiple/fr> "Least common multiple/fr")** │  **[русский (ru)](<../ru/Least_common_multiple.md> "Least common multiple/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Least_common_multiple.md>)** │
 
 The least common multiple of two integers [math]\displaystyle{ a }[/math] and [math]\displaystyle{ b }[/math] is the smallest positive integer that is divisible by both [math]\displaystyle{ a }[/math] and [math]\displaystyle{ b }[/math]. 
 

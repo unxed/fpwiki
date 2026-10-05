@@ -1,7 +1,6 @@
 # fpVoIP
 
-│ **English (en)** │  **[français (fr)](</fpVoIP/fr> "fpVoIP/fr")** │    
-****
+│ **English (en)** │
 
 ## About
 

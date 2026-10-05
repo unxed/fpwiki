@@ -1,7 +1,6 @@
 # LCL Drag Drop
 
-│ **English (en)** │  **[français (fr)](</LCL_Drag_Drop/fr> "LCL Drag Drop/fr")** │  **[русский (ru)](<../ru/LCL_Drag_Drop.md> "LCL Drag Drop/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/LCL_Drag_Drop.md>)** │
 
 ## DoDi's Guide to Dragging, Dropping and Docking
 

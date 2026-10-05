@@ -1,7 +1,6 @@
 # SynEdit tab
 
-│ **English (en)** │  **[suomi (fi)](</SynEdit_tab/fi> "SynEdit tab/fi")** │  **[français (fr)](</SynEdit_tab/fr> "SynEdit tab/fr")** │  **[polski (pl)](</SynEdit_tab/pl> "SynEdit tab/pl")** │  **[русский (ru)](<../ru/SynEdit_tab.md> "SynEdit tab/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/SynEdit_tab.md>)** │
 
 The **SynEdit tab** of the [Component Palette](<Component_Palette.md> "Component Palette") lists components of the [Lazarus Component Library](<LCL.md> "LCL") for use with syntax editing. 
 
@@ -43,7 +42,7 @@ Icon | Component | Description
 
 [Component Palette](<Component_Palette.md> "Component Palette")  
 ---  
-[Standard/ja](</Standard_tab/ja> "Standard tab/ja") \- [Additional/ja](</Additional_tab/ja> "Additional tab/ja") \- [Common Controls/ja](</index.php?title=Common_Controls_tab/ja&action=edit&redlink=1> "Common Controls tab/ja \(page does not exist\)") \- [Dialogs/ja](</index.php?title=Dialogs_tab/ja&action=edit&redlink=1> "Dialogs tab/ja \(page does not exist\)") \- [Data Controls/ja](</Data_Controls_tab/ja> "Data Controls tab/ja") \- [Data Access/ja](</Data_Access_tab/ja> "Data Access tab/ja") \- [System](<System_tab.md> "System tab") \- [Misc](<Misc_tab.md> "Misc tab") \- [LazControls](<LazControls_tab.md> "LazControls tab") \- [RTTI](<RTTI_tab.md> "RTTI tab") \- [SQLdb](<SQLdb_tab.md> "SQLdb tab") \- [Pascal Script](<Pascal_Script_tab.md> "Pascal Script tab") \- SynEdit \- [Chart](<Chart_tab.md> "Chart tab") \- [IPro](<IPro_tab.md> "IPro tab")
+Standard/ja \- Additional/ja \- Common Controls/ja \- Dialogs/ja \- Data Controls/ja \- Data Access/ja \- [System](<System_tab.md> "System tab") \- [Misc](<Misc_tab.md> "Misc tab") \- [LazControls](<LazControls_tab.md> "LazControls tab") \- [RTTI](<RTTI_tab.md> "RTTI tab") \- [SQLdb](<SQLdb_tab.md> "SQLdb tab") \- [Pascal Script](<Pascal_Script_tab.md> "Pascal Script tab") \- SynEdit \- [Chart](<Chart_tab.md> "Chart tab") \- [IPro](<IPro_tab.md> "IPro tab")
 
 ---
 

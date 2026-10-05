@@ -1,7 +1,6 @@
 # TDataSource
 
-│ **English (en)** │  **[français (fr)](</TDataSource/fr> "TDataSource/fr")** │  **[日本語 (ja)](</TDataSource/ja> "TDataSource/ja")** │  **[русский (ru)](<../ru/TDataSource.md> "TDataSource/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TDataSource.md>)** │
 
 **TDataSource** [![tdatasource.png](https://wiki.freepascal.org/images/d/d0/tdatasource.png)](</File:tdatasource.png>) is a component that mediates communication between a `[TDataSet](<TDataSet.md> "TDataSet")` based component that represents the database contents and Data Controls like `[TDBGrid](<TDBGrid.md> "TDBGrid")`. 
 

@@ -1,8 +1,6 @@
 # IDE Window: ToDo List
 
-│ **[Deutsch (de)](</IDE_Window:_ToDo_List/de> "IDE Window: ToDo List/de")** │  **English (en)** │  **[suomi (fi)](</IDE_Window:_ToDo_List/fi> "IDE Window: ToDo List/fi")** │  **[français (fr)](</IDE_Window:_ToDo_List/fr> "IDE Window: ToDo List/fr")** │    
-****  
-****
+│ **English (en)** │
 
 The ToDo list shows the list of ToDo comments in all project units. 
 

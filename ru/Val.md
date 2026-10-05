@@ -1,7 +1,6 @@
 # Val
 
-│ **[Deutsch (de)](</Val/de> "Val/de")** │  **[English (en)](<../en/Val.md> "Val")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Val.md>)** │  **русский (ru)** │
 
 Процедура **Val** преобразовывает [строку](<String.md> "String/ru") **S** в её числовое представление. 
 

@@ -1,7 +1,6 @@
 # Programming Assignment
 
-│ [**български (bg)**](</Programming_Assignment/bg> "Programming Assignment/bg") │  [**Deutsch (de)**](</Programming_Assignment/de> "Programming Assignment/de") │  **English (en)** │  [**français (fr)**](</Programming_Assignment/fr> "Programming Assignment/fr") │  [**日本語 (ja)**](</Programming_Assignment/ja> "Programming Assignment/ja") │  [**한국어 (ko)**](</Programming_Assignment/ko> "Programming Assignment/ko") │  [**русский (ru)**](<../ru/Programming_Assignment.md> "Programming Assignment/ru") │  [**中文（中国大陆）‎ (zh_CN)**](</Programming_Assignment/zh_CN> "Programming Assignment/zh CN") │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Programming_Assignment.md>)** │
 
 [ ◄ ](<Punctuation_and_Indentation.md> "Punctuation and Indentation") | [ ▲ ](<Contents.md> "Contents") | [ ► ](<Solution.md> "Solution")  
 ---|---|---  

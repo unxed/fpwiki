@@ -1,7 +1,6 @@
 # TArrow
 
-│ **English (en)** │  **[français (fr)](</TArrow/fr> "TArrow/fr")** │  **[русский (ru)](<../ru/TArrow.md> "TArrow/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TArrow.md>)** │
 
 **TArrow** [![tarrow.png](https://wiki.freepascal.org/images/d/df/tarrow.png)](</File:tarrow.png>) is a component that holds a graphic image of an arrow placed on a [form](<TForm.md> "TForm"). It is a [TGraphicControl](<TGraphicControl.md> "TGraphicControl") descendant and is available under the [Misc tab](<Misc_tab.md> "Misc tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

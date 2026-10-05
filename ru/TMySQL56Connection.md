@@ -1,7 +1,6 @@
 # TMySQL56Connection
 
-│ [**English (en)**](<../en/TMySQL56Connection.md> "TMySQL56Connection") │  [**français (fr)**](</TMySQL56Connection/fr> "TMySQL56Connection/fr") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TMySQL56Connection.md>)** │  **русский (ru)** │
 
 [![Note-icon.png](https://wiki.freepascal.org/images/b/be/Note-icon.png)](</File:Note-icon.png>)
 

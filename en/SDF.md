@@ -1,7 +1,6 @@
 # SDF
 
-│ **English (en)** │  [**français (fr)**](</SDF/fr> "SDF/fr") │    
-****
+│ **English (en)** │
 
 **SDF** is a delimited text file format used in Delphi (and later FreePascal) that is very much like, but not the same, as [CSV](<CSV.md> "CSV"). (`.sdf` is also the extension of Microsoft SQL Server data files, therefore it may not be a good idea to use the `.sdf` extension for your files). 
 

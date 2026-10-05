@@ -1,7 +1,6 @@
 # Is
 
-│ **[Deutsch (de)](</Is/de> "Is/de")** │  **English (en)** │  **[suomi (fi)](</Is/fi> "Is/fi")** │    
-****
+│ **English (en)** │
 
 The [reserved word](<Reserved_word.md> "Reserved word") `is` appears as: 
 

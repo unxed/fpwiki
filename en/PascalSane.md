@@ -1,7 +1,6 @@
 # PascalSane
 
-│ **English (en)** │  **[español (es)](</PascalSane/es> "PascalSane/es")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

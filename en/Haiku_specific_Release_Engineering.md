@@ -1,7 +1,6 @@
 # Haiku specific Release Engineering
 
-│ **English (en)** │  **[español (es)](</Haiku_specific_Release_Engineering/es> "Haiku specific Release Engineering/es")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

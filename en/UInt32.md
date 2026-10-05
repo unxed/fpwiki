@@ -1,7 +1,6 @@
 # UInt32
 
-│ **[Deutsch (de)](</UInt32/de> "UInt32/de")** │  **English (en)** │  **[français (fr)](</UInt32/fr> "UInt32/fr")** │    
-****
+│ **English (en)** │
 
   
 Back to [data types](<Data_type.md> "Data type"). 

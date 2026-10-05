@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Chapter 5/Pointers
 
-│ **[български (bg)](</Basic_Pascal_Tutorial/Chapter_5/Pointers/bg> "Basic Pascal Tutorial/Chapter 5/Pointers/bg")** │  **English (en)** │  **[français (fr)](</Basic_Pascal_Tutorial/Chapter_5/Pointers/fr> "Basic Pascal Tutorial/Chapter 5/Pointers/fr")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Chapter_5/Pointers/ja> "Basic Pascal Tutorial/Chapter 5/Pointers/ja")** │  **[中文（中国大陆） (zh_CN)](</Basic_Pascal_Tutorial/Chapter_5/Pointers/zh_CN> "Basic Pascal Tutorial/Chapter 5/Pointers/zh CN")** │    
-****
+│ **English (en)** │
 
 [ ◄ ](<Basic_Pascal_Tutorial/Chapter_5/Records.md> "Basic Pascal Tutorial/Chapter 5/Records") | [ ▲ ](<Basic_Pascal_Tutorial/Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Basic_Pascal_Tutorial/Chapter_6/Final_words.md> "Basic Pascal Tutorial/Chapter 6/Final words")  
 ---|---|---  

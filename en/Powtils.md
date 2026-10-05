@@ -1,7 +1,6 @@
 # Powtils
 
-│ **English (en)** │  **[Esperanto (eo)](</Powtils/eo> "Powtils/eo")** │  **[français (fr)](</Powtils/fr> "Powtils/fr")** │    
-****
+│ **English (en)** │
 
 A web development kit for Free Pascal and Delphi. 
 

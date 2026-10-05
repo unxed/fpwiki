@@ -1,7 +1,6 @@
 # TPopupNotifier
 
-│ **English (en)** │  **[français (fr)](</TPopupNotifier/fr> "TPopupNotifier/fr")** │  **[中文（中国大陆） (zh_CN)](</TPopupNotifier/zh_CN> "TPopupNotifier/zh CN")** │    
-****
+│ **English (en)** │
 
 **TPopupNotifier** [![tpopupnotifier.png](https://wiki.freepascal.org/images/4/42/tpopupnotifier.png)](</File:tpopupnotifier.png>) is a platform independent 'balloon help' component for showing pop-up messages anywhere on the screen. The component is based on TForm and has built in support for icon's, header text, message text and custom colorisation. TPopupNotifier is available fron the [Common Controls tab](<Common_Controls_tab.md> "Common Controls tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

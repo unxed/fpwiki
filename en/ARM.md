@@ -1,7 +1,6 @@
 # ARM
 
-│ **English (en)** │  **[español (es)](</ARM/es> "ARM/es")** │  **[Bahasa Indonesia (id)](</ARM/id> "ARM/id")** │    
-****
+│ **English (en)** │
 
 ARM is a processor architecture implemented in various (often incompatible) chipsets and devices running various operating systems. 
 

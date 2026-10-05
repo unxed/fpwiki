@@ -1,7 +1,6 @@
 # wikiget
 
-[**Deutsch (de)**](</wikiget/de> "wikiget/de") | **English (en)**   
-****
+│ **English (en)** │
 
 ## Introduction
 

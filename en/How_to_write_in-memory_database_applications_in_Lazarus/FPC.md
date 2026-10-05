@@ -1,8 +1,7 @@
 # How to write in-memory database applications in Lazarus/FPC
 
-│ **English (en)** │  **[français (fr)](</How_to_write_in-memory_database_applications_in_Lazarus/FPC/fr> "How to write in-memory database applications in Lazarus/FPC/fr")** │  **[日本語 (ja)](</How_to_write_in-memory_database_applications_in_Lazarus/FPC/ja> "How to write in-memory database applications in Lazarus/FPC/ja")** │  **[русский (ru)](<../../ru/How_to_write_in-memory_database_applications_in_Lazarus/FPC.md> "How to write in-memory database applications in Lazarus/FPC/ru")** │    
-****  
-  
+│ **English (en)** │  **[русский (ru)](<../../ru/How_to_write_in-memory_database_applications_in_Lazarus/FPC.md>)** │
+
 ---  
 [**Databases portal**](<../Portal_Databases.md> "Portal:Databases")  
 References: 

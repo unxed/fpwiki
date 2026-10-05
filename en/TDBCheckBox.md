@@ -1,7 +1,6 @@
 # TDBCheckBox
 
-│ **English (en)** │  **[français (fr)](</TDBCheckBox/fr> "TDBCheckBox/fr")** │    
-****
+│ **English (en)** │
 
 **TDBCheckBox** [![tdbcheckbox.png](https://wiki.freepascal.org/images/3/33/tdbcheckbox.png)](</File:tdbcheckbox.png>) is a checkbox control for use with a connected database. It is available from the [Data Controls tab](<Data_Controls_tab.md> "Data Controls tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

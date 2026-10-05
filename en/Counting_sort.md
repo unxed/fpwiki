@@ -1,7 +1,6 @@
 # Counting sort
 
-│ **English (en)** │  **[français (fr)](</Counting_sort/fr> "Counting sort/fr")** │    
-****
+│ **English (en)** │
 
 The counting sort is an [integer](<Integer.md> "Integer") [sorting algorithm](<sorting_algorithm.md> "sorting algorithm"). 
 

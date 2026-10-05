@@ -2,7 +2,7 @@
 
 **日本語版メニュー**  
 ---  
-[ メインページ](</Main_Page/ja> "Main Page/ja") \- [ Lazarus Documentation日本語版](</Lazarus_Documentation/ja> "Lazarus Documentation/ja") \-  翻訳ノート \- [ 日本語障害情報](</Bug_Tracking/ja> "Bug Tracking/ja")  
+ メインページ \-  Lazarus Documentation日本語版 \-  翻訳ノート \-  日本語障害情報  
   
 LazarusWikiの日本語翻訳に関するページです 
 
@@ -26,77 +26,77 @@ LazarusWikiの日本語翻訳に関するページです
 
 ### 翻訳作業中
 
-  * [How to setup a FPC and Lazarus Ubuntu repository/ja](</How_to_setup_a_FPC_and_Lazarus_Ubuntu_repository/ja> "How to setup a FPC and Lazarus Ubuntu repository/ja")
-  * [Anchor Sides/ja](</Anchor_Sides/ja> "Anchor Sides/ja")
-  * [PascalMagick/ja](</PascalMagick/ja> "PascalMagick/ja")
-  * [ Lazarusをインストールする](</Installing_Lazarus/ja> "Installing Lazarus/ja")
-  * [IDE ウインドウ](</Lazarus_IDE/ja> "Lazarus IDE/ja")
-  * [Lazarusチュートリアル](</Lazarus_Tutorial/ja> "Lazarus Tutorial/ja")
-  * [OpenGLチュートリアル](</OpenGL_Tutorial/ja> "OpenGL Tutorial/ja")
-  * [Components and Code examples/ja](</Components_and_Code_examples/ja> "Components and Code examples/ja")
-  * [DelphiユーザーのためのLazarus](</Lazarus_For_Delphi_Users/ja> "Lazarus For Delphi Users/ja")
-  * [TAChartチュートリアル:入門](</TAChart_Tutorial:_Getting_started/ja> "TAChart Tutorial: Getting started/ja")
+  * How to setup a FPC and Lazarus Ubuntu repository/ja
+  * Anchor Sides/ja
+  * PascalMagick/ja
+  *  Lazarusをインストールする
+  * IDE ウインドウ
+  * Lazarusチュートリアル
+  * OpenGLチュートリアル
+  * Components and Code examples/ja
+  * DelphiユーザーのためのLazarus
+  * TAChartチュートリアル:入門
 
 
 
 ### 部分的に終了し、中断しているページ （再開歓迎）
 
-  * [Object Pascal チュートリアル](</Basic_Pascal_Tutorial/ja> "Basic Pascal Tutorial/ja")
-  * [Lazarus Documentation 日本語版](</FPC_documentation/ja> "FPC documentation/ja")
-  * [一般的な FAQ](</Lazarus_Faq/ja> "Lazarus Faq/ja")
-  * [Carbonインターフェイス](</Carbon_Interface/ja> "Carbon Interface/ja")
-  * [マルチスレッドアプリケーションチュートリアル](</Multithreaded_Application_Tutorial/ja> "Multithreaded Application Tutorial/ja")
+  * Object Pascal チュートリアル
+  * Lazarus Documentation 日本語版
+  * 一般的な FAQ
+  * Carbonインターフェイス
+  * マルチスレッドアプリケーションチュートリアル
 
 
 
 ### 翻訳終了
 
   * [Lazarus 既知の問題（未解決事項）](</Lazarus_known_issues_\(things_that_will_never_be_fixed\)/ja> "Lazarus known issues \(things that will never be fixed\)/ja")
-  * [色について](</Colors/ja> "Colors/ja")
-  * [マルチメディアプログラミング](</Multimedia_Programming/ja> "Multimedia Programming/ja")
-  * [パッチの作り方](</Creating_A_Patch/ja> "Creating A Patch/ja")
-  * [翻訳／国際化／プログラムの地域化](</Translations_/_i18n_/_localizations_for_programs/ja> "Translations / i18n / localizations for programs/ja")
-  * [IDE の裏技集](</IDE_tricks/ja> "IDE tricks/ja")
-  * [Lazarusの開発を手伝う方法](</How_To_Help_Developing_Lazarus/ja> "How To Help Developing Lazarus/ja")
-  * [ネットワーキング](</Networking/ja> "Networking/ja")
-  * [非同期呼び出し](</Asynchronous_Calls/ja> "Asynchronous Calls/ja")
-  * [LCL Unicode Support/ja](</LCL_Unicode_Support/ja> "LCL Unicode Support/ja")
-  * [グラフィックスプログラミング](</Developing_with_Graphics/ja> "Developing with Graphics/ja")
-  * [ファイルサイズとスマートリンクの方法](</File_size_and_smartlinking/ja> "File size and smartlinking/ja")
-  * [Open GL](</OpenGL/ja> "OpenGL/ja")
-  * [GLSceneコンポーネント](</GLScene/ja> "GLScene/ja")
-  * [マルチプラットホーム開発ガイド](</Multiplatform_Programming_Guide/ja> "Multiplatform Programming Guide/ja")
-  * [パッケージのインストール](</Install_Packages/ja> "Install Packages/ja")
-  * [GDBを使ったバックトレースの作成](</Creating_a_Backtrace_with_GDB/ja> "Creating a Backtrace with GDB/ja")
-  * [用語体系](</Nomenclature/ja> "Nomenclature/ja")
-  * [Pascal Script](</Pascal_Script/ja> "Pascal Script/ja")
-  * [外部プログラムの実行](</Executing_External_Programs/ja> "Executing External Programs/ja")
-  * [ LCLでのメッセージについての解説](</LCL_Messages/ja> "LCL Messages/ja")
-  * [データベースに関するFAQ](</Lazarus_DB_Faq/ja> "Lazarus DB Faq/ja")
-  * [MacにおけるQtインターフェイス](</Qt_Interface_Mac/ja> "Qt Interface Mac/ja")
-  * [MySQLデータベースへコンポーネントを使って接続するチュートリアル](</MySQLDatabases/ja> "MySQLDatabases/ja")
-  * [LCL の内部](</LCL_Internals/ja> "LCL Internals/ja")
-  * [ ハードウエアアクセス](</Hardware_Access/ja> "Hardware Access/ja")
-  * [ .NETやMonoでPascalライブラリを使う方法](</Using_Pascal_Libraries_with_.NET_and_Mono/ja> "Using Pascal Libraries with .NET and Mono/ja")
-  * [Lazarus データベースチュートリアル](</Lazarus_Database_Tutorial/ja> "Lazarus Database Tutorial/ja")
-  * [ コンポーネントをストリームする](</Streaming_components/ja> "Streaming components/ja")
-  * [ ダイアログの例](</Dialog_Examples/ja> "Dialog Examples/ja")
-  * [ LCLでのキーの扱い方](</LCL_Key_Handling/ja> "LCL Key Handling/ja")
-  * [ バージョン番号について](</Version_Numbering/ja> "Version Numbering/ja")
-  * [ FreePascalとLazarusの概要](</Overview_of_Free_Pascal_and_Lazarus/ja> "Overview of Free Pascal and Lazarus/ja")
-  * [DelphiやKylixからのコード変換ガイド](</Code_Conversion_Guide/ja> "Code Conversion Guide/ja")
-  * [Lazarusでパッケージを作成する方法](</Lazarus_Packages/ja> "Lazarus Packages/ja")
-  * [tiOPF オブジェクト永続化フレームワーク](</tiOPF/ja> "tiOPF/ja")
-  * [Lazarus IDEに機能を追加する方法](</Extending_the_IDE/ja> "Extending the IDE/ja")
-  * [IDEのヘルプを作成する](</Creating_IDE_Help/ja> "Creating IDE Help/ja")
-  * [Lazarusの取得](</Getting_Lazarus/ja> "Getting Lazarus/ja")
-  * [アプリケーションアイコン](</Application_Icon/ja> "Application Icon/ja")
-  * [FPC/ja](</FPC/ja> "FPC/ja")
-  * [FCL/ja](</FCL/ja> "FCL/ja")
-  * [RTL/ja](</RTL/ja> "RTL/ja")
-  * [Console Mode Pascal](</Console_Mode_Pascal/ja> "Console Mode Pascal/ja")
-  * [Custom Drawn Interface/Android](</Custom_Drawn_Interface/Android/ja> "Custom Drawn Interface/Android/ja")
-  * [Android Programming](</Android_Programming/ja> "Android Programming/ja")
+  * 色について
+  * マルチメディアプログラミング
+  * パッチの作り方
+  * 翻訳／国際化／プログラムの地域化
+  * IDE の裏技集
+  * Lazarusの開発を手伝う方法
+  * ネットワーキング
+  * 非同期呼び出し
+  * LCL Unicode Support/ja
+  * グラフィックスプログラミング
+  * ファイルサイズとスマートリンクの方法
+  * Open GL
+  * GLSceneコンポーネント
+  * マルチプラットホーム開発ガイド
+  * パッケージのインストール
+  * GDBを使ったバックトレースの作成
+  * 用語体系
+  * Pascal Script
+  * 外部プログラムの実行
+  *  LCLでのメッセージについての解説
+  * データベースに関するFAQ
+  * MacにおけるQtインターフェイス
+  * MySQLデータベースへコンポーネントを使って接続するチュートリアル
+  * LCL の内部
+  *  ハードウエアアクセス
+  *  .NETやMonoでPascalライブラリを使う方法
+  * Lazarus データベースチュートリアル
+  *  コンポーネントをストリームする
+  *  ダイアログの例
+  *  LCLでのキーの扱い方
+  *  バージョン番号について
+  *  FreePascalとLazarusの概要
+  * DelphiやKylixからのコード変換ガイド
+  * Lazarusでパッケージを作成する方法
+  * tiOPF オブジェクト永続化フレームワーク
+  * Lazarus IDEに機能を追加する方法
+  * IDEのヘルプを作成する
+  * Lazarusの取得
+  * アプリケーションアイコン
+  * FPC/ja
+  * FCL/ja
+  * RTL/ja
+  * Console Mode Pascal
+  * Custom Drawn Interface/Android
+  * Android Programming
 
 
 
@@ -116,12 +116,12 @@ LazarusWikiで翻訳や技術的に疑問があるところ、わからないと
 Wiki中の赤いリンクは（多分日本語の）記事が無いことを示しています。 英文の記事を元に、日本語のページを追加するには下記の方針でおこなってください。 
 
   1. wiki.lazarus.freepascal.org上のWikiのアカウントを取得します。
-  2. [Lazarus Documentation 日本語版](</Lazarus_Documentation/ja> "Lazarus Documentation/ja")のページから赤リンク（記事がないことを意味しています）をクリックします。
+  2. Lazarus Documentation 日本語版のページから赤リンク（記事がないことを意味しています）をクリックします。
   3. [Lazarus Documentationの英文](<Lazarus_Documentation.md> "Lazarus Documentation")のページから、英文のページを開いてください。editをクリックし、編集内容を全てコピーします。
   4. 先ほど開いた（日本語版）の方にペーストしてください。そこの英文を日本語に書き換えていけば、スタイルを崩さずに編集可能です。
   5. 記事のトップに{{Japanese Menu}}を追加して日本語版メニューを追加してください。
   6. 編集内容を保存します。
-  7. ページの画面上部にある言語選択のリンクに日本語のリンク追加します。具体的なやり方は[言語選択のリンクの設置](</Help:Add_language_bar/ja> "Help:Add language bar/ja")を参照してください。
+  7. ページの画面上部にある言語選択のリンクに日本語のリンク追加します。具体的なやり方は言語選択のリンクの設置を参照してください。
 
 
 

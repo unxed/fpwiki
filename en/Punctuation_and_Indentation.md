@@ -1,7 +1,6 @@
 # Punctuation and Indentation
 
-│ [**български (bg)**](</Punctuation_and_Indentation/bg> "Punctuation and Indentation/bg") │  [**Deutsch (de)**](</Punctuation_and_Indentation/de> "Punctuation and Indentation/de") │  **English (en)** │  [**français (fr)**](</Punctuation_and_Indentation/fr> "Punctuation and Indentation/fr") │  [**日本語 (ja)**](</Punctuation_and_Indentation/ja> "Punctuation and Indentation/ja") │  [**한국어 (ko)**](</Punctuation_and_Indentation/ko> "Punctuation and Indentation/ko") │  [**русский (ru)**](<../ru/Punctuation_and_Indentation.md> "Punctuation and Indentation/ru") │  [**中文（中国大陆）‎ (zh_CN)**](</Punctuation_and_Indentation/zh_CN> "Punctuation and Indentation/zh CN") │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Punctuation_and_Indentation.md>)** │
 
 [ ◄ ](<Standard_Functions.md> "Standard Functions") | [ ▲ ](<Contents.md> "Contents") | [ ► ](<Programming_Assignment.md> "Programming Assignment")  
 ---|---|---  

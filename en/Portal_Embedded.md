@@ -2,7 +2,7 @@
 
 < [Lookup](</Help:Contents> "Help:Contents") < [Portals](</Category:Portals> "Category:Portals") < **Portal:Embedded**
 
-│ **English (en)** │ 
+│ **English (en)** │
 
   
 

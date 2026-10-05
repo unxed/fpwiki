@@ -1,7 +1,6 @@
 # Continue
 
-│ **[Deutsch (de)](</Continue/de> "Continue/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
 The `continue` (pseudo) [routine](<Routine.md> "Routine") effectively skips the remainder of the [loop](<Loops.md> "Loops") body for one iteration, thus jumping back (or forward) to the loop head. It is a non-standardized extension. 
 

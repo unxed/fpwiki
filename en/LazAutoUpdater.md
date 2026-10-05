@@ -1,7 +1,6 @@
 # LazAutoUpdater
 
-│ **English (en)** │  **[polski (pl)](</LazAutoUpdater/pl> "LazAutoUpdater/pl")** │  **[русский (ru)](<../ru/LazAutoUpdater.md> "LazAutoUpdater/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/LazAutoUpdater.md>)** │
 
 ## Contents
 

@@ -1,7 +1,6 @@
 # LazRGBGraphics
 
-│ **English (en)** │  **[français (fr)](</LazRGBGraphics/fr> "LazRGBGraphics/fr")** │  **[中文（中国大陆） (zh_CN)](</LazRGBGraphics/zh_CN> "LazRGBGraphics/zh CN")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

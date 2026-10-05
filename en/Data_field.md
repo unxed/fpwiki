@@ -1,7 +1,6 @@
 # Data field
 
-│ **[Deutsch (de)](</Data_field/de> "Data field/de")** │  **English (en)** │  **[français (fr)](</Data_field/fr> "Data field/fr")** │  **[polski (pl)](</Data_field/pl> "Data field/pl")** │    
-****
+│ **English (en)** │
 
 Back to [Data types](<Data_type.md> "Data type"). 
 

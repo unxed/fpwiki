@@ -1,6 +1,6 @@
 # PascalTZ
 
-│ [**English (en)**](<../en/PascalTZ.md> "PascalTZ") │  **русский (ru)** │ 
+│ **[English (en)](<../en/PascalTZ.md>)** │  **русский (ru)** │
 
 ## Contents
 

@@ -1,5 +1,7 @@
 # TToolButton
 
+│ **English (en)** │  **[русский (ru)](<../ru/TToolButton.md>)** │
+
 **TToolButton** is a component that is used within [TToolBar](<TToolBar.md> "TToolBar"). 
 
 A TToolButton - a [TGraphicControl](<TGraphicControl.md> "TGraphicControl") descendant - has a lot of usual properties like Action, Caption, PopupMenu, ImageList etc. A DropdownMenu is available to react on a click. The button's Style property determines what the button looks like: tbsButton, tbsDropdown, tbsCheck, tbsDivider, or tbsSeparator. 

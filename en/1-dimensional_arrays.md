@@ -1,7 +1,6 @@
 # 1-dimensional arrays
 
-│ **English (en)** │  [**français (fr)**](</1-dimensional_arrays/fr> "1-dimensional arrays/fr") │  [**日本語 (ja)**](</1-dimensional_arrays/ja> "1-dimensional arrays/ja") │  [**中文（中国大陆）‎ (zh_CN)**](</1-dimensional_arrays/zh_CN> "1-dimensional arrays/zh CN") │    
-****
+│ **English (en)** │
 
 [ ◄ ](<Subranges.md> "Subranges") | [ ▲ ](<Contents.md> "Contents") | [ ► ](<Multidimensional_arrays.md> "Multidimensional arrays")  
 ---|---|---  

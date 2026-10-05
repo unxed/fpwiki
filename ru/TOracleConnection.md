@@ -1,7 +1,6 @@
 # TOracleConnection
 
-│ **[English (en)](<../en/TOracleConnection.md> "TOracleConnection")** │  **[français (fr)](</TOracleConnection/fr> "TOracleConnection/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TOracleConnection.md>)** │  **русский (ru)** │
 
 ![Light bulb](https://upload.wikimedia.org/wikipedia/commons/d/d8/Nuvola_apps_ktip.png) **Примечание:** Для создания приложений при работе с любыми базами данных вместо TOracleConnection может использоваться [TSQLConnector](<TSQLConnector.md> "TSQLConnector/ru")
 

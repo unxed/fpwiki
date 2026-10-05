@@ -1,6 +1,6 @@
 # AVR Embedded Tutorials
 
-│ **[Deutsch (de)](</AVR_Embedded_Tutorials/de> "AVR Embedded Tutorials/de")** │  **English (en)** │ 
+│ **English (en)** │
 
 ## Contents
 

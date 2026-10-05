@@ -1,7 +1,6 @@
 # TCHMHelpDatabase
 
-│ **[English (en)](<../en/TCHMHelpDatabase.md> "TCHMHelpDatabase")** │  **[français (fr)](</TCHMHelpDatabase/fr> "TCHMHelpDatabase/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TCHMHelpDatabase.md>)** │  **русский (ru)** │
 
 **TCHMLHelpDatabase** [![tchmhelpdatabase.png](https://wiki.freepascal.org/images/3/3d/tchmhelpdatabase.png)](</File:tchmhelpdatabase.png>) является невизуальным компонентом, который предоставляет контекстную справку для приложения из CHM-файлов. Данный компонент доступен на вкладке [System](<System_tab.md> "System tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

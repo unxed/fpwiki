@@ -1,7 +1,6 @@
 # Pascal Script Examples
 
-│ **English (en)** │  **[español (es)](</Pascal_Script_Examples/es> "Pascal Script Examples/es")** │    
-****
+│ **English (en)** │
 
 This is a simple example of a actual [script](<Pascal_Script.md> "Pascal Script") that shows how to do try except with raising a exception and doing something with the exception message. 
     

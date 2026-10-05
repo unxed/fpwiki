@@ -1,7 +1,6 @@
 # Introduction to platform-sensitive development
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 [![Comparison of platform-independent with platform-sensitive applications on Mac Leopard. All shown applications are platform-independent, but only the programs in the right half of the screen are platform-sensitive.](https://wiki.freepascal.org/images/6/66/platform-independent_vs._platform-sensitive_applications.png)](</File:platform-independent_vs._platform-sensitive_applications.png>)
 

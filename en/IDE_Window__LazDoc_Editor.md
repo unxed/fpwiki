@@ -1,7 +1,6 @@
 # Lazarus Documentation Editor
 
-│ **[Deutsch (de)](</Lazarus_Documentation_Editor/de> "Lazarus Documentation Editor/de")** │  **English (en)** │  **[español (es)](</Lazarus_Documentation_Editor/es> "Lazarus Documentation Editor/es")** │  **[français (fr)](</Lazarus_Documentation_Editor/fr> "Lazarus Documentation Editor/fr")** │  **[日本語 (ja)](</Lazarus_Documentation_Editor/ja> "Lazarus Documentation Editor/ja")** │  **[polski (pl)](</Lazarus_Documentation_Editor/pl> "Lazarus Documentation Editor/pl")** │  **[русский (ru)](<../ru/Lazarus_Documentation_Editor.md> "Lazarus Documentation Editor/ru")** │  **[slovenčina (sk)](</Lazarus_Documentation_Editor/sk> "Lazarus Documentation Editor/sk")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

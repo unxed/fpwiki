@@ -1,7 +1,6 @@
 # TButtonPanel
 
-│ **English (en)** │  **[français (fr)](</TButtonPanel/fr> "TButtonPanel/fr")** │  **[русский (ru)](<../ru/TButtonPanel.md> "TButtonPanel/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TButtonPanel.md>)** │
 
 **TButtonPanel** [![tbuttonpanel.png](https://wiki.freepascal.org/images/f/f0/tbuttonpanel.png)](</File:tbuttonpanel.png>) is a visual component on the [Misc tab](<Misc_tab.md> "Misc tab") of the [Component Palette](<Component_Palette.md> "Component Palette") that provides a by bottom-aligned panel with (selectable) pre-configured buttons Help, Close, Ok and Cancel. 
 

@@ -1,7 +1,6 @@
 # modeswitch
 
-│ **English (en)** │  **[中文（中国大陆） (zh_CN)](</modeswitch/zh_CN> "modeswitch/zh CN")** │    
-****
+│ **English (en)** │
 
 As of FPC 2.3.1, the **{$MODESWITCH}** directive can be used to select some of the features that a **{$MODE }** directive would select. 
 

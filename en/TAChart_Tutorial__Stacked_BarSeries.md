@@ -1,7 +1,6 @@
 # TAChart Tutorial: Stacked BarSeries
 
-│ **English (en)** │  **[suomi (fi)](</TAChart_Tutorial:_Stacked_BarSeries/fi> "TAChart Tutorial: Stacked BarSeries/fi")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

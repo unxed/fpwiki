@@ -1,7 +1,6 @@
 # The parser
 
-│ **English (en)** │  **[français (fr)](</The_parser/fr> "The parser/fr")** │    
-****
+│ **English (en)** │
 
 back to contents [FPC internals](<FPC_internals.md> "FPC internals")
 

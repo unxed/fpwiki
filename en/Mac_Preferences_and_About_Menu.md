@@ -6,8 +6,7 @@ This article applies to [macOS](</Category:macOS> "Category:macOS") only.
 
 See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **English (en)** │  **[русский (ru)](<../ru/Mac_Preferences_and_About_Menu.md> "Mac Preferences and About Menu/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Mac_Preferences_and_About_Menu.md>)** │
 
 There are certain items that should appear in the default application menu on the macOS menu bar of your application. While Lazarus does automatically add: 
 

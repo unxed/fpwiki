@@ -1,7 +1,6 @@
 # Shell Controls
 
-│ **[English (en)](<../en/Shell_Controls.md> "Shell Controls")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Shell_Controls.md>)** │  **русский (ru)** │
 
 ## Contents
 

@@ -1,5 +1,7 @@
 # Drag and Drop sample
 
+│ **English (en)** │  **[русский (ru)](<../ru/Drag_and_Drop_sample.md>)** │
+
 Drag and Drop is a common operation that makes the interface user friendly: a user can drag/drop information to controls instead of having to type etc. 
 
 The following sample explains basics of drag and drop. For detailed information you should refer to other articles in the wiki and reference documentation. 

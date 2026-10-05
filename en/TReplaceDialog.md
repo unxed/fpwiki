@@ -1,7 +1,6 @@
 # TReplaceDialog
 
-│ **English (en)** │  **[français (fr)](</TReplaceDialog/fr> "TReplaceDialog/fr")** │  **[русский (ru)](<../ru/TReplaceDialog.md> "TReplaceDialog/ru")** │  **[中文（中国大陆）‎ (zh_CN)](</TReplaceDialog/zh_CN> "TReplaceDialog/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TReplaceDialog.md>)** │
 
 **TReplaceDialog** [![treplacedialog.png](https://wiki.freepascal.org/images/9/9c/treplacedialog.png)](</File:treplacedialog.png>) is a component that aids in search and replace textinformation. It can be found on the [Dialogs tab](<Dialogs_tab.md> "Dialogs tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

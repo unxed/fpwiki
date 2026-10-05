@@ -1,7 +1,6 @@
 # TLabel
 
-│ **[Deutsch (de)](</TLabel/de> "TLabel/de")** │  **English (en)** │  **[suomi (fi)](</TLabel/fi> "TLabel/fi")** │  **[français (fr)](</TLabel/fr> "TLabel/fr")** │  **[日本語 (ja)](</TLabel/ja> "TLabel/ja")** │  **[русский (ru)](<../ru/TLabel.md> "TLabel/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TLabel.md>)** │
 
 **TLabel** [![tlabel.png](https://wiki.freepascal.org/images/3/3a/tlabel.png)](</File:tlabel.png>) is a component that creates a text-item with one or more lines on another component. A TLabel is a descendant of [TGraphicControl](<TGraphicControl.md> "TGraphicControl") and is available under the [Standard tab](<Standard_tab.md> "Standard tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

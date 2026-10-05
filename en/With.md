@@ -1,7 +1,6 @@
 # With
 
-│ **[Deutsch (de)](</With/de> "With/de")** │  **English (en)** │  **[suomi (fi)](</With/fi> "With/fi")** │  **[русский (ru)](<../ru/With.md> "With/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/With.md>)** │
 
 The [reserved word](<Reserved_word.md> "Reserved word") `with` allows overriding the scope lookup routing for named scopes for the duration of one [statement](<statement.md> "statement"). 
 

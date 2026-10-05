@@ -1,7 +1,6 @@
 # Developing with Graphics
 
-│ **[Deutsch (de)](</Developing_with_Graphics/de> "Developing with Graphics/de")** │  **English (en)** │  **[español (es)](</Developing_with_Graphics/es> "Developing with Graphics/es")** │  **[français (fr)](</Developing_with_Graphics/fr> "Developing with Graphics/fr")** │  **[italiano (it)](</Developing_with_Graphics/it> "Developing with Graphics/it")** │  **[日本語 (ja)](</Developing_with_Graphics/ja> "Developing with Graphics/ja")** │  **[한국어 (ko)](</Developing_with_Graphics/ko> "Developing with Graphics/ko")** │  **[Nederlands (nl)](</Developing_with_Graphics/nl> "Developing with Graphics/nl")** │  **[português (pt)](</Developing_with_Graphics/pt> "Developing with Graphics/pt")** │  **[русский (ru)](<../ru/Developing_with_Graphics.md> "Developing with Graphics/ru")** │  **[slovenčina (sk)](</Developing_with_Graphics/sk> "Developing with Graphics/sk")** │  **[中文（中国大陆） (zh_CN)](</Developing_with_Graphics/zh_CN> "Developing with Graphics/zh CN")** │  **[中文（臺灣） (zh_TW)](</Developing_with_Graphics/zh_TW> "Developing with Graphics/zh TW")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Developing_with_Graphics.md>)** │
 
 This page describes the basic classes and techniques regarding drawing graphics with Lazarus. Other more specific topics are in separate articles. 
 

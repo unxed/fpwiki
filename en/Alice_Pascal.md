@@ -1,7 +1,6 @@
 # Alice Pascal
 
-│ **English (en)** │  **[français (fr)](</Alice_Pascal/fr> "Alice Pascal/fr")** │    
-****
+│ **English (en)** │
 
 Alice Pascal was a syntax-directed editor, pascal interpreter, and alternative front-end to turbo pascal. 
 

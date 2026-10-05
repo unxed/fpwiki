@@ -1,7 +1,6 @@
 # hash
 
-│ **[English (en)](<../en/hash.md> "hash")** │  **[français (fr)](</hash/fr> "hash/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/hash.md>)** │  **русский (ru)** │
 
 Пакет **hash** содержит реализации алгоритмов crc, md5, NTLM и crypt под Linux. 
 

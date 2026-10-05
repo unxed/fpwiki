@@ -1,7 +1,6 @@
 # Bit manipulation
 
-│ **[Deutsch (de)](</Bit_manipulation/de> "Bit manipulation/de")** │  **English (en)** │  **[français (fr)](</Bit_manipulation/fr> "Bit manipulation/fr")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

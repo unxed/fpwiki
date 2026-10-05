@@ -1,7 +1,6 @@
 # TColorDialog
 
-│ **English (en)** │  **[français (fr)](</TColorDialog/fr> "TColorDialog/fr")** │  **[русский (ru)](<../ru/TColorDialog.md> "TColorDialog/ru")** │  **[中文（中国大陆）‎ (zh_CN)](</TColorDialog/zh_CN> "TColorDialog/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TColorDialog.md>)** │
 
 **TColorDialog** [![tcolordialog.png](https://wiki.freepascal.org/images/4/4b/tcolordialog.png)](</File:tcolordialog.png>) is a dialog that aids in selecting color from a palette. It can be found on the [Dialogs tab](<Dialogs_tab.md> "Dialogs tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

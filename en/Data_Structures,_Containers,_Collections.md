@@ -1,7 +1,6 @@
 # Data Structures, Containers, Collections
 
-│ **English (en)** │  **[français (fr)](</Data_Structures,_Containers,_Collections/fr> "Data Structures, Containers, Collections/fr")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

@@ -1,7 +1,6 @@
 # Basic Pascal Introduction
 
-│ [**български (bg)**](</Basic_Pascal_Introduction/bg> "Basic Pascal Introduction/bg") │  [**Deutsch (de)**](</Basic_Pascal_Introduction/de> "Basic Pascal Introduction/de") │  **English (en)** │  [**español (es)**](</Basic_Pascal_Introduction/es> "Basic Pascal Introduction/es") │  [**français (fr)**](</Basic_Pascal_Introduction/fr> "Basic Pascal Introduction/fr") │  [**italiano (it)**](</Basic_Pascal_Introduction/it> "Basic Pascal Introduction/it") │  [**日本語 (ja)**](</Basic_Pascal_Introduction/ja> "Basic Pascal Introduction/ja") │  [**한국어 (ko)**](</Basic_Pascal_Introduction/ko> "Basic Pascal Introduction/ko") │  [**русский (ru)**](<../ru/Basic_Pascal_Introduction.md> "Basic Pascal Introduction/ru") │  [**svenska (sv)**](</Basic_Pascal_Introduction/sv> "Basic Pascal Introduction/sv") │  [**中文（中国大陆）‎ (zh_CN)**](</Basic_Pascal_Introduction/zh_CN> "Basic Pascal Introduction/zh CN") │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Basic_Pascal_Introduction.md>)** │
 
 [ ◄ ](<Basic_Pascal_Tutorial.md> "Basic Pascal Tutorial") | [ ▲ ](<Contents.md> "Contents") | [ ► ](<Pascal_History.md> "Pascal History")  
 ---|---|---  

@@ -1,6 +1,7 @@
 # LCL Components
 
-│ **English (en)** │  **[русский (ru)](<../ru/LCL_Components.md> "LCL Components/ru")** │  **[中文（中国大陆）‎ (zh_CN)](</LCL_Components/zh_CN> "LCL Components/zh CN")** │    
+│ **English (en)** │  **[русский (ru)](<../ru/LCL_Components.md>)** │
+
 ****Please choose the component about which you would like to know more:
 
 ## Contents

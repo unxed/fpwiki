@@ -1,8 +1,6 @@
 # Portal:Game Development
 
-│ **English (en)** │    
-****  
-****
+│ **English (en)** │
 
 < [Lookup](</Help:Contents> "Help:Contents") < [Portals](</Category:Portals> "Category:Portals") < **Portal:Game Development**
 

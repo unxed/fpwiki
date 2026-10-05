@@ -1,7 +1,6 @@
 # AVR Programming
 
-│ **[Deutsch (de)](</AVR_Programming/de> "AVR Programming/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
 The FPC commands for programming AVR microcontrollers such as ATMega or ATTiny are the same commands as always, but because of its character of an embedded system, i.e. no underlaying operating system and direct hardware access, there are several specific topics to know. 
 

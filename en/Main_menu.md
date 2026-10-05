@@ -1,7 +1,6 @@
 # Main menu
 
-│ **[Deutsch (de)](</Main_menu/de> "Main menu/de")** │  **English (en)** │  **[español (es)](</Main_menu/es> "Main menu/es")** │  **[suomi (fi)](</Main_menu/fi> "Main menu/fi")** │  **[français (fr)](</Main_menu/fr> "Main menu/fr")** │  **[magyar (hu)](</Main_menu/hu> "Main menu/hu")** │  **[italiano (it)](</Main_menu/it> "Main menu/it")** │  **[日本語 (ja)](</Main_menu/ja> "Main menu/ja")** │  **[македонски (mk)](</Main_menu/mk> "Main menu/mk")** │  **[Nederlands (nl)](</Main_menu/nl> "Main menu/nl")** │  **[português (pt)](</Main_menu/pt> "Main menu/pt")** │  **[русский (ru)](<../ru/Main_menu.md> "Main menu/ru")** │  **[slovenčina (sk)](</Main_menu/sk> "Main menu/sk")** │  **[shqip (sq)](</Main_menu/sq> "Main menu/sq")** │  **[中文（中国大陆） (zh_CN)](</Main_menu/zh_CN> "Main menu/zh CN")** │  **[中文（臺灣） (zh_TW)](</Main_menu/zh_TW> "Main menu/zh TW")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Main_menu.md>)** │
 
 The Lazarus **main menu** contains the following entries:  
 

@@ -2,8 +2,7 @@
 
 An editor has declared this article to be a stub, meaning that it needs more information. Can you help out and [add some](<Build_messages.md>)? If you have some useful information, you can [help](</Help:Editing> "Help:Editing") the Free Pascal Wiki by clicking on the edit box on the left and expanding this page. 
 
-**English (en)** | [**Magyar (hu)**](</Build_messages/hu> "Build messages/hu")   
-****
+│ **English (en)** │
 
 * * *
 

@@ -1,7 +1,6 @@
 # Constant
 
-│ **English (en)** │  **[suomi (fi)](</Constant/fi> "Constant/fi")** │  **[français (fr)](</Constant/fr> "Constant/fr")** │  **[русский (ru)](<../ru/Constant.md> "Constant/ru")** │  **[中文（中国大陆） (zh_CN)](</Constant/zh_CN> "Constant/zh CN")** │    
-****
+│ **English (en)** │
 
 A **constant** is a [variable](<Variable.md> "Variable") that does not change, it has a final value. 
 

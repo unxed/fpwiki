@@ -1,7 +1,6 @@
 # lookup
 
-│ **English (en)** │  **[français (fr)](</lookup/fr> "lookup/fr")** │    
-****
+│ **English (en)** │
 
 ## Definition
 

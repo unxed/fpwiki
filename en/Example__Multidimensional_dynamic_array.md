@@ -1,7 +1,6 @@
 # Example: Multidimensional dynamic array
 
-│ **English (en)** │  **[español (es)](</Example:_Multidimensional_dynamic_array/es> "Example: Multidimensional dynamic array/es")** │  **[français (fr)](</Example:_Multidimensional_dynamic_array/fr> "Example: Multidimensional dynamic array/fr")** │  **[日本語 (ja)](</Example:_Multidimensional_dynamic_array/ja> "Example: Multidimensional dynamic array/ja")** │    
-****
+│ **English (en)** │
 
 ### Code
     

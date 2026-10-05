@@ -1,7 +1,6 @@
 # Dialogs tab
 
-│ **[English (en)](<../en/Dialogs_tab.md> "Dialogs tab")** │  **[español (es)](</Dialogs_tab/es> "Dialogs tab/es")** │  **[suomi (fi)](</Dialogs_tab/fi> "Dialogs tab/fi")** │  **[français (fr)](</Dialogs_tab/fr> "Dialogs tab/fr")** │  **[polski (pl)](</Dialogs_tab/pl> "Dialogs tab/pl")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Dialogs_tab.md>)** │  **русский (ru)** │
 
 Вкладка **Dialogs** [палитры компонентов](<Component_Palette.md> "Component Palette/ru"), содержит компоненты, отображающие различные диалоговые окна. 
 

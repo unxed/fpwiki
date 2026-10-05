@@ -1,7 +1,6 @@
 # Common problems when converting C header files
 
-│ **English (en)** │  **[français (fr)](</Common_problems_when_converting_C_header_files/fr> "Common problems when converting C header files/fr")** │    
-****
+│ **English (en)** │
 
 ## Contents
 
@@ -479,8 +478,6 @@ The pointer PMPI_Datatype must be moved to the same type section as MPI_Datatype
 
 Solution: Add the **Fix forward definitions by reordering** or the **Pre H2Pas** tool to the **Before H2Pas** tools. The tool should be put **after** the tools fixing redefinitions and types. At the moment the tool only moves pointer types. ToDo: reorder some more definitions like constants. 
 
-│ **English (en)** │  **[français (fr)](</Common_problems_when_converting_C_header_files/fr> "Common problems when converting C header files/fr")** │    
-****
 
 ## The C header files do not contain parameter names
 

@@ -12,8 +12,7 @@ This article applies to [iOS](</Category:iOS> "Category:iOS") only.
 
 See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **English (en)** │  **[日本語 (ja)](</Carbon_interface_FAQ/ja> "Carbon interface FAQ/ja")** │    
-****
+│ **English (en)** │
 
 [![Warning-icon.png](https://wiki.freepascal.org/images/b/b2/Warning-icon.png)](</File:Warning-icon.png>)
 

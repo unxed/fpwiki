@@ -1,6 +1,6 @@
 # FPReport Custom elements
 
-│ **English (en)** │    
+│ **English (en)** │
 
 
 FPReport contains support for 4 basic reporting elements: 

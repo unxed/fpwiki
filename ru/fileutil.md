@@ -1,7 +1,6 @@
 # fileutil
 
-│ **[English (en)](<../en/fileutil.md> "fileutil")** │  **[français (fr)](</fileutil/fr> "fileutil/fr")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</fileutil/zh_CN> "fileutil/zh CN")** │    
-****
+│ **[English (en)](<../en/fileutil.md>)** │  **русский (ru)** │
 
 Модуль **fileutil** содержит функции и процедуры, обеспечивающие совместимость с одноименным (FileUtil) модулем Delphi. Файловые процедуры, работающие с именами файлов, которые содержат символы UTF8, находятся в модуле [LazFileUtils](<../en/LazFileUtils.md> "LazFileUtils"). 
     

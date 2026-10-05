@@ -1,7 +1,7 @@
 # Else
 
-│ [**Deutsch (de)**](</Else/de> "Else/de") │  [**English (en)**](<../en/Else.md> "Else") │  [**español (es)**](</Else/es> "Else/es") │  [**suomi (fi)**](</Else/fi> "Else/fi") │  [**français (fr)**](</Else/fr> "Else/fr") │  **русский (ru)** │    
-****  
+│ **[English (en)](<../en/Else.md>)** │  **русский (ru)** │
+
 [Else at Language Reference](<http://www.freepascal.org/docs-html/ref/refsu51.html#x144-15400013.2.3>)
 
 **Else** является [ключевым словом](<Keyword.md> "Keyword/ru"), представляющим действие, которое выполнится, если условие [ложно](<False.md> "False/ru"). 

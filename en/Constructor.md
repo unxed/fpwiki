@@ -1,7 +1,6 @@
 # Constructor
 
-│ **[Deutsch (de)](</Constructor/de> "Constructor/de")** │  **English (en)** │  **[español (es)](</Constructor/es> "Constructor/es")** │  **[suomi (fi)](</Constructor/fi> "Constructor/fi")** │  **[русский (ru)](<../ru/Constructor.md> "Constructor/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Constructor.md>)** │
 
 The [reserved word](<Reserved_word.md> "Reserved word") `constructor` belongs to [object-oriented programming](<object-oriented_programming.md> "object-oriented programming"). `Constructor` is a [class](<Class.md> "Class") builder [method](<Method.md> "Method") that creates the object of that class. 
 

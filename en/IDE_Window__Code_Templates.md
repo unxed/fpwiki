@@ -1,7 +1,6 @@
 # IDE Window: Code Templates
 
-│ **[Deutsch (de)](</IDE_Window:_Code_Templates/de> "IDE Window: Code Templates/de")** │  **English (en)** │  **[español (es)](</IDE_Window:_Code_Templates/es> "IDE Window: Code Templates/es")** │  **[suomi (fi)](</IDE_Window:_Code_Templates/fi> "IDE Window: Code Templates/fi")** │  **[français (fr)](</IDE_Window:_Code_Templates/fr> "IDE Window: Code Templates/fr")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

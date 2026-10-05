@@ -1,7 +1,6 @@
 # TCheckGroup
 
-│ [**Deutsch (de)**](</TCheckGroup/de> "TCheckGroup/de") │  [**English (en)**](<../en/TCheckGroup.md> "TCheckGroup") │  [**suomi (fi)**](</TCheckGroup/fi> "TCheckGroup/fi") │  [**français (fr)**](</TCheckGroup/fr> "TCheckGroup/fr") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TCheckGroup.md>)** │  **русский (ru)** │
 
 **TCheckGroup** [![tcheckgroup.png](https://wiki.freepascal.org/images/0/0b/tcheckgroup.png)](</File:tcheckgroup.png>) является элементом управления, который содержит группу элементов [TCheckBox](<TCheckBox.md> "TCheckBox/ru"), объединенных вместе физически и логически. 
 

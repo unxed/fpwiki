@@ -1,7 +1,6 @@
 # TSynHTMLSyn
 
-│ **English (en)** │  **[suomi (fi)](</TSynHTMLSyn/fi> "TSynHTMLSyn/fi")** │  **[français (fr)](</TSynHTMLSyn/fr> "TSynHTMLSyn/fr")** │  **[polski (pl)](</TSynHTMLSyn/pl> "TSynHTMLSyn/pl")** │  **[русский (ru)](<../ru/TSynHTMLSyn.md> "TSynHTMLSyn/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TSynHTMLSyn.md>)** │
 
 **TSynHTMLSyn** [![tsynhtmlsyn.png](https://wiki.freepascal.org/images/6/69/tsynhtmlsyn.png)](</File:tsynhtmlsyn.png>) is a component that provides the [HTML](</index.php?title=HTML&action=edit&redlink=1> "HTML \(page does not exist\)") syntaxchecking-part of [syntax-highlighting](<Syntax_highlighting.md> "Syntax highlighting") editing. It is part of the [SynEdit](<SynEdit.md> "SynEdit") package and is available under the [SynEdit tab](<SynEdit_tab.md> "SynEdit tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Chapter 2/Solution
 
-│ **[български (bg)](</Basic_Pascal_Tutorial/Chapter_2/Solution/bg> "Basic Pascal Tutorial/Chapter 2/Solution/bg")** │  **[Deutsch (de)](</Basic_Pascal_Tutorial/Chapter_2/Solution/de> "Basic Pascal Tutorial/Chapter 2/Solution/de")** │  **English (en)** │  **[français (fr)](</Basic_Pascal_Tutorial/Chapter_2/Solution/fr> "Basic Pascal Tutorial/Chapter 2/Solution/fr")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Chapter_2/Solution/ja> "Basic Pascal Tutorial/Chapter 2/Solution/ja")** │  **[中文（中国大陆） (zh_CN)](</Basic_Pascal_Tutorial/Chapter_2/Solution/zh_CN> "Basic Pascal Tutorial/Chapter 2/Solution/zh CN")** │    
-****
+│ **English (en)** │
 
 [ ◄ ](<Programming_Assignment.md> "Basic Pascal Tutorial/Chapter 2/Programming Assignment") | [ ▲ ](<../Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<../Chapter_3/Sequential_control.md> "Basic Pascal Tutorial/Chapter 3/Sequential control")  
 ---|---|---  

@@ -1,7 +1,6 @@
 # RSS
 
-│ **English (en)** │  **[français (fr)](</RSS/fr> "RSS/fr")** │    
-****
+│ **English (en)** │
 
 ## Overview
 

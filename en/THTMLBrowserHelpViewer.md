@@ -1,7 +1,6 @@
 # THTMLBrowserHelpViewer
 
-│ **English (en)** │  **[français (fr)](</THTMLBrowserHelpViewer/fr> "THTMLBrowserHelpViewer/fr")** │  **[русский (ru)](<../ru/THTMLBrowserHelpViewer.md> "THTMLBrowserHelpViewer/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/THTMLBrowserHelpViewer.md>)** │
 
 **THTMLBrowserHelpViewer** [![thtmlbrowserhelpviewer.png](https://wiki.freepascal.org/images/4/4b/thtmlbrowserhelpviewer.png)](</File:thtmlbrowserhelpviewer.png>) is a component that offers HTML-context sensitive application help. It is available from the [System tab](<System_tab.md> "System tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

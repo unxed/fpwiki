@@ -1,7 +1,7 @@
 # Version Numbering
 
-[**Deutsch (de)**](</Version_Numbering/de> "Version Numbering/de") | **English (en)** | [**español (es)**](</Version_Numbering/es> "Version Numbering/es") | [**日本語 (ja)**](</Version_Numbering/ja> "Version Numbering/ja") | [**русский (ru)**](<../ru/Version_Numbering.md> "Version Numbering/ru")   
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Version_Numbering.md>)** │
+
 
 ## Contents
 

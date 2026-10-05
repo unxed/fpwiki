@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Chapter 1/Identifiers
 
-│ **[български (bg)](</Basic_Pascal_Tutorial/Chapter_1/Identifiers/bg> "Basic Pascal Tutorial/Chapter 1/Identifiers/bg")** │  **[Deutsch (de)](</Basic_Pascal_Tutorial/Chapter_1/Identifiers/de> "Basic Pascal Tutorial/Chapter 1/Identifiers/de")** │  **English (en)** │  **[français (fr)](</Basic_Pascal_Tutorial/Chapter_1/Identifiers/fr> "Basic Pascal Tutorial/Chapter 1/Identifiers/fr")** │  **[italiano (it)](</Basic_Pascal_Tutorial/Chapter_1/Identifiers/it> "Basic Pascal Tutorial/Chapter 1/Identifiers/it")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Chapter_1/Identifiers/ja> "Basic Pascal Tutorial/Chapter 1/Identifiers/ja")** │  **[한국어 (ko)](</Basic_Pascal_Tutorial/Chapter_1/Identifiers/ko> "Basic Pascal Tutorial/Chapter 1/Identifiers/ko")** │  **[русский (ru)](<../ru/Basic_Pascal_Tutorial/Chapter_1/Identifiers.md> "Basic Pascal Tutorial/Chapter 1/Identifiers/ru")** │  **[中文（中国大陆） (zh_CN)](</Basic_Pascal_Tutorial/Chapter_1/Identifiers/zh_CN> "Basic Pascal Tutorial/Chapter 1/Identifiers/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Identifiers.md>)** │
 
 [ ◄ ](<Basic_Pascal_Tutorial/Chapter_1/Program_Structure.md> "Basic Pascal Tutorial/Chapter 1/Program Structure") | [ ▲ ](<Basic_Pascal_Tutorial/Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Basic_Pascal_Tutorial/Chapter_1/Constants.md> "Basic Pascal Tutorial/Chapter 1/Constants")  
 ---|---|---  

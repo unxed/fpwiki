@@ -1,8 +1,6 @@
 # IDE Window: Project Options
 
-│ **[Deutsch (de)](</IDE_Window:_Project_Options/de> "IDE Window: Project Options/de")** │  **[English (en)](<../en/IDE_Window__Project_Options.md> "IDE Window: Project Options")** │  **[suomi (fi)](</IDE_Window:_Project_Options/fi> "IDE Window: Project Options/fi")** │  **[français (fr)](</IDE_Window:_Project_Options/fr> "IDE Window: Project Options/fr")** │  **[日本語 (ja)](</IDE_Window:_Project_Options/ja> "IDE Window: Project Options/ja")** │  **русский (ru)** │    
-****  
-****
+│ **[English (en)](<../en/IDE_Window__Project_Options.md>)** │  **русский (ru)** │
 
 [![IDE Options - Project Options.png](https://wiki.freepascal.org/images/b/bc/IDE_Options_-_Project_Options.png)](</File:IDE_Options_-_Project_Options.png>)
 

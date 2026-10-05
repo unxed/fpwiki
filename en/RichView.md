@@ -1,7 +1,6 @@
 # RichView
 
-│ **[Deutsch (de)](</RichView/de> "RichView/de")** │  **English (en)** │  **[español (es)](</RichView/es> "RichView/es")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

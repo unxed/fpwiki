@@ -1,7 +1,6 @@
 # Goto
 
-│ **[Deutsch (de)](</Goto/de> "Goto/de")** │  **[English (en)](<../en/Goto.md> "Goto")** │  **[français (fr)](</Goto/fr> "Goto/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Goto.md>)** │  **русский (ru)** │
 
 **Goto** \- безусловный переход на предварительно объявленную [метку](<Label.md> "Label/ru") (либо до, либо после команды goto). 
 

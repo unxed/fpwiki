@@ -1,7 +1,6 @@
 # Double Gradient
 
-│ **[Deutsch (de)](</Double_Gradient/de> "Double Gradient/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
 Now 'DoubleGradientAlphaFill' & 'nGradientAlphaFill' are included in [BGRABitmap](<BGRABitmap.md> "BGRABitmap") in the unit 'BGRAGradients'. 
 

@@ -1,7 +1,6 @@
 # Implementation
 
-│ **[Deutsch (de)](</Implementation/de> "Implementation/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
 **implementation** is a [reserved word](<Reserved_words.md> "Reserved words") that is used to structure (subdivide) a [unit](<Unit.md> "Unit"). 
 

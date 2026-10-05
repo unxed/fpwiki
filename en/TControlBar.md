@@ -1,7 +1,6 @@
 # TControlBar
 
-│ **English (en)** │  **[français (fr)](</TControlBar/fr> "TControlBar/fr")** │  **[日本語 (ja)](</TControlBar/ja> "TControlBar/ja")** │  **[русский (ru)](<../ru/TControlBar.md> "TControlBar/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TControlBar.md>)** │
 
 **TControlBar** [![tcontrolbar.png](https://wiki.freepascal.org/images/0/0a/tcontrolbar.png)](</File:tcontrolbar.png>) is a component that manages toolbar-components on a form. 
 

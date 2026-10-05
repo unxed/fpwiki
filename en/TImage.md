@@ -1,7 +1,6 @@
 # TImage
 
-│ [**Deutsch (de)**](</TImage/de> "TImage/de") │  **English (en)** │  [**suomi (fi)**](</TImage/fi> "TImage/fi") │  [**français (fr)**](</TImage/fr> "TImage/fr") │  [**日本語 (ja)**](</TImage/ja> "TImage/ja") │  [**русский (ru)**](<../ru/TImage.md> "TImage/ru") │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TImage.md>)** │
 
 **TImage** [![timage.png](https://wiki.freepascal.org/images/c/ce/timage.png)](</File:timage.png>) is a component that holds a graphic image placed on a [form](<TForm.md> "TForm"); usually it is loaded from a picture file. It inherits most of its properties from its ancestors, [TCustomImage](<http://lazarus-ccr.sourceforge.net/docs/lcl/extctrls/tcustomimage.html> "doc:lcl/extctrls/tcustomimage.html"), [TGraphicControl](<TGraphicControl.md> "TGraphicControl") and [TControl](<http://lazarus-ccr.sourceforge.net/docs/lcl/controls/tcontrol.html> "doc:lcl/controls/tcontrol.html"). It is one of the few LCL components which supports the [Transparent](<Transparent.md> "Transparent") property by default. 
 

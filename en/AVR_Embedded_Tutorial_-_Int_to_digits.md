@@ -1,6 +1,6 @@
 # AVR Embedded Tutorial - Int to digits
 
-│ **[Deutsch (de)](</AVR_Embedded_Tutorial_-_Int_to_digits/de> "AVR Embedded Tutorial - Int to digits/de")** │  **English (en)** │ 
+│ **English (en)** │
 
 ## Contents
 

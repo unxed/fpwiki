@@ -1,7 +1,6 @@
 # TEdit
 
-│ [**Deutsch (de)**](</TEdit/de> "TEdit/de") │  [**English (en)**](<../en/TEdit.md> "TEdit") │  [**suomi (fi)**](</TEdit/fi> "TEdit/fi") │  [**français (fr)**](</TEdit/fr> "TEdit/fr") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TEdit.md>)** │  **русский (ru)** │
 
 **TEdit** [![tedit.png](https://wiki.freepascal.org/images/0/07/tedit.png)](</File:tedit.png>) является элементом управления с однострочным полем для редактирования текста. Данный компонент доступен на вкладке [Standard](<Standard_tab.md> "Standard tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

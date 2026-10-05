@@ -2,8 +2,7 @@
 
 \- [MSE source](<https://github.com/mse-org/mseide-msegui/releases>)
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 ## Contents
 

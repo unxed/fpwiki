@@ -1,6 +1,6 @@
 # TTrayIcon
 
-│ [**English (en)**](<../en/TTrayIcon.md> "TTrayIcon") │  [**français (fr)**](</TTrayIcon/fr> "TTrayIcon/fr") │  **русский (ru)** │    
+│ **[English (en)](<../en/TTrayIcon.md>)** │  **русский (ru)** │
 
 
 **TTrayIcon** [![ttrayicon.png](https://wiki.freepascal.org/images/8/8d/ttrayicon.png)](</File:ttrayicon.png>) является компонентом для создания значка приложения в системной области (трее). Данный компонент доступен на вкладке [Additional](<Additional_tab.md> "Additional tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 

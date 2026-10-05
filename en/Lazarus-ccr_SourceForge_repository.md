@@ -1,6 +1,6 @@
 # Lazarus-ccr SourceForge repository
 
-│ **English (en)** │  [**русский (ru)**](<../ru/Lazarus-ccr_SourceForge_repository.md> "Lazarus-ccr SourceForge repository/ru") │ 
+│ **English (en)** │  **[русский (ru)](<../ru/Lazarus-ccr_SourceForge_repository.md>)** │
 
 This page describes the policy for using the Lazarus Code and Component Repository on SourceForge (Lazarus CCR project). Anybody porting components to Lazarus can ask the [Lazarus CCR project admin](</User:Vincent> "User:Vincent") for write access. The Lazarus CCR Project has both SubVersion and Git repositories. If you want to host your project on GitHub instead, please see the [Lazarus-ccr GitHub organization](<Lazarus-ccr_GitHub_organization.md> "Lazarus-ccr GitHub organization") article. 
 

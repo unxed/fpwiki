@@ -1,7 +1,6 @@
 # Step-by-step instructions for creating multi-language applications
 
-│ **English (en)** │  **[suomi (fi)](</Step-by-step_instructions_for_creating_multi-language_applications/fi> "Step-by-step instructions for creating multi-language applications/fi")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

@@ -1,7 +1,6 @@
 # Round
 
-│ **[Deutsch (de)](</Round/de> "Round/de")** │  **English (en)** │  **[Esperanto (eo)](</Round/eo> "Round/eo")** │  **[suomi (fi)](</Round/fi> "Round/fi")** │  **[русский (ru)](<../ru/Round.md> "Round/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Round.md>)** │
 
 The [RTL](<RTL.md> "RTL") [System unit](<System_unit.md> "System unit") contains [function](<Function.md> "Function") **Round** , which rounds a [Real](<Real.md> "Real")-type value to an [Integer](<Integer.md> "Integer")-type value. It's input parameter is a real-type [expression](<expression.md> "expression") and Round returns a [Int64](<Int64.md> "Int64") value that is the value of the input rounded to the nearest whole number. If the input value is exactly halfway between two whole numbers - N.5 - then "bankers rounding" is used, with the result being the nearest even number. 
 

@@ -1,6 +1,6 @@
 # Mode extendedpascal
 
-│ **English (en)** │ 
+│ **English (en)** │
 
 The [FPC](<FPC.md> "FPC")’s [compiler compatibility mode](<Compiler_Mode.md> "Compiler Mode") **`{$mode extendedPascal}`** intends to support all features of the International Organization for Standardization's standard 10206, “[Extended Pascal](<Extended_Pascal.md> "Extended Pascal")”. It builds on top of [`{$mode ISO}`](</index.php?title=Mode_ISO&action=edit&redlink=1> "Mode ISO \(page does not exist\)"). 
 

@@ -1,7 +1,6 @@
 # LazAutoUpdater
 
-│ **[English (en)](<../en/LazAutoUpdater.md> "LazAutoUpdater")** │  **[polski (pl)](</LazAutoUpdater/pl> "LazAutoUpdater/pl")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/LazAutoUpdater.md>)** │  **русский (ru)** │
 
 ## Lazarus Auto-Updater
 

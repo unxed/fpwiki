@@ -1,7 +1,6 @@
 # IDE Window: Desktops
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 # Desktops
 

@@ -1,7 +1,6 @@
 # Comma
 
-│ **English (en)** │  **[suomi (fi)](</Comma/fi> "Comma/fi")** │  **[français (fr)](</Comma/fr> "Comma/fr")** │  **[русский (ru)](<../ru/Comma.md> "Comma/ru")** │  **[中文（中国大陆） (zh_CN)](</Comma/zh_CN> "Comma/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Comma.md>)** │
 
 ,
 

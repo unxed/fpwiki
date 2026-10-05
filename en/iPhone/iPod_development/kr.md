@@ -1,7 +1,6 @@
 # iPhone/iPod development/ko
 
-[**English (en)**](<../iPod_development.md> "iPhone/iPod development") | **한국어 (ko)** | [**中文（中国大陆）‎ (zh_CN)**](</iPhone/iPod_development/zh_CN> "iPhone/iPod development/zh CN") | [**中文（台灣）‎ (zh_TW)**](</iPhone/iPod_development/zh_TW> "iPhone/iPod development/zh TW")   
-****
+│ **English (en)** │
 
 ## Contents
 

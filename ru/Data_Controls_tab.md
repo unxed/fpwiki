@@ -1,8 +1,7 @@
 # Data Controls tab
 
-│ [**English (en)**](<../en/Data_Controls_tab.md> "Data Controls tab") │  [**français (fr)**](</Data_Controls_tab/fr> "Data Controls tab/fr") │  **русский (ru)** │    
-****  
-  
+│ **[English (en)](<../en/Data_Controls_tab.md>)** │  **русский (ru)** │
+
 ---  
 [**Database portal**](<../en/Portal_Databases.md> "Portal:Databases")  
 References: 

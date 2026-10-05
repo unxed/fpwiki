@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Chapter 3/Solution
 
-│ **[български (bg)](</Basic_Pascal_Tutorial/Chapter_3/Solution/bg> "Basic Pascal Tutorial/Chapter 3/Solution/bg")** │  **English (en)** │  **[français (fr)](</Basic_Pascal_Tutorial/Chapter_3/Solution/fr> "Basic Pascal Tutorial/Chapter 3/Solution/fr")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Chapter_3/Solution/ja> "Basic Pascal Tutorial/Chapter 3/Solution/ja")** │  **[中文（中国大陆） (zh_CN)](</Basic_Pascal_Tutorial/Chapter_3/Solution/zh_CN> "Basic Pascal Tutorial/Chapter 3/Solution/zh CN")** │    
-****
+│ **English (en)** │
 
 [ ◄ ](<Basic_Pascal_Tutorial/Chapter_3/Programming_Assignment.md> "Basic Pascal Tutorial/Chapter 3/Programming Assignment") | [ ▲ ](<Basic_Pascal_Tutorial/Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Basic_Pascal_Tutorial/Chapter_4/Procedures.md> "Basic Pascal Tutorial/Chapter 4/Procedures")  
 ---|---|---  

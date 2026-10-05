@@ -1,7 +1,6 @@
 # TCalculatorDialog
 
-│ **[English (en)](<../en/TCalculatorDialog.md> "TCalculatorDialog")** │  **[français (fr)](</TCalculatorDialog/fr> "TCalculatorDialog/fr")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</TCalculatorDialog/zh_CN> "TCalculatorDialog/zh CN")** │    
-****
+│ **[English (en)](<../en/TCalculatorDialog.md>)** │  **русский (ru)** │
 
 **TCalculatorDialog** [![tcalculatordialog.png](https://wiki.freepascal.org/images/0/08/tcalculatordialog.png)](</File:tcalculatordialog.png>) это диалоговое окно, которое позволяет выбрать результат вычисления. Оно располагается на вкладке [Dialogs](<Dialogs_tab.md> "Dialogs tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

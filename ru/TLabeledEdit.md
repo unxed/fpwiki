@@ -1,7 +1,6 @@
 # TLabeledEdit
 
-│ **[Deutsch (de)](</TLabeledEdit/de> "TLabeledEdit/de")** │  **[English (en)](<../en/TLabeledEdit.md> "TLabeledEdit")** │  **[français (fr)](</TLabeledEdit/fr> "TLabeledEdit/fr")** │  **[日本語 (ja)](</TLabeledEdit/ja> "TLabeledEdit/ja")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TLabeledEdit.md>)** │  **русский (ru)** │
 
 **TLabeledEdit** [![tlabelededit.png](https://wiki.freepascal.org/images/1/15/tlabelededit.png)](</File:tlabelededit.png>) представляет собой элемент управления с однострочным полем для редактирования текста и поясняющей надписью, расположенной рядом с этим полем. Данный компонент доступен на вкладке [Additional](<Additional_tab.md> "Additional tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). Компонент TLabeledEdit объединяет [текстовое поле](<TEdit.md> "TEdit/ru") и [надпись](<TLabel.md> "TLabel/ru"), доступную в свойстве _EditLabel_. 
 

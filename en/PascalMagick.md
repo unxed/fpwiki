@@ -1,7 +1,6 @@
 # PascalMagick
 
-│ **English (en)** │  **[español (es)](</PascalMagick/es> "PascalMagick/es")** │  **[français (fr)](</PascalMagick/fr> "PascalMagick/fr")** │  **[Bahasa Indonesia (id)](</PascalMagick/id> "PascalMagick/id")** │  **[日本語 (ja)](</PascalMagick/ja> "PascalMagick/ja")** │  **[português (pt)](</PascalMagick/pt> "PascalMagick/pt")** │  **[русский (ru)](<../ru/PascalMagick.md> "PascalMagick/ru")** │  **[中文（中国大陆） (zh_CN)](</PascalMagick/zh_CN> "PascalMagick/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/PascalMagick.md>)** │
 
 ## Contents
 

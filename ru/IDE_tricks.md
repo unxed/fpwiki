@@ -1,7 +1,6 @@
 # IDE tricks
 
-│ **[Deutsch (de)](</IDE_tricks/de> "IDE tricks/de")** │  **[English (en)](<../en/IDE_tricks.md> "IDE tricks")** │  **[français (fr)](</IDE_tricks/fr> "IDE tricks/fr")** │  **[magyar (hu)](</IDE_tricks/hu> "IDE tricks/hu")** │  **[日本語 (ja)](</IDE_tricks/ja> "IDE tricks/ja")** │  **[한국어 (ko)](</IDE_tricks/ko> "IDE tricks/ko")** │  **русский (ru)** │  **[slovenčina (sk)](</IDE_tricks/sk> "IDE tricks/sk")** │  **[中文（中国大陆） (zh_CN)](</IDE_tricks/zh_CN> "IDE tricks/zh CN")** │    
-****
+│ **[English (en)](<../en/IDE_tricks.md>)** │  **русский (ru)** │
 
 ## Contents
 

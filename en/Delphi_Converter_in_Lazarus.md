@@ -1,6 +1,7 @@
 # Delphi Converter in Lazarus
 
-│ **English (en)** │  **[中文（中国大陆） (zh_CN)](</Delphi_Converter_in_Lazarus/zh_CN> "Delphi Converter in Lazarus/zh CN")** │    
+│ **English (en)** │
+
 ****A Delphi project, Delphi package and a single unit file can be converted for Lazarus. The entries can be found in Lazarus Tools menu:
 
   * **Convert Delphi unit to Lazarus unit ...**

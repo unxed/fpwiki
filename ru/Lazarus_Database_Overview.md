@@ -1,8 +1,7 @@
 # Lazarus Database Overview
 
-│ **[English (en)](<../en/Lazarus_Database_Overview.md> "Lazarus Database Overview")** │  **[español (es)](</Lazarus_Database_Overview/es> "Lazarus Database Overview/es")** │  **[français (fr)](</Lazarus_Database_Overview/fr> "Lazarus Database Overview/fr")** │  **[日本語 (ja)](</Lazarus_Database_Overview/ja> "Lazarus Database Overview/ja")** │  **[polski (pl)](</Lazarus_Database_Overview/pl> "Lazarus Database Overview/pl")** │  **русский (ru)** │    
-****  
-  
+│ **[English (en)](<../en/Lazarus_Database_Overview.md>)** │  **русский (ru)** │
+
 ---  
 [**Databases portal**](<../en/Portal_Databases.md> "Portal:Databases")  
 References: 

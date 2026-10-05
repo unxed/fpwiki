@@ -1,7 +1,6 @@
 # Pointer
 
-│ **[Deutsch (de)](</Pointer/de> "Pointer/de")** │  **English (en)** │  **[suomi (fi)](</Pointer/fi> "Pointer/fi")** │  **[français (fr)](</Pointer/fr> "Pointer/fr")** │  **[русский (ru)](<../ru/Pointer.md> "Pointer/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Pointer.md>)** │
 
 **Pointer** has two meanings in [Free Pascal](<FPC.md> "FPC"): 
 

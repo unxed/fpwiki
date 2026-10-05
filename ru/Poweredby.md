@@ -1,7 +1,6 @@
 # Poweredby
 
-│ **[English (en)](<../en/Poweredby.md> "Poweredby")** │  **[français (fr)](</Poweredby/fr> "Poweredby/fr")** │  **русский (ru)** │    
-****  
+│ **[English (en)](<../en/Poweredby.md>)** │  **русский (ru)** │
 
 
 ## Contents

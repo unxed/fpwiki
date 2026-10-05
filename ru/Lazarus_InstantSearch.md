@@ -1,6 +1,6 @@
 # Lazarus InstantSearch
 
-│ **[English (en)](<../en/Lazarus_InstantSearch.md> "Lazarus InstantSearch")** │  **русский (ru)** │ 
+│ **русский (ru)** │
 
 ## Contents
 

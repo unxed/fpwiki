@@ -1,7 +1,6 @@
 # Avoiding implicit try finally section
 
-│ **English (en)** │  **[suomi (fi)](</Avoiding_implicit_try_finally_section/fi> "Avoiding implicit try finally section/fi")** │  **[Bahasa Indonesia (id)](</Avoiding_implicit_try_finally_section/id> "Avoiding implicit try finally section/id")** │  **[русский (ru)](<../ru/Avoiding_implicit_try_finally_section.md> "Avoiding implicit try finally section/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Avoiding_implicit_try_finally_section.md>)** │
 
 ## Contents
 

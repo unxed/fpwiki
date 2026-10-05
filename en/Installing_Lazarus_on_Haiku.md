@@ -1,7 +1,6 @@
 # Installing Lazarus on Haiku
 
-│ **English (en)** │  **[español (es)](</Installing_Lazarus_on_Haiku/es> "Installing Lazarus on Haiku/es")** │    
-****
+│ **English (en)** │
 
 [![Warning-icon.png](https://wiki.freepascal.org/images/b/b2/Warning-icon.png)](</File:Warning-icon.png>)
 

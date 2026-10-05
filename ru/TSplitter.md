@@ -1,7 +1,6 @@
 # TSplitter
 
-│ **[Deutsch (de)](</TSplitter/de> "TSplitter/de")** │  **[English (en)](<../en/TSplitter.md> "TSplitter")** │  **[suomi (fi)](</TSplitter/fi> "TSplitter/fi")** │  **[français (fr)](</TSplitter/fr> "TSplitter/fr")** │  **[日本語 (ja)](</TSplitter/ja> "TSplitter/ja")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TSplitter.md>)** │  **русский (ru)** │
 
 **TSplitter** [![tsplitter.png](https://wiki.freepascal.org/images/e/e6/tsplitter.png)](</File:tsplitter.png>) является компонентом, который может быть размещен на панели или форме в виде вертикальной или горизонтальной полосы для функционального разделения панелей. 
 

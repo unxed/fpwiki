@@ -1,6 +1,7 @@
 # TOpenDialog
 
-│ **[English (en)](<../en/TOpenDialog.md> "TOpenDialog")** │  **[français (fr)](</TOpenDialog/fr> "TOpenDialog/fr")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</TOpenDialog/zh_CN> "TOpenDialog/zh CN")** │    
+│ **[English (en)](<../en/TOpenDialog.md>)** │  **русский (ru)** │
+
 ******TOpenDialog** [![topendialog.png](https://wiki.freepascal.org/images/1/1c/topendialog.png)](</File:topendialog.png>) этот компонент отображает диалоговое окно, использующиеся для открытия файлов. Он расположен на вкладке [Dialogs](<Dialogs_tab.md> "Dialogs tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 
 ## См. также

@@ -1,7 +1,6 @@
 # LCL Messages
 
-**English (en)** | [**日本語 (ja)**](</LCL_Messages/ja> "LCL Messages/ja") | [**slovenčina (sk)**](</LCL_Messages/sk> "LCL Messages/sk")   
-****
+│ **English (en)** │
 
 **This document is for Lazarus developers**
 

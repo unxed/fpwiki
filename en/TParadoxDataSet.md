@@ -1,8 +1,7 @@
 # TParadoxDataSet
 
-│ **English (en)** │  **[français (fr)](</TParadoxDataSet/fr> "TParadoxDataSet/fr")** │  **[português (pt)](</TParadoxDataSet/pt> "TParadoxDataSet/pt")** │    
-****  
-  
+│ **English (en)** │
+
 ---  
 [**Databases portal**](<Portal_Databases.md> "Portal:Databases")  
 References: 

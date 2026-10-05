@@ -1,7 +1,6 @@
 # IDE Window: Terminal Output
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 The **Terminal Output** Window shows the output of a program in [Console Mode Pascal](<Console_Mode_Pascal.md> "Console Mode Pascal").
 

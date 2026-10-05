@@ -1,7 +1,7 @@
 # Until
 
-│ **[Deutsch (de)](</Until/de> "Until/de")** │  **[English (en)](<../en/Until.md> "Until")** │  **[français (fr)](</Until/fr> "Until/fr")** │  **русский (ru)** │    
-****  
+│ **[English (en)](<../en/Until.md>)** │  **русский (ru)** │
+
 Является [ключевым словом](<Keyword.md> "Keyword/ru"), которое используется в управляющей конструкции аналогично циклу '[while](<While.md> "While/ru") [do](<Do.md> "Do/ru")'. 
 
 Синтаксис: 

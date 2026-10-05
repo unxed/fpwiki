@@ -1,6 +1,6 @@
 # Anchor Docking Step by step example
 
-│ **English (en)** │  **[русский (ru)](<../ru/Anchor_Docking_Step_by_step_example.md> "Anchor Docking Step by step example/ru")** │ 
+│ **English (en)** │  **[русский (ru)](<../ru/Anchor_Docking_Step_by_step_example.md>)** │
 
 ## Contents
 

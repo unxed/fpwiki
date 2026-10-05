@@ -1,7 +1,6 @@
 # Lucas number
 
-│ **English (en)** │  **[suomi (fi)](</Lucas_number/fi> "Lucas number/fi")** │  **[français (fr)](</Lucas_number/fr> "Lucas number/fr")** │    
-****
+│ **English (en)** │
 
 The Lucas series is the sequence of numbers: 
     

@@ -1,7 +1,6 @@
 # TRadioButton
 
-│ **[Deutsch (de)](</TRadioButton/de> "TRadioButton/de")** │  **English (en)** │  **[suomi (fi)](</TRadioButton/fi> "TRadioButton/fi")** │  **[français (fr)](</TRadioButton/fr> "TRadioButton/fr")** │  **[日本語 (ja)](</TRadioButton/ja> "TRadioButton/ja")** │    
-****
+│ **English (en)** │
 
 [![](https://wiki.freepascal.org/images/a/a0/RadioButtonsRadioGroup.png)](</File:RadioButtonsRadioGroup.png>)
 

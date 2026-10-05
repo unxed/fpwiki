@@ -1,7 +1,6 @@
 # Comparison of approaches for rounding to an integer
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 Real numbers can be converted to integers in many ways. Here's a comparison some of them. 
     

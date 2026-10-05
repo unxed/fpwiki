@@ -1,7 +1,6 @@
 # Absolute
 
-│ **[Deutsch (de)](</Absolute/de> "Absolute/de")** │  **[English (en)](<../en/Absolute.md> "Absolute")** │  **[español (es)](</Absolute/es> "Absolute/es")** │  **[suomi (fi)](</Absolute/fi> "Absolute/fi")** │  **[français (fr)](</Absolute/fr> "Absolute/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Absolute.md>)** │  **русский (ru)** │
 
 Модификатор **absolute** предписывает хранить данную переменную в той же области памяти, в которой хранится и другая переменная. 
 

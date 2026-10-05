@@ -6,8 +6,7 @@
 
 См. также: [Multiplatform Programming Guide](<../en/Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **[English (en)](<../en/Mac_Preferences_and_About_Menu.md> "Mac Preferences and About Menu")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Mac_Preferences_and_About_Menu.md>)** │  **русский (ru)** │
 
 Некоторые элементы должны отображаться в меню приложения по умолчанию в строке меню macOS вашего приложения. Хотя Lazarus автоматически добавляет: 
 

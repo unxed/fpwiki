@@ -1,7 +1,6 @@
 # ACS
 
-│ **[Deutsch (de)](</ACS/de> "ACS/de")** │  **English (en)** │  **[français (fr)](</ACS/fr> "ACS/fr")** │  **[日本語 (ja)](</ACS/ja> "ACS/ja")** │  **[português (pt)](</ACS/pt> "ACS/pt")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

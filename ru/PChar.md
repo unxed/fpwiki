@@ -1,7 +1,6 @@
 # PChar
 
-│ [**Deutsch (de)**](</PChar/de> "PChar/de") │  [**English (en)**](<../en/PChar.md> "PChar") │  [**español (es)**](</PChar/es> "PChar/es") │  [**français (fr)**](</PChar/fr> "PChar/fr") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/PChar.md>)** │  **русский (ru)** │
 
 **PChar** является [типом данных](<Data_type.md> "Data type/ru") и [указателем](<Pointer.md> "Pointer/ru") на строку с завершающим нулевым символом. Наиболее важным применением PChar является взаимодействие с системными библиотеками, такими как dll. 
 

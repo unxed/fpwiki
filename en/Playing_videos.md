@@ -4,7 +4,7 @@ From Free Pascal wiki
 
 (Redirected from [Playing videos](</index.php?title=Playing_videos&redirect=no> "Playing videos"))
 
-****English (en)**** | [**한국어 (ko)**](</Multimedia_Programming/ko> "Multimedia Programming/ko")
+│ **English (en)** │
 
 ## Contents
 

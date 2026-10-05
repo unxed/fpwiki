@@ -1,7 +1,6 @@
 # TAChart documentation
 
-│ **English (en)** │  **[русский (ru)](<../ru/TAChart_documentation.md> "TAChart documentation/ru")** │  **[українська (uk)](</TAChart_documentation/uk> "TAChart documentation/uk")** │  **[中文（中国大陆） (zh_CN)](</TAChart_documentation/zh_CN> "TAChart documentation/zh CN")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

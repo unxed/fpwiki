@@ -6,8 +6,7 @@ This article applies to [macOS](</Category:macOS> "Category:macOS") only.
 
 See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **English (en)** │  **[日本語 (ja)](</XDev_Toolkit/ja> "XDev Toolkit/ja")** │  **[português (pt)](</XDev_Toolkit/pt> "XDev Toolkit/pt")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

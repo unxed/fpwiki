@@ -1,8 +1,7 @@
 # winsoft PocketStudio
 
-│ **[Deutsch (de)](</winsoft_PocketStudio/de> "winsoft PocketStudio/de")** │  **English (en)** │  **[français (fr)](</winsoft_PocketStudio/fr> "winsoft PocketStudio/fr")** │    
-****  
-  
+│ **English (en)** │
+
 **winsoft PocketStudio** is a RAD IDE and a [Pascal](<Pascal.md> "Pascal") language compiler for Palm OS, Garnet OS and Access Linux Platform. 
 
 PocketStudio runs on Windows computers and creates Palm programs via cross-compiling. It supports debugging via the Palm simulator and all major Palm OS technologies. The IDE is very similar to Lazarus or Delphi, including source editor, object inspector, form editor and toolbar. 

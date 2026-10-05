@@ -1,7 +1,6 @@
 # TTimeEdit
 
-│ **English (en)** │  **[français (fr)](</TTimeEdit/fr> "TTimeEdit/fr")** │  **[русский (ru)](<../ru/TTimeEdit.md> "TTimeEdit/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TTimeEdit.md>)** │
 
 The **TTimeEdit** [![ttimeedit.png](https://wiki.freepascal.org/images/7/72/ttimeedit.png)](</File:ttimeedit.png>) component is a control that assists in picking a correct time. TTimeEdit is found on the the [Misc tab](<Misc_tab.md> "Misc tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

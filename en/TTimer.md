@@ -1,7 +1,6 @@
 # TTimer
 
-│ **English (en)** │  [**français (fr)**](</TTimer/fr> "TTimer/fr") │  [**русский (ru)**](<../ru/TTimer.md> "TTimer/ru") │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TTimer.md>)** │
 
 **TTimer** [![ttimer.png](https://wiki.freepascal.org/images/6/65/ttimer.png)](</File:ttimer.png>) is component on the [System tab](<System_tab.md> "System tab") of the [Component Palette](<Component_Palette.md> "Component Palette") and delivers a timer with usually millisecond resolution. It inherits most of its properties from [TCustomTimer](<http://lazarus-ccr.sourceforge.net/docs/lcl/customtimer/tcustomtimer.html> "doc:lcl/customtimer/tcustomtimer.html"). 
 

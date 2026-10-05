@@ -1,7 +1,6 @@
 # Main Page/fi
 
-│ **[Afrikaans (af)](</Main_Page/af> "Main Page/af")** │  **[العربية (ar)](</Main_Page/ar> "Main Page/ar")** │  **[català (ca)](</Main_Page/ca> "Main Page/ca")** │  **[čeština (cs)](</Main_Page/cs> "Main Page/cs")** │  **[Deutsch (de)](</Main_Page/de> "Main Page/de")** │  **[English (en)](<Main_Page.md> "Main Page")** │  **[español (es)](</Main_Page/es> "Main Page/es")** │  **[فارسی (fa)](</Main_Page/fa> "Main Page/fa")** │  **suomi (fi)** │  **[français (fr)](</Main_Page/fr> "Main Page/fr")** │  **[magyar (hu)](</Main_Page/hu> "Main Page/hu")** │  **[Bahasa Indonesia (id)](</Main_Page/id> "Main Page/id")** │  **[italiano (it)](</Main_Page/it> "Main Page/it")** │  **[日本語 (ja)](</Main_Page/ja> "Main Page/ja")** │  **[한국어 (ko)](</Main_Page/ko> "Main Page/ko")** │  **[Nederlands (nl)](</Main_Page/nl> "Main Page/nl")** │  **[polski (pl)](</Main_Page/pl> "Main Page/pl")** │  **[português (pt)](</Main_Page/pt> "Main Page/pt")** │  **[română (ro)](</Main_Page/ro> "Main Page/ro")** │  **[русский (ru)](<../ru/Main_Page.md> "Main Page/ru")** │  **[slovenčina (sk)](</Main_Page/sk> "Main Page/sk")** │  **[svenska (sv)](</Main_Page/sv> "Main Page/sv")** │  **[Türkçe (tr)](</Main_Page/tr> "Main Page/tr")** │  **[українська (uk)](</Main_Page/uk> "Main Page/uk")** │  **[Tiếng Việt (vi)](</Main_Page/vi> "Main Page/vi")** │  **[中文（中国大陆）‎ (zh_CN)](</Main_Page/zh_CN> "Main Page/zh CN")** │  **[中文（台灣）‎ (zh_TW)](</Main_Page/zh_TW> "Main Page/zh TW")** │    
-****
+│ **English (en)** │
 
 # Tervetuloa Lazarus ja FreePascal Wikiin
 
@@ -19,7 +18,7 @@ Jos huomaat jotain epäselvyyksiä tai ongelmia, niin ota yhteyttä sivun [admin
 
 ## Lazaruksen dokumentaatio
 
-Kaikki dokumentaatio ja opiskelumateriaali löytyy [Lazarus dokumentaatiot ](</Lazarus_Documentation/fi> "Lazarus Documentation/fi")-sivulta. 
+Kaikki dokumentaatio ja opiskelumateriaali löytyy Lazarus dokumentaatiot -sivulta. 
 
 Huomaa että monet sivut ovat yhä kehityksen alaisia. 
 
@@ -30,7 +29,7 @@ Huomaa että monet sivut ovat yhä kehityksen alaisia.
   * Lisää dokumentaatiota löytyy [Components and Code examples](<Components_and_Code_examples.md> "Components and Code examples") wikistä.
   * [Free Pascal Compiler tiedostojen imurointi ja peilipalvelimet](<http://www.freepascal.org/sdown.html>)
   * [Lazarus IDE www-sivu](<http://lazarus.freepascal.org>).
-  * Lazaruksen päivittäiset versiot löytyvät [Lazarus Snapshots Downloads/fi](</Lazarus_Snapshots_Downloads/fi> "Lazarus Snapshots Downloads/fi")-sivuilta (Joskus tarjolla saattaa olla aika testaamatonkin versio).
+  * Lazaruksen päivittäiset versiot löytyvät Lazarus Snapshots Downloads/fi-sivuilta (Joskus tarjolla saattaa olla aika testaamatonkin versio).
 
 
 
@@ -58,15 +57,15 @@ Jos olette tehneet tai muokaanneet jonkin komponentin tai kirjaston Lazarukselle
 Aakkosellisesssa järjestyksessä 
 
   * [ englanti (English)](<Main_Page.md> "Main Page")
-  * [ espanja (Español, Spanish)](</Main_Page/es> "Main Page/es")
-  * [ hollanti (Nederlands Dutch)](</Main_Page/nl> "Main Page/nl")
-  * [ italia (Italiano, Italian)](</Main_Page/it> "Main Page/it")
-  * [ japani (Japanese)](</Main_Page/ja> "Main Page/ja")
-  * [ portugali (Portuguese)](</Main_Page/pt> "Main Page/pt")
-  * [ puola (Polish)](</Main_Page/pl> "Main Page/pl")
-  * [ ranska (Français, French)](</Main_Page/fr> "Main Page/fr")
-  * [ saksa (German, Deutsch)](</Main_Page/de> "Main Page/de")
-  * [ slovakki (Slovensky, Slovak)](</Main_Page/sk> "Main Page/sk")
+  *  espanja (Español, Spanish)
+  *  hollanti (Nederlands Dutch)
+  *  italia (Italiano, Italian)
+  *  japani (Japanese)
+  *  portugali (Portuguese)
+  *  puola (Polish)
+  *  ranska (Français, French)
+  *  saksa (German, Deutsch)
+  *  slovakki (Slovensky, Slovak)
   * [ venäjä(Русский, Russian)](<../ru/Main_Page.md> "Main Page/ru")
 
 

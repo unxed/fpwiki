@@ -1,7 +1,6 @@
 # Hardware Access
 
-│ **[Deutsch (de)](</Hardware_Access/de> "Hardware Access/de")** │  **[English (en)](<../en/Hardware_Access.md> "Hardware Access")** │  **[español (es)](</Hardware_Access/es> "Hardware Access/es")** │  **[français (fr)](</Hardware_Access/fr> "Hardware Access/fr")** │  **[magyar (hu)](</Hardware_Access/hu> "Hardware Access/hu")** │  **[日本語 (ja)](</Hardware_Access/ja> "Hardware Access/ja")** │  **[한국어 (ko)](</Hardware_Access/ko> "Hardware Access/ko")** │  **[polski (pl)](</Hardware_Access/pl> "Hardware Access/pl")** │  **[português (pt)](</Hardware_Access/pt> "Hardware Access/pt")** │  **русский (ru)** │  **[slovenčina (sk)](</Hardware_Access/sk> "Hardware Access/sk")** │  **[中文（中国大陆） (zh_CN)](</Hardware_Access/zh_CN> "Hardware Access/zh CN")** │    
-****
+│ **[English (en)](<../en/Hardware_Access.md>)** │  **русский (ru)** │
 
 ## Contents
 

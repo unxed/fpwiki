@@ -1,7 +1,6 @@
 # ARM Embedded Tutorial - FPC and the Raspberry Pi Pico
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 The Raspberry Pi Foundation has released the Raspberry Pi Pico, a very cheap Microcontroller board with quite interesting specs. 
 

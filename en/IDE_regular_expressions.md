@@ -1,7 +1,6 @@
 # IDE regular expressions
 
-│ **English (en)** │  **[español (es)](</IDE_regular_expressions/es> "IDE regular expressions/es")** │  **[suomi (fi)](</IDE_regular_expressions/fi> "IDE regular expressions/fi")** │  **[polski (pl)](</IDE_regular_expressions/pl> "IDE regular expressions/pl")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

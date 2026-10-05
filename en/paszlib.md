@@ -1,7 +1,6 @@
 # paszlib
 
-│ **[Deutsch (de)](</paszlib/de> "paszlib/de")** │  **English (en)** │  **[한국어 (ko)](</paszlib/ko> "paszlib/ko")** │  **[polski (pl)](</paszlib/pl> "paszlib/pl")** │  **[русский (ru)](<../ru/paszlib.md> "paszlib/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/paszlib.md>)** │
 
 **paszlib** is a Pascal conversion of the standard zlib library: you don't need any external dependencies. It was implemented by Jacques Nomssi Nzali (his old homepage is dead, see a continuation of the project [here](<http://sageshome.net/oss/paszlib-sg.php>)). It is used in the FCL to implement the TCompressionStream class. 
 

@@ -1,7 +1,6 @@
 # TSelectDirectoryDialog
 
-│ **English (en)** │  **[français (fr)](</TSelectDirectoryDialog/fr> "TSelectDirectoryDialog/fr")** │  **[русский (ru)](<../ru/TSelectDirectoryDialog.md> "TSelectDirectoryDialog/ru")** │  **[中文（中国大陆）‎ (zh_CN)](</TSelectDirectoryDialog/zh_CN> "TSelectDirectoryDialog/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TSelectDirectoryDialog.md>)** │
 
 **TSelectDirectoryDialog** [![tselectdirectorydialog.png](https://wiki.freepascal.org/images/d/d6/tselectdirectorydialog.png)](</File:tselectdirectorydialog.png>) is a component that aids in selecting a directory in the file system. It can be found on the [Dialogs tab](<Dialogs_tab.md> "Dialogs tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
     

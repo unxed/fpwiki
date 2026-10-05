@@ -1,7 +1,6 @@
 # Startlazarus
 
-│ **English (en)** │  **[magyar (hu)](</Startlazarus/hu> "Startlazarus/hu")** │  **[polski (pl)](</Startlazarus/pl> "Startlazarus/pl")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

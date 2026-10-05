@@ -1,7 +1,6 @@
 # Apple Pascal
 
-│ **English (en)** │  **[français (fr)](</Apple_Pascal/fr> "Apple Pascal/fr")** │    
-****
+│ **English (en)** │
 
 **Apple Pascal** was an implementation of [UCSD Pascal](<UCSD_Pascal.md> "UCSD Pascal") for Apple II computers. The compiler generated code for the UCSD-P virtual machine, which was executed by an interpreter for the 6502 processor written by Mark Allen und Richard Gleaves. 
 

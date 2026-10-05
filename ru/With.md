@@ -1,7 +1,6 @@
 # With
 
-│ **[Deutsch (de)](</With/de> "With/de")** │  **[English (en)](<../en/With.md> "With")** │  **[suomi (fi)](</With/fi> "With/fi")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/With.md>)** │  **русский (ru)** │
 
 [Зарезервированное слово](<Reserved_word.md> "Reserved word/ru") **with** предназначено для сокращенного написания типа [запись (структура)](<Record.md> "Record/ru"). Оно используется совместно с ключевым словом [do](<Do.md> "Do/ru"). 
 

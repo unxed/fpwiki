@@ -12,8 +12,7 @@
 
 См. также: [Multiplatform Programming Guide](<../en/Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **[English (en)](<../en/KOL-CE.md> "KOL-CE")** │  **[français (fr)](</KOL-CE/fr> "KOL-CE/fr")** │  **[한국어 (ko)](</KOL-CE/ko> "KOL-CE/ko")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</KOL-CE/zh_CN> "KOL-CE/zh CN")** │  **[中文（臺灣） (zh_TW)](</KOL-CE/zh_TW> "KOL-CE/zh TW")** │    
-****
+│ **[English (en)](<../en/KOL-CE.md>)** │  **русский (ru)** │
 
 ## Contents
 

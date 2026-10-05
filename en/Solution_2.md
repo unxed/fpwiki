@@ -1,7 +1,6 @@
 # Solution 2
 
-│ [**български (bg)**](</Solution_2/bg> "Solution 2/bg") │  [**Deutsch (de)**](</Solution_2/de> "Solution 2/de") │  **English (en)** │  [**français (fr)**](</Solution_2/fr> "Solution 2/fr") │  [**日本語 (ja)**](</Solution_2/ja> "Solution 2/ja") │  [**中文（中国大陆）‎ (zh_CN)**](</Solution_2/zh_CN> "Solution 2/zh CN") │    
-****
+│ **English (en)** │
 
 [ ◄ ](<Programming_Assignment_2.md> "Programming Assignment 2") | [ ▲ ](<Contents.md> "Contents") | [ ► ](<Sequential_control.md> "Sequential control")  
 ---|---|---  

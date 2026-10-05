@@ -1,7 +1,6 @@
 # FPSpreadsheet: List of formulas
 
-│ **English (en)** │  **[русский (ru)](<../ru/FPSpreadsheet__List_of_formulas.md> "FPSpreadsheet: List of formulas/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/FPSpreadsheet__List_of_formulas.md>)** │
 
   
 

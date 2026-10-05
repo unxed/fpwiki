@@ -1,7 +1,6 @@
 # TActionList
 
-│ **[Deutsch (de)](</TActionList/de> "TActionList/de")** │  **[English (en)](<../en/TActionList.md> "TActionList")** │  **[français (fr)](</TActionList/fr> "TActionList/fr")** │  **[日本語 (ja)](</TActionList/ja> "TActionList/ja")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TActionList.md>)** │  **русский (ru)** │
 
 Компонент **TActionList** [![tactionlist.png](https://wiki.freepascal.org/images/4/4b/tactionlist.png)](</File:tactionlist.png>) является контейнером для объектов [TAction](</index.php?title=TAction/ru&action=edit&redlink=1> "TAction/ru \(page does not exist\)"). Когда объекты _TAction_ используются в свойстве _Action_ таких элементов управления, как кнопки, меню, диалоговые окна, возможно централизовать эффекты щелчков мыши, выбора пунктов меню, выбора элементов в диалоговых окнах и т.д. с помощью одного обработчика события. 
 

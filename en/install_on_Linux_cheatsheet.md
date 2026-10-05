@@ -1,6 +1,6 @@
 # install on Linux cheatsheet
 
-│ **English (en)** │ 
+│ **English (en)** │
 
 ## Contents
 

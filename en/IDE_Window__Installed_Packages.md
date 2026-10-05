@@ -1,7 +1,6 @@
 # IDE Window: Installed Packages
 
-│ **[Deutsch (de)](</IDE_Window:_Installed_Packages/de> "IDE Window: Installed Packages/de")** │  **English (en)** │  **[français (fr)](</IDE_Window:_Installed_Packages/fr> "IDE Window: Installed Packages/fr")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

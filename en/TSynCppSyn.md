@@ -1,7 +1,6 @@
 # TSynCppSyn
 
-│ **English (en)** │  **[français (fr)](</TSynCppSyn/fr> "TSynCppSyn/fr")** │  **[русский (ru)](<../ru/TSynCppSyn.md> "TSynCppSyn/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TSynCppSyn.md>)** │
 
 **TSynCppSyn** [![tsyncppsyn.png](https://wiki.freepascal.org/images/4/4d/tsyncppsyn.png)](</File:tsyncppsyn.png>) is a component that provides the C++-language syntaxchecking-part of syntax-highlighting editing. It is part of the [SynEdit](<SynEdit.md> "SynEdit") package and is available under the [SynEdit tab](<SynEdit_tab.md> "SynEdit tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

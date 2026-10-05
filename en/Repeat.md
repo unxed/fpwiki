@@ -1,7 +1,6 @@
 # Repeat
 
-│ **[Deutsch (de)](</Repeat/de> "Repeat/de")** │  **English (en)** │  **[suomi (fi)](</Repeat/fi> "Repeat/fi")** │  **[français (fr)](</Repeat/fr> "Repeat/fr")** │  **[русский (ru)](<../ru/Repeat.md> "Repeat/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Repeat.md>)** │
 
 This [reserved words](<Reserved_word.md> "Reserved word") `repeat` in conjunction with `until` are used to create tail-controlled [loops](<Loops.md> "Loops"). 
 

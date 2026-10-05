@@ -1,7 +1,6 @@
 # TDataSet
 
-│ **[English (en)](<../en/TDataSet.md> "TDataSet")** │  **[français (fr)](</TDataSet/fr> "TDataSet/fr")** │  **[日本語 (ja)](</TDataSet/ja> "TDataSet/ja")** │  **[polski (pl)](</TDataSet/pl> "TDataSet/pl")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TDataSet.md>)** │  **русский (ru)** │
 
 **TDataSet** является основным объектом, ссылающимся на данные в базе данных. Потомок объекта **TDataSet** работает как указатель на таблицу или обеспечивает ответы на запросы. 
     

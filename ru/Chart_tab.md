@@ -1,7 +1,6 @@
 # Chart tab
 
-│ **[English (en)](<../en/Chart_tab.md> "Chart tab")** │  **[français (fr)](</Chart_tab/fr> "Chart tab/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Chart_tab.md>)** │  **русский (ru)** │
 
 Вкладка **Chart** [палитры компонентов](<Component_Palette.md> "Component Palette/ru") содержит список видимых компонентов библиотеки [LCL](<LCL.md> "LCL/ru") для работы с графиками и диаграммами из пакета [TAChart](<TAChart.md> "TAChart/ru"). 
 

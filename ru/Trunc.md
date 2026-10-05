@@ -1,7 +1,6 @@
 # Trunc
 
-│ **[English (en)](<../en/Trunc.md> "Trunc")** │  **[suomi (fi)](</Trunc/fi> "Trunc/fi")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Trunc.md>)** │  **русский (ru)** │
 
 Функция **Trunc** округляет значение типа [real](<Real.md> "Real/ru") до значение типа [Integer](<Integer.md> "Integer/ru"). X - значение вещественного типа. **Trunc** возвращает значение типа [Longint](<Longint.md> "Longint/ru"), которое является целой частью значения X, округленное до нуля. 
 

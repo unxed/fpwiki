@@ -1,7 +1,6 @@
 # fcl-async
 
-│ **English (en)** │  **[français (fr)](</fcl-async/fr> "fcl-async/fr")** │    
-****
+│ **English (en)** │
 
 The libasync unit provides cross-platform units for asynchronous input/output. It is mainly a low-level implementation of fpasync, which is an OOP implementation of the same routines. 
 

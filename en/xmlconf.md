@@ -1,7 +1,6 @@
 # xmlconf
 
-│ **English (en)** │  **[русский (ru)](<../ru/xmlconf.md> "xmlconf/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/xmlconf.md>)** │
 
 Unit XMLConf provides the TXMLConfig component. It uses a TXMLDocument object to do the work of reading and writing the XMLfile, but descends directly from TComponent. 
 

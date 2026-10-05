@@ -1,7 +1,6 @@
 # TToolBar
 
-│ [**English (en)**](<../en/TToolBar.md> "TToolBar") │  [**français (fr)**](</TToolBar/fr> "TToolBar/fr") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TToolBar.md>)** │  **русский (ru)** │
 
 **TToolBar** [![ttoolbar.png](https://wiki.freepascal.org/images/1/11/ttoolbar.png)](</File:ttoolbar.png>) является визуальным компонентом, расположенным на вкладке [Common Controls](<Common_Controls_tab.md> "Common Controls tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru") и представляющим собой панель инструментов с кнопками [TToolButton](<TToolButton.md> "TToolButton/ru"). 
 

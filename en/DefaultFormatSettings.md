@@ -1,7 +1,6 @@
 # DefaultFormatSettings
 
-│ **English (en)** │  **[français (fr)](</DefaultFormatSettings/fr> "DefaultFormatSettings/fr")** │  **[русский (ru)](<../ru/DefaultFormatSettings.md> "DefaultFormatSettings/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/DefaultFormatSettings.md>)** │
 
 **DefaultFormatSettings** is a [global variable](<Global_variables.md> "Global variables") containing settings for the default [locale](</index.php?title=locale&action=edit&redlink=1> "locale \(page does not exist\)"). Among others it defines the decimal separator, thereby replacing the (now deprecated) global variable [DecimalSeparator](<DecimalSeparator.md> "DecimalSeparator"). 
     

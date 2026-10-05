@@ -1,7 +1,6 @@
 # Contacts Database
 
-│ **English (en)** │  **[español (es)](</Contacts_Database/es> "Contacts Database/es")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

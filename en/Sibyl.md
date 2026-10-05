@@ -1,7 +1,6 @@
 # Sibyl
 
-│ **English (en)** │  **[français (fr)](</Sibyl/fr> "Sibyl/fr")** │    
-****
+│ **English (en)** │
 
 The term **Sibyl** denotes a family of [Object Pascal](<Object_Pascal.md> "Object Pascal") IDEs for [OS/2](</index.php?title=OS/2&action=edit&redlink=1> "OS/2 \(page does not exist\)"), [eComStation](</index.php?title=eComStation&action=edit&redlink=1> "eComStation \(page does not exist\)") and [Windows](<Portal_Windows.md> "Portal:Windows"). 
 

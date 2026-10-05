@@ -1,7 +1,6 @@
 # TSynIniSyn
 
-│ **[English (en)](<../en/TSynIniSyn.md> "TSynIniSyn")** │  **[français (fr)](</TSynIniSyn/fr> "TSynIniSyn/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TSynIniSyn.md>)** │  **русский (ru)** │
 
 **TSynIniSyn** [![tsyninisyn.png](https://wiki.freepascal.org/images/4/4c/tsyninisyn.png)](</File:tsyninisyn.png>) \- компонент, представляющий подсветку корректного синтаксиса INI-файлов при их редактировании. Данный компонент является частью пакета [SynEdit](<SynEdit.md> "SynEdit/ru") и доступен на вкладке [SynEdit](<SynEdit_tab.md> "SynEdit tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

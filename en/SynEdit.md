@@ -1,7 +1,6 @@
 # SynEdit
 
-│ **[Deutsch (de)](</SynEdit/de> "SynEdit/de")** │  **English (en)** │  **[español (es)](</SynEdit/es> "SynEdit/es")** │  **[français (fr)](</SynEdit/fr> "SynEdit/fr")** │  **[日本語 (ja)](</SynEdit/ja> "SynEdit/ja")** │  **[polski (pl)](</SynEdit/pl> "SynEdit/pl")** │  **[русский (ru)](<../ru/SynEdit.md> "SynEdit/ru")** │  **[中文（中国大陆） (zh_CN)](</SynEdit/zh_CN> "SynEdit/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/SynEdit.md>)** │
 
 **SynEdit** is a [syntax highlighting](<Syntax_highlighting.md> "Syntax highlighting") edit/memo package available on the [SynEdit tab](<SynEdit_tab.md> "SynEdit tab") with support for many languages/syntaxes. 
 

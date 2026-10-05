@@ -1,6 +1,6 @@
 # Read
 
-│ [**Deutsch (de)**](</Read/de> "Read/de") │  **English (en)** │    
+│ **English (en)** │
 
 
 The procedures read and readLn retrieve a date from a [text](<Text.md> "Text") or typed [file](</File> "File"). They are defined as part of the [Pascal](<Standard_Pascal.md> "Standard Pascal") programming language. Everyone can expect them to work no matter which compiler has been used. 

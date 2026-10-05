@@ -1,7 +1,6 @@
 # LongWord
 
-│ **English (en)** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Longword.md>)** │
 
 A **[`longWord`](<https://www.freepascal.org/docs-html/rtl/system/longword.html>)** is an unsigned integer data type which is _larger_ than a [`word`](<Word.md> "Word").[[1]](<https://www.gnu-pascal.de/gpc/LongWord.html>) Larger refers to both the permissible range of values and the [size](<SizeOf.md> "SizeOf") occupied in a [`packed`](<Packed.md> "Packed") structure. 
 

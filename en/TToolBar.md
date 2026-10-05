@@ -1,7 +1,6 @@
 # TToolBar
 
-│ **English (en)** │  **[français (fr)](</TToolBar/fr> "TToolBar/fr")** │  **[русский (ru)](<../ru/TToolBar.md> "TToolBar/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TToolBar.md>)** │
 
 **TToolBar** [![ttoolbar.png](https://wiki.freepascal.org/images/1/11/ttoolbar.png)](</File:ttoolbar.png>) is a visible component on the [Common Controls tab](<Common_Controls_tab.md> "Common Controls tab") of the [Component Palette](<Component_Palette.md> "Component Palette") that provides a tool bar with [TToolButtons](<TToolButton.md> "TToolButton"). 
 

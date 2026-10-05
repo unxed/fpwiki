@@ -1,8 +1,6 @@
 # IDE Window: Clean Directory
 
-│ **[Deutsch (de)](</IDE_Window:_Clean_Directory/de> "IDE Window: Clean Directory/de")** │  **English (en)** │  **[suomi (fi)](</IDE_Window:_Clean_Directory/fi> "IDE Window: Clean Directory/fi")** │  **[français (fr)](</IDE_Window:_Clean_Directory/fr> "IDE Window: Clean Directory/fr")** │    
-****  
-****
+│ **English (en)** │
 
 [![File - Clean Directory.png](https://wiki.freepascal.org/images/1/14/File_-_Clean_Directory.png)](</File:File_-_Clean_Directory.png>)
 

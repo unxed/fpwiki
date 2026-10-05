@@ -1,7 +1,6 @@
 # TAChart Tutorial: Getting started
 
-│ **[Deutsch (de)](</TAChart_Tutorial:_Getting_started/de> "TAChart Tutorial: Getting started/de")** │  **[English (en)](<../en/TAChart_Tutorial__Getting_started.md> "TAChart Tutorial: Getting started")** │  **[suomi (fi)](</TAChart_Tutorial:_Getting_started/fi> "TAChart Tutorial: Getting started/fi")** │  **[français (fr)](</TAChart_Tutorial:_Getting_started/fr> "TAChart Tutorial: Getting started/fr")** │  **[日本語 (ja)](</TAChart_Tutorial:_Getting_started/ja> "TAChart Tutorial: Getting started/ja")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TAChart_Tutorial__Getting_started.md>)** │  **русский (ru)** │
 
 ## Contents
 

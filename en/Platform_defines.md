@@ -1,7 +1,6 @@
 # Platform defines
 
-│ **English (en)** │  **[français (fr)](</Platform_defines/fr> "Platform defines/fr")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

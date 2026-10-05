@@ -1,7 +1,6 @@
 # Word
 
-│ **[Deutsch (de)](</Word/de> "Word/de")** │  **English (en)** │  **[suomi (fi)](</Word/fi> "Word/fi")** │  **[français (fr)](</Word/fr> "Word/fr")** │  **[русский (ru)](<../ru/Word.md> "Word/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Word.md>)** │
 
 A **word** is the processor’s native data unit. Modern consumer processors have a word width of [64 bits](<64_bit.md> "64 bit"). 
 

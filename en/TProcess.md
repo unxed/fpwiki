@@ -1,7 +1,6 @@
 # TProcess
 
-│ **English (en)** │  **[suomi (fi)](</TProcess/fi> "TProcess/fi")** │  **[français (fr)](</TProcess/fr> "TProcess/fr")** │  **[polski (pl)](</TProcess/pl> "TProcess/pl")** │    
-****
+│ **English (en)** │
 
 **TProcess** [![tprocess.png](https://wiki.freepascal.org/images/f/fb/tprocess.png)](</File:tprocess.png>) is a non-visual component on the [System tab](<System_tab.md> "System tab") of the [Component Palette](<Component_Palette.md> "Component Palette") that enables easy execution of external programs. 
 

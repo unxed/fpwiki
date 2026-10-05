@@ -1,7 +1,6 @@
 # How To Help Developing Lazarus
 
-│ **[Deutsch (de)](</How_To_Help_Developing_Lazarus/de> "How To Help Developing Lazarus/de")** │  **English (en)** │  **[español (es)](</How_To_Help_Developing_Lazarus/es> "How To Help Developing Lazarus/es")** │  **[Bahasa Indonesia (id)](</How_To_Help_Developing_Lazarus/id> "How To Help Developing Lazarus/id")** │  **[日本語 (ja)](</How_To_Help_Developing_Lazarus/ja> "How To Help Developing Lazarus/ja")** │  **[português (pt)](</How_To_Help_Developing_Lazarus/pt> "How To Help Developing Lazarus/pt")** │  **[русский (ru)](<../ru/How_To_Help_Developing_Lazarus.md> "How To Help Developing Lazarus/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/How_To_Help_Developing_Lazarus.md>)** │
 
 ## Contents
 

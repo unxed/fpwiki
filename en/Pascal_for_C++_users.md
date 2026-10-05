@@ -1,7 +1,6 @@
 # Pascal for C users
 
-│ **[Deutsch (de)](</Pascal_for_C_users/de> "Pascal for C users/de")** │  **English (en)** │  **[français (fr)](</Pascal_for_C_users/fr> "Pascal for C users/fr")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

@@ -1,7 +1,6 @@
 # Standard Pascal
 
-│ **[العربية (ar)](</Standard_Pascal/ar> "Standard Pascal/ar")** │  **[Deutsch (de)](</Standard_Pascal/de> "Standard Pascal/de")** │  **English (en)** │  **[español (es)](</Standard_Pascal/es> "Standard Pascal/es")** │  **[suomi (fi)](</Standard_Pascal/fi> "Standard Pascal/fi")** │  **[français (fr)](</Standard_Pascal/fr> "Standard Pascal/fr")** │  **[Bahasa Indonesia (id)](</Standard_Pascal/id> "Standard Pascal/id")** │  **[日本語 (ja)](</Standard_Pascal/ja> "Standard Pascal/ja")** │  **[português (pt)](</Standard_Pascal/pt> "Standard Pascal/pt")** │  **[русский (ru)](<../ru/Standard_Pascal.md> "Standard Pascal/ru")** │  **[中文（中国大陆） (zh_CN)](</Standard_Pascal/zh_CN> "Standard Pascal/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Standard_Pascal.md>)** │
 
 In 1974, the creator of the [Pascal](<Pascal.md> "Pascal") language, [Niklaus Wirth](<Niklaus_Wirth.md> "Niklaus Wirth") wrote a book with Kathleen Jensen, titled _[Pascal User Manual and Report](<Pascal_User_Manual_and_Report.md> "Pascal User Manual and Report")_ published by Springer-Verlag. This book became a de-facto standard for the Pascal language. In 1983 the International Standards Organization (ISO) formalized the de-facto standard as ISO 7185:1983. In 1990 ISO released an updated version - ISO 7185:1990 - that didn't introduce any new concepts, but cleared up ambiguities and corrected errors that were in the earlier version. The ISO 7185 standard is referred to as **Standard Pascal**. The standard defines the minimum level that a [Pascal compiler](<Compiler.md> "Compiler") must support in order to be a true compiler of the Pascal language. 
 

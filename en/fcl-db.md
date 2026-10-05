@@ -1,7 +1,6 @@
 # fcl-db
 
-│ **English (en)** │  **[français (fr)](</fcl-db/fr> "fcl-db/fr")** │  **[polski (pl)](</fcl-db/pl> "fcl-db/pl")** │    
-****
+│ **English (en)** │
 
 The package **fcl-db** contains most of FPC's higher level database system, plus table drivers for some popular systems. (<LAZDIR>/fpc/3.0.0/source/packages/fcl-db) 
 

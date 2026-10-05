@@ -1,8 +1,7 @@
 # Advantage Database Server
 
-│ **English (en)** │  **[français (fr)](</Advantage_Database_Server/fr> "Advantage Database Server/fr")** │    
-****  
-  
+│ **English (en)** │
+
 ---  
 [**Databases portal**](<Portal_Databases.md> "Portal:Databases")  
 References: 

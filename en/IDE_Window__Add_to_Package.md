@@ -1,7 +1,6 @@
 # IDE Window: Add to Package
 
-│ [**Deutsch (de)**](</IDE_Window:_Add_to_Package/de> "IDE Window: Add to Package/de") │  **English (en)** │  [**français (fr)**](</IDE_Window:_Add_to_Package/fr> "IDE Window: Add to Package/fr") │    
-****
+│ **English (en)** │
 
 ## Contents
 

@@ -1,7 +1,6 @@
 # TPageSetupDialog
 
-│ **English (en)** │  **[français (fr)](</TPageSetupDialog/fr> "TPageSetupDialog/fr")** │  **[русский (ru)](<../ru/TPageSetupDialog.md> "TPageSetupDialog/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TPageSetupDialog.md>)** │
 
 **TPageSetupDialog** [![tpagesetupdialog.png](https://wiki.freepascal.org/images/6/68/tpagesetupdialog.png)](</File:tpagesetupdialog.png>) is a dialog that aids selecting page properties for a print job. It can be found on the [Dialogs tab](<Dialogs_tab.md> "Dialogs tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

@@ -1,7 +1,6 @@
 # TRadioGroup
 
-│ **[Deutsch (de)](</TRadioGroup/de> "TRadioGroup/de")** │  **[English (en)](<../en/TRadioGroup.md> "TRadioGroup")** │  **[suomi (fi)](</TRadioGroup/fi> "TRadioGroup/fi")** │  **[français (fr)](</TRadioGroup/fr> "TRadioGroup/fr")** │  **[日本語 (ja)](</TRadioGroup/ja> "TRadioGroup/ja")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TRadioGroup.md>)** │  **русский (ru)** │
 
 **TRadioGroup** [![tradiogroup.png](https://wiki.freepascal.org/images/b/b8/tradiogroup.png)](</File:tradiogroup.png>) является элементом управления с взаимосвязанными, но взаимоисключающими переключателями (элементами [TRadioButton](</index.php?title=TRadioButton/ru&action=edit&redlink=1> "TRadioButton/ru \(page does not exist\)")), в котором требуется выбрать один из нескольких вариантов. Данный элемент выглядит подобно элементу [TGroupBox](<TGroupBox.md> "TGroupBox/ru") с интегрированными в него элементами [TRadioButton](</index.php?title=TRadioButton/ru&action=edit&redlink=1> "TRadioButton/ru \(page does not exist\)"). 
 

@@ -1,7 +1,6 @@
 # TSynPerlSyn
 
-│ **[English (en)](<../en/TSynPerlSyn.md> "TSynPerlSyn")** │  **[français (fr)](</TSynPerlSyn/fr> "TSynPerlSyn/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TSynPerlSyn.md>)** │  **русский (ru)** │
 
 **TSynPerlSyn** [![tsynperlsyn.png](https://wiki.freepascal.org/images/6/63/tsynperlsyn.png)](</File:tsynperlsyn.png>) \- компонент, представляющий подсветку корректного синтаксиса кода на языке Perl при его редактировании. Данный компонент является частью пакета [SynEdit](<SynEdit.md> "SynEdit/ru") и доступен на вкладке [SynEdit](<SynEdit_tab.md> "SynEdit tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

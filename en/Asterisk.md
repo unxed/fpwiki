@@ -1,7 +1,6 @@
 # *
 
-│ **English (en)** │  **[suomi (fi)](</*/fi> "*/fi")** │  **[français (fr)](</*/fr> "*/fr")** │  **[русский (ru)](<../ru/_.md> "*/ru")** │    
-****
+│ **English (en)** │
 
 *
 

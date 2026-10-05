@@ -1,7 +1,6 @@
 # nxPascal
 
-│ **English (en)** │  [**français (fr)**](</nxPascal/fr> "nxPascal/fr") │    
-****
+│ **English (en)** │
 
 nxPascal is a free 3D game engine that tries to remain lightweight and portable. 
 

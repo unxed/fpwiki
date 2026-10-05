@@ -1,7 +1,6 @@
 # xpath
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 Just an XPath implementation. Should be fairly complete, but there hasn't been further development recently. 
 

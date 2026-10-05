@@ -6,8 +6,8 @@
 
 IDE Options - Help - Help Options
 
-│ **[Deutsch (de)](</IDE_Window:_Help_Options/de> "IDE Window: Help Options/de")** │  **English (en)** │    
-****  
+│ **English (en)** │
+
 _(Help for this tab should be presented in hints, because when nothing is yet configured...)_
 
 ### Help Options

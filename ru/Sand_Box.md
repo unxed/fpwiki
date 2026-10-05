@@ -1,6 +1,6 @@
 # Sand Box
 
-│ **[Deutsch (de)](</Sand_Box/de> "Sand Box/de")** │  **[English (en)](<../en/Sand_Box.md> "Sand Box")** │  **[español (es)](</Sand_Box/es> "Sand Box/es")** │  **[Bahasa Indonesia (id)](</Sand_Box/id> "Sand Box/id")** │  **[italiano (it)](</Sand_Box/it> "Sand Box/it")** │  **[日本語 (ja)](</Sand_Box/ja> "Sand Box/ja")** │  **[polski (pl)](</Sand_Box/pl> "Sand Box/pl")** │  **русский (ru)** │  **[slovenčina (sk)](</Sand_Box/sk> "Sand Box/sk")** │  **[中文（中国大陆） (zh_CN)](</Sand_Box/zh_CN> "Sand Box/zh CN")** │ 
+│ **[English (en)](<../en/Sand_Box.md>)** │  **русский (ru)** │
 
 ## Contents
 

@@ -1,7 +1,6 @@
 # TDateTimePicker
 
-│ **[English (en)](<../en/TDateTimePicker.md> "TDateTimePicker")** │  **[français (fr)](</TDateTimePicker/fr> "TDateTimePicker/fr")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</TDateTimePicker/zh_CN> "TDateTimePicker/zh CN")** │    
-****
+│ **[English (en)](<../en/TDateTimePicker.md>)** │  **русский (ru)** │
 
 Компонент **TDateTimePicker** [![tdatetimepicker.png](https://wiki.freepascal.org/images/4/42/tdatetimepicker.png)](</File:tdatetimepicker.png>) является элементом управления, помогающим в выборе корректной даты и/или времени. Компонент **TDateTimePicker** находится на вкладке [Common Controls](<Common_Controls_tab.md> "Common Controls tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

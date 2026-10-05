@@ -1,7 +1,6 @@
 # Lisa Pascal
 
-│ **English (en)** │  **[suomi (fi)](</Lisa_Pascal/fi> "Lisa Pascal/fi")** │  **[français (fr)](</Lisa_Pascal/fr> "Lisa Pascal/fr")** │    
-****
+│ **English (en)** │
 
 **Lisa Pascal** was a [Pascal](<Pascal.md> "Pascal") implementation for the Apple Lisa workstation. It was an extension of the earlier [Apple Pascal](<Apple_Pascal.md> "Apple Pascal") for Apple II machines, but generated object code for 68000 processors that had to be linked against the required libraries in the Lisa OS workshop. 
 

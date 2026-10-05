@@ -1,7 +1,6 @@
 # Nullable types
 
-│ **English (en)** │  **[suomi (fi)](</Nullable_types/fi> "Nullable types/fi")** │    
-****
+│ **English (en)** │
 
 Nullable types are types which can have no value (can be unassigned). One such type in Pascal is [Pointer](<Pointer.md> "Pointer") type which can have [`nil`](<Nil.md> "Nil") value which means that it isn't assigned to any specific address. Same behavior can be implemented using [generic types](<Generics.md> "Generics") and advanced records with [operator overloading](<Operator_overloading.md> "Operator overloading"). 
 

@@ -1,7 +1,6 @@
 # IDE Window: Environment Options
 
-│ **[Deutsch (de)](</IDE_Window:_Environment_Options/de> "IDE Window: Environment Options/de")** │  **English (en)** │  **[français (fr)](</IDE_Window:_Environment_Options/fr> "IDE Window: Environment Options/fr")** │    
-****
+│ **English (en)** │
 
 [![IDE-options-Environment.JPG](https://wiki.freepascal.org/images/6/69/IDE-options-Environment.JPG)](</File:IDE-options-Environment.JPG>)
 

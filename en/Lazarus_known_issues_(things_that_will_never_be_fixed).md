@@ -1,7 +1,6 @@
 # Lazarus known issues (things that will never be fixed)
 
-│ **English (en)** │  **[日本語 (ja)](</Lazarus_known_issues_\(things_that_will_never_be_fixed\)/ja> "Lazarus known issues \(things that will never be fixed\)/ja")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

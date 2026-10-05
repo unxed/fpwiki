@@ -1,6 +1,6 @@
 # If
 
-│ [**Deutsch (de)**](</If/de> "If/de") │  **English (en)** │  [**français (fr)**](</If/fr> "If/fr") │  [**中文（中国大陆）‎ (zh_CN)**](</If/zh_CN> "If/zh CN") │    
+│ **English (en)** │
 
 
 This [keyword](<Keyword.md> "Keyword") precedes a condition, must be followed by [then](<Then.md> "Then") and may optionally be followed by [else](<Else.md> "Else"). 

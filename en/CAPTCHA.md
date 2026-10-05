@@ -1,7 +1,6 @@
 # CAPTCHA
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 ## Contents
 

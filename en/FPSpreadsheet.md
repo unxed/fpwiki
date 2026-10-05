@@ -1,7 +1,6 @@
 # FPSpreadsheet
 
-│ **[Deutsch (de)](</FPSpreadsheet/de> "FPSpreadsheet/de")** │  **English (en)** │  **[español (es)](</FPSpreadsheet/es> "FPSpreadsheet/es")** │  **[français (fr)](</FPSpreadsheet/fr> "FPSpreadsheet/fr")** │  **[polski (pl)](</FPSpreadsheet/pl> "FPSpreadsheet/pl")** │  **[русский (ru)](<../ru/FPSpreadsheet.md> "FPSpreadsheet/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/FPSpreadsheet.md>)** │
 
 The fpSpreadsheet library offers a convenient way to generate and read spreadsheet documents in various formats. The library is written in a very flexible manner, capable of being extended to support any number of formats easily. 
 

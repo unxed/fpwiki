@@ -1,7 +1,6 @@
 # Less than
 
-│ **[English (en)](<../en/Less_than.md> "Less than")** │  **[suomi (fi)](</Less_than/fi> "Less than/fi")** │  **[français (fr)](</Less_than/fr> "Less than/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Less_than.md>)** │  **русский (ru)** │
 
 <
 

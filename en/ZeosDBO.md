@@ -1,8 +1,7 @@
 # ZeosDBO
 
-│ **English (en)** │  [**français (fr)**](</ZeosDBO/fr> "ZeosDBO/fr") │    
-****  
-  
+│ **English (en)** │
+
 ---  
 [**Databases portal**](<Portal_Databases.md> "Portal:Databases")  
 References: 

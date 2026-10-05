@@ -1,7 +1,6 @@
 # Spatialite
 
-│ **English (en)** │  **[français (fr)](</Spatialite/fr> "Spatialite/fr")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

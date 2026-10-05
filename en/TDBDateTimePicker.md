@@ -1,6 +1,6 @@
 # TDBDateTimePicker
 
-│ **English (en)** │  [**français (fr)**](</TDBDateTimePicker/fr> "TDBDateTimePicker/fr") │  [**русский (ru)**](<../ru/TDBDateTimePicker.md> "TDBDateTimePicker/ru") │    
+│ **English (en)** │  **[русский (ru)](<../ru/TDBDateTimePicker.md>)** │
 
 
 The **TDBDateTimePicker** [![tdbdatetimepicker.png](https://wiki.freepascal.org/images/7/7f/tdbdatetimepicker.png)](</File:tdbdatetimepicker.png>) component is a control that assists in picking a correct date and/or time for use with database connections. TDBDateTimePicker is found on the the [Data Controls tab](<Data_Controls_tab.md> "Data Controls tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 

@@ -1,7 +1,6 @@
 # Size Matters
 
-│ **[Deutsch (de)](</Size_Matters/de> "Size Matters/de")** │  **[English (en)](<../en/Size_Matters.md> "Size Matters")** │  **[français (fr)](</Size_Matters/fr> "Size Matters/fr")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</Size_Matters/zh_CN> "Size Matters/zh CN")** │    
-****
+│ **[English (en)](<../en/Size_Matters.md>)** │  **русский (ru)** │
 
 ## Contents
 

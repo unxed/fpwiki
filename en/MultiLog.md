@@ -1,7 +1,6 @@
 # MultiLog
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 ## Contents
 

@@ -1,7 +1,6 @@
 # Whole Program Optimization
 
-│ **English (en)** │  **[français (fr)](</Whole_Program_Optimization/fr> "Whole Program Optimization/fr")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

@@ -6,7 +6,7 @@ This article applies to [macOS](</Category:macOS> "Category:macOS") only.
 
 See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **English (en)** │ 
+│ **English (en)** │
 
 No professional macOS application should be without a functioning Apple Help Book. Unfortunately Apple make it harder than it should be for developers to create an Apple Help Book because the official documentation is significantly out of date (2013 anyone?) and the Apple Help Viewer has undergone significant change in recent versions of the operating system. For the full details on how to add an Apple Help Book to your application, along with sample code, read on. 
 

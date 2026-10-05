@@ -1,7 +1,6 @@
 # Inherited
 
-│ **[Deutsch (de)](</Inherited/de> "Inherited/de")** │  **[English (en)](<../en/Inherited.md> "Inherited")** │  **[suomi (fi)](</Inherited/fi> "Inherited/fi")** │  **[français (fr)](</Inherited/fr> "Inherited/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Inherited.md>)** │  **русский (ru)** │
 
 В переопределяемом виртуальном [методе](<../en/Method.md> "Method") часто необходимо вызывать реализацию виртуального метода родительского [`class`](<Class.md> "Class/ru"). Это можно сделать с помощью [зарезервированного слова](<Reserved_word.md> "Reserved word/ru") `inherited`. Аналогично, [ ключевое слово](<Keyword.md> "Keyword/ru") `inherited` может использоваться для вызова любого метода родительского `class`. 
 

@@ -1,7 +1,6 @@
 # IDE Window: Package Graph
 
-│ [**Deutsch (de)**](</IDE_Window:_Package_Graph/de> "IDE Window: Package Graph/de") │  **English (en)** │  [**français (fr)**](</IDE_Window:_Package_Graph/fr> "IDE Window: Package Graph/fr") │    
-****
+│ **English (en)** │
 
 The package graph shows the currently loaded packages and which package uses which and is used by which. 
 

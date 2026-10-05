@@ -1,7 +1,6 @@
 # ZenGL
 
-│ **[Deutsch (de)](</ZenGL/de> "ZenGL/de")** │  **[English (en)](<../en/ZenGL.md> "ZenGL")** │  **[español (es)](</ZenGL/es> "ZenGL/es")** │  **[français (fr)](</ZenGL/fr> "ZenGL/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/ZenGL.md>)** │  **русский (ru)** │
 
   
 ZenGL/ru | [Tutorial 1](<ZenGL_Tutorial.md> "ZenGL Tutorial/ru") | [Tutorial 2](<ZenGL_Tutorial_2.md> "ZenGL Tutorial 2/ru") | [Tutorial 3](</index.php?title=ZenGL_Tutorial_3/ru&action=edit&redlink=1> "ZenGL Tutorial 3/ru \(page does not exist\)") | [Edit](<http://wiki.lazarus.freepascal.org/index.php?title=Template:ZenGL_Tutorial_Index/ru&action=edit>)

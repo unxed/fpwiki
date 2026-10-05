@@ -1,7 +1,6 @@
 # TEdit
 
-│ **[Deutsch (de)](</TEdit/de> "TEdit/de")** │  **English (en)** │  **[suomi (fi)](</TEdit/fi> "TEdit/fi")** │  **[français (fr)](</TEdit/fr> "TEdit/fr")** │  **[日本語 (ja)](</TEdit/ja> "TEdit/ja")** │  **[русский (ru)](<../ru/TEdit.md> "TEdit/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TEdit.md>)** │
 
 A **TEdit** [![tedit.png](https://wiki.freepascal.org/images/0/07/tedit.png)](</File:tedit.png>) is a control with a single line of editable text. It is available from the [Standard tab](<Standard_tab.md> "Standard tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

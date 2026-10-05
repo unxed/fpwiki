@@ -1,6 +1,6 @@
 # How to donate to Lazarus
 
-│ **English (en)** │  [**русский (ru)**](<../ru/How_to_donate_to_Lazarus.md> "How to donate to Lazarus/ru") │ 
+│ **English (en)** │  **[русский (ru)](<../ru/How_to_donate_to_Lazarus.md>)** │
 
 ## Contents
 

@@ -1,6 +1,6 @@
 # fpcup
 
-│ **English (en)** │ 
+│ **English (en)** │
 
 ## Contents
 

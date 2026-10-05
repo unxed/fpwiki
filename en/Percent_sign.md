@@ -1,7 +1,6 @@
 # Percent sign
 
-│ **English (en)** │  **[suomi (fi)](</Percent_sign/fi> "Percent sign/fi")** │  **[français (fr)](</Percent_sign/fr> "Percent sign/fr")** │  **[português (pt)](</Percent_sign/pt> "Percent sign/pt")** │  **[русский (ru)](<../ru/Percent_sign.md> "Percent sign/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Percent_sign.md>)** │
 
 %
 

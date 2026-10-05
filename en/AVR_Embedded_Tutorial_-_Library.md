@@ -1,6 +1,6 @@
 # AVR Embedded Tutorial - Library
 
-│ **[Deutsch (de)](</AVR_Embedded_Tutorial_-_Library/de> "AVR Embedded Tutorial - Library/de")** │  **English (en)** │ 
+│ **English (en)** │
 
 # AVR Libraries
 

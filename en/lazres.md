@@ -1,7 +1,6 @@
 # lazres
 
-│ [**Deutsch (de)**](</lazres/de> "lazres/de") │  **English (en)** │    
-****
+│ **English (en)** │
 
 [![Note-icon.png](https://wiki.freepascal.org/images/b/be/Note-icon.png)](</File:Note-icon.png>)
 

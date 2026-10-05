@@ -1,7 +1,6 @@
 # TDbf
 
-│ **English (en)** │  **[français (fr)](</TDbf/fr> "TDbf/fr")** │  **[русский (ru)](<../ru/TDbf.md> "TDbf/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TDbf.md>)** │
 
 **TDbf** [![tdbf.png](https://wiki.freepascal.org/images/b/bb/tdbf.png)](</File:tdbf.png>) is a component that provides an interface to dBASE databases. It is available from the [Data Access tab](<Data_Access_tab.md> "Data Access tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

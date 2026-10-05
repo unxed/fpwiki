@@ -1,7 +1,6 @@
 # Exports
 
-│ **[Deutsch (de)](</Exports/de> "Exports/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
   
 Back to the [Reserved words](<Reserved_words.md> "Reserved words"). 

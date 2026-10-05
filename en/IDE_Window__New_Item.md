@@ -1,8 +1,6 @@
 # IDE Window: New Item
 
-│ **English (en)** │  **[français (fr)](</IDE_Window:_New_Item/fr> "IDE Window: New Item/fr")** │  **[русский (ru)](<../ru/IDE_Window__New_Item.md> "IDE Window: New Item/ru")** │    
-****  
-****
+│ **English (en)** │  **[русский (ru)](<../ru/IDE_Window__New_Item.md>)** │
 
 The **File|New item** dialog allows to create some entity in the IDE - new application, new unit, new package, new form, etc. Most of the items just create some entity without questions. But "Inherited project component" shows additional GUI to choose, from what to inherit your new form/component. Additional items may appear in dialog, from installed Lazarus packages. 
 

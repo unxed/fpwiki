@@ -1,7 +1,6 @@
 # TINIPropStorage
 
-│ **[Deutsch (de)](</TINIPropStorage/de> "TINIPropStorage/de")** │  **English (en)** │  **[français (fr)](</TINIPropStorage/fr> "TINIPropStorage/fr")** │  **[русский (ru)](<../ru/TINIPropStorage.md> "TINIPropStorage/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TINIPropStorage.md>)** │
 
 **TINIPropStorage** [![tinipropstorage.png](https://wiki.freepascal.org/images/2/20/tinipropstorage.png)](</File:tinipropstorage.png>) is a component to save selected properties and to restore (either from [TForm](<TForm.md> "TForm") or each control on it). It works with the TForm.SessionProperties property. You can find it on the [Misc tab](<Misc_tab.md> "Misc tab") in the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

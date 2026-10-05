@@ -1,7 +1,6 @@
 # TTrayIcon
 
-│ **English (en)** │  **[français (fr)](</TTrayIcon/fr> "TTrayIcon/fr")** │  **[日本語 (ja)](</TTrayIcon/ja> "TTrayIcon/ja")** │  **[русский (ru)](<../ru/TTrayIcon.md> "TTrayIcon/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TTrayIcon.md>)** │
 
 **TTrayIcon** [![ttrayicon.png](https://wiki.freepascal.org/images/8/8d/ttrayicon.png)](</File:ttrayicon.png>) is a component that creates an program icon in the system tray. It is available under the [Additional tab](<Additional_tab.md> "Additional tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

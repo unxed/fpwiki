@@ -1,7 +1,6 @@
 # LazReport Documentation
 
-│ **[Deutsch (de)](</LazReport_Documentation/de> "LazReport Documentation/de")** │  **English (en)** │  **[español (es)](</LazReport_Documentation/es> "LazReport Documentation/es")** │  **[polski (pl)](</LazReport_Documentation/pl> "LazReport Documentation/pl")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

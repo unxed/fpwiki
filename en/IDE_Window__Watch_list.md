@@ -1,8 +1,6 @@
 # IDE Window: Watch list
 
-│ [**Deutsch (de)**](</IDE_Window:_Watch_list/de> "IDE Window: Watch list/de") │  **English (en)** │  [**français (fr)**](</IDE_Window:_Watch_list/fr> "IDE Window: Watch list/fr") │    
-****  
-****
+│ **English (en)** │  **[русский (ru)](<../ru/IDE_Window__Watch_list.md>)** │
 
 ## Contents
 

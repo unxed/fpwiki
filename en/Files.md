@@ -1,7 +1,6 @@
 # Files
 
-│ [**български (bg)**](</Files/bg> "Files/bg") │  [**Deutsch (de)**](</Files/de> "Files/de") │  **English (en)** │  [**français (fr)**](</Files/fr> "Files/fr") │  [**日本語 (ja)**](</Files/ja> "Files/ja") │  [**中文（中国大陆）‎ (zh_CN)**](</Files/zh_CN> "Files/zh CN") │    
-****
+│ **English (en)** │
 
 [ ◄ ](<Formatting_output.md> "Formatting output") | [ ▲ ](<Contents.md> "Contents") | [ ► ](<EOLN_and_EOF.md> "EOLN and EOF")  
 ---|---|---  

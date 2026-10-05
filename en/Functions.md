@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Chapter 4/Functions
 
-│ **[български (bg)](</Basic_Pascal_Tutorial/Chapter_4/Functions/bg> "Basic Pascal Tutorial/Chapter 4/Functions/bg")** │  **English (en)** │  **[français (fr)](</Basic_Pascal_Tutorial/Chapter_4/Functions/fr> "Basic Pascal Tutorial/Chapter 4/Functions/fr")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Chapter_4/Functions/ja> "Basic Pascal Tutorial/Chapter 4/Functions/ja")** │  **[中文（中国大陆） (zh_CN)](</Basic_Pascal_Tutorial/Chapter_4/Functions/zh_CN> "Basic Pascal Tutorial/Chapter 4/Functions/zh CN")** │    
-****
+│ **English (en)** │
 
 [ ◄ ](<Basic_Pascal_Tutorial/Chapter_4/Parameters.md> "Basic Pascal Tutorial/Chapter 4/Parameters") | [ ▲ ](<Basic_Pascal_Tutorial/Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Basic_Pascal_Tutorial/Chapter_4/Scope.md> "Basic Pascal Tutorial/Chapter 4/Scope")  
 ---|---|---  

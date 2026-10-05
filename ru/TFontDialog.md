@@ -1,7 +1,6 @@
 # TFontDialog
 
-│ **[English (en)](<../en/TFontDialog.md> "TFontDialog")** │  **[français (fr)](</TFontDialog/fr> "TFontDialog/fr")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</TFontDialog/zh_CN> "TFontDialog/zh CN")** │    
-****
+│ **[English (en)](<../en/TFontDialog.md>)** │  **русский (ru)** │
 
 **TFontDialog** [![tfontdialog.png](https://wiki.freepascal.org/images/6/61/tfontdialog.png)](</File:tfontdialog.png>) компонент, позволяющий выбрать шрифт. Он расположен на вкладке [Dialogs](<Dialogs_tab.md> "Dialogs tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

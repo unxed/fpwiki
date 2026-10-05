@@ -1,7 +1,6 @@
 # Perlin Noise
 
-│ **English (en)** │  [**français (fr)**](</Perlin_Noise/fr> "Perlin Noise/fr") │  [**中文（中国大陆）‎ (zh_CN)**](</Perlin_Noise/zh_CN> "Perlin Noise/zh CN") │    
-****
+│ **English (en)** │
 
 This page is the start of a tutorial about using Perlin Noise on LCL applications to generate natural looking images. It will cover both basic theory and real usage examples, with a focus on compilable examples. 
 

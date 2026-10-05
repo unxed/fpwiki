@@ -2,8 +2,7 @@
 
 [![fpc source logo.png](https://wiki.freepascal.org/images/e/e1/fpc_source_logo.png)](</File:fpc_source_logo.png>)
 
-│ **[Deutsch (de)](</Palindrome/de> "Palindrome/de")** │  **English (en)** │  **[suomi (fi)](</Palindrome/fi> "Palindrome/fi")** │  **[français (fr)](</Palindrome/fr> "Palindrome/fr")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

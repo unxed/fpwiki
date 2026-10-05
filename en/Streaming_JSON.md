@@ -1,7 +1,6 @@
 # Streaming JSON
 
-│ **[Deutsch (de)](</Streaming_JSON/de> "Streaming JSON/de")** │  **English (en)** │  **[polski (pl)](</Streaming_JSON/pl> "Streaming JSON/pl")** │  **[русский (ru)](<../ru/Streaming_JSON.md> "Streaming JSON/ru")** │  **[中文（中国大陆） (zh_CN)](</Streaming_JSON/zh_CN> "Streaming JSON/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Streaming_JSON.md>)** │
 
 [JSON](<JSON.md> "JSON") (JavaScript Object Notation) is a text-based, standardized data format. As the name implies, JSON documents are valid JavaScript code and can be directly converted into JavaScript objects. However, JSON can be used for data exchange regardless of the programming language used. 
 

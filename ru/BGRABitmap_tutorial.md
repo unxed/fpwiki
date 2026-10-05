@@ -1,7 +1,6 @@
 # BGRABitmap tutorial
 
-│ **[Deutsch (de)](</BGRABitmap_tutorial/de> "BGRABitmap tutorial/de")** │  **[English (en)](<../en/BGRABitmap_tutorial.md> "BGRABitmap tutorial")** │  **[español (es)](</BGRABitmap_tutorial/es> "BGRABitmap tutorial/es")** │  **[français (fr)](</BGRABitmap_tutorial/fr> "BGRABitmap tutorial/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/BGRABitmap_tutorial.md>)** │  **русский (ru)** │
 
 [ **Home**](<../en/BGRABitmap_tutorial.md> "BGRABitmap tutorial") | [ **Tutorial 1**](<../en/BGRABitmap_tutorial_1.md> "BGRABitmap tutorial 1") | [ **Tutorial 2**](<../en/BGRABitmap_tutorial_2.md> "BGRABitmap tutorial 2") | [ **Tutorial 3**](<../en/BGRABitmap_tutorial_3.md> "BGRABitmap tutorial 3") | [ **Tutorial 4**](<../en/BGRABitmap_tutorial_4.md> "BGRABitmap tutorial 4") | [ **Tutorial 5**](<../en/BGRABitmap_tutorial_5.md> "BGRABitmap tutorial 5") | [ **Tutorial 6**](<../en/BGRABitmap_tutorial_6.md> "BGRABitmap tutorial 6") | [ **Tutorial 7**](<../en/BGRABitmap_tutorial_7.md> "BGRABitmap tutorial 7") | [ **Tutorial 8**](<../en/BGRABitmap_tutorial_8.md> "BGRABitmap tutorial 8") | [ **Tutorial 9**](<../en/BGRABitmap_tutorial_9.md> "BGRABitmap tutorial 9") | [ **Tutorial 10**](<../en/BGRABitmap_tutorial_10.md> "BGRABitmap tutorial 10") | [ **Tutorial 11**](<../en/BGRABitmap_tutorial_11.md> "BGRABitmap tutorial 11") | [ **Tutorial 12**](<../en/BGRABitmap_tutorial_12.md> "BGRABitmap tutorial 12") | [ **Tutorial 13**](<../en/BGRABitmap_tutorial_13.md> "BGRABitmap tutorial 13") | [ **Tutorial 14**](<../en/BGRABitmap_tutorial_14.md> "BGRABitmap tutorial 14") | [ **Tutorial 15**](<../en/BGRABitmap_tutorial_15.md> "BGRABitmap tutorial 15") | [ **Tutorial 16**](<../en/BGRABitmap_tutorial_16.md> "BGRABitmap tutorial 16") | Edit
 

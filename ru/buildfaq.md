@@ -1,7 +1,7 @@
 # buildfaq
 
-[**English (en)**](<../en/buildfaq.md> "buildfaq") | [**magyar (hu)**](</buildfaq/hu> "buildfaq/hu") | **русский (ru)**   
-****
+│ **[English (en)](<../en/buildfaq.md>)** │  **русский (ru)** │
+
 
 ## Обзор
 

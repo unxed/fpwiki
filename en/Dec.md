@@ -1,7 +1,6 @@
 # Dec
 
-│ [**Deutsch (de)**](</Dec/de> "Dec/de") │  **English (en)** │  [**suomi (fi)**](</Dec/fi> "Dec/fi") │  [**français (fr)**](</Dec/fr> "Dec/fr") │  [**русский (ru)**](<../ru/Dec.md> "Dec/ru") │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Dec.md>)** │
 
 See [Inc and Dec](<Inc_and_Dec.md> "Inc and Dec")
 

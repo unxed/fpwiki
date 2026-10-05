@@ -1,7 +1,6 @@
 # MSEide+MSEgui
 
-│ **English (en)** │  [**español (es)**](</MSEide%2BMSEgui/es> "MSEide+MSEgui/es") │  [**français (fr)**](</MSEide%2BMSEgui/fr> "MSEide+MSEgui/fr") │  [**Bahasa Indonesia (id)**](</MSEide%2BMSEgui/id> "MSEide+MSEgui/id") │    
-****
+│ **English (en)** │
 
 ## Contents
 

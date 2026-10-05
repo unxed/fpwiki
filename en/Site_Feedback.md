@@ -1,7 +1,6 @@
 # Site Feedback
 
-│ **English (en)** │  **[español (es)](</Site_Feedback/es> "Site Feedback/es")** │  **[français (fr)](</Site_Feedback/fr> "Site Feedback/fr")** │  **[Bahasa Indonesia (id)](</Site_Feedback/id> "Site Feedback/id")** │  **[português (pt)](</Site_Feedback/pt> "Site Feedback/pt")** │  **[Türkçe (tr)](</Site_Feedback/tr> "Site Feedback/tr")** │    
-****
+│ **English (en)** │
 
 On this page you can add general site feedback. If your comments are about one page, you can also use the corresponding talk page for your feedback. 
 

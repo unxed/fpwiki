@@ -12,7 +12,7 @@ This article applies to [iOS](</Category:iOS> "Category:iOS") only.
 
 See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **English (en)** │ 
+│ **English (en)** │
 
 ![<translate> Warning: </translate>](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/OOjs_UI_icon_notice-destructive.svg/18px-OOjs_UI_icon_notice-destructive.svg.png) **Warning**|  In Lazarus 2.2.0/FPC 3.2.2 and later, the target for building iOS applications was changed from Darwin to iOS due to the advent of the Apple Silicon M1 (ARM64) processor in Mac computers.  
 ---|---  

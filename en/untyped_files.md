@@ -1,7 +1,6 @@
 # untyped files
 
-│ **[Deutsch (de)](</untyped_files/de> "untyped files/de")** │  **English (en)** │  **[polski (pl)](</untyped_files/pl> "untyped files/pl")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

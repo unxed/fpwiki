@@ -1,7 +1,6 @@
 # GLScene
 
-│ **[Deutsch (de)](</GLScene/de> "GLScene/de")** │  **English (en)** │  **[français (fr)](</GLScene/fr> "GLScene/fr")** │  **[Bahasa Indonesia (id)](</GLScene/id> "GLScene/id")** │  **[日本語 (ja)](</GLScene/ja> "GLScene/ja")** │  **[한국어 (ko)](</GLScene/ko> "GLScene/ko")** │  **[português (pt)](</GLScene/pt> "GLScene/pt")** │  **[русский (ru)](<../ru/GLScene.md> "GLScene/ru")** │  **[中文（中国大陆） (zh_CN)](</GLScene/zh_CN> "GLScene/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/GLScene.md>)** │
 
 ## Contents
 

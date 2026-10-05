@@ -1,8 +1,7 @@
 # Kylix
 
-│ **[Deutsch (de)](</Kylix/de> "Kylix/de")** │  **English (en)** │  **[français (fr)](</Kylix/fr> "Kylix/fr")** │    
-****  
-  
+│ **English (en)** │
+
 **Kylix** ® is an [Object Pascal](<Object_Pascal.md> "Object Pascal") [compiler](<Compiler.md> "Compiler") and IDE released by Borland International for the [Linux](<Linux.md> "Linux") [operating system](<operating_system.md> "operating system"). It is an attempt to provide the equivalent functionality of their [Delphi](<Delphi.md> "Delphi")® Object [Pascal](<Pascal.md> "Pascal") product for the Microsoft Windows operating system. 
 
 ## Contents

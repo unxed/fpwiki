@@ -1,8 +1,6 @@
 # IDE Window: Variable Inspector
 
-│ **English (en)** │    
-****  
-****
+│ **English (en)** │
 
 ## Contents
 

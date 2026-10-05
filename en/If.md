@@ -1,7 +1,6 @@
 # If and Then
 
-│ **[Deutsch (de)](</Then/de> "Then/de")** │  **[English (en)](<Then.md> "Then")** │  **[français (fr)](</Then/fr> "Then/fr")** │  **[русский (ru)](<../ru/Then.md> "Then/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/If.md>)** │
 
 The `if` [keyword](<Keyword.md> "Keyword") precedes a condition, must be followed by `then` and a [statement](<statement.md> "statement"). The statement may optionally be followed by [`else`](<Else.md> "Else") and another statement. This creates a binary [branch](<Branch.md> "Branch"). 
 

@@ -1,7 +1,6 @@
 # Platform list
 
-│ **[العربية (ar)](</Platform_list/ar> "Platform list/ar")** │  **[Deutsch (de)](</Platform_list/de> "Platform list/de")** │  **[English (en)](<../en/Platform_list.md> "Platform list")** │  **[français (fr)](</Platform_list/fr> "Platform list/fr")** │  **[Bahasa Indonesia (id)](</Platform_list/id> "Platform list/id")** │  **[português (pt)](</Platform_list/pt> "Platform list/pt")** │  **русский (ru)** │  **[中文（中国大陆）‎ (zh_CN)](</Platform_list/zh_CN> "Platform list/zh CN")** │    
-****
+│ **[English (en)](<../en/Platform_list.md>)** │  **русский (ru)** │
 
 ## Contents
 

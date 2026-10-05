@@ -1,7 +1,6 @@
 # fcl-json
 
-│ **[English (en)](<../en/fcl-json.md> "fcl-json")** │  **[polski (pl)](</fcl-json/pl> "fcl-json/pl")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</fcl-json/zh_CN> "fcl-json/zh CN")** │    
-****
+│ **[English (en)](<../en/fcl-json.md>)** │  **русский (ru)** │
 
 ## Contents
 

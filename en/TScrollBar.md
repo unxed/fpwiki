@@ -1,7 +1,6 @@
 # TScrollBar
 
-│ **[Deutsch (de)](</TScrollBar/de> "TScrollBar/de")** │  **English (en)** │  **[suomi (fi)](</TScrollBar/fi> "TScrollBar/fi")** │  **[français (fr)](</TScrollBar/fr> "TScrollBar/fr")** │    
-****
+│ **English (en)** │
 
 A **TScrollBar** [![tscrollbar.png](https://wiki.freepascal.org/images/0/05/tscrollbar.png)](</File:tscrollbar.png>) is a control that allows the user to scroll the content of an associated control by moving an slider. 
 

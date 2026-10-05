@@ -1,7 +1,6 @@
 # For
 
-│ **[Deutsch (de)](</For/de> "For/de")** │  **English (en)** │  **[français (fr)](</For/fr> "For/fr")** │  **[русский (ru)](<../ru/For.md> "For/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Downto.md>)** │
 
 ` for` is a [keyword](<Keyword.md> "Keyword") used in conjunction with other keywords to create [loops](<Loops.md> "Loops"). 
 

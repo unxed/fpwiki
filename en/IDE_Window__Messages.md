@@ -1,8 +1,6 @@
 # IDE Window: Messages
 
-│ **[Deutsch (de)](</IDE_Window:_Messages/de> "IDE Window: Messages/de")** │  **English (en)** │  **[español (es)](</IDE_Window:_Messages/es> "IDE Window: Messages/es")** │    
-****  
-****
+│ **English (en)** │
 
 The Messages window contains the compiler messages. It can also contain codetools messages, or linker errors, etc.. 
 

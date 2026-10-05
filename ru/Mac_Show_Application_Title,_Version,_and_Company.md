@@ -6,7 +6,7 @@
 
 См. также: [Multiplatform Programming Guide](<../en/Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **[English (en)](<../en/Mac_Show_Application_Title,_Version,_and_Company.md> "Mac Show Application Title, Version, and Company")** │  **русский (ru)** │ 
+│ **[English (en)](<../en/Mac_Show_Application_Title,_Version,_and_Company.md>)** │  **русский (ru)** │
 
 [![Warning-icon.png](https://wiki.freepascal.org/images/b/b2/Warning-icon.png)](</File:Warning-icon.png>)
 

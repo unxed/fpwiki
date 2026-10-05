@@ -1,7 +1,6 @@
 # Lazarus DB Faq
 
-│ **[Deutsch (de)](</Lazarus_DB_Faq/de> "Lazarus DB Faq/de")** │  **[English (en)](<../en/Lazarus_DB_Faq.md> "Lazarus DB Faq")** │  **[español (es)](</Lazarus_DB_Faq/es> "Lazarus DB Faq/es")** │  **[français (fr)](</Lazarus_DB_Faq/fr> "Lazarus DB Faq/fr")** │  **[italiano (it)](</Lazarus_DB_Faq/it> "Lazarus DB Faq/it")** │  **[日本語 (ja)](</Lazarus_DB_Faq/ja> "Lazarus DB Faq/ja")** │  **[português (pt)](</Lazarus_DB_Faq/pt> "Lazarus DB Faq/pt")** │  **русский (ru)** │  **[slovenčina (sk)](</Lazarus_DB_Faq/sk> "Lazarus DB Faq/sk")** │  **[中文（中国大陆）‎ (zh_CN)](</Lazarus_DB_Faq/zh_CN> "Lazarus DB Faq/zh CN")** │    
-****
+│ **[English (en)](<../en/Lazarus_DB_Faq.md>)** │  **русский (ru)** │
 
 ## Contents
 

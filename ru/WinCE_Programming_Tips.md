@@ -6,8 +6,7 @@
 
 См. также: [Multiplatform Programming Guide](<../en/Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **[English (en)](<../en/WinCE_Programming_Tips.md> "WinCE Programming Tips")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/WinCE_Programming_Tips.md>)** │  **русский (ru)** │
 
 На этой странице описано несколько приёмов работы с платформой WinCE. 
 

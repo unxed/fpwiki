@@ -1,7 +1,6 @@
 # SQLdb Package
 
-│ **English (en)** │  [**español (es)**](</SQLdb_Package/es> "SQLdb Package/es") │  [**français (fr)**](</SQLdb_Package/fr> "SQLdb Package/fr") │  [**中文（中国大陆）‎ (zh_CN)**](</SQLdb_Package/zh_CN> "SQLdb Package/zh CN") │    
-****
+│ **English (en)** │
 
 The SQLdb package contains FPC units to access a number of SQL databases. It is "packaged" as sqldblaz.lpk in Lazarus, and the components can be found on the [SQLdb tab](<SQLdb_tab.md> "SQLdb tab"). 
 

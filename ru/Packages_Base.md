@@ -1,7 +1,6 @@
 # Packages Base
 
-│ **[Deutsch (de)](</Packages_Base/de> "Packages Base/de")** │  **[English (en)](<../en/Packages_Base.md> "Packages Base")** │  **[Bahasa Indonesia (id)](</Packages_Base/id> "Packages Base/id")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Packages_Base.md>)** │  **русский (ru)** │
 
 Обратите внимание, что начиная с версии 2.2.2, больше не будут доступны основные и дополнительные пакеты, потому что все они были объединены в packages/subdir. 
 

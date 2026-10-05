@@ -2,8 +2,7 @@
 
 [fpGUI source](<https://github.com/graemeg/fpGUI/tree/maint>)
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 ## DocView
 

@@ -1,7 +1,6 @@
 # Anchor Sides
 
-│ **[Deutsch (de)](</Anchor_Sides/de> "Anchor Sides/de")** │  **English (en)** │  **[français (fr)](</Anchor_Sides/fr> "Anchor Sides/fr")** │  **[日本語 (ja)](</Anchor_Sides/ja> "Anchor Sides/ja")** │  **[русский (ru)](<../ru/Anchor_Sides.md> "Anchor Sides/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Anchor_Sides.md>)** │
 
 There are some new [properties](</Property> "Property") and [methods](<Method.md> "Method") for automatic layout of controls. You can now setup controls to keep a certain distance to other controls, or center relative to other controls. See below for examples. 
 

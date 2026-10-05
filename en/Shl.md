@@ -1,7 +1,6 @@
 # Shl
 
-│ **[Deutsch (de)](</Shl/de> "Shl/de")** │  **English (en)** │  **[suomi (fi)](</Shl/fi> "Shl/fi")** │  **[français (fr)](</Shl/fr> "Shl/fr")** │  **[русский (ru)](<../ru/Shl.md> "Shl/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Shl.md>)** │
 
   
 Back to [Reserved words](<Reserved_words.md> "Reserved words"). 

@@ -1,8 +1,7 @@
 # Firebird
 
-│ **[English (en)](<../en/Firebird.md> "Firebird")** │  **[français (fr)](</Firebird/fr> "Firebird/fr")** │  **русский (ru)** │    
-****  
-  
+│ **[English (en)](<../en/Firebird.md>)** │  **русский (ru)** │
+
 ---  
 [**Databases portal**](<../en/Portal_Databases.md> "Portal:Databases")  
 References: 

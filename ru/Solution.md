@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Chapter 1/Solution
 
-│ **[български (bg)](</Basic_Pascal_Tutorial/Chapter_1/Solution/bg> "Basic Pascal Tutorial/Chapter 1/Solution/bg")** │  **[Deutsch (de)](</Basic_Pascal_Tutorial/Chapter_1/Solution/de> "Basic Pascal Tutorial/Chapter 1/Solution/de")** │  **[English (en)](<../en/Basic_Pascal_Tutorial/Chapter_1/Solution.md> "Basic Pascal Tutorial/Chapter 1/Solution")** │  **[français (fr)](</Basic_Pascal_Tutorial/Chapter_1/Solution/fr> "Basic Pascal Tutorial/Chapter 1/Solution/fr")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Chapter_1/Solution/ja> "Basic Pascal Tutorial/Chapter 1/Solution/ja")** │  **[한국어 (ko)](</Basic_Pascal_Tutorial/Chapter_1/Solution/ko> "Basic Pascal Tutorial/Chapter 1/Solution/ko")** │  **русский (ru)** │  **[中文（中国大陆）‎ (zh_CN)](</Basic_Pascal_Tutorial/Chapter_1/Solution/zh_CN> "Basic Pascal Tutorial/Chapter 1/Solution/zh CN")** │    
-****
+│ **[English (en)](<../en/Solution.md>)** │  **русский (ru)** │
 
 [ ◄ ](<Basic_Pascal_Tutorial/Chapter_1/Programming_Assignment.md> "Basic Pascal Tutorial/Chapter 1/Programming Assignment/ru") | [ ▲ ](<Basic_Pascal_Tutorial/Contents.md> "Basic Pascal Tutorial/Contents/ru") | [ ► ](<Basic_Pascal_Tutorial/Chapter_2/Input.md> "Basic Pascal Tutorial/Chapter 2/Input/ru")  
 ---|---|---  

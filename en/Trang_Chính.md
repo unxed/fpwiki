@@ -1,7 +1,6 @@
 # Main Page/vi
 
-│ **[Afrikaans (af)](</Main_Page/af> "Main Page/af")** │  **[العربية (ar)](</Main_Page/ar> "Main Page/ar")** │  **[català (ca)](</Main_Page/ca> "Main Page/ca")** │  **[čeština (cs)](</Main_Page/cs> "Main Page/cs")** │  **[Deutsch (de)](</Main_Page/de> "Main Page/de")** │  **[English (en)](<Main_Page.md> "Main Page")** │  **[español (es)](</Main_Page/es> "Main Page/es")** │  **[فارسی (fa)](</Main_Page/fa> "Main Page/fa")** │  **[suomi (fi)](</Main_Page/fi> "Main Page/fi")** │  **[français (fr)](</Main_Page/fr> "Main Page/fr")** │  **[magyar (hu)](</Main_Page/hu> "Main Page/hu")** │  **[Bahasa Indonesia (id)](</Main_Page/id> "Main Page/id")** │  **[italiano (it)](</Main_Page/it> "Main Page/it")** │  **[日本語 (ja)](</Main_Page/ja> "Main Page/ja")** │  **[한국어 (ko)](</Main_Page/ko> "Main Page/ko")** │  **[Nederlands (nl)](</Main_Page/nl> "Main Page/nl")** │  **[polski (pl)](</Main_Page/pl> "Main Page/pl")** │  **[português (pt)](</Main_Page/pt> "Main Page/pt")** │  **[română (ro)](</Main_Page/ro> "Main Page/ro")** │  **[русский (ru)](<../ru/Main_Page.md> "Main Page/ru")** │  **[slovenčina (sk)](</Main_Page/sk> "Main Page/sk")** │  **[svenska (sv)](</Main_Page/sv> "Main Page/sv")** │  **[Türkçe (tr)](</Main_Page/tr> "Main Page/tr")** │  **[українська (uk)](</Main_Page/uk> "Main Page/uk")** │  **Tiếng Việt (vi)** │  **[中文（中国大陆）‎ (zh_CN)](</Main_Page/zh_CN> "Main Page/zh CN")** │  **[中文（台灣）‎ (zh_TW)](</Main_Page/zh_TW> "Main Page/zh TW")** │    
-****
+│ **English (en)** │
 
 ## Contents
 
@@ -28,7 +27,7 @@
 
 ## Giới thiệu
 
-Trang wiki này cung cấp tri thức về Free Pascal, Lazarus và [các dự án liên quan](</Related_projects/vi> "Related projects/vi"). 
+Trang wiki này cung cấp tri thức về Free Pascal, Lazarus và các dự án liên quan. 
 
 Thông tin về [nhóm phát triển FPC](<FPC_development.md> "FPC development"), và những [chủ đề không có trong tài liệu hướng dẫn của FPC](<FPC_documentation.md> "FPC documentation") được đưa vào trong wiki này. 
 
@@ -92,22 +91,22 @@ FPC/Lazarus có mặt với một booth tại [Systems 2005](<Systems_2005.md> "
 
 # Các bản dịch (Translation)
 
-  * [ عربي (Arabic)](</Main_Page/ar> "Main Page/ar")
-  * [ Español (Spanish)](</Main_Page/es> "Main Page/es")
-  * [ Deutsch (German)](</Main_Page/de> "Main Page/de")
-  * [ Français (French)](</Main_Page/fr> "Main Page/fr")
-  * [ Bahasa Indonesia (Indonesian)](</Main_Page/id> "Main Page/id")
-  * [ Italiano (Italian)](</Main_Page/it> "Main Page/it")
-  * [ Japanese (Japanese)](</Main_Page/ja> "Main Page/ja")
-  * [ Nederlands (Dutch)](</Main_Page/nl> "Main Page/nl")
-  * [ Polski (Polish)](</Main_Page/pl> "Main Page/pl")
-  * [ Português (Portuguese)](</Main_Page/pt> "Main Page/pt")
+  *  عربي (Arabic)
+  *  Español (Spanish)
+  *  Deutsch (German)
+  *  Français (French)
+  *  Bahasa Indonesia (Indonesian)
+  *  Italiano (Italian)
+  *  Japanese (Japanese)
+  *  Nederlands (Dutch)
+  *  Polski (Polish)
+  *  Português (Portuguese)
   * [ Русский (Russian)](<../ru/Main_Page.md> "Main Page/ru")
-  * [ Slovensky (Slovak)](</Main_Page/sk> "Main Page/sk")
-  * [ Suomi (Finnish)](</Main_Page/fi> "Main Page/fi")
-  * [ Українська (Ukrainian)](</Main_Page/uk> "Main Page/uk")
-  * [ Chinese 中文（简体）](</Main_Page/zh_CN> "Main Page/zh CN")
-  * [ Chinese 中文（正體）](</Main_Page/zh_TW> "Main Page/zh TW")
+  *  Slovensky (Slovak)
+  *  Suomi (Finnish)
+  *  Українська (Ukrainian)
+  *  Chinese 中文（简体）
+  *  Chinese 中文（正體）
   * Vietnamese (Việt Nam)
 
 

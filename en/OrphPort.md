@@ -1,7 +1,6 @@
 # OrphPort
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 ## Contents
 

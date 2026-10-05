@@ -1,6 +1,6 @@
 # Get
 
-│ **English (en)** │ 
+│ **English (en)** │
 
 The [`procedure`](<Procedure.md> "Procedure") **`get`** retrieves a datum from a [`file of …`](<typed_files.md> "typed files") and advances the reading cursor. Although `get` is a standardized [Pascal](<Standard_Pascal.md> "Standard Pascal") routine, in the [FPC](<FPC.md> "FPC") `get` is only available in an ISO-compliant mode, such as [`{$mode ISO}`](<Mode_iso.md> "Mode iso"). 
 

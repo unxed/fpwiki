@@ -1,7 +1,6 @@
 # Trigonometric functions
 
-│ **English (en)** │  **[suomi (fi)](</Trigonometric_functions/fi> "Trigonometric functions/fi")** │    
-****
+│ **English (en)** │
 
 [Function](<Function.md> "Function") | Description  | [Unit](<Unit.md> "Unit")  
 ---|---|---  

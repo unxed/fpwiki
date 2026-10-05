@@ -1,7 +1,6 @@
 # Borland Pascal
 
-│ **[Deutsch (de)](</Borland_Pascal/de> "Borland Pascal/de")** │  **English (en)** │  **[español (es)](</Borland_Pascal/es> "Borland Pascal/es")** │  **[français (fr)](</Borland_Pascal/fr> "Borland Pascal/fr")** │    
-****
+│ **English (en)** │
 
 Concurrent with the release of [Turbo Pascal](<Turbo_Pascal.md> "Turbo Pascal") 7 for DOS and Turbo Pascal 1.5 for Windows, Borland International also released a more expensive ($495 versus $149) sibling version that they called Borland Pascal for Objects 7.0. It was aimed at professional developers, as opposed to students and hobbyists. In addition to extra features, it included a version of the two Turbo Pascal products. Among the extra features was a protected mode version of the IDE, and the ability to created protected mode applications using a royalty-free DOS extender. It also included source code for the standard library, and the Object Vision (DOS) and ObjectWindows (Windows) GUI libraries. Third party debugging tools, Winsight and Winspector were also included. 
 

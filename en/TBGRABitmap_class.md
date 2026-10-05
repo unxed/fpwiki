@@ -1,7 +1,6 @@
 # TBGRABitmap class
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
   
 Back to [BGRABitmap](<BGRABitmap.md> "BGRABitmap"). 

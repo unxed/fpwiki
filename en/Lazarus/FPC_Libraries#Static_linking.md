@@ -1,7 +1,6 @@
 # Lazarus/FPC Libraries
 
-│ **English (en)** │  [**español (es)**](</Lazarus/FPC_Libraries/es> "Lazarus/FPC Libraries/es") │  [**français (fr)**](</Lazarus/FPC_Libraries/fr> "Lazarus/FPC Libraries/fr") │  [**日本語 (ja)**](</Lazarus/FPC_Libraries/ja> "Lazarus/FPC Libraries/ja") │  [**русский (ru)**](<../../ru/Lazarus/FPC_Libraries.md> "Lazarus/FPC Libraries/ru") │    
-****
+│ **English (en)** │
 
 This page describes the possibilities for creating libraries with Lazarus/FPC and using them in projects and packages. 
 

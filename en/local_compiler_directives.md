@@ -1,7 +1,6 @@
 # local compiler directives
 
-│ **[Deutsch (de)](</local_compiler_directives/de> "local compiler directives/de")** │  **English (en)** │  **[français (fr)](</local_compiler_directives/fr> "local compiler directives/fr")** │    
-****
+│ **English (en)** │
 
 Local [compiler directives](<Compiler_directive.md> "Compiler directive") may be used more than once in a Pascal [source code](<Source_code.md> "Source code") file. 
 

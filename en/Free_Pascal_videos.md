@@ -1,7 +1,6 @@
 # Free Pascal videos
 
-│ **English (en)** │  **[español (es)](</Free_Pascal_videos/es> "Free Pascal videos/es")** │  **[italiano (it)](</Free_Pascal_videos/it> "Free Pascal videos/it")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

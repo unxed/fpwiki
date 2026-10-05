@@ -1,7 +1,6 @@
 # VCL
 
-│ **English (en)** │  [**suomi (fi)**](</VCL/fi> "VCL/fi") │    
-****
+│ **English (en)** │
 
 The **Visual Component Library** (VCL) is a an objected-oriented [application](<Application.md> "Application") framework (software library) developed by Borland International for use with their [Delphi](<Delphi.md> "Delphi") [compiler](<Compiler.md> "Compiler") to create Microsoft Windows GUI applications. The C++ compiler/[IDE](<IDE.md> "IDE") that Borland developed - C++ Builder - can also use VCL to develop Windows GUI applications. A cross-platform equivalent to the VCL library was also created and called CLX. It was available for Delphi 7 and [Kylix](<Kylix.md> "Kylix") (a [Linux](<Linux.md> "Linux") version of Delphi). 
 

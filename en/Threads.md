@@ -1,7 +1,6 @@
 # Threads
 
-│ **English (en)** │  **[polski (pl)](</Threads/pl> "Threads/pl")** │  **[русский (ru)](<../ru/Threads.md> "Threads/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Threads.md>)** │
 
 Free Pascal supports thread programming, with a procedural and object-oriented interface that is mostly platform-neutral. 
 

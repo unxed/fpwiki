@@ -1,7 +1,6 @@
 # Misc tab
 
-│ [**English (en)**](<../en/Misc_tab.md> "Misc tab") │  [**suomi (fi)**](</Misc_tab/fi> "Misc tab/fi") │  [**français (fr)**](</Misc_tab/fr> "Misc tab/fr") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Misc_tab.md>)** │  **русский (ru)** │
 
 Вкладка **Misc** [палитры компонентов](<Component_Palette.md> "Component Palette/ru") содержит список различных не связанных компонентов библиотеки [Lazarus Component Library](<LCL.md> "LCL/ru")
 

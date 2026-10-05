@@ -1,8 +1,6 @@
 # IDE Window: Local Variables
 
-│ **[Deutsch (de)](</IDE_Window:_Local_Variables/de> "IDE Window: Local Variables/de")** │  **English (en)** │  **[français (fr)](</IDE_Window:_Local_Variables/fr> "IDE Window: Local Variables/fr")** │  **[русский (ru)](<../ru/IDE_Window__Local_Variables.md> "IDE Window: Local Variables/ru")** │    
-****  
-****
+│ **English (en)** │  **[русский (ru)](<../ru/IDE_Window__Local_Variables.md>)** │
 
 ## Contents
 

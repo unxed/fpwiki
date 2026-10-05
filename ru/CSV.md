@@ -1,7 +1,6 @@
 # CSV
 
-│ **[English (en)](<../en/CSV.md> "CSV")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/CSV.md>)** │  **русский (ru)** │
 
 ## Contents
 

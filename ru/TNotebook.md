@@ -1,7 +1,6 @@
 # TNotebook
 
-│ **[English (en)](<../en/TNotebook.md> "TNotebook")** │  **[français (fr)](</TNotebook/fr> "TNotebook/fr")** │  **[日本語 (ja)](</TNotebook/ja> "TNotebook/ja")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TNotebook.md>)** │  **русский (ru)** │
 
 **TNoteBook** [![tnotebook.png](https://wiki.freepascal.org/images/a/a4/tnotebook.png)](</File:tnotebook.png>) \- это компонент, который является контейнером, содержащим страницы, наподобие обычной записной книжки. Компонент TNoteBook является потомком [TWinControl](</index.php?title=TWinControl&action=edit&redlink=1> "TWinControl \(page does not exist\)") и доступен на вкладке [Additional](<Additional_tab.md> "Additional tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

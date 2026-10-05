@@ -1,7 +1,6 @@
 # Word
 
-│ **[Deutsch (de)](</Word/de> "Word/de")** │  **[English (en)](<../en/Word.md> "Word")** │  **[suomi (fi)](</Word/fi> "Word/fi")** │  **[français (fr)](</Word/fr> "Word/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Word.md>)** │  **русский (ru)** │
 
 Тип **Word** является 16-битным беззнаковым целым типом, имеющим максимальное значение 65,535 ((2^16 - 1) или [0xFFFF](<Hexadecimal.md> "Hexadecimal/ru")) и минимальное значение 0. 
 

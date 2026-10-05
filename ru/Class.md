@@ -1,7 +1,6 @@
 # Class
 
-│ **[Deutsch (de)](</Class/de> "Class/de")** │  **[English (en)](<../en/Class.md> "Class")** │  **[français (fr)](</Class/fr> "Class/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Class.md>)** │  **русский (ru)** │
 
 Класс является хорошо структурированным [типом данных](<Type.md> "Type/ru") в Object [Pascal](<../en/Pascal.md> "Pascal") и его диалектах (таких, как Delphi или [ObjFPC](</index.php?title=Mode_ObjFPC/ru&action=edit&redlink=1> "Mode ObjFPC/ru \(page does not exist\)")). Классы могут содержать [переменные](<Variable.md> "Variable/ru"), конструкторы, деструкторы, [функции](<Function.md> "Function/ru"), [процедуры](<Procedure.md> "Procedure/ru") и [свойства](</Property/ru> "Property/ru"). 
 

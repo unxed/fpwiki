@@ -1,7 +1,6 @@
 # ExCtrls
 
-│ **English (en)** │  **[русский (ru)](<../ru/ExCtrls.md> "ExCtrls/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/ExCtrls.md>)** │
 
 ## Contents
 

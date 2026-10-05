@@ -1,7 +1,7 @@
 # While
 
-│ **[Deutsch (de)](</While/de> "While/de")** │  **[English (en)](<../en/While.md> "While")** │  **[suomi (fi)](</While/fi> "While/fi")** │  **[français (fr)](</While/fr> "While/fr")** │  **русский (ru)** │    
-****  
+│ **[English (en)](<../en/While.md>)** │  **русский (ru)** │
+
 Цикл **While** повторяет блок операторов пока условие истинно. 
     
     

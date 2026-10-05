@@ -1,7 +1,6 @@
 # TOpenDialog
 
-│ **English (en)** │  **[français (fr)](</TOpenDialog/fr> "TOpenDialog/fr")** │  **[русский (ru)](<../ru/TOpenDialog.md> "TOpenDialog/ru")** │  **[中文（中国大陆） (zh_CN)](</TOpenDialog/zh_CN> "TOpenDialog/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TOpenDialog.md>)** │
 
 **TOpenDialog** [![topendialog.png](https://wiki.freepascal.org/images/1/1c/topendialog.png)](</File:topendialog.png>) is a dialog that aids in opening files. It can be found on the [Dialogs tab](<Dialogs_tab.md> "Dialogs tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

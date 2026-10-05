@@ -1,7 +1,6 @@
 # TSavePictureDialog
 
-│ **English (en)** │  **[français (fr)](</TSavePictureDialog/fr> "TSavePictureDialog/fr")** │  **[русский (ru)](<../ru/TSavePictureDialog.md> "TSavePictureDialog/ru")** │  **[中文（中国大陆）‎ (zh_CN)](</TSavePictureDialog/zh_CN> "TSavePictureDialog/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TSavePictureDialog.md>)** │
 
 **TSavePictureDialog** [![tsavepicturedialog.png](https://wiki.freepascal.org/images/c/c7/tsavepicturedialog.png)](</File:tsavepicturedialog.png>) is a dialog that aids in saving graphic files. It can be found on the [Dialogs tab](<Dialogs_tab.md> "Dialogs tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

@@ -1,7 +1,6 @@
 # Scanner/Tokenizer
 
-│ **English (en)** │  **[français (fr)](</Scanner/Tokenizer/fr> "Scanner/Tokenizer/fr")** │    
-****
+│ **English (en)** │
 
 back to contents [FPC internals](<../FPC_internals.md> "FPC internals")
 

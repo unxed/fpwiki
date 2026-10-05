@@ -1,7 +1,6 @@
 # ARM Embedded Tutorials
 
-│ **[Deutsch (de)](</ARM_Embedded_Tutorials/de> "ARM Embedded Tutorials/de")** │  **English (en)** │  **[中文（中国大陆） (zh_CN)](</ARM_Embedded_Tutorials/zh_CN> "ARM Embedded Tutorials/zh CN")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

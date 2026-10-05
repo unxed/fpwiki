@@ -1,7 +1,6 @@
 # RTTI controls
 
-│ **[Deutsch (de)](</RTTI_controls/de> "RTTI controls/de")** │  **[English (en)](<../en/RTTI_controls.md> "RTTI controls")** │  **[español (es)](</RTTI_controls/es> "RTTI controls/es")** │  **[français (fr)](</RTTI_controls/fr> "RTTI controls/fr")** │  **[日本語 (ja)](</RTTI_controls/ja> "RTTI controls/ja")** │  **[português (pt)](</RTTI_controls/pt> "RTTI controls/pt")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/RTTI_controls.md>)** │  **русский (ru)** │
 
 ## Введение
 

@@ -1,7 +1,6 @@
 # Brook for Free Pascal
 
-│ **[Deutsch (de)](</Brook_for_Free_Pascal/de> "Brook for Free Pascal/de")** │  **English (en)** │  **[français (fr)](</Brook_for_Free_Pascal/fr> "Brook for Free Pascal/fr")** │  **[polski (pl)](</Brook_for_Free_Pascal/pl> "Brook for Free Pascal/pl")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

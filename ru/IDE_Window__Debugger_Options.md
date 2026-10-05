@@ -1,8 +1,6 @@
 # IDE Window: Debugger Options
 
-│ **[Deutsch (de)](</IDE_Window:_Debugger_Options/de> "IDE Window: Debugger Options/de")** │  **[English (en)](<../en/IDE_Window__Debugger_Options.md> "IDE Window: Debugger Options")** │  **[español (es)](</IDE_Window:_Debugger_Options/es> "IDE Window: Debugger Options/es")** │  **[français (fr)](</IDE_Window:_Debugger_Options/fr> "IDE Window: Debugger Options/fr")** │  **[português (pt)](</IDE_Window:_Debugger_Options/pt> "IDE Window: Debugger Options/pt")** │  **русский (ru)** │    
-****  
-****
+│ **[English (en)](<../en/IDE_Window__Debugger_Options.md>)** │  **русский (ru)** │
 
 [![Warning-icon.png](https://wiki.freepascal.org/images/b/b2/Warning-icon.png)](</File:Warning-icon.png>)
 

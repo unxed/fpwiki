@@ -1,6 +1,6 @@
 # SQLDBRestBridge
 
-│ **English (en)** │  **[русский (ru)](<../ru/SQLDBRestBridge.md> "SQLDBRestBridge/ru")** │ 
+│ **English (en)** │  **[русский (ru)](<../ru/SQLDBRestBridge.md>)** │
 
   
 

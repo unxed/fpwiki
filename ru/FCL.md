@@ -1,7 +1,6 @@
 # FCL
 
-│ **[Deutsch (de)](</FCL/de> "FCL/de")** │  **[English (en)](<../en/FCL.md> "FCL")** │  **[español (es)](</FCL/es> "FCL/es")** │  **[suomi (fi)](</FCL/fi> "FCL/fi")** │  **[français (fr)](</FCL/fr> "FCL/fr")** │  **[Bahasa Indonesia (id)](</FCL/id> "FCL/id")** │  **[日本語 (ja)](</FCL/ja> "FCL/ja")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</FCL/zh_CN> "FCL/zh CN")** │    
-****
+│ **[English (en)](<../en/FCL.md>)** │  **русский (ru)** │
 
 _Free Component Library_ (**FCL**) - бесплатная и свободная библиотека компонентов Free Pascal. Она состоит из набора модулей, предоставляющих классы и компоненты для общих задач. FCL стремиться быть совместимой с библиотекой визуальных компонентов Delphi - VCL. Однако, FCL ограничивается только не визуальными компонентами. Lazarus так же имеет собственную библиотеку компонентов - LCL (Lazarus component library), с которой вы можете ознакомиться здесь: [LCL Components](<../en/LCL_Components.md> "LCL Components"). 
 

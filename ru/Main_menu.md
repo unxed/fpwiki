@@ -1,7 +1,6 @@
 # Main menu
 
-│ **[Deutsch (de)](</Main_menu/de> "Main menu/de")** │  **[English (en)](<../en/Main_menu.md> "Main menu")** │  **[español (es)](</Main_menu/es> "Main menu/es")** │  **[suomi (fi)](</Main_menu/fi> "Main menu/fi")** │  **[français (fr)](</Main_menu/fr> "Main menu/fr")** │  **[magyar (hu)](</Main_menu/hu> "Main menu/hu")** │  **[italiano (it)](</Main_menu/it> "Main menu/it")** │  **[日本語 (ja)](</Main_menu/ja> "Main menu/ja")** │  **[македонски (mk)](</Main_menu/mk> "Main menu/mk")** │  **[Nederlands (nl)](</Main_menu/nl> "Main menu/nl")** │  **[português (pt)](</Main_menu/pt> "Main menu/pt")** │  **русский (ru)** │  **[slovenčina (sk)](</Main_menu/sk> "Main menu/sk")** │  **[shqip (sq)](</Main_menu/sq> "Main menu/sq")** │  **[中文（中国大陆）‎ (zh_CN)](</Main_menu/zh_CN> "Main menu/zh CN")** │  **[中文（台灣）‎ (zh_TW)](</Main_menu/zh_TW> "Main menu/zh TW")** │    
-****
+│ **[English (en)](<../en/Main_menu.md>)** │  **русский (ru)** │
 
 **Главное меню**
 

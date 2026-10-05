@@ -1,7 +1,6 @@
 # CopyFile
 
-│ **[English (en)](<../en/CopyFile.md> "CopyFile")** │  **[suomi (fi)](</CopyFile/fi> "CopyFile/fi")** │  **[français (fr)](</CopyFile/fr> "CopyFile/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/CopyFile.md>)** │  **русский (ru)** │
 
 [Модуль](<../en/Unit.md> "Unit"): Lazarus [fileutil](<fileutil.md> "fileutil/ru") ([UTF-8](<../en/UTF-8.md> "UTF-8") замена для кода FPC [RTL](<../en/RTL.md> "RTL") и дополнительная обработка файлов/каталогов) 
     

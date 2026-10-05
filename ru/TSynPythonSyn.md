@@ -1,7 +1,6 @@
 # TSynPythonSyn
 
-│ **[English (en)](<../en/TSynPythonSyn.md> "TSynPythonSyn")** │  **[français (fr)](</TSynPythonSyn/fr> "TSynPythonSyn/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TSynPythonSyn.md>)** │  **русский (ru)** │
 
 **TSynPythonSyn** [![tsynpythonsyn.png](https://wiki.freepascal.org/images/b/b3/tsynpythonsyn.png)](</File:tsynpythonsyn.png>) \- компонент, представляющий подсветку корректного синтаксиса кода на языке Python при его редактировании. Данный компонент является частью пакета [SynEdit](<SynEdit.md> "SynEdit/ru") и доступен на вкладке [SynEdit](<SynEdit_tab.md> "SynEdit tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

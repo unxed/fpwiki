@@ -4,7 +4,8 @@
 
 [](</File:THINK_Pascal_4_0_PkgHnb.jpg> "Enlarge")
 
-│ **[Deutsch (de)](</THINK_Pascal/de> "THINK Pascal/de")** │  **English (en)** │  **[français (fr)](</THINK_Pascal/fr> "THINK Pascal/fr")** │    
+│ **English (en)** │
+
 ******THINK Pascal** was a [Pascal](<Pascal.md> "Pascal") language compiler for 68K-based Mac computers. 
 
 Released by Think Technologies in 1986 as _Lightspeed Pascal_ and later sold by Symantec, THINK Pascal supported [Object Pascal](<Object_Pascal.md> "Object Pascal") and [ANSI Pascal](</index.php?title=ANSI_Pascal&action=edit&redlink=1> "ANSI Pascal \(page does not exist\)") Standard and was source-compatible with [Macintosh Pascal](<Mac_Pascal.md> "Mac Pascal") and [MPW](<MPW.md> "MPW"). The last official update was released in 1992. THINK Pascal was discontinued in 1997. 

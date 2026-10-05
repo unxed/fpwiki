@@ -1,7 +1,6 @@
 # Coding style
 
-│ **English (en)** │  **[français (fr)](</Coding_style/fr> "Coding style/fr")** │  **[русский (ru)](<../ru/Coding_style.md> "Coding style/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Coding_style.md>)** │
 
 ## Contents
 

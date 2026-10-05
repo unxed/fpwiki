@@ -1,7 +1,6 @@
 # DWARF
 
-│ **English (en)** │  **[suomi (fi)](</DWARF/fi> "DWARF/fi")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

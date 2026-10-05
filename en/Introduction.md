@@ -1,7 +1,6 @@
 # Introduction
 
-│ **English (en)** │  **[français (fr)](</Introduction/fr> "Introduction/fr")** │    
-****
+│ **English (en)** │
 
 back to contents [FPC internals](<FPC_internals.md> "FPC internals")
 

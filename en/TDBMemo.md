@@ -1,7 +1,6 @@
 # TDBMemo
 
-│ **English (en)** │  **[français (fr)](</TDBMemo/fr> "TDBMemo/fr")** │  **[русский (ru)](<../ru/TDBMemo.md> "TDBMemo/ru")** │  **[中文（中国大陆）‎ (zh_CN)](</TDBMemo/zh_CN> "TDBMemo/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TDBMemo.md>)** │
 
 **TDBMemo** [![tdbmemo.png](https://wiki.freepascal.org/images/1/13/tdbmemo.png)](</File:tdbmemo.png>) text control for use with a connected database. It is available from the [Data Controls tab](<Data_Controls_tab.md> "Data Controls tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

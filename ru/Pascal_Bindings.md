@@ -1,7 +1,6 @@
 # Pascal Bindings
 
-│ **[Deutsch (de)](</Pascal_Bindings/de> "Pascal Bindings/de")** │  **[English (en)](<../en/Pascal_Bindings.md> "Pascal Bindings")** │  **[español (es)](</Pascal_Bindings/es> "Pascal Bindings/es")** │  **[français (fr)](</Pascal_Bindings/fr> "Pascal Bindings/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Pascal_Bindings.md>)** │  **русский (ru)** │
 
 Эта страница содержит список библиотек, которые можно использовать в FPC. Часть из них доступна в виде пакетов Lazarus. 
 

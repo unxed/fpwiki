@@ -1,7 +1,6 @@
 # CalLite: Flag days in Finland
 
-│ **English (en)** │  **[suomi (fi)](</CalLite:_Flag_days_in_Finland/fi> "CalLite: Flag days in Finland/fi")** │    
-****
+│ **English (en)** │
 
   
 

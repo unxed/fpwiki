@@ -1,7 +1,6 @@
 # JSON
 
-│ **English (en)** │  **[suomi (fi)](</JSON/fi> "JSON/fi")** │  **[日本語 (ja)](</JSON/ja> "JSON/ja")** │  **[한국어 (ko)](</JSON/ko> "JSON/ko")** │  **[polski (pl)](</JSON/pl> "JSON/pl")** │  **[русский (ru)](<../ru/JSON.md> "JSON/ru")** │  **[中文（中国大陆） (zh_CN)](</JSON/zh_CN> "JSON/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/JSON.md>)** │
 
 ## Contents
 
@@ -129,7 +128,6 @@ This implementation follows the implementation of the Javascript programming lan
 
 
 
-**[[:{{{NameWithoutSuffix}}}/ru|한국어 (ru)]]** │
 
 ---
 

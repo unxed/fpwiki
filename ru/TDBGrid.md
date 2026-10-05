@@ -1,7 +1,6 @@
 # TDBGrid
 
-│ **[English (en)](<../en/TDBGrid.md> "TDBGrid")** │  **[français (fr)](</TDBGrid/fr> "TDBGrid/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TDBGrid.md>)** │  **русский (ru)** │
 
 **TDBGrid** [![tdbgrid.png](https://wiki.freepascal.org/images/6/66/tdbgrid.png)](</File:tdbgrid.png>) является визуальным компонентом, отображающим табличные данные из базы данных посредством наследников [TDataSet](<TDataSet.md> "TDataSet/ru") \- таких, как [TSQLQuery](<TSQLQuery.md> "TSQLQuery/ru"). Компонент **TDBGrid** доступен на вкладке [Data Controls](<Data_Controls_tab.md> "Data Controls tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
     

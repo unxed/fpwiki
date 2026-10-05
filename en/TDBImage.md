@@ -1,7 +1,6 @@
 # TDBImage
 
-│ **English (en)** │  **[français (fr)](</TDBImage/fr> "TDBImage/fr")** │  **[русский (ru)](<../ru/TDBImage.md> "TDBImage/ru")** │  **[中文（中国大陆）‎ (zh_CN)](</TDBImage/zh_CN> "TDBImage/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TDBImage.md>)** │
 
 **TDBImage** [![tdbimage.png](https://wiki.freepascal.org/images/d/d6/tdbimage.png)](</File:tdbimage.png>) is a data-bound control that shows images stored in BLOB fields in databases. It is available from the [Data Controls tab](<Data_Controls_tab.md> "Data Controls tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

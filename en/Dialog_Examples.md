@@ -1,7 +1,6 @@
 # Dialog Examples
 
-│ [**Deutsch (de)**](</Dialog_Examples/de> "Dialog Examples/de") │  **English (en)** │  [**español (es)**](</Dialog_Examples/es> "Dialog Examples/es") │  [**suomi (fi)**](</Dialog_Examples/fi> "Dialog Examples/fi") │  [**français (fr)**](</Dialog_Examples/fr> "Dialog Examples/fr") │  [**日本語 (ja)**](</Dialog_Examples/ja> "Dialog Examples/ja") │  [**polski (pl)**](</Dialog_Examples/pl> "Dialog Examples/pl") │  [**русский (ru)**](<../ru/Dialog_Examples.md> "Dialog Examples/ru") │  [**slovenčina (sk)**](</Dialog_Examples/sk> "Dialog Examples/sk") │  [**中文（中国大陆）‎ (zh_CN)**](</Dialog_Examples/zh_CN> "Dialog Examples/zh CN") │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Dialog_Examples.md>)** │
 
 ## Contents
 

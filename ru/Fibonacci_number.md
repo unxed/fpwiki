@@ -1,7 +1,6 @@
 # Fibonacci number
 
-│ **[Deutsch (de)](</Fibonacci_number/de> "Fibonacci number/de")** │  **[English (en)](<../en/Fibonacci_number.md> "Fibonacci number")** │  **[suomi (fi)](</Fibonacci_number/fi> "Fibonacci number/fi")** │  **[français (fr)](</Fibonacci_number/fr> "Fibonacci number/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Fibonacci_number.md>)** │  **русский (ru)** │
 
 ## Contents
 

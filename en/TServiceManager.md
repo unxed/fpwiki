@@ -1,7 +1,6 @@
 # TServiceManager
 
-│ **English (en)** │  **[français (fr)](</TServiceManager/fr> "TServiceManager/fr")** │  **[polski (pl)](</TServiceManager/pl> "TServiceManager/pl")** │  **[русский (ru)](<../ru/TServiceManager.md> "TServiceManager/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TServiceManager.md>)** │
 
 **TServiceManager** [![tservicemanager.png](https://wiki.freepascal.org/images/a/ae/tservicemanager.png)](</File:tservicemanager.png>) is a non-visual component that assists in platform independent managing services on some computer. It is available from [System tab](<System_tab.md> "System tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

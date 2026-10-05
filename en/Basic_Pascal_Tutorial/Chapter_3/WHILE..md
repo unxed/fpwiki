@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Chapter 3/WHILE..DO
 
-│ **[български (bg)](</Basic_Pascal_Tutorial/Chapter_3/WHILE..DO/bg> "Basic Pascal Tutorial/Chapter 3/WHILE..DO/bg")** │  **English (en)** │  **[français (fr)](</Basic_Pascal_Tutorial/Chapter_3/WHILE..DO/fr> "Basic Pascal Tutorial/Chapter 3/WHILE..DO/fr")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Chapter_3/WHILE..DO/ja> "Basic Pascal Tutorial/Chapter 3/WHILE..DO/ja")** │  **[中文（中国大陆） (zh_CN)](</Basic_Pascal_Tutorial/Chapter_3/WHILE..DO/zh_CN> "Basic Pascal Tutorial/Chapter 3/WHILE..DO/zh CN")** │    
-****
+│ **English (en)** │
 
 [ ◄ ](<FOR..md> "Basic Pascal Tutorial/Chapter 3/FOR..DO") | [ ▲ ](<../Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<REPEAT..md> "Basic Pascal Tutorial/Chapter 3/REPEAT..UNTIL")  
 ---|---|---  

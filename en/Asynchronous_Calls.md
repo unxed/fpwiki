@@ -1,7 +1,6 @@
 # Asynchronous Calls
 
-│ **English (en)** │  **[français (fr)](</Asynchronous_Calls/fr> "Asynchronous Calls/fr")** │  **[日本語 (ja)](</Asynchronous_Calls/ja> "Asynchronous Calls/ja")** │  **[русский (ru)](<../ru/Asynchronous_Calls.md> "Asynchronous Calls/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Asynchronous_Calls.md>)** │
 
 ## Contents
 

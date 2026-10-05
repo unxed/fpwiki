@@ -1,6 +1,6 @@
 # Cardinal
 
-│ [**Deutsch (de)**](</Cardinal/de> "Cardinal/de") │  **English (en)** │  [**français (fr)**](</Cardinal/fr> "Cardinal/fr") │    
+│ **English (en)** │
 
 
 Cardinal is an integer type defined as an alias for DWord under a 32-bit platform. Like the DWord (double word) type it's 32 bits and interpreted as an unsigned integer. Its minimal value is 0x0000000 and its maximal value 0xFFFFFFFF (4,294,967,295). 

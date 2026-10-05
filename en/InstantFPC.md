@@ -1,7 +1,6 @@
 # InstantFPC
 
-│ **[Deutsch (de)](</InstantFPC/de> "InstantFPC/de")** │  **English (en)** │  **[français (fr)](</InstantFPC/fr> "InstantFPC/fr")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

@@ -1,7 +1,6 @@
 # IDE Window: Editor Options Display
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 _**This is part of the online help for the IDE.**_  
 It describes the section: "Editor" / "Display". You can open the described dialog in your IDE via:  

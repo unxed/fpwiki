@@ -1,8 +1,7 @@
 # TFBEventMonitor
 
-│ **English (en)** │  **[русский (ru)](<../ru/TFBEventMonitor.md> "TFBEventMonitor/ru")** │    
-****  
-  
+│ **English (en)** │
+
 ---  
 [**Databases portal**](<Portal_Databases.md> "Portal:Databases")  
 References: 

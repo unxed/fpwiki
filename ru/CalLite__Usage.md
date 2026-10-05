@@ -1,7 +1,6 @@
 # CalLite: Usage
 
-│ **[English (en)](<../en/CalLite__Usage.md> "CalLite: Usage")** │  **[suomi (fi)](</CalLite:_Usage/fi> "CalLite: Usage/fi")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/CalLite__Usage.md>)** │  **русский (ru)** │
 
 ## Contents
 

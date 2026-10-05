@@ -1,7 +1,6 @@
 # Base converting
 
-│ **English (en)** │  **[français (fr)](</Base_converting/fr> "Base converting/fr")** │    
-****
+│ **English (en)** │
 
 The following [`unit`](<Unit.md> "Unit") will allow you to convert from one number base to another. Each base is chosen in the range `2..36`. 
 

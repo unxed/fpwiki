@@ -1,7 +1,6 @@
 # TProgressBar
 
-│ **[English (en)](<../en/TProgressBar.md> "TProgressBar")** │  **[suomi (fi)](</TProgressBar/fi> "TProgressBar/fi")** │  **[français (fr)](</TProgressBar/fr> "TProgressBar/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TProgressBar.md>)** │  **русский (ru)** │
 
 **TProgressBar** [![tprogressbar.png](https://wiki.freepascal.org/images/c/c6/tprogressbar.png)](</File:tprogressbar.png>) является графическим [компонентом](</index.php?title=component/ru&action=edit&redlink=1> "component/ru \(page does not exist\)"), расположенным на вкладке [Common Controls](<Common_Controls_tab.md> "Common Controls tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"), и отображает полосу прогресса. Компонент **TProgressBar** может использоваться для того, чтобы показывать пользователю процесс выполнения программы, когда операции выполняются длительное время. Данный компонент также является индикатором прогресса. Он предназначен для информирования пользователя о том, что операция выполняется и система не ожидает входных данных от пользователя. Элемент **TProgressBar** часто дает пользователю оценку того, как далеко продвинулось выполнение операций в системе. Он отличается от других индикаторов прогресса тем, что он прямоугольный. 
 

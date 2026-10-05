@@ -1,7 +1,6 @@
 # THeaderControl
 
-│ **English (en)** │  **[français (fr)](</THeaderControl/fr> "THeaderControl/fr")** │  **[русский (ru)](<../ru/THeaderControl.md> "THeaderControl/ru")** │  **[中文（中国大陆） (zh_CN)](</THeaderControl/zh_CN> "THeaderControl/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/THeaderControl.md>)** │
 
 **THeaderControl** [![theadercontrol.png](https://wiki.freepascal.org/images/5/5b/theadercontrol.png)](</File:theadercontrol.png>) is a component that provides a list of headers with associated text and image. THeaderControl is a descendant of [TWinControl](</index.php?title=TWinControl&action=edit&redlink=1> "TWinControl \(page does not exist\)") and is available under the [Common Controls tab](<Common_Controls_tab.md> "Common Controls tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

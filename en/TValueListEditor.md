@@ -1,7 +1,6 @@
 # TValueListEditor
 
-│ **English (en)** │  **[français (fr)](</TValueListEditor/fr> "TValueListEditor/fr")** │  **[русский (ru)](<../ru/TValueListEditor.md> "TValueListEditor/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TValueListEditor.md>)** │
 
 [![component-TValueListEditor.png](https://wiki.freepascal.org/images/7/71/component-TValueListEditor.png)](</File:component-TValueListEditor.png>)
 

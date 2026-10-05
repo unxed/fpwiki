@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Compilers
 
-│ **[български (bg)](</Basic_Pascal_Tutorial/Compilers/bg> "Basic Pascal Tutorial/Compilers/bg")** │  **[Deutsch (de)](</Basic_Pascal_Tutorial/Compilers/de> "Basic Pascal Tutorial/Compilers/de")** │  **English (en)** │  **[español (es)](</Basic_Pascal_Tutorial/Compilers/es> "Basic Pascal Tutorial/Compilers/es")** │  **[français (fr)](</Basic_Pascal_Tutorial/Compilers/fr> "Basic Pascal Tutorial/Compilers/fr")** │  **[italiano (it)](</Basic_Pascal_Tutorial/Compilers/it> "Basic Pascal Tutorial/Compilers/it")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Compilers/ja> "Basic Pascal Tutorial/Compilers/ja")** │  **[한국어 (ko)](</Basic_Pascal_Tutorial/Compilers/ko> "Basic Pascal Tutorial/Compilers/ko")** │  **[русский (ru)](<../../ru/Basic_Pascal_Tutorial/Compilers.md> "Basic Pascal Tutorial/Compilers/ru")** │  **[中文（中国大陆） (zh_CN)](</Basic_Pascal_Tutorial/Compilers/zh_CN> "Basic Pascal Tutorial/Compilers/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../../ru/Basic_Pascal_Tutorial/Compilers.md>)** │
 
 [ ◄ ](<History.md> "Basic Pascal Tutorial/History") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Hello,_World.md> "Basic Pascal Tutorial/Hello, World")  
 ---|---|---  

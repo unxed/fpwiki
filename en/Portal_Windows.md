@@ -26,7 +26,7 @@ Portal:Windows
 This box describes installation and use of Lazarus and Free Pascal. 
 
   * [Installing the Free Pascal Compiler on Windows](<Installing_the_Free_Pascal_Compiler.md> "Installing the Free Pascal Compiler")
-  * [Installing Lazarus on Windows](</Installing_Lazarus/ja#Windows_環境での_Lazarus_のインストール> "Installing Lazarus/ja")
+  * Installing Lazarus on Windows
   * [Installation on ReactOS](<ReactOS.md> "ReactOS")
   * [Basic Pascal Tutorial](<Basic_Pascal_Tutorial.md> "Basic Pascal Tutorial")
   * [Object Oriented Programming with Free Pascal and Lazarus](<Object_Oriented_Programming_with_Free_Pascal_and_Lazarus.md> "Object Oriented Programming with Free Pascal and Lazarus")

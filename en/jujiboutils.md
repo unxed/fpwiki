@@ -1,7 +1,6 @@
 # jujiboutils
 
-**English (en)** | [**español (es)**](</jujiboutils/es> "jujiboutils/es")   
-****
+│ **English (en)** │
 
   
 

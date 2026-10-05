@@ -1,7 +1,6 @@
 # FPReport Lazarus support
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 ## Contents
 

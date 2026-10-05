@@ -1,7 +1,6 @@
 # Projects using Lazarus
 
-│ **[English (en)](<../en/Projects_using_Lazarus.md> "Projects using Lazarus")** │  **[français (fr)](</Projects_using_Lazarus/fr> "Projects using Lazarus/fr")** │  **[한국어 (ko)](</Projects_using_Lazarus/ko> "Projects using Lazarus/ko")** │  **русский (ru)** │  **[slovenčina (sk)](</Projects_using_Lazarus/sk> "Projects using Lazarus/sk")** │  **[中文（中国大陆） (zh_CN)](</Projects_using_Lazarus/zh_CN> "Projects using Lazarus/zh CN")** │  **[中文（臺灣） (zh_TW)](</Projects_using_Lazarus/zh_TW> "Projects using Lazarus/zh TW")** │    
-****
+│ **[English (en)](<../en/Projects_using_Lazarus.md>)** │  **русский (ru)** │
 
 ## Contents
 

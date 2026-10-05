@@ -1,7 +1,6 @@
 # TCheckListBox
 
-│ **[English (en)](<../en/TCheckListBox.md> "TCheckListBox")** │  **[suomi (fi)](</TCheckListBox/fi> "TCheckListBox/fi")** │  **[français (fr)](</TCheckListBox/fr> "TCheckListBox/fr")** │  **[日本語 (ja)](</TCheckListBox/ja> "TCheckListBox/ja")** │  **[polski (pl)](</TCheckListBox/pl> "TCheckListBox/pl")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TCheckListBox.md>)** │  **русский (ru)** │
 
 **TCheckListBox** [![tchecklistbox.png](https://wiki.freepascal.org/images/6/62/tchecklistbox.png)](</File:tchecklistbox.png>) является компонентом , который отображает список флажков (с прокруткой), в котором пользователь может выбрать несколько элементов. Данный компонент доступен на вкладке [Additional](<Additional_tab.md> "Additional tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

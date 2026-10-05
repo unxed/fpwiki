@@ -1,7 +1,6 @@
 # Debian package structure
 
-│ **[English (en)](<../en/Debian_package_structure.md> "Debian package structure")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Debian_package_structure.md>)** │  **русский (ru)** │
 
 Установки в Debian выполняются файлами с расширением .deb. В этой статье рассматривается, как создать их вручную. 
 

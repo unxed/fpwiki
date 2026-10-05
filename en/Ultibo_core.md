@@ -1,7 +1,6 @@
 # Ultibo core
 
-│ **English (en)** │  **[suomi (fi)](</Ultibo_core/fi> "Ultibo core/fi")** │    
-****
+│ **English (en)** │
 
 [![Raspberry Pi Logo.png](https://wiki.freepascal.org/images/8/85/Raspberry_Pi_Logo.png)](</File:Raspberry_Pi_Logo.png>)
 

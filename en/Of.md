@@ -1,7 +1,6 @@
 # Of
 
-│ **[Deutsch (de)](</Of/de> "Of/de")** │  **English (en)** │  **[suomi (fi)](</Of/fi> "Of/fi")** │  **[français (fr)](</Of/fr> "Of/fr")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Of.md>)** │
 
 ` of` is a [reserved word](<Reserved_word.md> "Reserved word"). 
 

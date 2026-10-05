@@ -1,7 +1,6 @@
 # TPageControl
 
-│ **English (en)** │  **[suomi (fi)](</TPageControl/fi> "TPageControl/fi")** │  **[français (fr)](</TPageControl/fr> "TPageControl/fr")** │  **[русский (ru)](<../ru/TPageControl.md> "TPageControl/ru")** │  **[中文（中国大陆）‎ (zh_CN)](</TPageControl/zh_CN> "TPageControl/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TPageControl.md>)** │
 
 [![tpagecontrol.png](https://wiki.freepascal.org/images/e/e4/tpagecontrol.png)](</File:tpagecontrol.png>) **`TPageControl`** is a multi-page component that provides a container to hold a variety of controls per page. Much like a real-world notebook, it displays a "tab" per page so that the user can quickly switch between pages. Each page can contain its own selection of controls. 
 

@@ -1,7 +1,6 @@
 # Label
 
-│ **[Deutsch (de)](</Label/de> "Label/de")** │  **English (en)** │  **[français (fr)](</Label/fr> "Label/fr")** │  **[русский (ru)](<../ru/Label.md> "Label/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Label.md>)** │
 
 The `label` keyword is used for declaration of labels (markers for unconditional jumps using [`goto`](<Goto.md> "Goto") keyword) used further in the [`unit`](<Unit.md> "Unit")/[`program`](<Program.md> "Program"). It is a [reserved word](<Reserved_words.md> "Reserved words"). 
 

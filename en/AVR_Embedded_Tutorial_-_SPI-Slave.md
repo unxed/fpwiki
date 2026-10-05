@@ -1,7 +1,6 @@
 # AVR Embedded Tutorial - SPI-Slave
 
-│ **[Deutsch (de)](</AVR_Embedded_Tutorial_-_SPI-Slave/de> "AVR Embedded Tutorial - SPI-Slave/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
 ## Contents
 

@@ -1,7 +1,6 @@
 # THTMLBrowserHelpViewer
 
-│ **[English (en)](<../en/THTMLBrowserHelpViewer.md> "THTMLBrowserHelpViewer")** │  **[français (fr)](</THTMLBrowserHelpViewer/fr> "THTMLBrowserHelpViewer/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/THTMLBrowserHelpViewer.md>)** │  **русский (ru)** │
 
 **THTMLBrowserHelpViewer** [![thtmlbrowserhelpviewer.png](https://wiki.freepascal.org/images/4/4b/thtmlbrowserhelpviewer.png)](</File:thtmlbrowserhelpviewer.png>) является компонентом, который предоставляет контекстную справку для приложения из HTML-файлов. Данный компонент доступен на вкладке [System](<System_tab.md> "System tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

@@ -6,7 +6,7 @@ This article applies to [macOS](</Category:macOS> "Category:macOS") only.
 
 See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **[Deutsch (de)](</Carbon_Interface/de> "Carbon Interface/de")** │  **English (en)** │  **[日本語 (ja)](</Carbon_Interface/ja> "Carbon Interface/ja")** │ 
+│ **English (en)** │
 
 [![macOSlogo.png](https://wiki.freepascal.org/images/1/15/macOSlogo.png)](</File:macOSlogo.png>)
 

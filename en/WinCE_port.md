@@ -6,8 +6,7 @@ This article applies to [Windows CE](</Category:WinCE> "Category:WinCE") only.
 
 See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **English (en)** │  **[italiano (it)](</WinCE_port/it> "WinCE port/it")** │  **[português (pt)](</WinCE_port/pt> "WinCE port/pt")** │  **[русский (ru)](<../ru/WinCE_port.md> "WinCE port/ru")** │  **[中文（臺灣） (zh_TW)](</WinCE_port/zh_TW> "WinCE port/zh TW")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/WinCE_port.md>)** │
 
 WinCE port is quite complete and usable. The port was started and maintained by Yury Sidorov. Oliver (Oro06) ported WinCE API headers. 
 

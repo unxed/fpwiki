@@ -1,7 +1,6 @@
 # Build current FPC and Lazarus for Raspbian
 
-│ **English (en)** │  **[中文（中国大陆）‎ (zh_CN)](</Build_current_FPC_and_Lazarus_for_Raspbian/zh_CN> "Build current FPC and Lazarus for Raspbian/zh CN")** │    
-****
+│ **English (en)** │
 
 Raspbian Buster (based on Debian 10 Buster) has FPC and Lazarus available in the repositories, but they suffer from the same "design decisions" that don't allow for a nice experience, namely the smooth IDE rebuilding capability based on source packages that is possible with FPC/Lazarus official .deb packages vs the crippled experience with the official Debian/Raspbian packages. One wishes there were official FPC/Lazarus packages for Raspbian as there are for Intel Debian/Ubuntu, which are also frequently updated; not being that the case (at least for now), this page shows the steps for building your own FPC, FPC-source and Lazarus packages for Raspbian. Example shows steps for Lazarus 2.0.6 which includes FPC 3.0.4, most recent at the time of writing. Adjust accordingly. 
 

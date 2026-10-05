@@ -1,8 +1,6 @@
 # IDE Window: View project forms units
 
-│ **[Deutsch (de)](</IDE_Window:_View_project_forms_units/de> "IDE Window: View project forms units/de")** │  **English (en)** │  **[français (fr)](</IDE_Window:_View_project_forms_units/fr> "IDE Window: View project forms units/fr")** │    
-****  
-****
+│ **English (en)** │
 
 This dialog comes in two flavours: 
 

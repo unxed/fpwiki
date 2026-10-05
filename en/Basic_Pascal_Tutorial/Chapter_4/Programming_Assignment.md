@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Chapter 4/Programming Assignment
 
-│ **[български (bg)](</Basic_Pascal_Tutorial/Chapter_4/Programming_Assignment/bg> "Basic Pascal Tutorial/Chapter 4/Programming Assignment/bg")** │  **English (en)** │  **[français (fr)](</Basic_Pascal_Tutorial/Chapter_4/Programming_Assignment/fr> "Basic Pascal Tutorial/Chapter 4/Programming Assignment/fr")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Chapter_4/Programming_Assignment/ja> "Basic Pascal Tutorial/Chapter 4/Programming Assignment/ja")** │  **[中文（中国大陆） (zh_CN)](</Basic_Pascal_Tutorial/Chapter_4/Programming_Assignment/zh_CN> "Basic Pascal Tutorial/Chapter 4/Programming Assignment/zh CN")** │    
-****
+│ **English (en)** │
 
 [ ◄ ](<Forward_Referencing.md> "Basic Pascal Tutorial/Chapter 4/Forward Referencing") | [ ▲ ](<../Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Solution.md> "Basic Pascal Tutorial/Chapter 4/Solution")  
 ---|---|---  

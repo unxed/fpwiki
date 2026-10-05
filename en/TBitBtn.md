@@ -1,7 +1,6 @@
 # TBitBtn
 
-│ **[Deutsch (de)](</TBitBtn/de> "TBitBtn/de")** │  **English (en)** │  **[español (es)](</TBitBtn/es> "TBitBtn/es")** │  **[suomi (fi)](</TBitBtn/fi> "TBitBtn/fi")** │  **[français (fr)](</TBitBtn/fr> "TBitBtn/fr")** │  **[polski (pl)](</TBitBtn/pl> "TBitBtn/pl")** │  **[русский (ru)](<../ru/TBitBtn.md> "TBitBtn/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TBitBtn.md>)** │
 
 **TBitBtn** [![tbitbtn.png](https://wiki.freepascal.org/images/e/ea/tbitbtn.png)](</File:tbitbtn.png>) is a component that creates a button with a bitmap drawn on its surface. A TBitBtn is a descendant of [TWinControl](</index.php?title=TWinControl&action=edit&redlink=1> "TWinControl \(page does not exist\)") and is available under the [Additional tab](<Additional_tab.md> "Additional tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

@@ -1,7 +1,6 @@
 # IDE Window: Code Explorer Options
 
-│ **[Deutsch (de)](</IDE_Window:_Code_Explorer_Options/de> "IDE Window: Code Explorer Options/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
 [![Code Explorer Options](https://wiki.freepascal.org/images/c/c4/IDE-options-code-explorer.JPG)](</File:IDE-options-code-explorer.JPG> "Code Explorer Options")
 

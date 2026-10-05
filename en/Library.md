@@ -1,7 +1,6 @@
 # Library
 
-│ **[Deutsch (de)](</Library/de> "Library/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
   
 Back to [Reserved words](<Reserved_words.md> "Reserved words"). 

@@ -1,6 +1,6 @@
 # Inc and Dec
 
-│ **English (en)** │ 
+│ **English (en)** │
 
 The [procedures](<Procedure.md> "Procedure") `inc` and `dec` increment or decrement a given variable by default by one. 
 

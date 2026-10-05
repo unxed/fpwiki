@@ -1,7 +1,6 @@
 # TDBCalendar
 
-│ **English (en)** │  **[français (fr)](</TDBCalendar/fr> "TDBCalendar/fr")** │    
-****
+│ **English (en)** │
 
 [![component-TDBCalendar.png](https://wiki.freepascal.org/images/9/9e/component-TDBCalendar.png)](</File:component-TDBCalendar.png>)
 

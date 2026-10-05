@@ -1,7 +1,6 @@
 # Procedure
 
-│ **[Deutsch (de)](</Procedure/de> "Procedure/de")** │  **English (en)** │  **[suomi (fi)](</Procedure/fi> "Procedure/fi")** │  **[français (fr)](</Procedure/fr> "Procedure/fr")** │  **[italiano (it)](</Procedure/it> "Procedure/it")** │  **[русский (ru)](<../ru/Procedure.md> "Procedure/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Procedure.md>)** │
 
 A **procedure** is a [routine](<Routine.md> "Routine") that does not return a value. `procedure` is a [reserved word](<Reserved_word.md> "Reserved word"). 
 

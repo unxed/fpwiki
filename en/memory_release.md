@@ -1,7 +1,6 @@
 # memory release
 
-│ **[Deutsch (de)](</memory_release/de> "memory release/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
 # Shared objects
 

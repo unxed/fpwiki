@@ -1,7 +1,6 @@
 # Raise
 
-│ **[Deutsch (de)](</Raise/de> "Raise/de")** │  **English (en)** │  **[suomi (fi)](</Raise/fi> "Raise/fi")** │    
-****
+│ **English (en)** │
 
 ` Raise` is an elementary [statement](<statement.md> "statement"). It explicitly throws an [exception](<Exceptions.md> "Exceptions") and transfers control to an exception handler. The `raise` statement is available and becomes a [reserved word](<Reserved_word.md> "Reserved word") if `{$modeSwitch exceptions+}`. 
 

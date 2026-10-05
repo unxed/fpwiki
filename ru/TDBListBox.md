@@ -1,6 +1,7 @@
 # TDBListBox
 
-│ **[English (en)](<../en/TDBListBox.md> "TDBListBox")** │  **[français (fr)](</TDBListBox/fr> "TDBListBox/fr")** │  **русский (ru)** │  **[中文（中国大陆）‎ (zh_CN)](</TDBListBox/zh_CN> "TDBListBox/zh CN")** │    
+│ **[English (en)](<../en/TDBListBox.md>)** │  **русский (ru)** │
+
 ******TDBListBox** [![tdblistbox.png](https://wiki.freepascal.org/images/7/73/tdblistbox.png)](</File:tdblistbox.png>) является компонентом в виде прокручиваемого списка строк из связанного с ним поля [TDataSet](<TDataSet.md> "TDataSet/ru"), в котором пользователь может выбрать одно значение. Данный компонент доступен на вкладке [Data Controls](<Data_Controls_tab.md> "Data Controls tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 
 ## См. также

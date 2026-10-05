@@ -1,7 +1,6 @@
 # IEEE 754 formats
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 ` single`, `double` and `extended` are [FPC](<FPC.md> "FPC")'s [data types](<Data_type.md> "Data type") implementing [Pascal](<Pascal.md> "Pascal")’s [`real`](<Real.md> "Real"). All of them are implemented according IEEE standard 754, where `single` is “single-precision”, `double` is “double-precision”, and `extended` has 80 bits. 
 

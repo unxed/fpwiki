@@ -1,7 +1,6 @@
 # Mode Delphi
 
-│ **English (en)** │  **[español (es)](</Mode_Delphi/es> "Mode Delphi/es")** │  **[français (fr)](</Mode_Delphi/fr> "Mode Delphi/fr")** │  **[português (pt)](</Mode_Delphi/pt> "Mode Delphi/pt")** │  **[русский (ru)](<../ru/Mode_Delphi.md> "Mode Delphi/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Mode_Delphi.md>)** │
 
 This [mode](<Compiler_Mode.md> "Compiler Mode") is provided for compatibility with the [Delphi](<Delphi.md> "Delphi") [compiler](<Compiler.md> "Compiler") from Embarcadero in order to simplify porting of existing code to [Free Pascal](<FPC.md> "FPC"). You enable it with mode switch `{$mode Delphi}` in [source code](<Source_code.md> "Source code") or with the compiler [command line option](<Command_line_parameters_and_environment_variables.md> "Command line parameters and environment variables") **-Mdelphi**. 
 

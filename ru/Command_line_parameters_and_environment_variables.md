@@ -1,7 +1,6 @@
 # Command line parameters and environment variables
 
-│ **[English (en)](<../en/Command_line_parameters_and_environment_variables.md> "Command line parameters and environment variables")** │  **[español (es)](</Command_line_parameters_and_environment_variables/es> "Command line parameters and environment variables/es")** │  **[suomi (fi)](</Command_line_parameters_and_environment_variables/fi> "Command line parameters and environment variables/fi")** │  **[français (fr)](</Command_line_parameters_and_environment_variables/fr> "Command line parameters and environment variables/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Command_line_parameters_and_environment_variables.md>)** │  **русский (ru)** │
 
 В большинстве (интерактивных) операционных систем [программы](<Program.md> "Program/ru") можно запускать через интерфейс командной строки [command line interface](<../en/Command-line_interface.md> "Command-line interface") (CLI), что позволяет предоставлять программе дополнительные данные. Модули [system](<../en/System_unit.md> "System unit") (и [`objPas`](<../en/Object_Pascal.md> "Object Pascal")) предоставляют базовые [функции](<Function.md> "Function/ru") для доступа к данным, предоставленным из командной строки. 
 

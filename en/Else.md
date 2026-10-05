@@ -1,7 +1,6 @@
 # Else
 
-│ **[Deutsch (de)](</Else/de> "Else/de")** │  **English (en)** │  **[español (es)](</Else/es> "Else/es")** │  **[suomi (fi)](</Else/fi> "Else/fi")** │  **[français (fr)](</Else/fr> "Else/fr")** │  **[русский (ru)](<../ru/Else.md> "Else/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Else.md>)** │
 
 ` else` is a [reserved word](<Reserved_word.md> "Reserved word") which starts a fallback-branch if all other _named_ cases do not apply. It can occur in 
 

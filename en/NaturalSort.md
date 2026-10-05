@@ -1,7 +1,6 @@
 # NaturalSort
 
-│ **English (en)** │  [**français (fr)**](</NaturalSort/fr> "NaturalSort/fr") │    
-****
+│ **English (en)** │
 
 ## Contents
 

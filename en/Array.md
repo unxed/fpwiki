@@ -1,7 +1,6 @@
 # Array
 
-│ **[Deutsch (de)](</Array/de> "Array/de")** │  **English (en)** │  **[español (es)](</Array/es> "Array/es")** │  **[suomi (fi)](</Array/fi> "Array/fi")** │  **[français (fr)](</Array/fr> "Array/fr")** │  **[Bahasa Indonesia (id)](</Array/id> "Array/id")** │  **[日本語 (ja)](</Array/ja> "Array/ja")** │  **[русский (ru)](<../ru/Array.md> "Array/ru")** │  **[中文（中国大陆） (zh_CN)](</Array/zh_CN> "Array/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Array.md>)** │
 
 An **array** is a linear data structure concept that groups elements of the same type, stores them in contiguous and adjacent memory locations and provides random access to all of said elements (also known as components) by way of a linear index. 
 

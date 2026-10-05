@@ -1,7 +1,6 @@
 # Download from SourceForge
 
-│ **English (en)** │  **[français (fr)](</Download_from_SourceForge/fr> "Download from SourceForge/fr")** │  **[polski (pl)](</Download_from_SourceForge/pl> "Download from SourceForge/pl")** │    
-****
+│ **English (en)** │
 
 You can use the [Synapse](<Synapse.md> "Synapse") networking library to download files from SourceForge. Because SourceForge stores files on multiple mirrors you have to deal with redirection. 
     

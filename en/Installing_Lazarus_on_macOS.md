@@ -1,6 +1,6 @@
 # Installing Lazarus on macOS
 
-│ **English (en)** │  **[español (es)](</Installing_Lazarus_on_macOS/es> "Installing Lazarus on macOS/es")** │  **[한국어 (ko)](</Installing_Lazarus_on_macOS/ko> "Installing Lazarus on macOS/ko")** │  **[русский (ru)](<../ru/Installing_Lazarus_on_macOS.md> "Installing Lazarus on macOS/ru")** │ 
+│ **English (en)** │  **[русский (ru)](<../ru/Installing_Lazarus_on_macOS.md>)** │
 
 [![macOSlogo.png](https://wiki.freepascal.org/images/1/15/macOSlogo.png)](</File:macOSlogo.png>)
 

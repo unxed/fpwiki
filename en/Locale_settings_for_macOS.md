@@ -6,7 +6,7 @@ This article applies to [macOS](</Category:macOS> "Category:macOS") only.
 
 See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **English (en)** │ 
+│ **English (en)** │
 
 In macOS, like on other Unix platforms, the RTL does not load the locale settings (date & time separator, currency symbol, etc) by default. They can be initialised in three ways. 
 

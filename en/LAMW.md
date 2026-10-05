@@ -1,6 +1,6 @@
 # LAMW
 
-│ **English (en)** │  **[polski (pl)](</LAMW/pl> "LAMW/pl")** │  **[русский (ru)](<../ru/LAMW.md> "LAMW/ru")** │ 
+│ **English (en)** │  **[русский (ru)](<../ru/LAMW.md>)** │
 
 [![Android robot.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/50px-Android_robot.svg.png)](</File:Android_robot.svg>)
 

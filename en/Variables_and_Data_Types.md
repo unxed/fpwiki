@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Chapter 1/Variables and Data Types
 
-│ **[български (bg)](</Basic_Pascal_Tutorial/Chapter_1/Variables_and_Data_Types/bg> "Basic Pascal Tutorial/Chapter 1/Variables and Data Types/bg")** │  **[Deutsch (de)](</Basic_Pascal_Tutorial/Chapter_1/Variables_and_Data_Types/de> "Basic Pascal Tutorial/Chapter 1/Variables and Data Types/de")** │  **English (en)** │  **[español (es)](</Basic_Pascal_Tutorial/Chapter_1/Variables_and_Data_Types/es> "Basic Pascal Tutorial/Chapter 1/Variables and Data Types/es")** │  **[français (fr)](</Basic_Pascal_Tutorial/Chapter_1/Variables_and_Data_Types/fr> "Basic Pascal Tutorial/Chapter 1/Variables and Data Types/fr")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Chapter_1/Variables_and_Data_Types/ja> "Basic Pascal Tutorial/Chapter 1/Variables and Data Types/ja")** │  **[한국어 (ko)](</Basic_Pascal_Tutorial/Chapter_1/Variables_and_Data_Types/ko> "Basic Pascal Tutorial/Chapter 1/Variables and Data Types/ko")** │  **[русский (ru)](<../ru/Basic_Pascal_Tutorial/Chapter_1/Variables_and_Data_Types.md> "Basic Pascal Tutorial/Chapter 1/Variables and Data Types/ru")** │  **[中文（中国大陆）‎ (zh_CN)](</Basic_Pascal_Tutorial/Chapter_1/Variables_and_Data_Types/zh_CN> "Basic Pascal Tutorial/Chapter 1/Variables and Data Types/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Variables_and_Data_Types.md>)** │
 
 [ ◄ ](<Basic_Pascal_Tutorial/Chapter_1/Constants.md> "Basic Pascal Tutorial/Chapter 1/Constants") | [ ▲ ](<Basic_Pascal_Tutorial/Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Basic_Pascal_Tutorial/Chapter_1/Assignment_and_Operations.md> "Basic Pascal Tutorial/Chapter 1/Assignment and Operations")  
 ---|---|---  

@@ -1,7 +1,6 @@
 # Command line parameters and environment variables
 
-│ **English (en)** │  **[español (es)](</Command_line_parameters_and_environment_variables/es> "Command line parameters and environment variables/es")** │  **[suomi (fi)](</Command_line_parameters_and_environment_variables/fi> "Command line parameters and environment variables/fi")** │  **[français (fr)](</Command_line_parameters_and_environment_variables/fr> "Command line parameters and environment variables/fr")** │  **[русский (ru)](<../ru/Command_line_parameters_and_environment_variables.md> "Command line parameters and environment variables/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Command_line_parameters_and_environment_variables.md>)** │
 
 On most (interactive) operating systems [programs](<Program.md> "Program") can be started via a [command line interface](<Command-line_interface.md> "Command-line interface") (CLI) that allows supplying the program with additional data. The [system](<System_unit.md> "System unit") (and [`objPas`](<Object_Pascal.md> "Object Pascal")) units provide basic [functions](<Function.md> "Function") in order to access command-line supplied data. 
 

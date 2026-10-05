@@ -1,7 +1,6 @@
 # TOpenGLBox
 
-│ **English (en)** │  **[français (fr)](</TOpenGLBox/fr> "TOpenGLBox/fr")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

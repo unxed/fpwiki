@@ -1,6 +1,6 @@
 # profiling
 
-[**English (en)**](<../en/Profiling.md> "Profiling") | [**français (fr)**](</profiling/fr> "profiling/fr") | ****русский (ru)****   
+│ **русский (ru)** │
 
 
 [Профилирование в Википедии](<http://ru.wikipedia.org/wiki/Профилирование>): 

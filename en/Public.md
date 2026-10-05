@@ -1,7 +1,6 @@
 # Public
 
-│ **[Deutsch (de)](</Public/de> "Public/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
   
 Back to [Reserved words](<Reserved_words.md> "Reserved words"). 

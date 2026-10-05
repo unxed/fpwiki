@@ -1,7 +1,6 @@
 # Code Conversion Guide
 
-│ **[Deutsch (de)](</Code_Conversion_Guide/de> "Code Conversion Guide/de")** │  **[English (en)](<../en/Code_Conversion_Guide.md> "Code Conversion Guide")** │  **[español (es)](</Code_Conversion_Guide/es> "Code Conversion Guide/es")** │  **[français (fr)](</Code_Conversion_Guide/fr> "Code Conversion Guide/fr")** │  **[日本語 (ja)](</Code_Conversion_Guide/ja> "Code Conversion Guide/ja")** │  **[português (pt)](</Code_Conversion_Guide/pt> "Code Conversion Guide/pt")** │  **русский (ru)** │  **[slovenčina (sk)](</Code_Conversion_Guide/sk> "Code Conversion Guide/sk")** │    
-****
+│ **[English (en)](<../en/Code_Conversion_Guide.md>)** │  **русский (ru)** │
 
 ## Портирование кода из Delphi на FreePascal/Lazarus
 

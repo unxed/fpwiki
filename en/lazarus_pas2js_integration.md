@@ -1,7 +1,6 @@
 # lazarus pas2js integration
 
-│ **English (en)** │  **[русский (ru)](<../ru/lazarus_pas2js_integration.md> "lazarus pas2js integration/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/lazarus_pas2js_integration.md>)** │
 
 ## Contents
 

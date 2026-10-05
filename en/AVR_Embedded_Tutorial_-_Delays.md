@@ -1,6 +1,6 @@
 # AVR Embedded Tutorial - Delays
 
-│ **[Deutsch (de)](</AVR_Embedded_Tutorial_-_Delays/de> "AVR Embedded Tutorial - Delays/de")** │  **English (en)** │ 
+│ **English (en)** │
 
 ## Contents
 

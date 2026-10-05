@@ -1,7 +1,6 @@
 # LCL Internals - Resizing, Moving
 
-│ **English (en)** │  **[français (fr)](</LCL_Internals_-_Resizing,_Moving/fr> "LCL Internals - Resizing, Moving/fr")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

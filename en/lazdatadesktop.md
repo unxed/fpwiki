@@ -1,7 +1,6 @@
 # lazdatadesktop
 
-**English (en)** | [**español (es)**](</lazdatadesktop/es> "lazdatadesktop/es")   
-****
+│ **English (en)** │
 
 ## Contents
 

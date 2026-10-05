@@ -1,7 +1,6 @@
 # Lazarus release version for Ubuntu
 
-│ **English (en)** │  **[polski (pl)](</Lazarus_release_version_for_Ubuntu/pl> "Lazarus release version for Ubuntu/pl")** │    
-****
+│ **English (en)** │
 
 One might try: 
     

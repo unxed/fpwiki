@@ -1,6 +1,6 @@
 # Vectorization
 
-│ **English (en)** │ 
+│ **English (en)** │
 
     _Editor's note:_ This page has been set up as a collaboration and design specification for the proposal to include vectorization support in the x86 and x86_64 variant of the [FPC](<FPC.md> "FPC") (using SSE or AVX to reduce the number of instructions, and hence the execution speed, required to encode functionality). Eventually, this page can be converted into a guide to the optimizer once vectorization is at least partially supported. —[CuriousKit](</index.php?title=User:CuriousKit&action=edit&redlink=1> "User:CuriousKit \(page does not exist\)") ([talk](</index.php?title=User_talk:CuriousKit&action=edit&redlink=1> "User talk:CuriousKit \(page does not exist\)")) 22:52, 11 December 2017 (CET)
 

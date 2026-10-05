@@ -1,7 +1,6 @@
 # Smoothsort
 
-│ **English (en)** │  **[français (fr)](</Smoothsort/fr> "Smoothsort/fr")** │    
-****
+│ **English (en)** │
 
 Smoothsort is a comparison-based [sorting algorithm](<sorting_algorithm.md> "sorting algorithm"). 
 

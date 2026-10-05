@@ -1,8 +1,7 @@
 # Data Access tab
 
-│ **English (en)** │  **[français (fr)](</Data_Access_tab/fr> "Data Access tab/fr")** │  **[русский (ru)](<../ru/Data_Access_tab.md> "Data Access tab/ru")** │    
-****  
-  
+│ **English (en)** │  **[русский (ru)](<../ru/Data_Access_tab.md>)** │
+
 ---  
 [**Databases portal**](<Portal_Databases.md> "Portal:Databases")  
 References: 

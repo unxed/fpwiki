@@ -1,7 +1,6 @@
 # Component Palette
 
-│ **English (en)** │  **[suomi (fi)](</Component_Palette/fi> "Component Palette/fi")** │  **[français (fr)](</Component_Palette/fr> "Component Palette/fr")** │  **[日本語 (ja)](</Component_Palette/ja> "Component Palette/ja")** │  **[русский (ru)](<../ru/Component_Palette.md> "Component Palette/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Component_Palette.md>)** │
 
 The **Component Palette** of the [IDE](<IDE.md> "IDE") is a tabbed toolbar which displays a large number of icons representing commonly used components for building forms. 
 
@@ -9,7 +8,7 @@ The **Component Palette** of the [IDE](<IDE.md> "IDE") is a tabbed toolbar which
 
 Component Palette  
 ---  
-[Standard/ja](</Standard_tab/ja> "Standard tab/ja") \- [Additional/ja](</Additional_tab/ja> "Additional tab/ja") \- [Common Controls/ja](</index.php?title=Common_Controls_tab/ja&action=edit&redlink=1> "Common Controls tab/ja \(page does not exist\)") \- [Dialogs/ja](</index.php?title=Dialogs_tab/ja&action=edit&redlink=1> "Dialogs tab/ja \(page does not exist\)") \- [Data Controls/ja](</Data_Controls_tab/ja> "Data Controls tab/ja") \- [Data Access/ja](</Data_Access_tab/ja> "Data Access tab/ja") \- [System](<System_tab.md> "System tab") \- [Misc](<Misc_tab.md> "Misc tab") \- [LazControls](<LazControls_tab.md> "LazControls tab") \- [RTTI](<RTTI_tab.md> "RTTI tab") \- [SQLdb](<SQLdb_tab.md> "SQLdb tab") \- [Pascal Script](<Pascal_Script_tab.md> "Pascal Script tab") \- [SynEdit](<SynEdit_tab.md> "SynEdit tab") \- [Chart](<Chart_tab.md> "Chart tab") \- [IPro](<IPro_tab.md> "IPro tab")  
+Standard/ja \- Additional/ja \- Common Controls/ja \- Dialogs/ja \- Data Controls/ja \- Data Access/ja \- [System](<System_tab.md> "System tab") \- [Misc](<Misc_tab.md> "Misc tab") \- [LazControls](<LazControls_tab.md> "LazControls tab") \- [RTTI](<RTTI_tab.md> "RTTI tab") \- [SQLdb](<SQLdb_tab.md> "SQLdb tab") \- [Pascal Script](<Pascal_Script_tab.md> "Pascal Script tab") \- [SynEdit](<SynEdit_tab.md> "SynEdit tab") \- [Chart](<Chart_tab.md> "Chart tab") \- [IPro](<IPro_tab.md> "IPro tab")  
   
 Each tab causes the display of a different set of icons, representing a functional group of components. The left-most icon in each tabbed group is an obliquely leftward-facing arrow, called the Selection Tool. 
 

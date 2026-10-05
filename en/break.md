@@ -1,6 +1,6 @@
 # Break
 
-│ [**Deutsch (de)**](</Break/de> "Break/de") │  **English (en)** │  [**français (fr)**](</Break/fr> "Break/fr") │  [**русский (ru)**](<../ru/Break.md> "Break/ru") │    
+│ **English (en)** │
 
 
 The reserved word **break** is one of the [loop commands](</index.php?title=Loops&action=edit&redlink=1> "Loops \(page does not exist\)")  

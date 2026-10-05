@@ -1,6 +1,6 @@
 # Mode MacPas
 
-│ **English (en)** │  [**français (fr)**](</Mode_MacPas/fr> "Mode MacPas/fr") │    
+│ **English (en)** │
 
 
 Mode MacPas tries to be compatible with the Pascal dialects commonly used on [Macintosh](</Category:Mac_OS_Classic> "Category:Mac OS Classic"), that is [THINK Pascal](<THINK_Pascal.md> "THINK Pascal"), [Metrowerks Pascal](</index.php?title=Metrowerks_Pascal&action=edit&redlink=1> "Metrowerks Pascal \(page does not exist\)") and [MPW Pascal](</index.php?title=MPW_Pascal&action=edit&redlink=1> "MPW Pascal \(page does not exist\)"). For tips on porting from traditional [Mac Pascal](<Mac_Pascal.md> "Mac Pascal") compiler to [Free Pascal](<Free_Pascal.md> "Free Pascal"), see [Porting from Mac Pascal](<Porting_from_Mac_Pascal.md> "Porting from Mac Pascal")

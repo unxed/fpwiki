@@ -1,6 +1,6 @@
 # Alternative Main Page
 
-│ [**čeština (cs)**](</Alternative_Main_Page/cs> "Alternative Main Page/cs") │ [**Deutsch (de)**](</Alternative_Main_Page/de> "Alternative Main Page/de") │ **English (en)** │ [**français (fr)**](</Alternative_Main_Page/fr> "Alternative Main Page/fr") │ 
+│ **English (en)** │
 
   
 

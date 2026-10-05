@@ -1,6 +1,7 @@
 # Val
 
-│ [**Deutsch (de)**](</Val/de> "Val/de") │  **English (en)** │  [**русский (ru)**](<../ru/Val.md> "Val/ru") │    
+│ **English (en)** │  **[русский (ru)](<../ru/Val.md>)** │
+
 ****The[procedure](<Procedure.md> "Procedure") [`system.val`](<https://www.freepascal.org/docs-html/rtl/system/val.html>) attempts to convert a string representation of a numeric value into a numeric value variable. It is part of the default [run-time library](<RTL.md> "RTL") delivered with the [FreePascal compiler](<FPC.md> "FPC"), but otherwise not standardized. 
 
 ## usage

@@ -1,7 +1,6 @@
 # TMainMenu
 
-│ **[Deutsch (de)](</TMainMenu/de> "TMainMenu/de")** │  **English (en)** │  **[suomi (fi)](</TMainMenu/fi> "TMainMenu/fi")** │  **[français (fr)](</TMainMenu/fr> "TMainMenu/fr")** │  **[русский (ru)](<../ru/TMainMenu.md> "TMainMenu/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TMainMenu.md>)** │
 
 A **TMainMenu** [![tmainmenu.png](https://wiki.freepascal.org/images/4/4d/tmainmenu.png)](</File:tmainmenu.png>) is a non-visual component from the [Standard tab](<Standard_tab.md> "Standard tab") of the [Component Palette](<Component_Palette.md> "Component Palette") that provides a main menu on a form. 
 

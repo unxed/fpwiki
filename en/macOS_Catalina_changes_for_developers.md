@@ -1,6 +1,6 @@
 # macOS Catalina changes for developers
 
-│ **English (en)** │ 
+│ **English (en)** │
 
 [![macOSlogo.png](https://wiki.freepascal.org/images/1/15/macOSlogo.png)](</File:macOSlogo.png>)
 

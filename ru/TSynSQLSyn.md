@@ -1,7 +1,6 @@
 # TSynSQLSyn
 
-│ **[English (en)](<../en/TSynSQLSyn.md> "TSynSQLSyn")** │  **[français (fr)](</TSynSQLSyn/fr> "TSynSQLSyn/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TSynSQLSyn.md>)** │  **русский (ru)** │
 
 **TSynSQLSyn** [![tsynsqlsyn.png](https://wiki.freepascal.org/images/f/fc/tsynsqlsyn.png)](</File:tsynsqlsyn.png>) \- компонент, представляющий подсветку корректного синтаксиса кода на языке запросов SQL при его редактировании. Данный компонент является частью пакета [SynEdit](<SynEdit.md> "SynEdit/ru") и доступен на вкладке [SynEdit](<SynEdit_tab.md> "SynEdit tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

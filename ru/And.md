@@ -1,7 +1,6 @@
 # And
 
-│ **[Deutsch (de)](</And/de> "And/de")** │  **[English (en)](<../en/And.md> "And")** │  **[español (es)](</And/es> "And/es")** │  **[suomi (fi)](</And/fi> "And/fi")** │  **[français (fr)](</And/fr> "And/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/And.md>)** │  **русский (ru)** │
 
 ## Contents
 

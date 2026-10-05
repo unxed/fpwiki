@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Chapter 1/Constants
 
-│ **[български (bg)](</Basic_Pascal_Tutorial/Chapter_1/Constants/bg> "Basic Pascal Tutorial/Chapter 1/Constants/bg")** │  **[Deutsch (de)](</Basic_Pascal_Tutorial/Chapter_1/Constants/de> "Basic Pascal Tutorial/Chapter 1/Constants/de")** │  **[English (en)](<../../../en/Basic_Pascal_Tutorial/Chapter_1/Constants.md> "Basic Pascal Tutorial/Chapter 1/Constants")** │  **[français (fr)](</Basic_Pascal_Tutorial/Chapter_1/Constants/fr> "Basic Pascal Tutorial/Chapter 1/Constants/fr")** │  **[italiano (it)](</Basic_Pascal_Tutorial/Chapter_1/Constants/it> "Basic Pascal Tutorial/Chapter 1/Constants/it")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Chapter_1/Constants/ja> "Basic Pascal Tutorial/Chapter 1/Constants/ja")** │  **[한국어 (ko)](</Basic_Pascal_Tutorial/Chapter_1/Constants/ko> "Basic Pascal Tutorial/Chapter 1/Constants/ko")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</Basic_Pascal_Tutorial/Chapter_1/Constants/zh_CN> "Basic Pascal Tutorial/Chapter 1/Constants/zh CN")** │    
-****
+│ **[English (en)](<../../../en/Basic_Pascal_Tutorial/Chapter_1/Constants.md>)** │  **русский (ru)** │
 
 [ ◄ ](<Identifiers.md> "Basic Pascal Tutorial/Chapter 1/Identifiers/ru") | [ ▲ ](<../Contents.md> "Basic Pascal Tutorial/Contents/ru") | [ ► ](<Variables_and_Data_Types.md> "Basic Pascal Tutorial/Chapter 1/Variables and Data Types/ru")  
 ---|---|---  

@@ -1,8 +1,7 @@
 # TSQLConnection
 
-│ **English (en)** │  **[français (fr)](</TSQLConnection/fr> "TSQLConnection/fr")** │  **[日本語 (ja)](</TSQLConnection/ja> "TSQLConnection/ja")** │  **[polski (pl)](</TSQLConnection/pl> "TSQLConnection/pl")** │    
-****  
-  
+│ **English (en)** │
+
 ---  
 [**Databases portal**](<Portal_Databases.md> "Portal:Databases")  
 References: 

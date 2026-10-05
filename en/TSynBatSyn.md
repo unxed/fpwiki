@@ -1,7 +1,6 @@
 # TSynBatSyn
 
-│ **English (en)** │  **[français (fr)](</TSynBatSyn/fr> "TSynBatSyn/fr")** │  **[русский (ru)](<../ru/TSynBatSyn.md> "TSynBatSyn/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TSynBatSyn.md>)** │
 
 **TSynBatSyn** [![tsynbatsyn.png](https://wiki.freepascal.org/images/3/3e/tsynbatsyn.png)](</File:tsynbatsyn.png>) is a component that provides the batch-file-language syntaxchecking-part of syntax-highlighting editing. It is part of the [SynEdit](<SynEdit.md> "SynEdit") package and is available under the [SynEdit tab](<SynEdit_tab.md> "SynEdit tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

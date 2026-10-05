@@ -1,7 +1,6 @@
 # Multiplatform Programming Guide
 
-│ **[Deutsch (de)](</Multiplatform_Programming_Guide/de> "Multiplatform Programming Guide/de")** │  **[English (en)](<../en/Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")** │  **[español (es)](</Multiplatform_Programming_Guide/es> "Multiplatform Programming Guide/es")** │  **[français (fr)](</Multiplatform_Programming_Guide/fr> "Multiplatform Programming Guide/fr")** │  **[日本語 (ja)](</Multiplatform_Programming_Guide/ja> "Multiplatform Programming Guide/ja")** │  **[polski (pl)](</Multiplatform_Programming_Guide/pl> "Multiplatform Programming Guide/pl")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</Multiplatform_Programming_Guide/zh_CN> "Multiplatform Programming Guide/zh CN")** │    
-****
+│ **[English (en)](<../en/Multiplatform_Programming_Guide.md>)** │  **русский (ru)** │
 
 Большинство [LCL](<../en/LCL.md> "LCL") приложений работают в кроссплатформенном режиме без каких-либо дополнительных усилий. 
 

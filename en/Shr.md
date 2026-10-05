@@ -1,7 +1,6 @@
 # Shr
 
-│ **[Deutsch (de)](</Shr/de> "Shr/de")** │  **English (en)** │  **[français (fr)](</Shr/fr> "Shr/fr")** │  **[русский (ru)](<../ru/Shr.md> "Shr/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Shr.md>)** │
 
   
 Back to [Reserved words](<Reserved_words.md> "Reserved words"). 

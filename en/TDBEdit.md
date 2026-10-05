@@ -1,7 +1,6 @@
 # TDBEdit
 
-│ **English (en)** │  **[français (fr)](</TDBEdit/fr> "TDBEdit/fr")** │  **[日本語 (ja)](</TDBEdit/ja> "TDBEdit/ja")** │  **[русский (ru)](<../ru/TDBEdit.md> "TDBEdit/ru")** │  **[中文（中国大陆） (zh_CN)](</TDBEdit/zh_CN> "TDBEdit/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TDBEdit.md>)** │
 
 **TDBEdit** [![tdbedit.png](https://wiki.freepascal.org/images/9/9f/tdbedit.png)](</File:tdbedit.png>) edit control for use with a connected database. It is available from the [Data Controls tab](<Data_Controls_tab.md> "Data Controls tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

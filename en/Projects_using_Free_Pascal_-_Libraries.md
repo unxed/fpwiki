@@ -1,7 +1,6 @@
 # Projects using Free Pascal - Libraries
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 ## COMTAY
 

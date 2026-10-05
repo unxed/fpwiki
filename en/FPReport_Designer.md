@@ -1,7 +1,6 @@
 # FPReport Designer
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 ## Contents
 

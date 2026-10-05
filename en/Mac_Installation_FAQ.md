@@ -6,7 +6,7 @@ This article applies to [macOS](</Category:macOS> "Category:macOS") only.
 
 See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **English (en)** │ 
+│ **English (en)** │
 
 This page lists solutions to the most frequent problems that may arise during (and after) installation of Lazarus and Free Pascal on macOS. Please read [Installing Lazarus on macOS](<Installing_Lazarus_on_macOS.md> "Installing Lazarus on macOS") first and pay special attention to the sections that apply to your versions of macOS, Xcode, Lazarus and Free Pascal. 
 

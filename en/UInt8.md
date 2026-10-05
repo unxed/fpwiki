@@ -1,7 +1,6 @@
 # UInt8
 
-│ **[Deutsch (de)](</UInt8/de> "UInt8/de")** │  **English (en)** │  **[français (fr)](</UInt8/fr> "UInt8/fr")** │    
-****
+│ **English (en)** │
 
   
 Back to [data types](<Data_type.md> "Data type"). 

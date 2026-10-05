@@ -1,7 +1,6 @@
 # Identifier
 
-│ **[Deutsch (de)](</Identifier/de> "Identifier/de")** │  **English (en)** │  **[suomi (fi)](</Identifier/fi> "Identifier/fi")** │  **[français (fr)](</Identifier/fr> "Identifier/fr")** │  **[русский (ru)](<../ru/Identifier.md> "Identifier/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Identifier.md>)** │
 
 An **identifier** is a symbol used to unambiguously denote an object. Such objects could be for instance 
 

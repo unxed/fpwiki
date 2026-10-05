@@ -1,7 +1,6 @@
 # As
 
-│ **[Deutsch (de)](</As/de> "As/de")** │  **English (en)** │  **[español (es)](</As/es> "As/es")** │  **[suomi (fi)](</As/fi> "As/fi")** │  **[français (fr)](</As/fr> "As/fr")** │    
-****
+│ **English (en)** │
 
 The [operator](<Operator.md> "Operator") `as` performs a conditional [typecast](<Typecast.md> "Typecast"). The word `as` is a [reserved word](<Reserved_word.md> "Reserved word") in [`{$mode Delphi}`](<Mode_Delphi.md> "Mode Delphi") and [`{$mode objFPC}`](<Mode_ObjFPC.md> "Mode ObjFPC"). 
 

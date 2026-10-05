@@ -1,8 +1,7 @@
 # Castle Game Engine
 
-│ **English (en)** │  [**suomi (fi)**](</Castle_Game_Engine/fi> "Castle Game Engine/fi") │  [**français (fr)**](</Castle_Game_Engine/fr> "Castle Game Engine/fr") │    
-****  
-  
+│ **English (en)** │
+
 ---  
 [**Game Development**](<Portal_Game_Development.md> "Portal:Game Development")  
   

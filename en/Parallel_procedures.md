@@ -1,7 +1,6 @@
 # Parallel procedures
 
-│ **[Deutsch (de)](</Parallel_procedures/de> "Parallel procedures/de")** │  **English (en)** │  **[日本語 (ja)](</Parallel_procedures/ja> "Parallel procedures/ja")** │  **[русский (ru)](<../ru/Parallel_procedures.md> "Parallel procedures/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Parallel_procedures.md>)** │
 
 ## Contents
 

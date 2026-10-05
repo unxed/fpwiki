@@ -1,7 +1,6 @@
 # Nil
 
-│ **[Deutsch (de)](</Nil/de> "Nil/de")** │  **English (en)** │  **[suomi (fi)](</Nil/fi> "Nil/fi")** │  **[français (fr)](</Nil/fr> "Nil/fr")** │  **[русский (ru)](<../ru/Nil.md> "Nil/ru")** │  **[中文（中国大陆） (zh_CN)](</Nil/zh_CN> "Nil/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Nil.md>)** │
 
 The [reserved word](<Reserved_word.md> "Reserved word") `nil` represents the special [value](<Constant.md> "Constant") of a pointer [variable](<Variable.md> "Variable") not pointing anywhere in particular. In [FPC](<FPC.md> "FPC") it is implemented as `pointer(0)` (the numeric value `0`), however the programmer is not supposed to use this fact. In other programming languages, e. g. in C, you write `null`. The terms “null pointer” and “nil pointer” are used interchangeably, even among [Pascal](<Standard_Pascal.md> "Standard Pascal") programmers. 
 

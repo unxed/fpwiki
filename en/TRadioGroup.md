@@ -1,7 +1,6 @@
 # TRadioGroup
 
-│ **[Deutsch (de)](</TRadioGroup/de> "TRadioGroup/de")** │  **English (en)** │  **[suomi (fi)](</TRadioGroup/fi> "TRadioGroup/fi")** │  **[français (fr)](</TRadioGroup/fr> "TRadioGroup/fr")** │  **[日本語 (ja)](</TRadioGroup/ja> "TRadioGroup/ja")** │  **[русский (ru)](<../ru/TRadioGroup.md> "TRadioGroup/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TRadioGroup.md>)** │
 
 [![](https://wiki.freepascal.org/images/a/a0/RadioButtonsRadioGroup.png)](</File:RadioButtonsRadioGroup.png>)
 

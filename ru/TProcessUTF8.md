@@ -1,7 +1,6 @@
 # TProcessUTF8
 
-│ [**English (en)**](<../en/TProcessUTF8.md> "TProcessUTF8") │  [**español (es)**](</TProcessUTF8/es> "TProcessUTF8/es") │  [**français (fr)**](</TProcessUTF8/fr> "TProcessUTF8/fr") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TProcessUTF8.md>)** │  **русский (ru)** │
 
 **TProcessUTF8** [![tprocessutf8.png](https://wiki.freepascal.org/images/7/79/tprocessutf8.png)](</File:tprocessutf8.png>) представляет собой невизуальный компонент, который расположен на вкладке [System](<System_tab.md> "System tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru") и является версией компонента [TProcess](</index.php?title=TProcess/ru&action=edit&redlink=1> "TProcess/ru \(page does not exist\)"), принимающий символы в кодировке Unicode [UTF-8](<UTF-8.md> "UTF-8/ru") в отличие от **TProcess** , который использует символы ANSI/ASCII. 
 

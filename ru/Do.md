@@ -1,7 +1,7 @@
 # Do
 
-│ **[Deutsch (de)](</Do/de> "Do/de")** │  **[English (en)](<../en/Do.md> "Do")** │  **[español (es)](</Do/es> "Do/es")** │  **[suomi (fi)](</Do/fi> "Do/fi")** │  **[français (fr)](</Do/fr> "Do/fr")** │  **русский (ru)** │    
-****  
+│ **[English (en)](<../en/Do.md>)** │  **русский (ru)** │
+
 **Do** является [ключевым словом](<Keyword.md> "Keyword/ru"), используемым совместно с другими ключевыми словами, такими как [for](<For.md> "For/ru"), [to](<To.md> "To/ru"), [while](<While.md> "While/ru") и т.д. 
 
 ## Contents

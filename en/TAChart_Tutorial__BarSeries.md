@@ -1,7 +1,6 @@
 # TAChart Tutorial: BarSeries
 
-│ **[Deutsch (de)](</TAChart_Tutorial:_BarSeries/de> "TAChart Tutorial: BarSeries/de")** │  **English (en)** │  **[suomi (fi)](</TAChart_Tutorial:_BarSeries/fi> "TAChart Tutorial: BarSeries/fi")** │  **[русский (ru)](<../ru/TAChart_Tutorial__BarSeries.md> "TAChart Tutorial: BarSeries/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TAChart_Tutorial__BarSeries.md>)** │
 
 ## Contents
 

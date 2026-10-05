@@ -6,8 +6,7 @@ This article applies to [Windows](</Category:Windows> "Category:Windows") only.
 
 See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 Maybe the one microsecond timestamp is too long for your program. You can access the Windows API Performance Counter using code such as shown below. Note that this API may not be as reliable as you might hope. For more information see <http://www.virtualdub.org/blog/pivot/entry.php?id=106>
     

@@ -1,7 +1,6 @@
 # Break
 
-│ **[Deutsch (de)](</Break/de> "Break/de")** │  **[English (en)](<../en/Break.md> "Break")** │  **[español (es)](</Break/es> "Break/es")** │  **[suomi (fi)](</Break/fi> "Break/fi")** │  **[français (fr)](</Break/fr> "Break/fr")** │  **русский (ru)** │    
-****
+│ **русский (ru)** │
 
 Зарезервированное слово **break** \- одна из [команд цикла](<../en/Loops.md> "Loops")  
 Эта команда используется для выхода из цикла до его запланированного окончания.  

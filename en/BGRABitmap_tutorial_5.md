@@ -1,6 +1,6 @@
 # BGRABitmap tutorial 5
 
-│ **[Deutsch (de)](</BGRABitmap_tutorial_5/de> "BGRABitmap tutorial 5/de")** │  **English (en)** │  **[español (es)](</BGRABitmap_tutorial_5/es> "BGRABitmap tutorial 5/es")** │  **[français (fr)](</BGRABitmap_tutorial_5/fr> "BGRABitmap tutorial 5/fr")** │ 
+│ **English (en)** │
 
   
 ****

@@ -1,7 +1,6 @@
 # IDE Window: Codetools Options
 
-│ [**Deutsch (de)**](</IDE_Window:_Codetools_Options/de> "IDE Window: Codetools Options/de") │  **English (en)** │  [**français (fr)**](</IDE_Window:_Codetools_Options/fr> "IDE Window: Codetools Options/fr") │    
-****
+│ **English (en)** │
 
 [![](https://wiki.freepascal.org/images/9/9f/IDE-options-codetools.JPG)](</File:IDE-options-codetools.JPG>)
 

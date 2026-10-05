@@ -1,7 +1,6 @@
 # IDE Window: Sort selection
 
-│ **[Deutsch (de)](</IDE_Window:_Sort_selection/de> "IDE Window: Sort selection/de")** │  **English (en)** │  **[suomi (fi)](</IDE_Window:_Sort_selection/fi> "IDE Window: Sort selection/fi")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

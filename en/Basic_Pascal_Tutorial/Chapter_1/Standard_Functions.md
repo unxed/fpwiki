@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Chapter 1/Standard Functions
 
-│ **[български (bg)](</Basic_Pascal_Tutorial/Chapter_1/Standard_Functions/bg> "Basic Pascal Tutorial/Chapter 1/Standard Functions/bg")** │  **[Deutsch (de)](</Basic_Pascal_Tutorial/Chapter_1/Standard_Functions/de> "Basic Pascal Tutorial/Chapter 1/Standard Functions/de")** │  **English (en)** │  **[français (fr)](</Basic_Pascal_Tutorial/Chapter_1/Standard_Functions/fr> "Basic Pascal Tutorial/Chapter 1/Standard Functions/fr")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Chapter_1/Standard_Functions/ja> "Basic Pascal Tutorial/Chapter 1/Standard Functions/ja")** │  **[한국어 (ko)](</Basic_Pascal_Tutorial/Chapter_1/Standard_Functions/ko> "Basic Pascal Tutorial/Chapter 1/Standard Functions/ko")** │  **[русский (ru)](<../../../ru/Basic_Pascal_Tutorial/Chapter_1/Standard_Functions.md> "Basic Pascal Tutorial/Chapter 1/Standard Functions/ru")** │  **[中文（中国大陆） (zh_CN)](</Basic_Pascal_Tutorial/Chapter_1/Standard_Functions/zh_CN> "Basic Pascal Tutorial/Chapter 1/Standard Functions/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../../../ru/Basic_Pascal_Tutorial/Chapter_1/Standard_Functions.md>)** │
 
 [ ◄ ](<Assignment_and_Operations.md> "Basic Pascal Tutorial/Chapter 1/Assignment and Operations") | [ ▲ ](<../Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Punctuation_and_Indentation.md> "Basic Pascal Tutorial/Chapter 1/Punctuation and Indentation")  
 ---|---|---  

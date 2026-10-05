@@ -1,7 +1,6 @@
 # MultiDoc
 
-│ **[Deutsch (de)](</MultiDoc/de> "MultiDoc/de")** │  **English (en)** │  **[español (es)](</MultiDoc/es> "MultiDoc/es")** │  **[português (pt)](</MultiDoc/pt> "MultiDoc/pt")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

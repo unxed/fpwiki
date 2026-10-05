@@ -1,7 +1,6 @@
 # Robot - The Game
 
-│ **[Deutsch (de)](</Robot_-_The_Game/de> "Robot - The Game/de")** │  **English (en)** │  **[français (fr)](</Robot_-_The_Game/fr> "Robot - The Game/fr")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

@@ -1,7 +1,6 @@
 # TPageSetupDialog
 
-│ [**English (en)**](<../en/TPageSetupDialog.md> "TPageSetupDialog") │  [**français (fr)**](</TPageSetupDialog/fr> "TPageSetupDialog/fr") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TPageSetupDialog.md>)** │  **русский (ru)** │
 
 **TPageSetupDialog** [![tpagesetupdialog.png](https://wiki.freepascal.org/images/6/68/tpagesetupdialog.png)](</File:tpagesetupdialog.png>) это диалоговое окно, которое позволяет указать настройки страницы для задания печати. Оно располагается на вкладке [Dialogs](<Dialogs_tab.md> "Dialogs tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

@@ -1,6 +1,6 @@
 # Application Bundle
 
-│ **English (en)** │  **[日本語 (ja)](</Application_Bundle/ja> "Application Bundle/ja")** │  **[русский (ru)](<../ru/Application_Bundle.md> "Application Bundle/ru")** │ 
+│ **English (en)** │  **[русский (ru)](<../ru/Application_Bundle.md>)** │
 
 [![macOSlogo.png](https://wiki.freepascal.org/images/1/15/macOSlogo.png)](</File:macOSlogo.png>)
 

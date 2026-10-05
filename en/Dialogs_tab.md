@@ -1,7 +1,6 @@
 # Dialogs tab
 
-│ **English (en)** │  **[español (es)](</Dialogs_tab/es> "Dialogs tab/es")** │  **[suomi (fi)](</Dialogs_tab/fi> "Dialogs tab/fi")** │  **[français (fr)](</Dialogs_tab/fr> "Dialogs tab/fr")** │  **[polski (pl)](</Dialogs_tab/pl> "Dialogs tab/pl")** │  **[русский (ru)](<../ru/Dialogs_tab.md> "Dialogs tab/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Dialogs_tab.md>)** │
 
 The **Dialogs tab** of the [Component Palette](<Component_Palette.md> "Component Palette") contains all dialog-components. 
 

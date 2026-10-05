@@ -4,7 +4,7 @@ From Free Pascal wiki
 
 (Redirected from [FPC разработка](</index.php?title=FPC_%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0&redirect=no> "FPC разработка"))
 
-│ [**English (en)**](<FPC_development.md> "FPC development") │  [**Français (fr)**](</FPC_development/fr> "FPC development/fr") │  [**Magyar (hu)**](</FPC_development/hu> "FPC development/hu") │  [**Bahasa Indonesia (id)**](</FPC_development/id> "FPC development/id") │  [**日本語 (ja)**](</FPC_development/ja> "FPC development/ja") │  [**한국어 (ko)**](</FPC_development/ko> "FPC development/ko") │  **Русский (ru)** │  [**Svenska (sv)**](</FPC_development/sv> "FPC development/sv") │  [**Türkçe (tr)**](</FPC_development/tr> "FPC development/tr") │  [**‪中文(中国大陆)‬ (zh_CN)**](</FPC_development/zh_CN> "FPC development/zh CN") │  [**‪中文(台灣)‬ (zh_TW)**](</FPC_development/zh_TW> "FPC development/zh TW") │    
+│ **English (en)** │
 
 
 ##  Разработка 

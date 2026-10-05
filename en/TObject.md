@@ -1,7 +1,6 @@
 # TObject
 
-│ **English (en)** │  **[suomi (fi)](</TObject/fi> "TObject/fi")** │    
-****
+│ **English (en)** │
 
 **`TObject`** is the base [`class`](<Class.md> "Class") for any other `class`, whether you declare it or not. It provides only some very generic [methods](<Method.md> "Method"), mostly [`virtual`](</index.php?title=virtual&action=edit&redlink=1> "virtual \(page does not exist\)"). The rationale for `TObject` is that in [Object Pascal](<Object_Pascal.md> "Object Pascal") every `class` must be derived from another, `TObject` being the exception that ends the derivation chain. 
 

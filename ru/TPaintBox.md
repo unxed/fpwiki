@@ -1,7 +1,6 @@
 # TPaintBox
 
-│ [**English (en)**](<../en/TPaintBox.md> "TPaintBox") │  [**français (fr)**](</TPaintBox/fr> "TPaintBox/fr") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TPaintBox.md>)** │  **русский (ru)** │
 
 **TPaintBox** [![tpaintbox.png](https://wiki.freepascal.org/images/f/f1/tpaintbox.png)](</File:tpaintbox.png>) \- это компонент, представляющий область для рисования. Компонент TPaintBox является потомком [TGraphicControl](<TGraphicControl.md> "TGraphicControl/ru") и доступен на вкладке [Additional](<Additional_tab.md> "Additional tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

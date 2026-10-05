@@ -1,7 +1,6 @@
 # TOpenPictureDialog
 
-│ **English (en)** │  **[français (fr)](</TOpenPictureDialog/fr> "TOpenPictureDialog/fr")** │  **[русский (ru)](<../ru/TOpenPictureDialog.md> "TOpenPictureDialog/ru")** │  **[中文（中国大陆） (zh_CN)](</TOpenPictureDialog/zh_CN> "TOpenPictureDialog/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TOpenPictureDialog.md>)** │
 
 **TOpenPictureDialog** [![topenpicturedialog.png](https://wiki.freepascal.org/images/d/d7/topenpicturedialog.png)](</File:topenpicturedialog.png>) is a dialog that aids in opening picture files. It can be found on the [Dialogs tab](<Dialogs_tab.md> "Dialogs tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). A TOpenPictureDialog is much like a [TOpenDialog](<TOpenDialog.md> "TOpenDialog") but allows for a preview of the picture to be opened. 
 

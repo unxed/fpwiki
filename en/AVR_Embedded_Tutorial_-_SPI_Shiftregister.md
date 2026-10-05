@@ -1,7 +1,6 @@
 # AVR Embedded Tutorial - SPI Shiftregister
 
-│ [**Deutsch (de)**](</AVR_Embedded_Tutorial_-_SPI_Shiftregister/de> "AVR Embedded Tutorial - SPI Shiftregister/de") │  **English (en)** │    
-****
+│ **English (en)** │
 
 ## Contents
 

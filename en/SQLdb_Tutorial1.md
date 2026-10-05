@@ -1,8 +1,7 @@
 # SQLdb Tutorial1
 
-│ **[Deutsch (de)](</SQLdb_Tutorial1/de> "SQLdb Tutorial1/de")** │  **English (en)** │  **[español (es)](</SQLdb_Tutorial1/es> "SQLdb Tutorial1/es")** │  **[français (fr)](</SQLdb_Tutorial1/fr> "SQLdb Tutorial1/fr")** │  **[日本語 (ja)](</SQLdb_Tutorial1/ja> "SQLdb Tutorial1/ja")** │  **[中文（中国大陆） (zh_CN)](</SQLdb_Tutorial1/zh_CN> "SQLdb Tutorial1/zh CN")** │    
-****  
-  
+│ **English (en)** │
+
 ---  
 [**Databases portal**](<Portal_Databases.md> "Portal:Databases")  
 References: 
@@ -53,7 +52,7 @@ This tutorial shows you how to program databases using practical example code ba
 
 While this tutorial may seem long, it mostly is just a lot of text that explains why you should type what you type. As you can see at the end, the amount of actual code you will need for a working application is not that great. More experienced developers will hopefully be able to glance through the instructions and quickly understand what's going on. Also, you can stop at the end of the Basic example chapter and have a working program. 
 
-This tutorial is based on a [German tutorial](</SQLdb_Tutorial1/de> "SQLdb Tutorial1/de") by [Swen](</User:Swen> "User:Swen"), but it is extended, especially after the Basic example. [Swen](</User:Swen> "User:Swen") wants the German version to remain as-is. If this is a problem, we can rename this version and base a new German translation on that. 
+This tutorial is based on a German tutorial by [Swen](</User:Swen> "User:Swen"), but it is extended, especially after the Basic example. [Swen](</User:Swen> "User:Swen") wants the German version to remain as-is. If this is a problem, we can rename this version and base a new German translation on that. 
 
 From Swen: thanks to [Joost](</User:Loesje> "User:Loesje") and Michael. Without their help this tutorial probably never would have come about. 
 

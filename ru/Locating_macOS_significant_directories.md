@@ -6,7 +6,7 @@
 
 См. также: [Multiplatform Programming Guide](<../en/Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **[English (en)](<../en/Locating_macOS_significant_directories.md> "Locating macOS significant directories")** │  **русский (ru)** │ 
+│ **[English (en)](<../en/Locating_macOS_significant_directories.md>)** │  **русский (ru)** │
 
 ## Contents
 

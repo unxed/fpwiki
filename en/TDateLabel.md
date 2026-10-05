@@ -1,7 +1,6 @@
 # TDateLabel
 
-│ **English (en)** │  [**español (es)**](</TDateLabel/es> "TDateLabel/es") │  [**français (fr)**](</TDateLabel/fr> "TDateLabel/fr") │    
-****
+│ **English (en)** │
 
 ## Contents
 

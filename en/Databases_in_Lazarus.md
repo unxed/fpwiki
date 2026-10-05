@@ -1,8 +1,7 @@
 # Databases
 
-│ **[Deutsch (de)](</Databases/de> "Databases/de")** │  **English (en)** │  **[español (es)](</Databases/es> "Databases/es")** │  **[français (fr)](</Databases/fr> "Databases/fr")** │  **[italiano (it)](</Databases/it> "Databases/it")** │  **[português (pt)](</Databases/pt> "Databases/pt")** │  **[русский (ru)](<../ru/Databases.md> "Databases/ru")** │  **[中文（中国大陆）‎ (zh_CN)](</Databases/zh_CN> "Databases/zh CN")** │    
-****  
-  
+│ **English (en)** │  **[русский (ru)](<../ru/Databases_in_Lazarus.md>)** │
+
 ---  
 [**Databases portal**](<Portal_Databases.md> "Portal:Databases")  
 References: 

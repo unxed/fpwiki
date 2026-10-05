@@ -1,7 +1,6 @@
 # Lazarus Development Process
 
-│ **[English (en)](<../en/Lazarus_Development_Process.md> "Lazarus Development Process")** │  **[français (fr)](</Lazarus_Development_Process/fr> "Lazarus Development Process/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Lazarus_Development_Process.md>)** │  **русский (ru)** │
 
 ## Contents
 

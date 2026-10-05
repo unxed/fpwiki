@@ -1,7 +1,6 @@
 # Function
 
-│ **[Deutsch (de)](</Function/de> "Function/de")** │  **[English (en)](<../en/Function.md> "Function")** │  **[español (es)](</Function/es> "Function/es")** │  **[suomi (fi)](</Function/fi> "Function/fi")** │  **[français (fr)](</Function/fr> "Function/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Function.md>)** │  **русский (ru)** │
 
 ## Contents
 

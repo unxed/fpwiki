@@ -1,7 +1,6 @@
 # TLabel
 
-│ **[Deutsch (de)](</TLabel/de> "TLabel/de")** │  **[English (en)](<../en/TLabel.md> "TLabel")** │  **[suomi (fi)](</TLabel/fi> "TLabel/fi")** │  **[français (fr)](</TLabel/fr> "TLabel/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TLabel.md>)** │  **русский (ru)** │
 
 **TLabel** [![tlabel.png](https://wiki.freepascal.org/images/3/3a/tlabel.png)](</File:tlabel.png>) \- компонент для создания одно- или многострочной текстовой подписи для другого компонента. Компонент TLabel является потомком [TGraphicControl](<TGraphicControl.md> "TGraphicControl/ru") и доступен на вкладке [Standart](<Standard_tab.md> "Standard tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

@@ -1,7 +1,6 @@
 # TCoolBar
 
-│ **English (en)** │  **[français (fr)](</TCoolBar/fr> "TCoolBar/fr")** │  **[русский (ru)](<../ru/TCoolBar.md> "TCoolBar/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TCoolBar.md>)** │
 
 [![tcoolbar 150.png](https://wiki.freepascal.org/images/4/4c/tcoolbar_150.png)](</File:tcoolbar_150.png>) **TCoolBar** is a visible component on the [Common Controls tab](<Common_Controls_tab.md> "Common Controls tab") of the [Component Palette](<Component_Palette.md> "Component Palette") that provides a (multiline) adjustable container for other controls, usually [toolbars](</index.php?title=TToolbar&action=edit&redlink=1> "TToolbar \(page does not exist\)"). The controls are arranged in rows and can be adjusted in size and position. 
 

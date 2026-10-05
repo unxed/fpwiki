@@ -1,7 +1,6 @@
 # FPC New Features 2.6.2
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 ## Contents
 

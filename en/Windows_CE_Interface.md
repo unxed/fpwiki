@@ -6,8 +6,7 @@ This article applies to [Windows CE](</Category:WinCE> "Category:WinCE") only.
 
 See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **English (en)** │  **[français (fr)](</Windows_CE_Interface/fr> "Windows CE Interface/fr")** │  **[한국어 (ko)](</Windows_CE_Interface/ko> "Windows CE Interface/ko")** │  **[português (pt)](</Windows_CE_Interface/pt> "Windows CE Interface/pt")** │  **[中文（臺灣） (zh_TW)](</Windows_CE_Interface/zh_TW> "Windows CE Interface/zh TW")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Windows_CE_Interface.md>)** │
 
 ## Contents
 

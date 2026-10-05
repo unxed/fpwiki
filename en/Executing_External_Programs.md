@@ -1,7 +1,6 @@
 # Executing External Programs
 
-│ **[Deutsch (de)](</Executing_External_Programs/de> "Executing External Programs/de")** │  **English (en)** │  **[español (es)](</Executing_External_Programs/es> "Executing External Programs/es")** │  **[français (fr)](</Executing_External_Programs/fr> "Executing External Programs/fr")** │  **[italiano (it)](</Executing_External_Programs/it> "Executing External Programs/it")** │  **[日本語 (ja)](</Executing_External_Programs/ja> "Executing External Programs/ja")** │  **[Nederlands (nl)](</Executing_External_Programs/nl> "Executing External Programs/nl")** │  **[polski (pl)](</Executing_External_Programs/pl> "Executing External Programs/pl")** │  **[português (pt)](</Executing_External_Programs/pt> "Executing External Programs/pt")** │  **[русский (ru)](<../ru/Executing_External_Programs.md> "Executing External Programs/ru")** │  **[slovenčina (sk)](</Executing_External_Programs/sk> "Executing External Programs/sk")** │  **[中文（中国大陆） (zh_CN)](</Executing_External_Programs/zh_CN> "Executing External Programs/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Executing_External_Programs.md>)** │
 
 ## Contents
 

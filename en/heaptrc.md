@@ -1,7 +1,6 @@
 # heaptrc
 
-│ **English (en)** │  **[русский (ru)](<../ru/heaptrc.md> "heaptrc/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/heaptrc.md>)** │
 
 **`Heaptrc`** is a unit that can be used to debug allocation and deallocation of memory blocks. It keeps track of calls to [`GetMem`](<https://www.freepascal.org/docs-html/rtl/system/getmem.html>)/[`FreeMem`](<https://www.freepascal.org/docs-html/rtl/system/freemem.html>) calls, and, implicitly, of [`New`](<https://www.freepascal.org/docs-html/rtl/system/new.html>)/[`Dispose`](<https://www.freepascal.org/docs-html/rtl/system/dispose.html>) statements. 
 

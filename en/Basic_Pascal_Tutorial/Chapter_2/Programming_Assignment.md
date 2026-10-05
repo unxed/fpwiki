@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Chapter 2/Programming Assignment
 
-│ **[български (bg)](</Basic_Pascal_Tutorial/Chapter_2/Programming_Assignment/bg> "Basic Pascal Tutorial/Chapter 2/Programming Assignment/bg")** │  **[Deutsch (de)](</Basic_Pascal_Tutorial/Chapter_2/Programming_Assignment/de> "Basic Pascal Tutorial/Chapter 2/Programming Assignment/de")** │  **English (en)** │  **[français (fr)](</Basic_Pascal_Tutorial/Chapter_2/Programming_Assignment/fr> "Basic Pascal Tutorial/Chapter 2/Programming Assignment/fr")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Chapter_2/Programming_Assignment/ja> "Basic Pascal Tutorial/Chapter 2/Programming Assignment/ja")** │  **[中文（中国大陆） (zh_CN)](</Basic_Pascal_Tutorial/Chapter_2/Programming_Assignment/zh_CN> "Basic Pascal Tutorial/Chapter 2/Programming Assignment/zh CN")** │    
-****
+│ **English (en)** │
 
 [ ◄ ](<EOLN_and_EOF.md> "Basic Pascal Tutorial/Chapter 2/EOLN and EOF") | [ ▲ ](<../Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Solution.md> "Basic Pascal Tutorial/Chapter 2/Solution")  
 ---|---|---  

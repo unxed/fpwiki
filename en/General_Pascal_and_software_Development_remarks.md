@@ -1,7 +1,6 @@
 # General Pascal and software Development remarks
 
-│ [**Deutsch (de)**](</General_Pascal_and_software_Development_remarks/de> "General Pascal and software Development remarks/de") │  **English (en)** │    
-****
+│ **English (en)** │
 
   * [Do and Don'ts of Pascal](<DoDont.md> "DoDont")
   * [Secure programming](<Secure_programming.md> "Secure programming")

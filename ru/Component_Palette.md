@@ -1,7 +1,6 @@
 # Component Palette
 
-│ **[English (en)](<../en/Component_Palette.md> "Component Palette")** │  **[suomi (fi)](</Component_Palette/fi> "Component Palette/fi")** │  **[français (fr)](</Component_Palette/fr> "Component Palette/fr")** │  **[日本語 (ja)](</Component_Palette/ja> "Component Palette/ja")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Component_Palette.md>)** │  **русский (ru)** │
 
 **Палитра компонентов** представляет собой панели инструментов, разделенных вкладками, которые используются для построения форм.  
   

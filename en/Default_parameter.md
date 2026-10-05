@@ -1,7 +1,6 @@
 # Default parameter
 
-│ **[Deutsch (de)](</Default_parameter/de> "Default parameter/de")** │  **English (en)** │  **[español (es)](</Default_parameter/es> "Default parameter/es")** │  **[suomi (fi)](</Default_parameter/fi> "Default parameter/fi")** │  **[français (fr)](</Default_parameter/fr> "Default parameter/fr")** │  **[polski (pl)](</Default_parameter/pl> "Default parameter/pl")** │  **[русский (ru)](<../ru/Default_parameter.md> "Default parameter/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Default_parameter.md>)** │
 
 A default parameter also referred to as optional argument (or default argument) is a [function](<Function.md> "Function") or [procedure](<Procedure.md> "Procedure") parameter that has a default value provided to it. If the programmer does not supply a value for this parameter, the default value will be used. If the programmer does supply a value for the default parameter, the programmer-supplied value is used. 
 

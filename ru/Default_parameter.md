@@ -1,7 +1,6 @@
 # Default parameter
 
-│ **[Deutsch (de)](</Default_parameter/de> "Default parameter/de")** │  **[English (en)](<../en/Default_parameter.md> "Default parameter")** │  **[español (es)](</Default_parameter/es> "Default parameter/es")** │  **[suomi (fi)](</Default_parameter/fi> "Default parameter/fi")** │  **[français (fr)](</Default_parameter/fr> "Default parameter/fr")** │  **[polski (pl)](</Default_parameter/pl> "Default parameter/pl")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Default_parameter.md>)** │  **русский (ru)** │
 
 Параметры по умолчанию (также называемые необязательными аргументами или аргументами по умолчанию) являются параметрами [функции](<Function.md> "Function/ru") или [процедуры](<Procedure.md> "Procedure/ru"), которые содержат значения по умолчанию. Если программист не указал значение для такого параметра, то будет использоваться значение по умолчанию. В случае, если программист указал значение параметра, то использоваться будет указанное программистом значение. 
 

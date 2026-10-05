@@ -1,7 +1,6 @@
 # Networking libraries
 
-│ **English (en)** │  **[français (fr)](</Networking_libraries/fr> "Networking libraries/fr")** │  **[polski (pl)](</Networking_libraries/pl> "Networking libraries/pl")** │    
-****
+│ **English (en)** │
 
 Name  | Developers  | Platforms  | License  | Supported protocols  | Remarks   
 ---|---|---|---|---|---  

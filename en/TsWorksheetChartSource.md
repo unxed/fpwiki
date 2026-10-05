@@ -1,7 +1,6 @@
 # TsWorksheetChartSource
 
-│ **English (en)** │  **[français (fr)](</TsWorksheetChartSource/fr> "TsWorksheetChartSource/fr")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

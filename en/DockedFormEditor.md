@@ -1,7 +1,6 @@
 # DockedFormEditor
 
-│ **English (en)** │  **[русский (ru)](<../ru/DockedFormEditor.md> "DockedFormEditor/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/DockedFormEditor.md>)** │
 
 The DockedFormEditor is a package for the Lazarus IDE that docks a form next to source editor unit. This package is shipped with Lazarus version 2.1 upwards. 
 

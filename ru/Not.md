@@ -1,8 +1,7 @@
 # Not
 
-│ [**Deutsch (de)**](</Not/de> "Not/de") │  [**English (en)**](<../en/Not.md> "Not") │  [**suomi (fi)**](</Not/fi> "Not/fi") │  [**français (fr)**](</Not/fr> "Not/fr") │  **русский (ru)** │    
-****  
-  
+│ **[English (en)](<../en/Not.md>)** │  **русский (ru)** │
+
 
 
 ## Contents

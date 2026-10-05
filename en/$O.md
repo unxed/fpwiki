@@ -1,7 +1,6 @@
 # $O
 
-│ **[Deutsch (de)](</$O/de> "$O/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
   
 Back to [global compiler directives](<global_compiler_directives.md> "global compiler directives"). 

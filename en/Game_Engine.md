@@ -1,8 +1,7 @@
 # Game Engine
 
-│ **English (en)** │  **[français (fr)](</Game_Engine/fr> "Game Engine/fr")** │    
-****  
-  
+│ **English (en)** │
+
 ---  
 [**Game Development**](<Portal_Game_Development.md> "Portal:Game Development")  
   

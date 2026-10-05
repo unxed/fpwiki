@@ -1,7 +1,6 @@
 # Do
 
-│ **[Deutsch (de)](</Do/de> "Do/de")** │  **English (en)** │  **[español (es)](</Do/es> "Do/es")** │  **[suomi (fi)](</Do/fi> "Do/fi")** │  **[français (fr)](</Do/fr> "Do/fr")** │  **[русский (ru)](<../ru/Do.md> "Do/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Do.md>)** │
 
 The `do` keyword is a [reserved word](<Reserved_word.md> "Reserved word") that is only used in conjunction with other [keywords](<Keyword.md> "Keyword"). 
 

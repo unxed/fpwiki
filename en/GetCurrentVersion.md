@@ -6,8 +6,7 @@ This article applies to [Windows](</Category:Windows> "Category:Windows") only.
 
 See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **[Deutsch (de)](</GetCurrentVersion/de> "GetCurrentVersion/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
 Return to the [Code Examples page](<Code_Examples.md> "Code Examples"). 
 

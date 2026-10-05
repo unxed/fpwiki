@@ -1,7 +1,6 @@
 # TDBText
 
-│ **English (en)** │  [**français (fr)**](</TDBText/fr> "TDBText/fr") │  [**русский (ru)**](<../ru/TDBText.md> "TDBText/ru") │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TDBText.md>)** │
 
 **TDBText** [![tdbtext.png](https://wiki.freepascal.org/images/9/9d/tdbtext.png)](</File:tdbtext.png>) text control for use with a connected database. It is available from the [Data Controls tab](<Data_Controls_tab.md> "Data Controls tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

@@ -1,8 +1,7 @@
 # Zeos tutorial
 
-│ **[Deutsch (de)](</Zeos_tutorial/de> "Zeos tutorial/de")** │  **[English (en)](<../en/Zeos_tutorial.md> "Zeos tutorial")** │  **[español (es)](</Zeos_tutorial/es> "Zeos tutorial/es")** │  **[français (fr)](</Zeos_tutorial/fr> "Zeos tutorial/fr")** │  **[português (pt)](</Zeos_tutorial/pt> "Zeos tutorial/pt")** │  **русский (ru)** │  **[中文（中国大陆）‎ (zh_CN)](</Zeos_tutorial/zh_CN> "Zeos tutorial/zh CN")** │    
-****  
-  
+│ **[English (en)](<../en/Zeos_tutorial.md>)** │  **русский (ru)** │
+
 ---  
 [**Databases portal**](<../en/Portal_Databases.md> "Portal:Databases")  
 References: 

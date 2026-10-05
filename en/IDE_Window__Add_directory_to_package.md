@@ -1,7 +1,6 @@
 # IDE Window: Add directory to package
 
-│ **English (en)** │  [**español (es)**](</IDE_Window:_Add_directory_to_package/es> "IDE Window: Add directory to package/es") │    
-****
+│ **English (en)** │
 
 In this dialog you can choose a directory and some filters and all fitting files will be added to the list in [Add to Package](<IDE_Window__Add_to_Package.md> "IDE Window: Add to Package"). 
 

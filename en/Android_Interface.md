@@ -8,7 +8,7 @@ See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md>
 
 WARNING: THIS INFORMATION IS DATED AND NEEDS UPDATING 
 
-│ **English (en)** │  [**español (es)**](</Custom_Drawn_Interface/Android/es> "Custom Drawn Interface/Android/es") │  [**日本語 (ja)**](</Custom_Drawn_Interface/Android/ja> "Custom Drawn Interface/Android/ja") │  [**русский (ru)**](<../ru/Custom_Drawn_Interface/Android.md> "Custom Drawn Interface/Android/ru") │    
+│ **English (en)** │
 
 
 Go back to [Custom Drawn Interface](<Custom_Drawn_Interface.md> "Custom Drawn Interface")

@@ -1,6 +1,6 @@
 # SynEdit Highlighter
 
-│ **[English (en)](<../en/SynEdit_Highlighter.md> "SynEdit Highlighter")** │  **[polski (pl)](</SynEdit_Highlighter/pl> "SynEdit Highlighter/pl")** │  **русский (ru)** │ 
+│ **[English (en)](<../en/SynEdit_Highlighter.md>)** │  **русский (ru)** │
 
 Для получения дополнительной информации о SynEdit перейдите к статье: [SynEdit](<../en/SynEdit.md> "SynEdit")
 

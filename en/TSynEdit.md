@@ -1,7 +1,6 @@
 # TSynEdit
 
-│ **English (en)** │  **[suomi (fi)](</TSynEdit/fi> "TSynEdit/fi")** │  **[français (fr)](</TSynEdit/fr> "TSynEdit/fr")** │  **[polski (pl)](</TSynEdit/pl> "TSynEdit/pl")** │  **[русский (ru)](<../ru/TSynEdit.md> "TSynEdit/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TSynEdit.md>)** │
 
 **TSynEdit** [![tsynedit.png](https://wiki.freepascal.org/images/8/82/tsynedit.png)](</File:tsynedit.png>) is a text editor component that provides, among other things, the display-part of [syntax-highlighting](<Syntax_highlighting.md> "Syntax highlighting") editing. It is part of the [SynEdit](<SynEdit.md> "SynEdit") package and is available under the [SynEdit tab](<SynEdit_tab.md> "SynEdit tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

@@ -1,8 +1,6 @@
 # IDE Window: Editor Options General Misc
 
-│ **English (en)** │    
-****  
-****
+│ **English (en)** │
 
 ## Navigation
 

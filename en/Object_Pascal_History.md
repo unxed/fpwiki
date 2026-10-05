@@ -1,7 +1,6 @@
 # Object Pascal History
 
-│ [**Deutsch (de)**](</Object_Pascal_History/de> "Object Pascal History/de") │  **English (en)** │  [**español (es)**](</Object_Pascal_History/es> "Object Pascal History/es") │  [**français (fr)**](</Object_Pascal_History/fr> "Object Pascal History/fr") │  [**italiano (it)**](</Object_Pascal_History/it> "Object Pascal History/it") │  [**日本語 (ja)**](</Object_Pascal_History/ja> "Object Pascal History/ja") │  [**한국어 (ko)**](</Object_Pascal_History/ko> "Object Pascal History/ko") │  [**русский (ru)**](<../ru/Object_Pascal_History.md> "Object Pascal History/ru") │  [**中文（中国大陆）‎ (zh_CN)**](</Object_Pascal_History/zh_CN> "Object Pascal History/zh CN") │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Object_Pascal_History.md>)** │
 
 [ ◄ ](<Object_Pascal_Introduction.md> "Object Pascal Introduction") | [ ▲ ](<Contents.md> "Contents") | [ ► ](<Compilers.md> "Compilers")  
 ---|---|---  

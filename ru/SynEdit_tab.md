@@ -1,7 +1,6 @@
 # SynEdit tab
 
-│ **[English (en)](<../en/SynEdit_tab.md> "SynEdit tab")** │  **[suomi (fi)](</SynEdit_tab/fi> "SynEdit tab/fi")** │  **[français (fr)](</SynEdit_tab/fr> "SynEdit tab/fr")** │  **[polski (pl)](</SynEdit_tab/pl> "SynEdit tab/pl")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/SynEdit_tab.md>)** │  **русский (ru)** │
 
 Вкладка **SynEdit** [палитры компонентов](<Component_Palette.md> "Component Palette/ru") содержит список компонентов библиотеки [LCL](<LCL.md> "LCL/ru"), предназначенных для редактирования текста с поддержкой подсветки синтакисиса. 
 

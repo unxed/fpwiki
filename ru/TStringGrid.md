@@ -1,7 +1,6 @@
 # TStringGrid
 
-│ **[English (en)](<../en/TStringGrid.md> "TStringGrid")** │  **[français (fr)](</TStringGrid/fr> "TStringGrid/fr")** │  **[日本語 (ja)](</TStringGrid/ja> "TStringGrid/ja")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TStringGrid.md>)** │  **русский (ru)** │
 
   
 

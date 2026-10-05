@@ -1,7 +1,6 @@
 # Codetools
 
-│ **[Deutsch (de)](</Codetools/de> "Codetools/de")** │  **[English (en)](<../en/Codetools.md> "Codetools")** │  **[français (fr)](</Codetools/fr> "Codetools/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Codetools.md>)** │  **русский (ru)** │
 
 ## Contents
 

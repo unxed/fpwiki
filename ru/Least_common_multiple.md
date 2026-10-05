@@ -1,7 +1,6 @@
 # Least common multiple
 
-│ **[English (en)](<../en/Least_common_multiple.md> "Least common multiple")** │  **[suomi (fi)](</Least_common_multiple/fi> "Least common multiple/fi")** │  **[français (fr)](</Least_common_multiple/fr> "Least common multiple/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Least_common_multiple.md>)** │  **русский (ru)** │
 
 Наименьшим общим кратным (**НОК**) двух целых чисел [math]\displaystyle{ a }[/math] и [math]\displaystyle{ b }[/math] является наименьшее положительное целое число, которое делится на оба числа [math]\displaystyle{ a }[/math] и [math]\displaystyle{ b }[/math]. 
 

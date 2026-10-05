@@ -1,7 +1,6 @@
 # Method
 
-│ **English (en)** │  **[français (fr)](</Method/fr> "Method/fr")** │  **[русский (ru)](<../ru/Method.md> "Method/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Method.md>)** │
 
 A **method** is a [routine](<Routine.md> "Routine") that is associated with an [`object`](<Object.md> "Object") or [`class`](<Class.md> "Class"). 
 

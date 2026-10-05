@@ -1,6 +1,6 @@
 # $extendedSyntax
 
-│ **[Deutsch (de)](</$extendedSyntax/de> "$extendedSyntax/de")** │  **English (en)** │ 
+│ **English (en)** │
 
   
 ****The[global compiler directive](<global_compiler_directives.md> "global compiler directives") `{$extendedSyntax on}` turns on additional syntax. The [FPC](<FPC.md> "FPC") has this by default _on_. The short notation is `{$X+}`/`{$X‑}`. 

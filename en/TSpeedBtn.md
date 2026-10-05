@@ -1,7 +1,6 @@
 # TSpeedButton
 
-│ **[Deutsch (de)](</TSpeedButton/de> "TSpeedButton/de")** │  **English (en)** │  **[français (fr)](</TSpeedButton/fr> "TSpeedButton/fr")** │  **[日本語 (ja)](</TSpeedButton/ja> "TSpeedButton/ja")** │  **[polski (pl)](</TSpeedButton/pl> "TSpeedButton/pl")** │  **[русский (ru)](<../ru/TSpeedButton.md> "TSpeedButton/ru")** │    
-****
+│ **English (en)** │
 
 **TSpeedButton** [![tspeedbutton.png](https://wiki.freepascal.org/images/d/df/tspeedbutton.png)](</File:tspeedbutton.png>) is a component that creates a (small) button with a bitmap drawn on its surface. It is a [TGraphicControl](<TGraphicControl.md> "TGraphicControl") descendant and is available under the [Additional tab](<Additional_tab.md> "Additional tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

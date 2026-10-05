@@ -1,7 +1,6 @@
 # Firebird embedded
 
-│ **[English (en)](<../en/Firebird_embedded.md> "Firebird embedded")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Firebird_embedded.md>)** │  **русский (ru)** │
 
 ## Contents
 

@@ -1,7 +1,6 @@
 # TFileStream
 
-│ **[Deutsch (de)](</TFileStream/de> "TFileStream/de")** │  **English (en)** │  **[français (fr)](</TFileStream/fr> "TFileStream/fr")** │  **[polski (pl)](</TFileStream/pl> "TFileStream/pl")** │    
-****
+│ **English (en)** │
 
 A **TFileStream** is a descendant of [TStream](<TStream.md> "TStream") that gets/stores its data from/to a file on disk. 
 

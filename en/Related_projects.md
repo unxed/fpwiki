@@ -1,7 +1,6 @@
 # Related projects
 
-│ **[Deutsch (de)](</Related_projects/de> "Related projects/de")** │  **English (en)** │  **[español (es)](</Related_projects/es> "Related projects/es")** │  **[français (fr)](</Related_projects/fr> "Related projects/fr")** │  **[magyar (hu)](</Related_projects/hu> "Related projects/hu")** │  **[Bahasa Indonesia (id)](</Related_projects/id> "Related projects/id")** │  **[한국어 (ko)](</Related_projects/ko> "Related projects/ko")** │  **[русский (ru)](<../ru/Related_projects.md> "Related projects/ru")** │  **[svenska (sv)](</Related_projects/sv> "Related projects/sv")** │  **[Türkçe (tr)](</Related_projects/tr> "Related projects/tr")** │  **[Tiếng Việt (vi)](</Related_projects/vi> "Related projects/vi")** │  **[中文（中国大陆） (zh_CN)](</Related_projects/zh_CN> "Related projects/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Related_projects.md>)** │
 
 Besides Lazarus and FPC, this wiki contains also pages of other related projects: 
 

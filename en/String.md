@@ -1,7 +1,6 @@
 # String
 
-│ **[Deutsch (de)](</String/de> "String/de")** │  **English (en)** │  **[español (es)](</String/es> "String/es")** │  **[français (fr)](</String/fr> "String/fr")** │  **[русский (ru)](<../ru/String.md> "String/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/String.md>)** │
 
 **String** is a [type](<Type.md> "Type") which may contain [characters](<Character_and_string_types.md> "Character and string types"). 
 

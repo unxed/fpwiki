@@ -1,7 +1,6 @@
 # Writing portable code regarding the processor architecture
 
-│ **English (en)** │  **[Bahasa Indonesia (id)](</Writing_portable_code_regarding_the_processor_architecture/id> "Writing portable code regarding the processor architecture/id")** │  **[русский (ru)](<../ru/Writing_portable_code_regarding_the_processor_architecture.md> "Writing portable code regarding the processor architecture/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Writing_portable_code_regarding_the_processor_architecture.md>)** │
 
 There are several main issues when writing code which is portable regarding the processor architecture: endianness and [32](<32_bit.md> "32 bit") vs. [64 bit](<64_bit.md> "64 bit") processors. 
 

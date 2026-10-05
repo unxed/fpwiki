@@ -1,7 +1,6 @@
 # Fractions
 
-│ **English (en)** │  **[suomi (fi)](</Fractions/fi> "Fractions/fi")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

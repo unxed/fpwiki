@@ -1,7 +1,6 @@
 # Finally
 
-│ **[Deutsch (de)](</Finally/de> "Finally/de")** │  **English (en)** │  **[suomi (fi)](</Finally/fi> "Finally/fi")** │    
-****
+│ **English (en)** │
 
   
 Back to [Reserved words](<Reserved_words.md> "Reserved words"). 

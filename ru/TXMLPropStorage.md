@@ -1,7 +1,6 @@
 # TXMLPropStorage
 
-│ [**Deutsch (de)**](</TXMLPropStorage/de> "TXMLPropStorage/de") │  [**English (en)**](<../en/TXMLPropStorage.md> "TXMLPropStorage") │  [**español (es)**](</TXMLPropStorage/es> "TXMLPropStorage/es") │  [**français (fr)**](</TXMLPropStorage/fr> "TXMLPropStorage/fr") │  [**português (pt)**](</TXMLPropStorage/pt> "TXMLPropStorage/pt") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TXMLPropStorage.md>)** │  **русский (ru)** │
 
 ## Contents
 

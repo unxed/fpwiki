@@ -6,8 +6,7 @@ This article applies to [macOS](</Category:macOS> "Category:macOS") only.
 
 See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 A framework is a bundle (a structured directory) that contains a dynamic shared library along with its associated resources, such as image files and header files. When you develop an application, your project links to one or more frameworks. Your code accesses the capabilities of a framework through the application programming interface (API), which is published by the framework through its header files. Because the library is dynamically shared, multiple applications can access the framework code and resources simultaneously. The system loads the code and resources of a framework into memory, as needed, and shares the one copy of a resource among all applications. A special kind of Framework is a system Plugin (or driver). 
 

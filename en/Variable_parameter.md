@@ -1,6 +1,6 @@
 # Variable parameter
 
-│ **English (en)** │  **[español (es)](</Variable_parameter/es> "Variable parameter/es")** │  **[suomi (fi)](</Variable_parameter/fi> "Variable parameter/fi")** │ 
+│ **English (en)** │
 
 A **variable parameter** is a [routine](<Routine.md> "Routine") parameter that is a [variable](<Variable.md> "Variable"). To call a routine with a variable parameter, you need to specify a variable at the proper position. The variable will (temporarily) be in the scope of the routine through the parameter’s name. 
 

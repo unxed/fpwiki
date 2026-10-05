@@ -1,7 +1,6 @@
 # Installing Lazarus
 
-│ **[Deutsch (de)](</Installing_Lazarus/de> "Installing Lazarus/de")** │  **[English (en)](<../en/Installing_Lazarus.md> "Installing Lazarus")** │  **[español (es)](</Installing_Lazarus/es> "Installing Lazarus/es")** │  **[suomi (fi)](</Installing_Lazarus/fi> "Installing Lazarus/fi")** │  **[français (fr)](</Installing_Lazarus/fr> "Installing Lazarus/fr")** │  **[magyar (hu)](</Installing_Lazarus/hu> "Installing Lazarus/hu")** │  **[日本語 (ja)](</Installing_Lazarus/ja> "Installing Lazarus/ja")** │  **[한국어 (ko)](</Installing_Lazarus/ko> "Installing Lazarus/ko")** │  **[polski (pl)](</Installing_Lazarus/pl> "Installing Lazarus/pl")** │  **[português (pt)](</Installing_Lazarus/pt> "Installing Lazarus/pt")** │  **русский (ru)** │  **[slovenčina (sk)](</Installing_Lazarus/sk> "Installing Lazarus/sk")** │  **[Tiếng Việt (vi)](</Installing_Lazarus/vi> "Installing Lazarus/vi")** │  **[中文（中国大陆）‎ (zh_CN)](</Installing_Lazarus/zh_CN> "Installing Lazarus/zh CN")** │    
-****
+│ **[English (en)](<../en/Installing_Lazarus.md>)** │  **русский (ru)** │
 
 ## Contents
 

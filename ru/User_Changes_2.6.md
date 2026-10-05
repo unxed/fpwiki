@@ -1,6 +1,7 @@
 # User Changes 2.6.4
 
-[**English (en)**](<../en/User_Changes_2.6.md> "User Changes 2.6.4") | **русский (ru)**
+│ **[English (en)](<../en/User_Changes_2.6.md>)** │  **русский (ru)** │
+
 
 ## Contents
 

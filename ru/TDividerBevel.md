@@ -1,7 +1,6 @@
 # TDividerBevel
 
-│ **[English (en)](<../en/TDividerBevel.md> "TDividerBevel")** │  **[suomi (fi)](</TDividerBevel/fi> "TDividerBevel/fi")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TDividerBevel.md>)** │  **русский (ru)** │
 
 **TDividerBevel** [![tdividerbevel.png](https://wiki.freepascal.org/images/6/6c/tdividerbevel.png)](</File:tdividerbevel.png>) представляет собой компонент, предназначенным для создания на форме строки заголовка и линии с выпуклыми или вогнутыми кромками. Компонент **TDividerBevel** является потомком [TGraphicControl](<TGraphicControl.md> "TGraphicControl/ru") и доступен на вкладке [LazControls](<LazControls_tab.md> "LazControls tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

@@ -1,6 +1,6 @@
 # Networking
 
-│ [**Deutsch (de)**](</Networking/de> "Networking/de") │  [**English (en)**](<../en/Networking.md> "Networking") │  [**español (es)**](</Networking/es> "Networking/es") │  [**français (fr)**](</Networking/fr> "Networking/fr") │  [**日本語 (ja)**](</Networking/ja> "Networking/ja") │  [**한국어 (ko)**](</Networking/ko> "Networking/ko") │  [**português (pt)**](</Networking/pt> "Networking/pt") │  **русский (ru)** │  [**slovenčina (sk)**](</Networking/sk> "Networking/sk") │  [**中文（中国大陆）‎ (zh_CN)**](</Networking/zh_CN> "Networking/zh CN") │    
+│ **[English (en)](<../en/Networking.md>)** │  **русский (ru)** │
 
 
 Эта страница будет началом руководства по сетевому(network) програмированию в Lazarus. Я не эксперт в сетевом программировании и я буду добавлять статьи по мере моего изучения. Я приглашаю других помочь в создании статей по сетям. Просто добавьте ссылку на следующую секцию, добавьте страницу и создайте свою собственную WiKi-статью. На этой странице будет даваться общая информация. 

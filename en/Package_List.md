@@ -1,8 +1,6 @@
 # Package List
 
-│ **English (en)** │    
-****  
-****
+│ **English (en)** │
 
 This particular page is about the **packages** directory in FPC source where all non-RTL packages are kept. 
 

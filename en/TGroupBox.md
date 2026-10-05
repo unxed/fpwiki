@@ -1,7 +1,6 @@
 # TGroupBox
 
-│ **[Deutsch (de)](</TGroupBox/de> "TGroupBox/de")** │  **English (en)** │  **[suomi (fi)](</TGroupBox/fi> "TGroupBox/fi")** │  **[français (fr)](</TGroupBox/fr> "TGroupBox/fr")** │  **[русский (ru)](<../ru/TGroupBox.md> "TGroupBox/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TGroupBox.md>)** │
 
 A **TGroupBox** [![tgroupbox.png](https://wiki.freepascal.org/images/1/18/tgroupbox.png)](</File:tgroupbox.png>) is a container that allows a number of objects to be grouped physically and conceptually on a [form](<TForm.md> "TForm"). 
 

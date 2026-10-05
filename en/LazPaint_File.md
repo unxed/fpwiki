@@ -1,7 +1,6 @@
 # LazPaint File
 
-│ **English (en)** │  **[suomi (fi)](</LazPaint_File/fi> "LazPaint File/fi")** │    
-****
+│ **English (en)** │
 
 You can load images as a whole with the File menu or use files to embed them in the current one. 
 

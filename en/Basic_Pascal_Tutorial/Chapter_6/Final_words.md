@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Chapter 6/Final words
 
-│ **[български (bg)](</Basic_Pascal_Tutorial/Chapter_6/Final_words/bg> "Basic Pascal Tutorial/Chapter 6/Final words/bg")** │  **English (en)** │  **[français (fr)](</Basic_Pascal_Tutorial/Chapter_6/Final_words/fr> "Basic Pascal Tutorial/Chapter 6/Final words/fr")** │  **[中文（中国大陆） (zh_CN)](</Basic_Pascal_Tutorial/Chapter_6/Final_words/zh_CN> "Basic Pascal Tutorial/Chapter 6/Final words/zh CN")** │    
-****
+│ **English (en)** │
 
 [ ◄ ](<../Chapter_5/Pointers.md> "Basic Pascal Tutorial/Chapter 5/Pointers") | [ ▲ ](<../Contents.md> "Basic Pascal Tutorial/Contents") |  ►   
 ---|---|---  

@@ -1,7 +1,6 @@
 # DefaultFormatSettings
 
-│ **[English (en)](<../en/DefaultFormatSettings.md> "DefaultFormatSettings")** │  **[français (fr)](</DefaultFormatSettings/fr> "DefaultFormatSettings/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/DefaultFormatSettings.md>)** │  **русский (ru)** │
 
 **DefaultFormatSettings** является [глобальной переменной](<Global_variables.md> "Global variables/ru"), содержащей настройки [локали](</index.php?title=locale/ru&action=edit&redlink=1> "locale/ru \(page does not exist\)") по умолчанию. В частности, она определяет (ныне устаревшую) переменную [DecimalSeparator](</index.php?title=DecimalSeparator/ru&action=edit&redlink=1> "DecimalSeparator/ru \(page does not exist\)"). 
     

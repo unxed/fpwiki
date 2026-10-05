@@ -1,7 +1,6 @@
 # Operating Systems written in FPC
 
-│ **English (en)** │  **[español (es)](</Operating_Systems_written_in_FPC/es> "Operating Systems written in FPC/es")** │    
-****
+│ **English (en)** │
 
 There is a rich tradition of operating systems written in [Pascal](<Pascal.md> "Pascal"). The probably best-known example is [classical Mac OS](<http://en.wikipedia.org/wiki/History_of_Mac_OS>), a very influential historic operating system, that was nearly entirely written in Pascal (not to be confused with macOS that is written in Objective C). Other operating systems written in Pascal include [Lisa OS](<http://en.wikipedia.org/wiki/Apple_Lisa>) and the [Lillith](<http://en.wikipedia.org/wiki/Lilith_\(computer\)>) system software. The operating system for the famous [Xerox Star](<http://en.wikipedia.org/wiki/Xerox_Star>) was written in the [Mesa](</index.php?title=Mesa_\(programming_language\)&action=edit&redlink=1> "Mesa \(programming language\) \(page does not exist\)") programming language, a modular language of the Pascal family. Today there are several attempts to write a Pascal-based operating system from scratch. The following, probably incomplete, list contains some approaches to use Free Pascal for creating an OS. 
 

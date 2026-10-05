@@ -1,7 +1,6 @@
 # TSynTeXSyn
 
-│ **English (en)** │  **[français (fr)](</TSynTeXSyn/fr> "TSynTeXSyn/fr")** │  **[русский (ru)](<../ru/TSynTeXSyn.md> "TSynTeXSyn/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TSynTeXSyn.md>)** │
 
 **TSynTexSyn** [![tsyntexsyn.png](https://wiki.freepascal.org/images/0/02/tsyntexsyn.png)](</File:tsyntexsyn.png>) is a component that provides the (La)TeX-language syntaxchecking-part of syntax-highlighting editing. It is part of the [SynEdit](<SynEdit.md> "SynEdit") package and is available under the [SynEdit tab](<SynEdit_tab.md> "SynEdit tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

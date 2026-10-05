@@ -1,7 +1,6 @@
 # Custom Drawn Interface/Android
 
-│ **[English (en)](<../../en/Custom_Drawn_Interface/Android.md> "Custom Drawn Interface/Android")** │  **[español (es)](</Custom_Drawn_Interface/Android/es> "Custom Drawn Interface/Android/es")** │  **[日本語 (ja)](</Custom_Drawn_Interface/Android/ja> "Custom Drawn Interface/Android/ja")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../../en/Custom_Drawn_Interface/Android.md>)** │  **русский (ru)** │
 
 Вернуться к [Custom Drawn Interface](<../../en/Custom_Drawn_Interface.md> "Custom Drawn Interface")
 

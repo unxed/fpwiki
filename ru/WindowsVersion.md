@@ -6,8 +6,7 @@
 
 См. также: [Multiplatform Programming Guide](<../en/Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **[Deutsch (de)](</WindowsVersion/de> "WindowsVersion/de")** │  **[English (en)](<../en/WindowsVersion.md> "WindowsVersion")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/WindowsVersion.md>)** │  **русский (ru)** │
 
 Эта статья посвящена программированию для Windows. 
 

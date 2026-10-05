@@ -1,7 +1,6 @@
 # for-in loop
 
-│ **[English (en)](<../en/for-in_loop.md> "for-in loop")** │  **[français (fr)](</for-in_loop/fr> "for-in loop/fr")** │  **[日本語 (ja)](</for-in_loop/ja> "for-in loop/ja")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/for-in_loop.md>)** │  **русский (ru)** │
 
 "for-in" цикл появился в delphi, начиная с версии 2005. Данная конструкция доступна сейчас с версии fpc 2.4.2. 
 

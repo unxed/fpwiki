@@ -1,7 +1,6 @@
 # CsvDocument
 
-│ **English (en)** │  **[русский (ru)](<../ru/CsvDocument.md> "CsvDocument/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/CsvDocument.md>)** │
 
 ## Contents
 

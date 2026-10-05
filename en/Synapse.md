@@ -1,7 +1,6 @@
 # Synapse
 
-│ **English (en)** │  **[polski (pl)](</Synapse/pl> "Synapse/pl")** │  **[русский (ru)](<../ru/Synapse.md> "Synapse/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Synapse.md>)** │
 
 Synapse provides an easy to use serial port and synchronous TCP/IP library. 
 

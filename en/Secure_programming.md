@@ -1,7 +1,6 @@
 # Secure programming
 
-│ **English (en)** │  **[français (fr)](</Secure_programming/fr> "Secure programming/fr")** │  **[polski (pl)](</Secure_programming/pl> "Secure programming/pl")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

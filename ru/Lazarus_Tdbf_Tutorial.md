@@ -1,7 +1,6 @@
 # Lazarus Tdbf Tutorial
 
-│ [**Deutsch (de)**](</Lazarus_Tdbf_Tutorial/de> "Lazarus Tdbf Tutorial/de") │  [**English (en)**](<../en/Lazarus_Tdbf_Tutorial.md> "Lazarus Tdbf Tutorial") │  [**español (es)**](</Lazarus_Tdbf_Tutorial/es> "Lazarus Tdbf Tutorial/es") │  [**français (fr)**](</Lazarus_Tdbf_Tutorial/fr> "Lazarus Tdbf Tutorial/fr") │  [**português (pt)**](</Lazarus_Tdbf_Tutorial/pt> "Lazarus Tdbf Tutorial/pt") │  **русский (ru)** │  [**中文（中国大陆）‎ (zh_CN)**](</Lazarus_Tdbf_Tutorial/zh_CN> "Lazarus Tdbf Tutorial/zh CN") │    
-****
+│ **[English (en)](<../en/Lazarus_Tdbf_Tutorial.md>)** │  **русский (ru)** │
 
 ## Contents
 

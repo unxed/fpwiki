@@ -1,6 +1,6 @@
 # FreeBSD Programming Tips
 
-│ **English (en)** │ 
+│ **English (en)** │
 
 ## Contents
 

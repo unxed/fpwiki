@@ -1,7 +1,6 @@
 # TDOMDocument
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 The TDOMDocument class holds document data according to the [Document Object Model (DOM)](<dom.md> "dom"). 
 

@@ -1,7 +1,6 @@
 # TOpenPictureDialog
 
-│ **[English (en)](<../en/TOpenPictureDialog.md> "TOpenPictureDialog")** │  **[français (fr)](</TOpenPictureDialog/fr> "TOpenPictureDialog/fr")** │  **русский (ru)** │  **[中文（中国大陆）‎ (zh_CN)](</TOpenPictureDialog/zh_CN> "TOpenPictureDialog/zh CN")** │    
-****
+│ **[English (en)](<../en/TOpenPictureDialog.md>)** │  **русский (ru)** │
 
 **TOpenPictureDialog** [![topenpicturedialog.png](https://wiki.freepascal.org/images/d/d7/topenpicturedialog.png)](</File:topenpicturedialog.png>) это диалоговое окно, которое помогает в открытии графических файлов. Оно располагается на вкладке [Dialogs](<Dialogs_tab.md> "Dialogs tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). TOpenPictureDialog очень похоже на [TOpenDialog](<TOpenDialog.md> "TOpenDialog/ru"), но позволяет просмотреть изображение которое будет открыто. 
 

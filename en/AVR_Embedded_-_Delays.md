@@ -2,7 +2,7 @@
 
 Redirect to:
 
-  * [AVR Embedded Tutorial - Delays/de](</AVR_Embedded_Tutorial_-_Delays/de> "AVR Embedded Tutorial - Delays/de")
+  * AVR Embedded Tutorial - Delays/de
 
 ---
 

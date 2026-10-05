@@ -1,7 +1,6 @@
 # TIpHtmlPanel
 
-│ **[English (en)](<../en/TIpHtmlPanel.md> "TIpHtmlPanel")** │  **[français (fr)](</TIpHtmlPanel/fr> "TIpHtmlPanel/fr")** │  **[polski (pl)](</TIpHtmlPanel/pl> "TIpHtmlPanel/pl")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TIpHtmlPanel.md>)** │  **русский (ru)** │
 
 Компонент **TIpHtmlPanel** [![tiphtmlpanel.png](https://wiki.freepascal.org/images/2/21/tiphtmlpanel.png)](</File:tiphtmlpanel.png>) предназначен для отображения HTML-страницы. Он является частью пакета Turbopower Internet Pro, обеспечивающий собственный доступ к HTML. Данный компонент доступен на вкладке [IPro](<IPro_tab.md> "IPro tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
     

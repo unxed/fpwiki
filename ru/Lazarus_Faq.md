@@ -1,7 +1,6 @@
 # Lazarus Faq
 
-│ **[العربية (ar)](</Lazarus_Faq/ar> "Lazarus Faq/ar")** │  **[Deutsch (de)](</Lazarus_Faq/de> "Lazarus Faq/de")** │  **[English (en)](<../en/Lazarus_Faq.md> "Lazarus Faq")** │  **[español (es)](</Lazarus_Faq/es> "Lazarus Faq/es")** │  **[français (fr)](</Lazarus_Faq/fr> "Lazarus Faq/fr")** │  **[magyar (hu)](</Lazarus_Faq/hu> "Lazarus Faq/hu")** │  **[italiano (it)](</Lazarus_Faq/it> "Lazarus Faq/it")** │  **[日本語 (ja)](</Lazarus_Faq/ja> "Lazarus Faq/ja")** │  **[한국어 (ko)](</Lazarus_Faq/ko> "Lazarus Faq/ko")** │  **[português (pt)](</Lazarus_Faq/pt> "Lazarus Faq/pt")** │  **русский (ru)** │  **[slovenčina (sk)](</Lazarus_Faq/sk> "Lazarus Faq/sk")** │  **[中文（中国大陆） (zh_CN)](</Lazarus_Faq/zh_CN> "Lazarus Faq/zh CN")** │  **[中文（臺灣） (zh_TW)](</Lazarus_Faq/zh_TW> "Lazarus Faq/zh TW")** │    
-****
+│ **[English (en)](<../en/Lazarus_Faq.md>)** │  **русский (ru)** │
 
 ![Light bulb](https://upload.wikimedia.org/wikipedia/commons/d/d8/Nuvola_apps_ktip.png) **Примечание:** Этот FAQ может быть **устаревшим** в некоторых частях.
 

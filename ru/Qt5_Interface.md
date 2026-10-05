@@ -1,7 +1,6 @@
 # Qt5 Interface
 
-│ **[English (en)](<../en/Qt5_Interface.md> "Qt5 Interface")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Qt5_Interface.md>)** │  **русский (ru)** │
 
 [![Qt logo.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Qt_logo_2013.svg/50px-Qt_logo_2013.svg.png)](</File:Qt_logo_2013.svg>)
 

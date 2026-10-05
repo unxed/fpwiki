@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Chapter 3/Programming Assignment
 
-│ **[български (bg)](</Basic_Pascal_Tutorial/Chapter_3/Programming_Assignment/bg> "Basic Pascal Tutorial/Chapter 3/Programming Assignment/bg")** │  **English (en)** │  **[français (fr)](</Basic_Pascal_Tutorial/Chapter_3/Programming_Assignment/fr> "Basic Pascal Tutorial/Chapter 3/Programming Assignment/fr")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Chapter_3/Programming_Assignment/ja> "Basic Pascal Tutorial/Chapter 3/Programming Assignment/ja")** │  **[中文（中国大陆） (zh_CN)](</Basic_Pascal_Tutorial/Chapter_3/Programming_Assignment/zh_CN> "Basic Pascal Tutorial/Chapter 3/Programming Assignment/zh CN")** │    
-****
+│ **English (en)** │
 
 [ ◄ ](<FOR..md> "Basic Pascal Tutorial/Chapter 3/FOR..IN") | [ ▲ ](<../Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Solution.md> "Basic Pascal Tutorial/Chapter 3/Solution")  
 ---|---|---  

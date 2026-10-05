@@ -1,7 +1,6 @@
 # TSynIniSyn
 
-│ **English (en)** │  **[français (fr)](</TSynIniSyn/fr> "TSynIniSyn/fr")** │  **[русский (ru)](<../ru/TSynIniSyn.md> "TSynIniSyn/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TSynIniSyn.md>)** │
 
 **TSynIniSyn** [![tsyninisyn.png](https://wiki.freepascal.org/images/4/4c/tsyninisyn.png)](</File:tsyninisyn.png>) is a component that provides the INI-file syntaxchecking-part of syntax-highlighting editing. It is part of the [SynEdit](<SynEdit.md> "SynEdit") package and is available under the [SynEdit tab](<SynEdit_tab.md> "SynEdit tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

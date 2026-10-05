@@ -1,7 +1,6 @@
 # Function
 
-│ **[Deutsch (de)](</Function/de> "Function/de")** │  **English (en)** │  **[español (es)](</Function/es> "Function/es")** │  **[suomi (fi)](</Function/fi> "Function/fi")** │  **[français (fr)](</Function/fr> "Function/fr")** │  **[русский (ru)](<../ru/Function.md> "Function/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Function.md>)** │
 
 A **function** is a [routine](<Routine.md> "Routine") that, in contrast to [procedures](<Procedure.md> "Procedure"), returns a value. A call of a function is virtually substituted by its return value. If the [`{$extendedSyntax}` compiler switch](<$extendedSyntax.md> "$extendedSyntax") state is off, function calls can not appear as non-productive statements, but have to be or be part of an [expression](<expression.md> "expression"). 
 

@@ -12,8 +12,7 @@ This article applies to [iOS](</Category:iOS> "Category:iOS") only.
 
 See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **English (en)** │  **[русский (ru)](<../ru/Code_Signing_for_macOS.md> "Code Signing for macOS/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Code_Signing_for_macOS.md>)** │
 
   
 

@@ -1,7 +1,6 @@
 # Goto
 
-│ **[Deutsch (de)](</Goto/de> "Goto/de")** │  **English (en)** │  **[français (fr)](</Goto/fr> "Goto/fr")** │  **[русский (ru)](<../ru/Goto.md> "Goto/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Goto.md>)** │
 
 ` goto` is an unconditional jump to a previously declared [`label`](<Label.md> "Label") (either before or after the `goto` command). It is a [reserved word](<Reserved_words.md> "Reserved words"). 
 

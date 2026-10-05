@@ -1,7 +1,6 @@
 # Lazarus Tutorial
 
-│ **[Deutsch (de)](</Lazarus_Tutorial/de> "Lazarus Tutorial/de")** │  **English (en)** │  **[español (es)](</Lazarus_Tutorial/es> "Lazarus Tutorial/es")** │  **[suomi (fi)](</Lazarus_Tutorial/fi> "Lazarus Tutorial/fi")** │  **[français (fr)](</Lazarus_Tutorial/fr> "Lazarus Tutorial/fr")** │  **[magyar (hu)](</Lazarus_Tutorial/hu> "Lazarus Tutorial/hu")** │  **[italiano (it)](</Lazarus_Tutorial/it> "Lazarus Tutorial/it")** │  **[日本語 (ja)](</Lazarus_Tutorial/ja> "Lazarus Tutorial/ja")** │  **[македонски (mk)](</Lazarus_Tutorial/mk> "Lazarus Tutorial/mk")** │  **[Nederlands (nl)](</Lazarus_Tutorial/nl> "Lazarus Tutorial/nl")** │  **[português (pt)](</Lazarus_Tutorial/pt> "Lazarus Tutorial/pt")** │  **[русский (ru)](<../ru/Lazarus_Tutorial.md> "Lazarus Tutorial/ru")** │  **[slovenčina (sk)](</Lazarus_Tutorial/sk> "Lazarus Tutorial/sk")** │  **[shqip (sq)](</Lazarus_Tutorial/sq> "Lazarus Tutorial/sq")** │  **[中文（中国大陆） (zh_CN)](</Lazarus_Tutorial/zh_CN> "Lazarus Tutorial/zh CN")** │  **[中文（臺灣） (zh_TW)](</Lazarus_Tutorial/zh_TW> "Lazarus Tutorial/zh TW")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Lazarus_Tutorial.md>)** │
 
 Lazarus is a free and open source development tool for the [Free Pascal compiler](<FPC.md> "FPC"), which is also free and open source. The Lazarus [Integrated Development Environment](<IDE.md> "IDE") (IDE, see [Screenshots](<Screenshots.md> "Screenshots")) is a programming environment to create standalone [graphical](<Graphical_User_Interface.md> "Graphical User Interface") and [console applications](<Command-line_interface.md> "Command-line interface"). 
 
@@ -150,7 +149,7 @@ The **Component Palette** of the [IDE](<IDE.md> "IDE") is a tabbed toolbar which
 
 [Component Palette](<Component_Palette.md> "Component Palette")  
 ---  
-[Standard/ja](</Standard_tab/ja> "Standard tab/ja") \- [Additional/ja](</Additional_tab/ja> "Additional tab/ja") \- [Common Controls/ja](</index.php?title=Common_Controls_tab/ja&action=edit&redlink=1> "Common Controls tab/ja \(page does not exist\)") \- [Dialogs/ja](</index.php?title=Dialogs_tab/ja&action=edit&redlink=1> "Dialogs tab/ja \(page does not exist\)") \- [Data Controls/ja](</Data_Controls_tab/ja> "Data Controls tab/ja") \- [Data Access/ja](</Data_Access_tab/ja> "Data Access tab/ja") \- [System](<System_tab.md> "System tab") \- [Misc](<Misc_tab.md> "Misc tab") \- [LazControls](<LazControls_tab.md> "LazControls tab") \- [RTTI](<RTTI_tab.md> "RTTI tab") \- [SQLdb](<SQLdb_tab.md> "SQLdb tab") \- [Pascal Script](<Pascal_Script_tab.md> "Pascal Script tab") \- [SynEdit](<SynEdit_tab.md> "SynEdit tab") \- [Chart](<Chart_tab.md> "Chart tab") \- [IPro](<IPro_tab.md> "IPro tab")  
+Standard/ja \- Additional/ja \- Common Controls/ja \- Dialogs/ja \- Data Controls/ja \- Data Access/ja \- [System](<System_tab.md> "System tab") \- [Misc](<Misc_tab.md> "Misc tab") \- [LazControls](<LazControls_tab.md> "LazControls tab") \- [RTTI](<RTTI_tab.md> "RTTI tab") \- [SQLdb](<SQLdb_tab.md> "SQLdb tab") \- [Pascal Script](<Pascal_Script_tab.md> "Pascal Script tab") \- [SynEdit](<SynEdit_tab.md> "SynEdit tab") \- [Chart](<Chart_tab.md> "Chart tab") \- [IPro](<IPro_tab.md> "IPro tab")  
   
 Each tab causes the display of a different set of icons, representing a functional group of components. The left-most icon in each tabbed group is an obliquely leftward-facing arrow, called the Selection Tool. 
 

@@ -1,7 +1,6 @@
 # Using Pascal Libraries with .NET and Mono
 
-**English (en)** | [**italiano (it)**](</Using_Pascal_Libraries_with_.NET_and_Mono/it> "Using Pascal Libraries with .NET and Mono/it") | [**日本語 (ja)**](</Using_Pascal_Libraries_with_.NET_and_Mono/ja> "Using Pascal Libraries with .NET and Mono/ja")   
-****
+│ **English (en)** │
 
 ## Contents
 

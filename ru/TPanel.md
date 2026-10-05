@@ -1,7 +1,6 @@
 # TPanel
 
-│ **[Deutsch (de)](</TPanel/de> "TPanel/de")** │  **[English (en)](<../en/TPanel.md> "TPanel")** │  **[suomi (fi)](</TPanel/fi> "TPanel/fi")** │  **[français (fr)](</TPanel/fr> "TPanel/fr")** │  **[日本語 (ja)](</TPanel/ja> "TPanel/ja")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TPanel.md>)** │  **русский (ru)** │
 
 **TPanel** [![tpanel.png](https://wiki.freepascal.org/images/7/7d/tpanel.png)](</File:tpanel.png>) \- это компонент, предназначенный для создания панели на форме. Компонент TPanel является потомком [TWinControl](</index.php?title=TWinControl/ru&action=edit&redlink=1> "TWinControl/ru \(page does not exist\)") и доступен на вкладке [Standard](<Standard_tab.md> "Standard tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). Компонент TPanel может выступать в качестве видимого контейнера для других компонентов. 
 

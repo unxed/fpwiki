@@ -1,7 +1,6 @@
 # xmlwrite
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 Writes a DOM structure as XML data into a file or stream. It can deal both with XML files and XML fragments. 
 

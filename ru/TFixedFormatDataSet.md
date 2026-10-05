@@ -1,6 +1,7 @@
 # TFixedFormatDataSet
 
-│ **[English (en)](<../en/TFixedFormatDataSet.md> "TFixedFormatDataSet")** │  **[français (fr)](</TFixedFormatDataSet/fr> "TFixedFormatDataSet/fr")** │  **русский (ru)** │    
+│ **[English (en)](<../en/TFixedFormatDataSet.md>)** │  **русский (ru)** │
+
 ******TFixedFormatDataSet** [![tfixedformatdataset.png](https://wiki.freepascal.org/images/d/d4/tfixedformatdataset.png)](</File:tfixedformatdataset.png>) является компонентом базы данных с фиксированной длиной текста в поле `[TDataSet](<TDataSet.md> "TDataSet/ru")`. 
 
 ## См. также

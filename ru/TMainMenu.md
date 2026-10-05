@@ -1,7 +1,6 @@
 # TMainMenu
 
-│ **[Deutsch (de)](</TMainMenu/de> "TMainMenu/de")** │  **[English (en)](<../en/TMainMenu.md> "TMainMenu")** │  **[suomi (fi)](</TMainMenu/fi> "TMainMenu/fi")** │  **[français (fr)](</TMainMenu/fr> "TMainMenu/fr")** │  **[日本語 (ja)](</TMainMenu/ja> "TMainMenu/ja")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TMainMenu.md>)** │  **русский (ru)** │
 
 **TMainMenu** [![tmainmenu.png](https://wiki.freepascal.org/images/4/4d/tmainmenu.png)](</File:tmainmenu.png>) это не визуальный компонент, расположенный на вкладке [Standard](<Standard_tab.md> "Standard tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"), позволяющий работать с главным меню окна формы. 
 

@@ -59,7 +59,7 @@ Packages, units and librariesedit
 
   * [5dpo](<5dpo.md> "5dpo")
   * [Bluetooth](<Bluetooth.md> "Bluetooth")
-  * [PascalIO](</Lazarus_on_Raspberry_Pi/de#5._PascalIO> "Lazarus on Raspberry Pi/de")
+  * PascalIO
   * [PascalSCADA](<PascalSCADA.md> "PascalSCADA")
 
   

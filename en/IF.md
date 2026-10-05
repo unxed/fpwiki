@@ -1,7 +1,6 @@
 # IF
 
-│ [**български (bg)**](</IF/bg> "IF/bg") │  **English (en)** │  [**français (fr)**](</IF/fr> "IF/fr") │  [**日本語 (ja)**](</IF/ja> "IF/ja") │  [**中文（中国大陆）‎ (zh_CN)**](</IF/zh_CN> "IF/zh CN") │    
-****
+│ **English (en)** │
 
 [ ◄ ](<Boolean_Expressions.md> "Boolean Expressions") | [ ▲ ](<Contents.md> "Contents") | [ ► ](<CASE.md> "CASE")  
 ---|---|---  

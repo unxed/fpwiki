@@ -1,7 +1,6 @@
 # Road map
 
-│ **[English (en)](<../en/Road_map.md> "Road map")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Road_map.md>)** │  **русский (ru)** │
 
 ## Текущая карта
 

@@ -1,8 +1,6 @@
 # IDE Window: Call Stack
 
-│ **[Deutsch (de)](</IDE_Window:_Call_Stack/de> "IDE Window: Call Stack/de")** │  **[English (en)](<../en/IDE_Window__Call_Stack.md> "IDE Window: Call Stack")** │  **[français (fr)](</IDE_Window:_Call_Stack/fr> "IDE Window: Call Stack/fr")** │  **русский (ru)** │    
-****  
-****
+│ **[English (en)](<../en/IDE_Window__Call_Stack.md>)** │  **русский (ru)** │
 
 ## Contents
 

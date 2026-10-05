@@ -1,7 +1,6 @@
 # Debugging with Valgrind
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 ## Contents
 

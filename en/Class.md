@@ -1,7 +1,6 @@
 # Class
 
-│ **[Deutsch (de)](</Class/de> "Class/de")** │  **English (en)** │  **[français (fr)](</Class/fr> "Class/fr")** │  **[русский (ru)](<../ru/Class.md> "Class/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Class.md>)** │
 
 A **class** is a highly structured data [type](<Type.md> "Type") in Object [Pascal](<Pascal.md> "Pascal") dialects such as [Delphi](<Mode_Delphi.md> "Mode Delphi") or the [ObjFPC](<Mode_ObjFPC.md> "Mode ObjFPC") dialect. Classes are able to contain [variables](<Variable.md> "Variable"), [constructors](<Constructor.md> "Constructor"), [destructors](<Destructor.md> "Destructor"), [functions](<Function.md> "Function"), [procedures](<Procedure.md> "Procedure"), and [properties](</Property> "Property") using access scopes. 
 

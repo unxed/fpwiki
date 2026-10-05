@@ -1,7 +1,6 @@
 # TSynPHPSyn
 
-│ **[English (en)](<../en/TSynPHPSyn.md> "TSynPHPSyn")** │  **[français (fr)](</TSynPHPSyn/fr> "TSynPHPSyn/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TSynPHPSyn.md>)** │  **русский (ru)** │
 
 **TSynPHPSyn** [![tsynphpsyn.png](https://wiki.freepascal.org/images/2/22/tsynphpsyn.png)](</File:tsynphpsyn.png>) \- компонент, представляющий подсветку корректного синтаксиса кода на языке PHP при его редактировании. Данный компонент является частью пакета [SynEdit](<SynEdit.md> "SynEdit/ru") и доступен на вкладке [SynEdit](<SynEdit_tab.md> "SynEdit tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

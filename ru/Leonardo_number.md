@@ -1,7 +1,6 @@
 # Leonardo number
 
-│ **[Deutsch (de)](</Leonardo_number/de> "Leonardo number/de")** │  **[English (en)](<../en/Leonardo_number.md> "Leonardo number")** │  **[suomi (fi)](</Leonardo_number/fi> "Leonardo number/fi")** │  **[français (fr)](</Leonardo_number/fr> "Leonardo number/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Leonardo_number.md>)** │  **русский (ru)** │
 
 # Числа Leonardo
 

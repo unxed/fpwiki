@@ -1,7 +1,6 @@
 # TDBLookupComboBox
 
-│ **English (en)** │  [**français (fr)**](</TDBLookupComboBox/fr> "TDBLookupComboBox/fr") │    
-****
+│ **English (en)** │
 
 **TDBLookupComboBox** [![tdblookupcombobox.png](https://wiki.freepascal.org/images/e/ed/tdblookupcombobox.png)](</File:tdblookupcombobox.png>) is a (doubly) data-bound [TComboBox](<TComboBox.md> "TComboBox"). A TDBLookupComboBox can be found on the [Data Controls tab](<Data_Controls_tab.md> "Data Controls tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

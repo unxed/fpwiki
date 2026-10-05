@@ -1,7 +1,6 @@
 # Additional tab
 
-│ **[English (en)](<../en/Additional_tab.md> "Additional tab")** │  **[español (es)](</Additional_tab/es> "Additional tab/es")** │  **[suomi (fi)](</Additional_tab/fi> "Additional tab/fi")** │  **[français (fr)](</Additional_tab/fr> "Additional tab/fr")** │  **[日本語 (ja)](</Additional_tab/ja> "Additional tab/ja")** │  **[polski (pl)](</Additional_tab/pl> "Additional tab/pl")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Additional_tab.md>)** │  **русский (ru)** │
 
 Вкладка **Additional** [палитры компонентов](<Component_Palette.md> "Component Palette/ru") содержит дополнительные, часто используемые компоненты 
 

@@ -1,7 +1,6 @@
 # Shr
 
-│ **[Deutsch (de)](</Shr/de> "Shr/de")** │  **[English (en)](<../en/Shr.md> "Shr")** │  **[français (fr)](</Shr/fr> "Shr/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Shr.md>)** │  **русский (ru)** │
 
 ## Contents
 

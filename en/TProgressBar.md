@@ -1,7 +1,6 @@
 # TProgressBar
 
-│ **English (en)** │  **[suomi (fi)](</TProgressBar/fi> "TProgressBar/fi")** │  **[français (fr)](</TProgressBar/fr> "TProgressBar/fr")** │  **[русский (ru)](<../ru/TProgressBar.md> "TProgressBar/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TProgressBar.md>)** │
 
 A **TProgressBar** [![tprogressbar.png](https://wiki.freepascal.org/images/c/c6/tprogressbar.png)](</File:tprogressbar.png>) is a graphic [component](</index.php?title=component&action=edit&redlink=1> "component \(page does not exist\)") on the [Common Controls tab](<Common_Controls_tab.md> "Common Controls tab") of the [Component Palette](<Component_Palette.md> "Component Palette") shows a progress bar. A TProgressBar can be used to show the user the time when a long-term operation proceeds. The TProgressBar is a progress indicator. It is intended to inform the user that the operation is running and convincing that the system is in operation and does not wait for the user input. The TProgressBar will often give the user an estimate of how far the system has progressed. It differs from other progression detectors in that it is rectangular. 
 

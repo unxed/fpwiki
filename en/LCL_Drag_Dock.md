@@ -1,7 +1,6 @@
 # LCL Drag Dock
 
-│ **English (en)** │  **[русский (ru)](<../ru/LCL_Drag_Dock.md> "LCL Drag Dock/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/LCL_Drag_Dock.md>)** │
 
 Controls or entire forms in a GUI can be glued together and detached again, by dragging them around with the mouse. Such docking is similar to [drag-drop](<LCL_Drag_Drop.md> "LCL Drag Drop"), but differs in some aspects. 
 

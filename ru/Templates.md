@@ -1,7 +1,6 @@
 # Templates
 
-│ **[English (en)](<../en/Templates.md> "Templates")** │  **[français (fr)](</Templates/fr> "Templates/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Templates.md>)** │  **русский (ru)** │
 
 ## Contents
 

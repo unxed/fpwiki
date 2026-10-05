@@ -1,7 +1,6 @@
 # LCL Drag Drop
 
-│ **[English (en)](<../en/LCL_Drag_Drop.md> "LCL Drag Drop")** │  **[français (fr)](</LCL_Drag_Drop/fr> "LCL Drag Drop/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/LCL_Drag_Drop.md>)** │  **русский (ru)** │
 
   
 

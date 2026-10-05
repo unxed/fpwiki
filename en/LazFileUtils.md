@@ -1,6 +1,6 @@
 # LazFileUtils
 
-│ **English (en)** │  **[中文（中国大陆） (zh_CN)](</LazFileUtils/zh_CN> "LazFileUtils/zh CN")** │ 
+│ **English (en)** │
 
 ## Contents
 

@@ -1,6 +1,6 @@
 # Print Bitmap
 
-│ **English (en)** │  [**français (fr)**](</Print_Bitmap/fr> "Print Bitmap/fr") │  [**русский (ru)**](<../ru/Print_Bitmap.md> "Print Bitmap/ru") │    
+│ **English (en)** │  **[русский (ru)](<../ru/Print_Bitmap.md>)** │
 
 
 ## How to send an image to the printer

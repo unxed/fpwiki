@@ -1,7 +1,6 @@
 # Geometry in Pascal
 
-│ **[Deutsch (de)](</Geometry_in_Pascal/de> "Geometry in Pascal/de")** │  **English (en)** │  **[français (fr)](</Geometry_in_Pascal/fr> "Geometry in Pascal/fr")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

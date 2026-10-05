@@ -1,6 +1,6 @@
 # Website migration
 
-│ **English (en)** │  **[Bahasa Indonesia (id)](</Website_migration/id> "Website migration/id")** │ 
+│ **English (en)** │
 
 There is some discussion about redesigning the fpc and lazarus websites and merge them. Decisions made so far will be noted here. 
 

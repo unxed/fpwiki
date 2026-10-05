@@ -1,7 +1,6 @@
 # TAChart Tutorial: Function Series
 
-│ **English (en)** │  **[suomi (fi)](</TAChart_Tutorial:_Function_Series/fi> "TAChart Tutorial: Function Series/fi")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

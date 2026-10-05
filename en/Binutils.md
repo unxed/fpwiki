@@ -1,7 +1,6 @@
 # Binutils
 
-│ **English (en)** │  [**français (fr)**](</Binutils/fr> "Binutils/fr") │  [**magyar (hu)**](</Binutils/hu> "Binutils/hu") │  [**русский (ru)**](<../ru/Binutils.md> "Binutils/ru") │  [**中文（中国大陆）‎ (zh_CN)**](</Binutils/zh_CN> "Binutils/zh CN") │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Binutils.md>)** │
 
 ## Overview
 

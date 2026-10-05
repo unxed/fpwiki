@@ -1,7 +1,6 @@
 # Lazarus Docs
 
-│ [**Deutsch (de)**](</Lazarus_Docs/de> "Lazarus Docs/de") │  **English (en)** │    
-****
+│ **English (en)** │
 
 ## Contents
 

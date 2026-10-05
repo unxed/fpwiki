@@ -1,7 +1,6 @@
 # Cross compiling
 
-│ **[Deutsch (de)](</Cross_compiling/de> "Cross compiling/de")** │  **English (en)** │  **[español (es)](</Cross_compiling/es> "Cross compiling/es")** │  **[français (fr)](</Cross_compiling/fr> "Cross compiling/fr")** │  **[magyar (hu)](</Cross_compiling/hu> "Cross compiling/hu")** │  **[português (pt)](</Cross_compiling/pt> "Cross compiling/pt")** │  **[русский (ru)](<../ru/Cross_compiling.md> "Cross compiling/ru")** │  **[中文（中国大陆） (zh_CN)](</Cross_compiling/zh_CN> "Cross compiling/zh CN")** │  **[中文（臺灣） (zh_TW)](</Cross_compiling/zh_TW> "Cross compiling/zh TW")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Cross_compiling.md>)** │
 
 ## Contents
 

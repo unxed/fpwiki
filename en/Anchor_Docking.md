@@ -1,6 +1,6 @@
 # Anchor Docking
 
-│ **English (en)** │  **[русский (ru)](<../ru/Anchor_Docking.md> "Anchor Docking/ru")** │  **[中文（中国大陆）‎ (zh_CN)](</Anchor_Docking/zh_CN> "Anchor Docking/zh CN")** │ 
+│ **English (en)** │  **[русский (ru)](<../ru/Anchor_Docking.md>)** │
 
 About docking in general see [Docking](<Docking.md> "Docking"). 
 

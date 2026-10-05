@@ -1,7 +1,6 @@
 # MouseAndKeyInput
 
-│ **English (en)** │  **[français (fr)](</MouseAndKeyInput/fr> "MouseAndKeyInput/fr")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

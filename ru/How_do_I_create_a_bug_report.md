@@ -1,7 +1,6 @@
 # How do I create a bug report
 
-│ **[Afrikaans (af)](</How_do_I_create_a_bug_report/af> "How do I create a bug report/af")** │  **[Deutsch (de)](</How_do_I_create_a_bug_report/de> "How do I create a bug report/de")** │  **[English (en)](<../en/How_do_I_create_a_bug_report.md> "How do I create a bug report")** │  **[français (fr)](</How_do_I_create_a_bug_report/fr> "How do I create a bug report/fr")** │  **[português (pt)](</How_do_I_create_a_bug_report/pt> "How do I create a bug report/pt")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/How_do_I_create_a_bug_report.md>)** │  **русский (ru)** │
 
 Этот документ содержит некоторые рекомендации по использованию [багтрекера](<https://gitlab.com/freepascal.org/>) FPC/Lazarus в качестве репортера. Этот документ написан для пользователей FPC / Lazarus, которые выявляют ошибки, имеют рекомендации, хотят отправить исправления или найти другие проблемы и хотят сообщить о них команде разработчиков Lazarus. 
 

@@ -1,7 +1,6 @@
 # In
 
-│ **[Deutsch (de)](</In/de> "In/de")** │  **English (en)** │  **[suomi (fi)](</In/fi> "In/fi")** │    
-****
+│ **English (en)** │
 
 The [reserved word](<Reserved_word.md> "Reserved word") `in`: 
 

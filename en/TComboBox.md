@@ -1,7 +1,6 @@
 # TComboBox
 
-│ **[Deutsch (de)](</TComboBox/de> "TComboBox/de")** │  **English (en)** │  **[español (es)](</TComboBox/es> "TComboBox/es")** │  **[suomi (fi)](</TComboBox/fi> "TComboBox/fi")** │  **[français (fr)](</TComboBox/fr> "TComboBox/fr")** │  **[日本語 (ja)](</TComboBox/ja> "TComboBox/ja")** │    
-****
+│ **English (en)** │
 
 A **TComboBox** [![tcombobox.png](https://wiki.freepascal.org/images/b/be/tcombobox.png)](</File:tcombobox.png>) is a combination of an edit box and a (drop-down) list allowing one of several options to be chosen. 
 

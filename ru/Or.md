@@ -1,7 +1,6 @@
 # Or
 
-│ **[Deutsch (de)](</Or/de> "Or/de")** │  **[English (en)](<../en/Or.md> "Or")** │  **[suomi (fi)](</Or/fi> "Or/fi")** │  **[français (fr)](</Or/fr> "Or/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Or.md>)** │  **русский (ru)** │
 
 ## Contents
 

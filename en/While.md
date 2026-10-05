@@ -1,7 +1,6 @@
 # While
 
-│ **[Deutsch (de)](</While/de> "While/de")** │  **English (en)** │  **[suomi (fi)](</While/fi> "While/fi")** │  **[français (fr)](</While/fr> "While/fr")** │  **[русский (ru)](<../ru/While.md> "While/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/While.md>)** │
 
 ` while` in conjunction with [`do`](<Do.md> "Do") repeats a statement as long as a condition evaluates to [`true`](<True.md> "True"). The condition [expression](<expression.md> "expression") is evaluated prior each iteration, determining whether the following [statement](<statement.md> "statement") is executed. This is the main difference to a [`repeat … until`-loop](<Repeat.md> "Repeat"), where the [loop](<Loops.md> "Loops") body is executed at any rate, but succeeding iterations do not necessarily happen, though. 
 

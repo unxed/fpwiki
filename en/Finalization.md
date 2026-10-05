@@ -1,7 +1,6 @@
 # Finalization
 
-│ **[Deutsch (de)](</Finalization/de> "Finalization/de")** │  **English (en)** │  **[suomi (fi)](</Finalization/fi> "Finalization/fi")** │  **[русский (ru)](<../ru/Finalization.md> "Finalization/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Finalization.md>)** │
 
 ` Finalization` is a [reserved word](<Reserved_words.md> "Reserved words") within [Object Pascal](<Object_Pascal.md> "Object Pascal"). It starts the optional finalization part of a [unit](<Unit.md> "Unit"). 
 

@@ -1,6 +1,6 @@
 # Sand Box
 
-│ [**Deutsch (de)**](</Sand_Box/de> "Sand Box/de") │  **English (en)** │  [**español (es)**](</Sand_Box/es> "Sand Box/es") │  [**français (fr)**](</Sand_Box/fr> "Sand Box/fr") │  [**Bahasa Indonesia (id)**](</Sand_Box/id> "Sand Box/id") │  [**italiano (it)**](</Sand_Box/it> "Sand Box/it") │  [**日本語 (ja)**](</Sand_Box/ja> "Sand Box/ja") │  [**polski (pl)**](</Sand_Box/pl> "Sand Box/pl") │  [**русский (ru)**](<../ru/Sand_Box.md> "Sand Box/ru") │  [**slovenčina (sk)**](</Sand_Box/sk> "Sand Box/sk") │  [**中文（中国大陆）‎ (zh_CN)**](</Sand_Box/zh_CN> "Sand Box/zh CN") │ 
+│ **English (en)** │
 
 [![Note-icon.png](https://wiki.freepascal.org/images/b/be/Note-icon.png)](</File:Note-icon.png>)
 

@@ -1,6 +1,6 @@
 # $boolEval
 
-│ **English (en)** │ 
+│ **English (en)** │
 
 The Free Pascal compiler [compiler directive](<local_compiler_directives.md> "local compiler directives") `{$boolEval}` determines, whether short-circuit evaluation (also known as “lazy evaluation”) of [Boolean](<Boolean.md> "Boolean") expressions is performed. 
 

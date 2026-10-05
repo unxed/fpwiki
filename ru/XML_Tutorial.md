@@ -1,7 +1,6 @@
 # XML Tutorial
 
-│ **[Deutsch (de)](</XML_Tutorial/de> "XML Tutorial/de")** │  **[English (en)](<../en/XML_Tutorial.md> "XML Tutorial")** │  **[español (es)](</XML_Tutorial/es> "XML Tutorial/es")** │  **[français (fr)](</XML_Tutorial/fr> "XML Tutorial/fr")** │  **[magyar (hu)](</XML_Tutorial/hu> "XML Tutorial/hu")** │  **[Bahasa Indonesia (id)](</XML_Tutorial/id> "XML Tutorial/id")** │  **[italiano (it)](</XML_Tutorial/it> "XML Tutorial/it")** │  **[日本語 (ja)](</XML_Tutorial/ja> "XML Tutorial/ja")** │  **[한국어 (ko)](</XML_Tutorial/ko> "XML Tutorial/ko")** │  **[português (pt)](</XML_Tutorial/pt> "XML Tutorial/pt")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</XML_Tutorial/zh_CN> "XML Tutorial/zh CN")** │    
-****
+│ **[English (en)](<../en/XML_Tutorial.md>)** │  **русский (ru)** │
 
 XML - Расширяемый Язык Разметки (e**X** tensible **M** arkup **L** anguage) рекомендован [W3C](<http://www.w3.org/>) как язык для обмена информацией между различными системами. Это ориентированный на текст способ сохранения информации. Современные языки обмена данными, такие как XHTML, так же как и большинство технологий WebServices, основаны на XML. 
 

@@ -1,7 +1,6 @@
 # TAChart Tutorial: ColorMapSeries, Zooming
 
-│ **English (en)** │  **[suomi (fi)](</TAChart_Tutorial:_ColorMapSeries,_Zooming/fi> "TAChart Tutorial: ColorMapSeries, Zooming/fi")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

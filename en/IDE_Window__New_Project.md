@@ -1,6 +1,6 @@
 # IDE Window: New Project
 
-│ **[Deutsch (de)](</IDE_Window:_New_Project/de> "IDE Window: New Project/de")** │  **English (en)** │ 
+│ **English (en)** │
 
 A new project can be created via this menu item. The project contains all the settings required for the respective project type. The following project types are currently available: 
 

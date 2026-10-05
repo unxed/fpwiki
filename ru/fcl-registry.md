@@ -1,7 +1,6 @@
 # fcl-registry
 
-│ **[English (en)](<../en/fcl-registry.md> "fcl-registry")** │  **[español (es)](</fcl-registry/es> "fcl-registry/es")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/fcl-registry.md>)** │  **русский (ru)** │
 
 fcl-registry это модуль [FCL](<../en/FCL.md> "FCL"), обеспечивает доступ к реестру Windows. 
 

@@ -1,7 +1,6 @@
 # Lazarus Tutorial Part 2
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 This is part 2 of the [Lazarus Tutorial](<Lazarus_Tutorial.md> "Lazarus Tutorial"). 
 

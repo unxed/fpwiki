@@ -1,7 +1,6 @@
 # Database field type
 
-│ **English (en)** │  **[español (es)](</Database_field_type/es> "Database field type/es")** │  **[français (fr)](</Database_field_type/fr> "Database field type/fr")** │  **[日本語 (ja)](</Database_field_type/ja> "Database field type/ja")** │  **[中文（中国大陆） (zh_CN)](</Database_field_type/zh_CN> "Database field type/zh CN")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

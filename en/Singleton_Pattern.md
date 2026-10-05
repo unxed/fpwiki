@@ -1,5 +1,7 @@
 # Singleton Pattern
 
+│ **English (en)** │  **[русский (ru)](<../ru/Singleton_Pattern.md>)** │
+
 ## Contents
 
   * 1 Introduction

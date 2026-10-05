@@ -1,8 +1,7 @@
 # SQLdb Tutorial0
 
-│ **English (en)** │  **[français (fr)](</SQLdb_Tutorial0/fr> "SQLdb Tutorial0/fr")** │  **[日本語 (ja)](</SQLdb_Tutorial0/ja> "SQLdb Tutorial0/ja")** │    
-****  
-  
+│ **English (en)** │
+
 ---  
 [**Databases portal**](<Portal_Databases.md> "Portal:Databases")  
 References: 

@@ -1,7 +1,6 @@
 # Lazarus Documentation
 
-│ **[العربية (ar)](</Lazarus_Documentation/ar> "Lazarus Documentation/ar")** │  **[Deutsch (de)](</Lazarus_Documentation/de> "Lazarus Documentation/de")** │  **English (en)** │  **[español (es)](</Lazarus_Documentation/es> "Lazarus Documentation/es")** │  **[suomi (fi)](</Lazarus_Documentation/fi> "Lazarus Documentation/fi")** │  **[français (fr)](</Lazarus_Documentation/fr> "Lazarus Documentation/fr")** │  **[magyar (hu)](</Lazarus_Documentation/hu> "Lazarus Documentation/hu")** │  **[Bahasa Indonesia (id)](</Lazarus_Documentation/id> "Lazarus Documentation/id")** │  **[italiano (it)](</Lazarus_Documentation/it> "Lazarus Documentation/it")** │  **[日本語 (ja)](</Lazarus_Documentation/ja> "Lazarus Documentation/ja")** │  **[한국어 (ko)](</Lazarus_Documentation/ko> "Lazarus Documentation/ko")** │  **[Nederlands (nl)](</Lazarus_Documentation/nl> "Lazarus Documentation/nl")** │  **[português (pt)](</Lazarus_Documentation/pt> "Lazarus Documentation/pt")** │  **[русский (ru)](<../ru/Lazarus_Documentation.md> "Lazarus Documentation/ru")** │  **[slovenčina (sk)](</Lazarus_Documentation/sk> "Lazarus Documentation/sk")** │  **[Türkçe (tr)](</Lazarus_Documentation/tr> "Lazarus Documentation/tr")** │  **[中文（中国大陆） (zh_CN)](</Lazarus_Documentation/zh_CN> "Lazarus Documentation/zh CN")** │  **[中文（臺灣） (zh_TW)](</Lazarus_Documentation/zh_TW> "Lazarus Documentation/zh TW")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Lazarus_Documentation.md>)** │
 
 ## Contents
 

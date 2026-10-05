@@ -1,6 +1,6 @@
 # TFloatSpinEditEx
 
-│ **English (en)** │  **[русский (ru)](<../ru/TFloatSpinEditEx.md> "TFloatSpinEditEx/ru")** │ 
+│ **English (en)** │  **[русский (ru)](<../ru/TFloatSpinEditEx.md>)** │
 
 The **TFloatSpinEditEx** [![tfloatspineditex.png](https://wiki.freepascal.org/images/b/b6/tfloatspineditex.png)](</File:tfloatspineditex.png>) control is found on the the [LazControls tab](<LazControls_tab.md> "LazControls tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). It is useful for setting a floating point setting made on a form. TFloatSpinEditEx is just like [TFloatSpinEdit](<TFloatSpinEdit.md> "TFloatSpinEdit") in fact a combination of a [TUpDown](<TUpDown.md> "TUpDown") and an associated [TEdit](<TEdit.md> "TEdit") control specialized for floating point numbers.   
 The implementation is not widgeteset dependent, so the behaviour of TFloatSpinEditEx (with regard to Value and Text in the control) is the same in all widgetsets. 

@@ -1,7 +1,6 @@
 # TBitBtn
 
-│ [**English (en)**](<../en/TBitBtn.md> "TBitBtn") │  [**español (es)**](</TBitBtn/es> "TBitBtn/es") │  [**suomi (fi)**](</TBitBtn/fi> "TBitBtn/fi") │  [**français (fr)**](</TBitBtn/fr> "TBitBtn/fr") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TBitBtn.md>)** │  **русский (ru)** │
 
 **TBitBtn** [![tbitbtn.png](https://wiki.freepascal.org/images/e/ea/tbitbtn.png)](</File:tbitbtn.png>) \- это компонент, созданный на основе кнопки с изображением на её поверхности. TBitBtn является потомком [TWinControl](</index.php?title=TWinControl/ru&action=edit&redlink=1> "TWinControl/ru \(page does not exist\)") и доступен на вкладке [Additional](<Additional_tab.md> "Additional tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

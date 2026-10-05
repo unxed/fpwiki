@@ -1,7 +1,6 @@
 # Lazarus Tutorial
 
-│ **[Deutsch (de)](</Lazarus_Tutorial/de> "Lazarus Tutorial/de")** │  **[English (en)](<../en/Lazarus_Tutorial.md> "Lazarus Tutorial")** │  **[español (es)](</Lazarus_Tutorial/es> "Lazarus Tutorial/es")** │  **[suomi (fi)](</Lazarus_Tutorial/fi> "Lazarus Tutorial/fi")** │  **[français (fr)](</Lazarus_Tutorial/fr> "Lazarus Tutorial/fr")** │  **[magyar (hu)](</Lazarus_Tutorial/hu> "Lazarus Tutorial/hu")** │  **[italiano (it)](</Lazarus_Tutorial/it> "Lazarus Tutorial/it")** │  **[日本語 (ja)](</Lazarus_Tutorial/ja> "Lazarus Tutorial/ja")** │  **[македонски (mk)](</Lazarus_Tutorial/mk> "Lazarus Tutorial/mk")** │  **[Nederlands (nl)](</Lazarus_Tutorial/nl> "Lazarus Tutorial/nl")** │  **[português (pt)](</Lazarus_Tutorial/pt> "Lazarus Tutorial/pt")** │  **русский (ru)** │  **[slovenčina (sk)](</Lazarus_Tutorial/sk> "Lazarus Tutorial/sk")** │  **[shqip (sq)](</Lazarus_Tutorial/sq> "Lazarus Tutorial/sq")** │  **[中文（中国大陆） (zh_CN)](</Lazarus_Tutorial/zh_CN> "Lazarus Tutorial/zh CN")** │  **[中文（臺灣） (zh_TW)](</Lazarus_Tutorial/zh_TW> "Lazarus Tutorial/zh TW")** │    
-****
+│ **[English (en)](<../en/Lazarus_Tutorial.md>)** │  **русский (ru)** │
 
 Lazarus - это бесплатный инструмент разработки с открытым исходным кодом для [Free Pascal compiler](<../en/FPC.md> "FPC"), который, в свою очередь, также является бесплатным и с открытым исходным кодом. [Интегрированная среда разработки](<../en/IDE.md> "IDE") Lazarus (IDE, см. [Скриншоты](<../en/Screenshots.md> "Screenshots"))) - это среда программирования для создания автономных графических и консольных приложений. 
 

@@ -2,7 +2,7 @@
 
 < [Lookup](</Help:Contents> "Help:Contents") < [Portals](</Category:Portals> "Category:Portals") < **Portal:FreeBSD**
 
-│ **English (en)** │ 
+│ **English (en)** │
 
 Portal:FreeBSD
 

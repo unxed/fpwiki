@@ -1,7 +1,6 @@
 # Register
 
-│ **[Deutsch (de)](</Register/de> "Register/de")** │  **English (en)** │  **[русский (ru)](<../ru/Register.md> "Register/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Register.md>)** │
 
   
 Back to [ reserved words](<Reserved_words.md> "Reserved words")

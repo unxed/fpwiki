@@ -1,7 +1,6 @@
 # TIpHtmlPanel
 
-│ **English (en)** │  **[français (fr)](</TIpHtmlPanel/fr> "TIpHtmlPanel/fr")** │  **[русский (ru)](<../ru/TIpHtmlPanel.md> "TIpHtmlPanel/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TIpHtmlPanel.md>)** │
 
 The **TIpHtmlPanel** [![tiphtmlpanel.png](https://wiki.freepascal.org/images/2/21/tiphtmlpanel.png)](</File:tiphtmlpanel.png>) component is the display part of the Turbopower Internet Pro package that delivers native HTML-access. The component is available from the [IPro tab](<IPro_tab.md> "IPro tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
     

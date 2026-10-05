@@ -1,8 +1,7 @@
 # Source code
 
-│ **[Deutsch (de)](</Source_code/de> "Source code/de")** │  **English (en)** │  **[español (es)](</Source_code/es> "Source code/es")** │  **[suomi (fi)](</Source_code/fi> "Source code/fi")** │  **[Bahasa Indonesia (id)](</Source_code/id> "Source code/id")** │    
-****  
-  
+│ **English (en)** │
+
 **Source Code** is the file or group of [text](<Text.md> "Text") files which are processed by a [compiler](<Compiler.md> "Compiler") or an [assembler](<Assembler.md> "Assembler") and translated into either an [executable program](<Executable_program.md> "Executable program") or an [object module](<Object_module.md> "Object module"), or into another source [file](</File> "File") for subsequent translation into an executable program or an object module by another compiler or an assembler. 
 
 For the purposes of this system, generally source code is written in [Pascal](<Pascal.md> "Pascal"), and is processed by the FPC Pascal [Compiler](<Compiler.md> "Compiler"), to produce assembly language source code which is then passed to the assembler, which then produces the executable program. 

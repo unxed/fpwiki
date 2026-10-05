@@ -1,7 +1,6 @@
 # TTaskDialog
 
-│ **[English (en)](<../en/TTaskDialog.md> "TTaskDialog")** │  **[suomi (fi)](</TTaskDialog/fi> "TTaskDialog/fi")** │  **[français (fr)](</TTaskDialog/fr> "TTaskDialog/fr")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</TTaskDialog/zh_CN> "TTaskDialog/zh CN")** │    
-****
+│ **[English (en)](<../en/TTaskDialog.md>)** │  **русский (ru)** │
 
 **TTaskDialog** [![ttaskdialogicon.png](https://wiki.freepascal.org/images/0/02/ttaskdialogicon.png)](</File:ttaskdialogicon.png>) является невизуальным компонентом, предназначенным для отображения полнофункциональных диалоговых окон в режиме выполнения программы с богатыми возможностями, наподобие диалоговых окон, реализованных через Windows API. Данный компонент расположен на вкладке [Dialogs](<Dialogs_tab.md> "Dialogs tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru") и доступен в Lazarus начиная с версии 1.8. 
 

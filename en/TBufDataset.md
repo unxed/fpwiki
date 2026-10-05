@@ -1,7 +1,6 @@
 # TBufDataset
 
-│ **English (en)** │  **[français (fr)](</TBufDataset/fr> "TBufDataset/fr")** │    
-****
+│ **English (en)** │
 
 **TBufDataset** [![tbufdataset.png](https://wiki.freepascal.org/images/6/64/tbufdataset.png)](</File:tbufdataset.png>) is a component that provides the link to buffered data in a database. A TDataset descendant acts like a cursor on a table or query-result. 
 

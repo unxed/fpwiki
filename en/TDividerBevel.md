@@ -1,7 +1,6 @@
 # TDividerBevel
 
-│ **English (en)** │  [**suomi (fi)**](</TDividerBevel/fi> "TDividerBevel/fi") │  [**русский (ru)**](<../ru/TDividerBevel.md> "TDividerBevel/ru") │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TDividerBevel.md>)** │
 
 **TDividerBevel** [![tdividerbevel.png](https://wiki.freepascal.org/images/6/6c/tdividerbevel.png)](</File:tdividerbevel.png>) is a component that creates a caption with beveled line on a form. A TDividerBevel is a descendant of [TGraphicControl](<TGraphicControl.md> "TGraphicControl") and is available under the [LazControls tab](<LazControls_tab.md> "LazControls tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

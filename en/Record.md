@@ -1,7 +1,6 @@
 # Record
 
-│ **[Deutsch (de)](</Record/de> "Record/de")** │  **English (en)** │  **[español (es)](</Record/es> "Record/es")** │  **[suomi (fi)](</Record/fi> "Record/fi")** │  **[français (fr)](</Record/fr> "Record/fr")** │  **[magyar (hu)](</Record/hu> "Record/hu")** │  **[polski (pl)](</Record/pl> "Record/pl")** │  **[português (pt)](</Record/pt> "Record/pt")** │  **[русский (ru)](<../ru/Record.md> "Record/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Record.md>)** │
 
 A `record` is a highly structured data [`type`](<Type.md> "Type") in [Pascal](<Pascal.md> "Pascal"). They are widely used in Pascal, to group data items together logically. 
 

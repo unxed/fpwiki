@@ -1,7 +1,6 @@
 # TListChartSource
 
-│ **русский (ru)** │    
-****
+│ **русский (ru)** │
 
 **TListChartSource** [![tlistchartsource.png](https://wiki.freepascal.org/images/4/44/tlistchartsource.png)](</File:tlistchartsource.png>) представляет собой компонент, который хранит внутри себя список точек для графиков и диаграмм. Каждая точка представляет координаты _X_ и _Y_ , а также _цвет_ и _текст_. Данный компонент является частью пакета [TAChart](<TAChart.md> "TAChart/ru") и доступен на вкладке [Chart](<Chart_tab.md> "Chart tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

@@ -1,6 +1,6 @@
 # ARM Embedded Tutorial - Entry FPC and STM32
 
-│ **[Deutsch (de)](</ARM_Embedded_Tutorial_-_Entry_FPC_and_STM32/de> "ARM Embedded Tutorial - Entry FPC and STM32/de")** │  **English (en)** │ 
+│ **English (en)** │
 
 ## Contents
 

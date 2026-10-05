@@ -1,7 +1,6 @@
 # TCHMHelpDatabase
 
-│ **English (en)** │  **[français (fr)](</TCHMHelpDatabase/fr> "TCHMHelpDatabase/fr")** │  **[русский (ru)](<../ru/TCHMHelpDatabase.md> "TCHMHelpDatabase/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TCHMHelpDatabase.md>)** │
 
 **TCHMLHelpDatabase** [![tchmhelpdatabase.png](https://wiki.freepascal.org/images/3/3d/tchmhelpdatabase.png)](</File:tchmhelpdatabase.png>) is a non-visual component that offers CHM-context sensitive application help. It is available from the [System tab](<System_tab.md> "System tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

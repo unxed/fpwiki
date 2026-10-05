@@ -1,8 +1,7 @@
 # FPC and Allegro
 
-│ **English (en)** │  **[español (es)](</FPC_and_Allegro/es> "FPC and Allegro/es")** │    
-****  
-  
+│ **English (en)** │
+
 ---  
 [**Game Development**](<Portal_Game_Development.md> "Portal:Game Development")  
   

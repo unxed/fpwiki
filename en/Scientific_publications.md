@@ -1,7 +1,6 @@
 # Scientific publications
 
-│ **[Deutsch (de)](</Scientific_publications/de> "Scientific publications/de")** │  **English (en)** │  **[italiano (it)](</Scientific_publications/it> "Scientific publications/it")** │  **[русский (ru)](<../ru/Scientific_publications.md> "Scientific publications/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Scientific_publications.md>)** │
 
 Thanks to compatibility with a rich tradition of algorithms written in [Pascal](<Pascal.md> "Pascal"), generation of fast native code, and extensive cross-platform availability [Free Pascal](<Free_Pascal.md> "Free Pascal") is an ideal basis for scientific applications. This may be the main reason why a plethora of research projects uses [Lazarus](<Lazarus.md> "Lazarus") and FPC. 
 

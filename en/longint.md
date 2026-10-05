@@ -1,7 +1,6 @@
 # Longint
 
-│ **[Deutsch (de)](</Longint/de> "Longint/de")** │  **English (en)** │  **[suomi (fi)](</Longint/fi> "Longint/fi")** │  **[français (fr)](</Longint/fr> "Longint/fr")** │  **[русский (ru)](<../ru/Longint.md> "Longint/ru")** │    
-****
+│ **English (en)** │
 
   
 Back to [data types](<Data_type.md> "Data type"). 

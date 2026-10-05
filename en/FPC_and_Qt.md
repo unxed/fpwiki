@@ -1,7 +1,6 @@
 # FPC and Qt
 
-│ **English (en)** │  **[русский (ru)](<../ru/FPC_and_Qt.md> "FPC and Qt/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/FPC_and_Qt.md>)** │
 
 ## Contents
 

@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Chapter 1/Programming Assignment
 
-│ **[български (bg)](</Basic_Pascal_Tutorial/Chapter_1/Programming_Assignment/bg> "Basic Pascal Tutorial/Chapter 1/Programming Assignment/bg")** │  **[Deutsch (de)](</Basic_Pascal_Tutorial/Chapter_1/Programming_Assignment/de> "Basic Pascal Tutorial/Chapter 1/Programming Assignment/de")** │  **[English (en)](<../../../en/Basic_Pascal_Tutorial/Chapter_1/Programming_Assignment.md> "Basic Pascal Tutorial/Chapter 1/Programming Assignment")** │  **[français (fr)](</Basic_Pascal_Tutorial/Chapter_1/Programming_Assignment/fr> "Basic Pascal Tutorial/Chapter 1/Programming Assignment/fr")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Chapter_1/Programming_Assignment/ja> "Basic Pascal Tutorial/Chapter 1/Programming Assignment/ja")** │  **[한국어 (ko)](</Basic_Pascal_Tutorial/Chapter_1/Programming_Assignment/ko> "Basic Pascal Tutorial/Chapter 1/Programming Assignment/ko")** │  **русский (ru)** │  **[中文（中国大陆）‎ (zh_CN)](</Basic_Pascal_Tutorial/Chapter_1/Programming_Assignment/zh_CN> "Basic Pascal Tutorial/Chapter 1/Programming Assignment/zh CN")** │    
-****
+│ **[English (en)](<../../../en/Basic_Pascal_Tutorial/Chapter_1/Programming_Assignment.md>)** │  **русский (ru)** │
 
 [ ◄ ](<Punctuation_and_Indentation.md> "Basic Pascal Tutorial/Chapter 1/Punctuation and Indentation/ru") | [ ▲ ](<../Contents.md> "Basic Pascal Tutorial/Contents/ru") | [ ► ](<Solution.md> "Basic Pascal Tutorial/Chapter 1/Solution/ru")  
 ---|---|---  

@@ -1,7 +1,6 @@
 # TCheckBox
 
-│ **[Deutsch (de)](</TCheckBox/de> "TCheckBox/de")** │  **[English (en)](<../en/TCheckBox.md> "TCheckBox")** │  **[suomi (fi)](</TCheckBox/fi> "TCheckBox/fi")** │  **[français (fr)](</TCheckBox/fr> "TCheckBox/fr")** │  **[日本語 (ja)](</TCheckBox/ja> "TCheckBox/ja")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TCheckBox.md>)** │  **русский (ru)** │
 
 **TCheckBox** [![tcheckbox.png](https://wiki.freepascal.org/images/3/3c/tcheckbox.png)](</File:tcheckbox.png>) является элементом управления, представляющим собой надпись с расположенным рядом флажком. Элемент управления **TCheckbox** является стандартным элементом с флажком. Данный компонент доступен на вкладке [Standard](<Standard_tab.md> "Standard tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). Когда элемент **TCheckBox** отмечен (☑) значение свойства _Checked_ становится равным [True](<True.md> "True/ru"), в противном случае [False](<False.md> "False/ru"). Если свойство _AllowGrayed_ установлено в значение False (значение по умолчанию), то данный элемент может принимать только два возможных состояния (свойство _State_): _cbChecked_ и _cbUnchecked_. Если же свойство _AllowGrayed_ установлено в значение True, то данный элемент может принимать три возможных состояния: _cbChecked_ , _cbUnchecked_ и _cbGrayed_. 
 

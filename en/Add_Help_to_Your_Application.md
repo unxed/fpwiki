@@ -1,7 +1,6 @@
 # Add Help to Your Application
 
-│ **[Deutsch (de)](</Add_Help_to_Your_Application/de> "Add Help to Your Application/de")** │  **English (en)** │  **[español (es)](</Add_Help_to_Your_Application/es> "Add Help to Your Application/es")** │  **[français (fr)](</Add_Help_to_Your_Application/fr> "Add Help to Your Application/fr")** │  **[русский (ru)](<../ru/Add_Help_to_Your_Application.md> "Add Help to Your Application/ru")** │  **[中文（中国大陆）‎ (zh_CN)](</Add_Help_to_Your_Application/zh_CN> "Add Help to Your Application/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Add_Help_to_Your_Application.md>)** │
 
 The LCL comes with a help system, and allows you to **create help for your own applications**. 
 

@@ -1,7 +1,6 @@
 # Editor Macros PascalScript
 
-│ **English (en)** │  **[русский (ru)](<../ru/Editor_Macros_PascalScript.md> "Editor Macros PascalScript/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Editor_Macros_PascalScript.md>)** │
 
 ## Contents
 

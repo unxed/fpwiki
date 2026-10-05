@@ -1,7 +1,6 @@
 # LazPaint Edit
 
-│ **English (en)** │  **[suomi (fi)](</LazPaint_Edit/fi> "LazPaint Edit/fi")** │    
-****
+│ **English (en)** │
 
 ### Selection tools
 

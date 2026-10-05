@@ -1,7 +1,6 @@
 # Line feed
 
-│ **[English (en)](<../en/Line_feed.md> "Line feed")** │  **[suomi (fi)](</Line_feed/fi> "Line feed/fi")** │  **[português (pt)](</Line_feed/pt> "Line feed/pt")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Line_feed.md>)** │  **русский (ru)** │
 
 **Перевод строки** (LF) является одним из управляющих символов в кодировках [ASCII](<ASCII.md> "ASCII/ru") и Unicode. В кодировках ASCII и Unicode данный символ определен с кодом 10 в десятичной системе или 0A в [шестнадцатеричной](<Hexadecimal.md> "Hexadecimal/ru"). 
 

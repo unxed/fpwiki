@@ -1,6 +1,6 @@
 # Minus
 
-│ **English (en)** │  [**suomi (fi)**](</Minus/fi> "Minus/fi") │  [**français (fr)**](</Minus/fr> "Minus/fr") │  [**русский (ru)**](<../ru/Minus.md> "Minus/ru") │    
+│ **English (en)** │  **[русский (ru)](<../ru/Minus.md>)** │
 
 
 -

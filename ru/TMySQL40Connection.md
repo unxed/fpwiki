@@ -1,7 +1,6 @@
 # TMySQL40Connection
 
-│ **[English (en)](<../en/TMySQL40Connection.md> "TMySQL40Connection")** │  **[français (fr)](</TMySQL40Connection/fr> "TMySQL40Connection/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TMySQL40Connection.md>)** │  **русский (ru)** │
 
 ![Light bulb](https://upload.wikimedia.org/wikipedia/commons/d/d8/Nuvola_apps_ktip.png) **Примечание:** Для создания приложений при работе с любыми базами данных вместо TMySQL40Connection может использоваться [TSQLConnector](<TSQLConnector.md> "TSQLConnector/ru")
 

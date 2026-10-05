@@ -1,6 +1,7 @@
 # LCL 组件
 
-│ **English (en)** │    
+│ **English (en)** │
+
 ****选择对应控件了解相关信息:
 
 ## Contents

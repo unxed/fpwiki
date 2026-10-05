@@ -1,7 +1,6 @@
 # File types
 
-│ **[Deutsch (de)](</File_types/de> "File types/de")** │  **English (en)** │  **[polski (pl)](</File_types/pl> "File types/pl")** │    
-****
+│ **English (en)** │
 
   
 There are several options for file processing. 

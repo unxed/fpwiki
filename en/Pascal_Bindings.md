@@ -1,7 +1,6 @@
 # Pascal Bindings
 
-│ **[Deutsch (de)](</Pascal_Bindings/de> "Pascal Bindings/de")** │  **English (en)** │  **[español (es)](</Pascal_Bindings/es> "Pascal Bindings/es")** │  **[français (fr)](</Pascal_Bindings/fr> "Pascal Bindings/fr")** │  **[русский (ru)](<../ru/Pascal_Bindings.md> "Pascal Bindings/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Pascal_Bindings.md>)** │
 
 This page is a collection of bindings, translated headers and other interfaces that allow Pascal programs to access external libraries. Some of these are available on the Free Pascal Packages, and others on external projects. 
 

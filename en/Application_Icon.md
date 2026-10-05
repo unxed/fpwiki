@@ -1,7 +1,6 @@
 # Application Icon
 
-│ **[Deutsch (de)](</Application_Icon/de> "Application Icon/de")** │  **English (en)** │  **[español (es)](</Application_Icon/es> "Application Icon/es")** │  **[日本語 (ja)](</Application_Icon/ja> "Application Icon/ja")** │  **[português (pt)](</Application_Icon/pt> "Application Icon/pt")** │    
-****
+│ **English (en)** │
 
 The application icon is usually displayed on the main window of the application, and it can be changed as per the code in [Changing application Icon](<Changing_application_Icon.md> "Changing application Icon"). 
 

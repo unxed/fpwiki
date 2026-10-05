@@ -1,7 +1,6 @@
 # TARGET Embedded
 
-│ **[English (en)](<Embedded.md> "Embedded")** │  **[español (es)](</Embedded/es> "Embedded/es")** │  **[中文（中国大陆） (zh_CN)](</Embedded/zh_CN> "Embedded/zh CN")** │  **[中文（臺灣） (zh_TW)](</Embedded/zh_TW> "Embedded/zh TW")** │    
-****
+│ **English (en)** │
 
 This is an overview of using FPC on embedded systems without an operating system. The embedded target is still under development and only a few microcontroller families are supported. These are ARM (several architectures), AVR, PIC32MX (MIPSel), Xtensa (ESP32) and Z80. The embedded target targets systems which are _without any operating system_ and typically only have several kBs of RAM and several dozens of kB of flash. A typical target is the LPC family of NXP with popular members like the LPC2124 with 16 kB RAM and 256 kB flash using the ARM7 instruction set. 
 

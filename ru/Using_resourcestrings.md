@@ -1,7 +1,6 @@
 # Using resourcestrings
 
-│ **[English (en)](<../en/Using_resourcestrings.md> "Using resourcestrings")** │  **[español (es)](</Using_resourcestrings/es> "Using resourcestrings/es")** │  **[Bahasa Indonesia (id)](</Using_resourcestrings/id> "Using resourcestrings/id")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Using_resourcestrings.md>)** │  **русский (ru)** │
 
 Файл .rst создается, чтобы обеспечить механизм для локализации приложений. В настоящее время, доступен только один механизм локализации: gettext. 
 

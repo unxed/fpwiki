@@ -1,7 +1,6 @@
 # IDE Window: Clean up build files dialog
 
-│ **[Deutsch (de)](</IDE_Window:_Clean_up_build_files_dialog/de> "IDE Window: Clean up build files dialog/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
 # Overview
 

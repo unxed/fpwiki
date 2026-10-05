@@ -1,7 +1,6 @@
 # TTabControl
 
-│ **English (en)** │  **[français (fr)](</TTabControl/fr> "TTabControl/fr")** │  **[русский (ru)](<../ru/TTabControl.md> "TTabControl/ru")** │  **[中文（中国大陆）‎ (zh_CN)](</TTabControl/zh_CN> "TTabControl/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TTabControl.md>)** │
 
 **TTabControl** [![ttabcontrol.png](https://wiki.freepascal.org/images/b/b1/ttabcontrol.png)](</File:ttabcontrol.png>) is a descendant of [TWinControl](</index.php?title=TWinControl&action=edit&redlink=1> "TWinControl \(page does not exist\)") and can be found on the [Common Controls tab](<Common_Controls_tab.md> "Common Controls tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

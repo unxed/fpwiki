@@ -1,7 +1,6 @@
 # fcl-image
 
-**English (en)** | [**日本語 (ja)**](</fcl-image/ja> "fcl-image/ja")   
-****
+│ **English (en)** │
 
 ## Contents
 

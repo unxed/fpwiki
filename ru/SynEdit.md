@@ -1,7 +1,6 @@
 # SynEdit
 
-│ **[Deutsch (de)](</SynEdit/de> "SynEdit/de")** │  **[English (en)](<../en/SynEdit.md> "SynEdit")** │  **[español (es)](</SynEdit/es> "SynEdit/es")** │  **[français (fr)](</SynEdit/fr> "SynEdit/fr")** │  **[日本語 (ja)](</SynEdit/ja> "SynEdit/ja")** │  **русский (ru)** │  **[中文（中国大陆）‎ (zh_CN)](</SynEdit/zh_CN> "SynEdit/zh CN")** │    
-****
+│ **[English (en)](<../en/SynEdit.md>)** │  **русский (ru)** │
 
 **SynEdit** \- пакет [подсветки синтаксиса](<../en/Syntax_highlighting.md> "Syntax highlighting") для edit/memo, доступный на [вкладке SynEdit](<SynEdit_tab.md> "SynEdit tab/ru") с поддержкой многих языков/синтаксиса. 
 

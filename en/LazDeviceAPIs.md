@@ -6,8 +6,7 @@ This article applies to [Android](</Category:Android> "Category:Android") only.
 
 See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **English (en)** │  **[한국어 (ko)](</LazDeviceAPIs/ko> "LazDeviceAPIs/ko")** │    
-****
+│ **English (en)** │
 
 LazDeviceAPIs is a LCL unit which offers an interface to various hardware devices, such as the accelerometer, GPS positioning, SMS sending, etc. It is mostly designed for smartphone/mobile platforms, but it might eventually be ported to desktops too. 
 

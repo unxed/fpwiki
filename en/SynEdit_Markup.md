@@ -1,6 +1,6 @@
 # SynEdit Markup
 
-│ **English (en)** │  **[polski (pl)](</SynEdit_Markup/pl> "SynEdit Markup/pl")** │ 
+│ **English (en)** │
 
 For more info on SynEdit go to: [SynEdit](<SynEdit.md> "SynEdit")   
 This page is a draft .... 

@@ -1,7 +1,6 @@
 # Add Help to Your Application
 
-│ **[Deutsch (de)](</Add_Help_to_Your_Application/de> "Add Help to Your Application/de")** │  **[English (en)](<../en/Add_Help_to_Your_Application.md> "Add Help to Your Application")** │  **[español (es)](</Add_Help_to_Your_Application/es> "Add Help to Your Application/es")** │  **[français (fr)](</Add_Help_to_Your_Application/fr> "Add Help to Your Application/fr")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</Add_Help_to_Your_Application/zh_CN> "Add Help to Your Application/zh CN")** │    
-****
+│ **[English (en)](<../en/Add_Help_to_Your_Application.md>)** │  **русский (ru)** │
 
 LCL поставляется со справочной системой и позволяет **создавать справку для ваших собственных приложений**. 
 

@@ -1,7 +1,6 @@
 # TECLightView
 
-│ **[English (en)](<../en/TECLightView.md> "TECLightView")** │  **русский (ru)** │    
-****
+│ **русский (ru)** │
 
 ## Contents
 

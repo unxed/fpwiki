@@ -1,7 +1,6 @@
 # FPC Unicode support
 
-│ **English (en)** │  **[español (es)](</FPC_Unicode_support/es> "FPC Unicode support/es")** │  **[français (fr)](</FPC_Unicode_support/fr> "FPC Unicode support/fr")** │  **[русский (ru)](<../ru/FPC_Unicode_support.md> "FPC Unicode support/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/FPC_Unicode_support.md>)** │
 
 ## Contents
 

@@ -1,7 +1,6 @@
 # FOR..IN
 
-│ [**български (bg)**](</FOR..IN/bg> "FOR..IN/bg") │  **English (en)** │  [**français (fr)**](</FOR..IN/fr> "FOR..IN/fr") │  [**日本語 (ja)**](</FOR..IN/ja> "FOR..IN/ja") │  [**中文（中国大陆）‎ (zh_CN)**](</FOR..IN/zh_CN> "FOR..IN/zh CN") │    
-****
+│ **English (en)** │
 
 [ ◄ ](<REPEAT..md> "REPEAT..UNTIL") | [ ▲ ](<Contents.md> "Contents") | [ ► ](<Programming_Assignment_3.md> "Programming Assignment 3")  
 ---|---|---  

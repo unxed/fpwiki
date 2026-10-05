@@ -1,7 +1,6 @@
 # wiki documentation
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 ## Contents
 

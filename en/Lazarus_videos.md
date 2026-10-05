@@ -1,7 +1,6 @@
 # Lazarus videos
 
-│ **English (en)** │  **[italiano (it)](</Lazarus_videos/it> "Lazarus videos/it")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

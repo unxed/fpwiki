@@ -1,6 +1,6 @@
 # LazDebuggerFpRspRemote
 
-│ **English (en)** │ 
+│ **English (en)** │
 
 [![Note-icon.png](https://wiki.freepascal.org/images/b/be/Note-icon.png)](</File:Note-icon.png>)
 

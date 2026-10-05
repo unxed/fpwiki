@@ -1,7 +1,6 @@
 # Releasing units without source code
 
-│ [**English (en)**](<../en/Releasing_units_without_source_code.md> "Releasing units without source code") │  [**español (es)**](</Releasing_units_without_source_code/es> "Releasing units without source code/es") │  [**Bahasa Indonesia (id)**](</Releasing_units_without_source_code/id> "Releasing units without source code/id") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Releasing_units_without_source_code.md>)** │  **русский (ru)** │
 
 Иногда полезно закрыть общий доступ к исходному коду модуля, например в следующих случаях: 
 

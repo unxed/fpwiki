@@ -1,6 +1,7 @@
 # $include
 
-│ **[Deutsch (de)](</$include/de> "$include/de")** │  **English (en)** │    
+│ **English (en)** │
+
 ****The[compiler directive](<Compiler_directive.md> "Compiler directive") `{$include}` is used to: 
 
   * read and parse a file, virtually inserting its contents at the location the directive was encountered,

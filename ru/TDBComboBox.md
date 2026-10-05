@@ -1,7 +1,6 @@
 # TDBComboBox
 
-│ **[English (en)](<../en/TDBComboBox.md> "TDBComboBox")** │  **[français (fr)](</TDBComboBox/fr> "TDBComboBox/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TDBComboBox.md>)** │  **русский (ru)** │
 
 Компонент **TDBComboBox** [![tdbcombobox.png](https://wiki.freepascal.org/images/a/a2/tdbcombobox.png)](</File:tdbcombobox.png>) является вариантом компонента [TComboBox](</index.php?title=TComboBox/ru&action=edit&redlink=1> "TComboBox/ru \(page does not exist\)"), который связан с данными из базы данных. Данный компонент доступен на вкладке [Data Controls](<Data_Controls_tab.md> "Data Controls tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

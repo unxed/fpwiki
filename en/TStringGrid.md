@@ -1,7 +1,6 @@
 # TStringGrid
 
-│ **English (en)** │  **[français (fr)](</TStringGrid/fr> "TStringGrid/fr")** │  **[русский (ru)](<../ru/TStringGrid.md> "TStringGrid/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TStringGrid.md>)** │
 
 **TStringGrid** [![tstringgrid.png](https://wiki.freepascal.org/images/c/c4/tstringgrid.png)](</File:tstringgrid.png>) is a component on the [Additional tab](<Additional_tab.md> "Additional tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). A stringgrid provides a tabular display of textual information that may be edited as well. 
 

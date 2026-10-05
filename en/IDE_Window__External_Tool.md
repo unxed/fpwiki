@@ -1,7 +1,6 @@
 # IDE Window: External Tool
 
-│ **[Deutsch (de)](</IDE_Window:_External_Tool/de> "IDE Window: External Tool/de")** │  **English (en)** │  **[español (es)](</IDE_Window:_External_Tool/es> "IDE Window: External Tool/es")** │  **[français (fr)](</IDE_Window:_External_Tool/fr> "IDE Window: External Tool/fr")** │  **[português (pt)](</IDE_Window:_External_Tool/pt> "IDE Window: External Tool/pt")** │    
-****
+│ **English (en)** │
 
 ![Light bulb](https://upload.wikimedia.org/wikipedia/commons/d/d8/Nuvola_apps_ktip.png) **Note:** External tools are global, not project specific
 

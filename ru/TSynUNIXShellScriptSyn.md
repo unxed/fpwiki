@@ -1,7 +1,6 @@
 # TSynUNIXShellScriptSyn
 
-│ **[English (en)](<../en/TSynUNIXShellScriptSyn.md> "TSynUNIXShellScriptSyn")** │  **[français (fr)](</TSynUNIXShellScriptSyn/fr> "TSynUNIXShellScriptSyn/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TSynUNIXShellScriptSyn.md>)** │  **русский (ru)** │
 
 **TSynUnixShellScriptSyn** [![tsynunixshellscriptsyn.png](https://wiki.freepascal.org/images/e/e7/tsynunixshellscriptsyn.png)](</File:tsynunixshellscriptsyn.png>) \- компонент, представляющий подсветку корректного синтаксиса кода сценариев командной строки Unix при их редактировании. Данный компонент является частью пакета [SynEdit](<SynEdit.md> "SynEdit/ru") и доступен на вкладке [SynEdit](<SynEdit_tab.md> "SynEdit tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

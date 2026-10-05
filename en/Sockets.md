@@ -1,7 +1,6 @@
 # Sockets
 
-│ **English (en)** │  **[español (es)](</Sockets/es> "Sockets/es")** │  **[français (fr)](</Sockets/fr> "Sockets/fr")** │  **[slovenčina (sk)](</Sockets/sk> "Sockets/sk")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

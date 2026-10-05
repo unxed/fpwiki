@@ -1,7 +1,6 @@
 # TSpinEdit
 
-│ **English (en)** │  **[suomi (fi)](</TSpinEdit/fi> "TSpinEdit/fi")** │  **[français (fr)](</TSpinEdit/fr> "TSpinEdit/fr")** │  **[русский (ru)](<../ru/TSpinEdit.md> "TSpinEdit/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TSpinEdit.md>)** │
 
 The **TSpinEdit** [![tspinedit.png](https://wiki.freepascal.org/images/b/bf/tspinedit.png)](</File:tspinedit.png>) control is found on the the [miscellaneous tab](<Misc_tab.md> "Misc tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). It is useful for setting a numeric setting made on a form. TSpinEdit is in fact a combination of a [TUpDown](<TUpDown.md> "TUpDown") and an associated [TEdit](<TEdit.md> "TEdit") control specialized for numbers. 
 

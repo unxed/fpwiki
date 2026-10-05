@@ -1,7 +1,6 @@
 # Using Lazarus for other computer languages
 
-│ **[English (en)](<../en/Using_Lazarus_for_other_computer_languages.md> "Using Lazarus for other computer languages")** │  **[magyar (hu)](</Using_Lazarus_for_other_computer_languages/hu> "Using Lazarus for other computer languages/hu")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Using_Lazarus_for_other_computer_languages.md>)** │  **русский (ru)** │
 
 Lazarus создавался для Free Pascal. Но вы также можете использовать IDE и для других языков программирования. Удобно использовать среду для портирования кода на С или редактирования кроссплатформенных приложений, использующих несколько языков, без необходимости переключаться между разными редакторами. 
 

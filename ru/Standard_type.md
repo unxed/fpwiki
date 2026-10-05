@@ -1,7 +1,6 @@
 # Standard type
 
-│ [**English (en)**](<../en/Standard_type.md> "Standard type") │  [**italiano (it)**](</Standard_type/it> "Standard type/it") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Standard_type.md>)** │  **русский (ru)** │
 
 Существуют определенные [типы данных](<Data_type.md> "Data type/ru"), которые являются **стандартными типами данных** в [компиляторе](</index.php?title=Compiler/ru&action=edit&redlink=1> "Compiler/ru \(page does not exist\)") языка [Pascal](<../en/Pascal.md> "Pascal"). Эти типы, как правило, являются _атомарными_ структурами данных, используемыми в [программах](<Program.md> "Program/ru") на языке [Pascal](<../en/Pascal.md> "Pascal") в качестве переменных и констант, которые не могут быть созданы из чего-то другого без этих типов. Обычно стандартные типы данных включают в себя: 
 

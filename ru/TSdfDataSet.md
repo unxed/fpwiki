@@ -1,6 +1,7 @@
 # TSdfDataSet
 
-│ **[English (en)](<../en/TSdfDataSet.md> "TSdfDataSet")** │  **[français (fr)](</TSdfDataSet/fr> "TSdfDataSet/fr")** │  **русский (ru)** │    
+│ **[English (en)](<../en/TSdfDataSet.md>)** │  **русский (ru)** │
+
 ******TSdfDataSet** [![tsdfdataset.png](https://wiki.freepascal.org/images/3/37/tsdfdataset.png)](</File:tsdfdataset.png>) является компонентом базы данных, который реализует текстовый `[TDataSet](<../en/TDataSet.md> "TDataSet")` в формате [SDF](<../en/SDF.md> "SDF"). 
 
 ## Схема

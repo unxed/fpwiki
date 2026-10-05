@@ -1,7 +1,6 @@
 # MIPS port
 
-│ **English (en)** │  **[español (es)](</MIPS_port/es> "MIPS port/es")** │    
-****
+│ **English (en)** │
 
 [![Warning-icon.png](https://wiki.freepascal.org/images/b/b2/Warning-icon.png)](</File:Warning-icon.png>)
 

@@ -1,5 +1,7 @@
 # TToolButton
 
+│ **[English (en)](<../en/TToolButton.md>)** │  **русский (ru)** │
+
 **TToolButton** представляет собой компонент, использующийся в компоненте [TToolBar](<TToolBar.md> "TToolBar/ru"). 
 
 Компонент **TToolButton** , являющийся потомком [TGraphicControl](<TGraphicControl.md> "TGraphicControl/ru"), имеет много обычных свойств, таких как _Action_ , _Caption_ , _PopupMenu_ , _ImageList_ и т.д. Свойство _DropdownMenu_ доступно для реагирования на щелчок мыши. Свойство _Style_ определяет, как выглядит кнопка: tbsButton, tbsDropdown, tbsCheck, tbsDivider, или tbsSeparator. 

@@ -1,7 +1,6 @@
 # datatype visibility
 
-│ **[Deutsch (de)](</datatype_visibility/de> "datatype visibility/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
 Back to [data types](<Data_type.md> "Data type"). 
 

@@ -1,7 +1,6 @@
 # Object Oriented Programming with Free Pascal and Lazarus
 
-│ **English (en)** │  **[español (es)](</Object_Oriented_Programming_with_Free_Pascal_and_Lazarus/es> "Object Oriented Programming with Free Pascal and Lazarus/es")** │  **[français (fr)](</Object_Oriented_Programming_with_Free_Pascal_and_Lazarus/fr> "Object Oriented Programming with Free Pascal and Lazarus/fr")** │  **[magyar (hu)](</Object_Oriented_Programming_with_Free_Pascal_and_Lazarus/hu> "Object Oriented Programming with Free Pascal and Lazarus/hu")** │  **[italiano (it)](</Object_Oriented_Programming_with_Free_Pascal_and_Lazarus/it> "Object Oriented Programming with Free Pascal and Lazarus/it")** │  **[日本語 (ja)](</Object_Oriented_Programming_with_Free_Pascal_and_Lazarus/ja> "Object Oriented Programming with Free Pascal and Lazarus/ja")** │  **[македонски (mk)](</Object_Oriented_Programming_with_Free_Pascal_and_Lazarus/mk> "Object Oriented Programming with Free Pascal and Lazarus/mk")** │  **[русский (ru)](<../ru/Object_Oriented_Programming_with_Free_Pascal_and_Lazarus.md> "Object Oriented Programming with Free Pascal and Lazarus/ru")** │  **[中文（中国大陆） (zh_CN)](</Object_Oriented_Programming_with_Free_Pascal_and_Lazarus/zh_CN> "Object Oriented Programming with Free Pascal and Lazarus/zh CN")** │  **[中文（臺灣） (zh_TW)](</Object_Oriented_Programming_with_Free_Pascal_and_Lazarus/zh_TW> "Object Oriented Programming with Free Pascal and Lazarus/zh TW")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Object_Oriented_Programming_with_FreePascal_and_Lazarus.md>)** │
 
 ## Contents
 

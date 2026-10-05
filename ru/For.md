@@ -1,7 +1,7 @@
 # For
 
-│ **[Deutsch (de)](</For/de> "For/de")** │  **[English (en)](<../en/For.md> "For")** │  **[français (fr)](</For/fr> "For/fr")** │  **русский (ru)** │    
-****  
+│ **[English (en)](<../en/For.md>)** │  **русский (ru)** │
+
 [Ключевое слово](<Keyword.md> "Keyword/ru") **for** используется вместе с "[to](<To.md> "To/ru")"\"[downto](<Downto.md> "Downto/ru")" и "[do](<Do.md> "Do/ru")" для выполнения цикла, в котором значение управляющей переменной на каждом шаге увеличивается или уменьшается на 1: 
     
     

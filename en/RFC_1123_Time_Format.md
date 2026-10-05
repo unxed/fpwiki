@@ -1,7 +1,6 @@
 # RFC 1123 Time Format
 
-│ **English (en)** │  **[suomi (fi)](</RFC_1123_Time_Format/fi> "RFC 1123 Time Format/fi")** │    
-****
+│ **English (en)** │
 
 [Function](<Function.md> "Function") RFC1123TimeFormat(aDateTime:[TDateTime](<TDateTime.md> "TDateTime"); isLocalTime:boolean):string; creates and displays the time in the RFC 1123 International format: 
     

@@ -1,7 +1,6 @@
 # Accessing the Interfaces directly
 
-│ **English (en)** │  **[português (pt)](</Accessing_the_Interfaces_directly/pt> "Accessing the Interfaces directly/pt")** │    
-****
+│ **English (en)** │
 
 This page describes how to write access the underlying [widgetset](<Widgetset.md> "Widgetset") used by lazarus directly (for example: The Windows API, or Gtk, or Qt, etc). One should always try to avoid relying on widgetset specials. This document is here for both people improving the widgetsets and for people writing components that really need to access the widgets directly. 
 

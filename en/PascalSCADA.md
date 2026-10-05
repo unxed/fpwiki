@@ -1,7 +1,6 @@
 # PascalSCADA
 
-│ **English (en)** │  **[português (pt)](</PascalSCADA/pt> "PascalSCADA/pt")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

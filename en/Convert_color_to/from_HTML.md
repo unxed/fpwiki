@@ -1,7 +1,6 @@
 # Convert color to/from HTML
 
-│ **English (en)** │  **[español (es)](</Convert_color_to/from_HTML/es> "Convert color to/from HTML/es")** │  **[français (fr)](</Convert_color_to/from_HTML/fr> "Convert color to/from HTML/fr")** │    
-****
+│ **English (en)** │
 
 This unit has functions which convert TColor value to/from HTML color string: #rrggbb. It can convert HTML string #rgb too. 
 

@@ -1,7 +1,6 @@
 # Online Package Manager
 
-│ **[English (en)](<../en/Online_Package_Manager.md> "Online Package Manager")** │  **[español (es)](</Online_Package_Manager/es> "Online Package Manager/es")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Online_Package_Manager.md>)** │  **русский (ru)** │
 
 ## Contents
 

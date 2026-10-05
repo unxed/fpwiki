@@ -1,7 +1,6 @@
 # Uses
 
-│ **[Deutsch (de)](</Uses/de> "Uses/de")** │  **English (en)** │  **[español (es)](</Uses/es> "Uses/es")** │  **[suomi (fi)](</Uses/fi> "Uses/fi")** │  **[français (fr)](</Uses/fr> "Uses/fr")** │  **[日本語 (ja)](</Uses/ja> "Uses/ja")** │    
-****
+│ **English (en)** │
 
 The `uses` clause of a Pascal module imports exported [identifiers](<Identifier.md> "Identifier") from another module. It was introduced by [UCSD Pascal](<UCSD_Pascal.md> "UCSD Pascal") and virtually every modern Pascal [compiler](<Compiler.md> "Compiler"), including [FPC](<FPC.md> "FPC"), supports it, if no other mechanism is available. 
 

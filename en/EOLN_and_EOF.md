@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Chapter 2/EOLN and EOF
 
-│ **[български (bg)](</Basic_Pascal_Tutorial/Chapter_2/EOLN_and_EOF/bg> "Basic Pascal Tutorial/Chapter 2/EOLN and EOF/bg")** │  **[Deutsch (de)](</Basic_Pascal_Tutorial/Chapter_2/EOLN_and_EOF/de> "Basic Pascal Tutorial/Chapter 2/EOLN and EOF/de")** │  **English (en)** │  **[français (fr)](</Basic_Pascal_Tutorial/Chapter_2/EOLN_and_EOF/fr> "Basic Pascal Tutorial/Chapter 2/EOLN and EOF/fr")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Chapter_2/EOLN_and_EOF/ja> "Basic Pascal Tutorial/Chapter 2/EOLN and EOF/ja")** │  **[中文（中国大陆） (zh_CN)](</Basic_Pascal_Tutorial/Chapter_2/EOLN_and_EOF/zh_CN> "Basic Pascal Tutorial/Chapter 2/EOLN and EOF/zh CN")** │    
-****
+│ **English (en)** │
 
 [ ◄ ](<Basic_Pascal_Tutorial/Chapter_2/Files.md> "Basic Pascal Tutorial/Chapter 2/Files") | [ ▲ ](<Basic_Pascal_Tutorial/Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Basic_Pascal_Tutorial/Chapter_2/Programming_Assignment.md> "Basic Pascal Tutorial/Chapter 2/Programming Assignment")  
 ---|---|---  

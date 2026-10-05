@@ -1,6 +1,6 @@
 # Developing Python Modules with Pascal
 
-│ **[English (en)](<../en/Developing_Python_Modules_with_Pascal.md> "Developing Python Modules with Pascal")** │  **русский (ru)** │ 
+│ **[English (en)](<../en/Developing_Python_Modules_with_Pascal.md>)** │  **русский (ru)** │
 
 ## Contents
 

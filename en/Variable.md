@@ -1,7 +1,6 @@
 # Variable
 
-│ **English (en)** │  **[suomi (fi)](</Variable/fi> "Variable/fi")** │  **[français (fr)](</Variable/fr> "Variable/fr")** │  **[русский (ru)](<../ru/Variable.md> "Variable/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Variable.md>)** │
 
 A **variable** is an [identifier](<Identifier.md> "Identifier") associated with a chunk of memory that can be inspected and manipulated during [run-time](<runtime.md> "runtime") in accordance with an associated [data type](<Data_type.md> "Data type"). 
 

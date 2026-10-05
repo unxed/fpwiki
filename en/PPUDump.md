@@ -1,7 +1,6 @@
 # PPUDump
 
-│ **English (en)** │  **[français (fr)](</PPUDump/fr> "PPUDump/fr")** │    
-****
+│ **English (en)** │
 
 From [FreePascal User's Manual](<ftp://ftp.freepascal.org/pub/fpc/docs-pdf/user.pdf>): 
 

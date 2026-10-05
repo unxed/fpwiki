@@ -1,7 +1,6 @@
 # TXMLPropStorage
 
-│ **[Deutsch (de)](</TXMLPropStorage/de> "TXMLPropStorage/de")** │  **English (en)** │  **[español (es)](</TXMLPropStorage/es> "TXMLPropStorage/es")** │  **[français (fr)](</TXMLPropStorage/fr> "TXMLPropStorage/fr")** │  **[polski (pl)](</TXMLPropStorage/pl> "TXMLPropStorage/pl")** │  **[português (pt)](</TXMLPropStorage/pt> "TXMLPropStorage/pt")** │  **[русский (ru)](<../ru/TXMLPropStorage.md> "TXMLPropStorage/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TXMLPropStorage.md>)** │
 
 **TXMLPropStorage** [![txmlpropstorage.png](https://wiki.freepascal.org/images/4/4c/txmlpropstorage.png)](</File:txmlpropstorage.png>) is a component to save and restore selected properties (either [TForm](<TForm.md> "TForm") or any control on it). It works with the [`TForm.SessionProperties`](<http://lazarus-ccr.sourceforge.net/docs/lcl/forms/tform.sessionproperties.html> "doc:lcl/forms/tform.sessionproperties.html") property. It is available on the [Misc tab](<Misc_tab.md> "Misc tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

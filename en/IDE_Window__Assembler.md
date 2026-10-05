@@ -1,8 +1,6 @@
 # IDE Window: Assembler
 
-│ **English (en)** │  **[français (fr)](</IDE_Window:_Assembler/fr> "IDE Window: Assembler/fr")** │    
-****  
-****
+│ **English (en)** │
 
 ## Contents
 

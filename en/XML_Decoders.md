@@ -1,7 +1,6 @@
 # XML Decoders
 
-│ **English (en)** │  **[español (es)](</XML_Decoders/es> "XML Decoders/es")** │  **[русский (ru)](<../ru/XML_Decoders.md> "XML Decoders/ru")** │  **[中文（中国大陆） (zh_CN)](</XML_Decoders/zh_CN> "XML Decoders/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/XML_Decoders.md>)** │
 
 ## Contents
 

@@ -1,7 +1,6 @@
 # RTTI controls
 
-│ **[Deutsch (de)](</RTTI_controls/de> "RTTI controls/de")** │  **English (en)** │  **[español (es)](</RTTI_controls/es> "RTTI controls/es")** │  **[français (fr)](</RTTI_controls/fr> "RTTI controls/fr")** │  **[日本語 (ja)](</RTTI_controls/ja> "RTTI controls/ja")** │  **[português (pt)](</RTTI_controls/pt> "RTTI controls/pt")** │  **[русский (ru)](<../ru/RTTI_controls.md> "RTTI controls/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/RTTI_controls.md>)** │
 
 This page describes the package **RunTimeTypeInfoControls** in <lazarusdir>/components/rtticontrols/. 
 

@@ -1,7 +1,6 @@
 # UInt16
 
-│ **[Deutsch (de)](</UInt16/de> "UInt16/de")** │  **English (en)** │  **[français (fr)](</UInt16/fr> "UInt16/fr")** │    
-****
+│ **English (en)** │
 
   
 Back to [data types](<Data_type.md> "Data type"). 

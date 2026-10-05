@@ -1,7 +1,6 @@
 # BGRAControls
 
-│ **[Deutsch (de)](</BGRAControls/de> "BGRAControls/de")** │  **[English (en)](<../en/BGRAControls.md> "BGRAControls")** │  **[português (pt)](</BGRAControls/pt> "BGRAControls/pt")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</BGRAControls/zh_CN> "BGRAControls/zh CN")** │    
-****
+│ **[English (en)](<../en/BGRAControls.md>)** │  **русский (ru)** │
 
 [![bgracontrols.png](https://wiki.freepascal.org/images/6/6e/bgracontrols.png)](</File:bgracontrols.png>)
 

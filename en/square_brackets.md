@@ -1,7 +1,6 @@
 # square brackets
 
-│ **English (en)** │  **[suomi (fi)](</square_brackets/fi> "square brackets/fi")** │    
-****
+│ **English (en)** │
 
   
 

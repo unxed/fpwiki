@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Chapter 1/Punctuation and Indentation
 
-│ **[български (bg)](</Basic_Pascal_Tutorial/Chapter_1/Punctuation_and_Indentation/bg> "Basic Pascal Tutorial/Chapter 1/Punctuation and Indentation/bg")** │  **[Deutsch (de)](</Basic_Pascal_Tutorial/Chapter_1/Punctuation_and_Indentation/de> "Basic Pascal Tutorial/Chapter 1/Punctuation and Indentation/de")** │  **[English (en)](<../../../en/Basic_Pascal_Tutorial/Chapter_1/Punctuation_and_Indentation.md> "Basic Pascal Tutorial/Chapter 1/Punctuation and Indentation")** │  **[français (fr)](</Basic_Pascal_Tutorial/Chapter_1/Punctuation_and_Indentation/fr> "Basic Pascal Tutorial/Chapter 1/Punctuation and Indentation/fr")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Chapter_1/Punctuation_and_Indentation/ja> "Basic Pascal Tutorial/Chapter 1/Punctuation and Indentation/ja")** │  **[한국어 (ko)](</Basic_Pascal_Tutorial/Chapter_1/Punctuation_and_Indentation/ko> "Basic Pascal Tutorial/Chapter 1/Punctuation and Indentation/ko")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</Basic_Pascal_Tutorial/Chapter_1/Punctuation_and_Indentation/zh_CN> "Basic Pascal Tutorial/Chapter 1/Punctuation and Indentation/zh CN")** │    
-****
+│ **[English (en)](<../../../en/Basic_Pascal_Tutorial/Chapter_1/Punctuation_and_Indentation.md>)** │  **русский (ru)** │
 
 [ ◄ ](<Standard_Functions.md> "Basic Pascal Tutorial/Chapter 1/Standard Functions/ru") | [ ▲ ](<../Contents.md> "Basic Pascal Tutorial/Contents/ru") | [ ► ](<Programming_Assignment.md> "Basic Pascal Tutorial/Chapter 1/Programming Assignment/ru")  
 ---|---|---  

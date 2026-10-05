@@ -1,7 +1,6 @@
 # TDrawGrid
 
-│ **[English (en)](<../en/TDrawGrid.md> "TDrawGrid")** │  **[français (fr)](</TDrawGrid/fr> "TDrawGrid/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TDrawGrid.md>)** │  **русский (ru)** │
 
 **TDrawGrid** [![tdrawgrid.png](https://wiki.freepascal.org/images/2/2b/tdrawgrid.png)](</File:tdrawgrid.png>) является компонентом, расположенным на вкладке [Additional](<Additional_tab.md> "Additional tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). Компонент **TDrawGrid** предоставляет табличное отображение графической информации. 
 

@@ -6,8 +6,7 @@ This article applies to [Qt widgetset](</Category:Qt> "Category:Qt") only.
 
 See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **English (en)** │  **[español (es)](</Qt_Interface/es> "Qt Interface/es")** │  **[日本語 (ja)](</Qt_Interface/ja> "Qt Interface/ja")** │    
-****
+│ **English (en)** │
 
 [![Warning-icon.png](https://wiki.freepascal.org/images/b/b2/Warning-icon.png)](</File:Warning-icon.png>)
 

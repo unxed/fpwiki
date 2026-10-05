@@ -6,8 +6,7 @@
 
 См. также: [Multiplatform Programming Guide](<../en/Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ [**English (en)**](<../en/Installing_Lazarus_on_MacOS_X.md> "Installing Lazarus on MacOS X") │  [**한국어 (ko)**](</Installing_Lazarus_on_MacOS_X/ko> "Installing Lazarus on MacOS X/ko") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Installing_Lazarus_on_MacOS_X.md>)** │  **русский (ru)** │
 
 Установка Lazarus на Mac не особенно сложна, но очень важно выполнить установку в правильном порядке. Пропуск шагов почти наверняка приведет к плачу Ярославны. Вкратце, вот что вы должны сделать - 
 

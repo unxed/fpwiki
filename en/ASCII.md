@@ -1,8 +1,7 @@
 # ASCII
 
-│ **[Deutsch (de)](</ASCII/de> "ASCII/de")** │  **English (en)** │  **[suomi (fi)](</ASCII/fi> "ASCII/fi")** │  **[français (fr)](</ASCII/fr> "ASCII/fr")** │  **[português (pt)](</ASCII/pt> "ASCII/pt")** │  **[русский (ru)](<../ru/ASCII.md> "ASCII/ru")** │    
-****  
-  
+│ **English (en)** │  **[русский (ru)](<../ru/ASCII.md>)** │
+
 ASCII (American Standard Code for Information Interchange) is 7-bit character encoding. 
 
 ASCII reserves the first 32 codes (numbers 0–31 decimal) for control characters and 95 printable ASCII characters, numbered 32 to 126. 

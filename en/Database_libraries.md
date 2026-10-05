@@ -1,7 +1,6 @@
 # Database libraries
 
-│ **English (en)** │  **[français (fr)](</Database_libraries/fr> "Database libraries/fr")** │  **[日本語 (ja)](</Database_libraries/ja> "Database libraries/ja")** │  **[polski (pl)](</Database_libraries/pl> "Database libraries/pl")** │    
-****
+│ **English (en)** │
 
 Name  | Developers  | Platforms  | License  | Supported databases   
 ---|---|---|---|---  

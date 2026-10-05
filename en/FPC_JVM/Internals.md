@@ -1,7 +1,6 @@
 # FPC JVM/Internals
 
-│ **English (en)** │  **[русский (ru)](<../../ru/FPC_JVM/Internals.md> "FPC JVM/Internals/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../../ru/FPC_JVM/Internals.md>)** │
 
 ## Contents
 

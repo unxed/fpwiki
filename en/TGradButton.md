@@ -1,7 +1,6 @@
 # TGradButton
 
-│ **[Deutsch (de)](</TGradButton/de> "TGradButton/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
 ## Contents
 

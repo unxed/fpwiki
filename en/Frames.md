@@ -1,7 +1,6 @@
 # Frames
 
-│ **[Deutsch (de)](</Frames/de> "Frames/de")** │  **English (en)** │  **[suomi (fi)](</Frames/fi> "Frames/fi")** │  **[русский (ru)](<../ru/Frames.md> "Frames/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Frames.md>)** │
 
 **[TFrames](<TFrame.md> "TFrame")** are named containers for components and very similar to [forms](<TForm.md> "TForm"). Their unique ability is that they can be embedded into forms or other frames in the designer. As forms they are stored in two files: the code is stored in .pas file and the design in the .lfm file. 
 

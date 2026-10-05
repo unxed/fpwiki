@@ -6,8 +6,7 @@ This article applies to [Windows](</Category:Windows> "Category:Windows") only.
 
 See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **[Deutsch (de)](</File_Into_Trash/de> "File Into Trash/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
 This article deals with Windows programming. This function moves a file to the trash (recycle) bin. 
     

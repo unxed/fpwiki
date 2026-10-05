@@ -1,7 +1,6 @@
 # The parse tree
 
-│ **English (en)** │  **[français (fr)](</The_parse_tree/fr> "The parse tree/fr")** │    
-****
+│ **English (en)** │
 
 back to contents [FPC internals](<FPC_internals.md> "FPC internals")
 

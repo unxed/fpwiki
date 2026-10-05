@@ -1,6 +1,6 @@
 # IDE Window: Edit Tool
 
-│ **English (en)** │    
+│ **English (en)** │
 
 
 ToDo

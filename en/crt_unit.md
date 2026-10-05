@@ -1,6 +1,6 @@
 # Crt
 
-│ **[Deutsch (de)](</Crt/de> "Crt/de")** │  **English (en)** │ 
+│ **English (en)** │
 
 CRT is a unit providing subroutines for programming in text mode. It is similar to ncurses C library. It's intention is to be compatible with the Borland Pascal / Turbo Pascal 7 CRT unit. 
 

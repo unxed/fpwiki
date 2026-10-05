@@ -1,7 +1,6 @@
 # TMetafile / TMetafileCanvas
 
-**English (en)** | [**français (fr)**](</TMetafile_/_TMetafileCanvas/fr> "TMetafile / TMetafileCanvas/fr")   
-****
+│ **English (en)** │
 
 ## Contents
 

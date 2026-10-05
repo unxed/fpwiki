@@ -1,7 +1,6 @@
 # LCL Defines
 
-│ **English (en)** │  **[français (fr)](</LCL_Defines/fr> "LCL Defines/fr")** │    
-****
+│ **English (en)** │
 
 This page documents the defines that can be utilized to recompile the different widgetsets of LCL. It isn´t a comprehensive list, but may become one as more defines are added. It also mentions defines that are automatically set when you select various options, such as widgetset, in Lazarus. See Also [Platform_defines](<Platform_defines.md> "Platform defines")
 

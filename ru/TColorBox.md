@@ -1,7 +1,6 @@
 # TColorBox
 
-│ [**English (en)**](<../en/TColorBox.md> "TColorBox") │  [**français (fr)**](</TColorBox/fr> "TColorBox/fr") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TColorBox.md>)** │  **русский (ru)** │
 
 [![component-TColorBox.png](https://wiki.freepascal.org/images/d/df/component-TColorBox.png)](</File:component-TColorBox.png>)
 

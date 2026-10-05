@@ -1,7 +1,6 @@
 # AVR Embedded Tutorial - SPI
 
-│ **[Deutsch (de)](</AVR_Embedded_Tutorial_-_SPI/de> "AVR Embedded Tutorial - SPI/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
 ## Contents
 

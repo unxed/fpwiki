@@ -1,8 +1,6 @@
 # IDE Window: Project Inspector
 
-│ **[Deutsch (de)](</IDE_Window:_Project_Inspector/de> "IDE Window: Project Inspector/de")** │  **[English (en)](<../en/IDE_Window__Project_Inspector.md> "IDE Window: Project Inspector")** │  **[suomi (fi)](</IDE_Window:_Project_Inspector/fi> "IDE Window: Project Inspector/fi")** │  **[français (fr)](</IDE_Window:_Project_Inspector/fr> "IDE Window: Project Inspector/fr")** │  **русский (ru)** │    
-****  
-****
+│ **[English (en)](<../en/IDE_Window__Project_Inspector.md>)** │  **русский (ru)** │
 
 В данном плавающем окне отображаются все файлы и зависимости проекта. 
 

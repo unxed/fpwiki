@@ -12,8 +12,7 @@
 
 См. также: [Multiplatform Programming Guide](<../en/Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **[English (en)](<../en/Code_Signing_for_macOS.md> "Code Signing for macOS")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Code_Signing_for_macOS.md>)** │  **русский (ru)** │
 
   
 

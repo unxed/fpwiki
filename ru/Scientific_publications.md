@@ -1,7 +1,6 @@
 # Scientific publications
 
-│ **[Deutsch (de)](</Scientific_publications/de> "Scientific publications/de")** │  **[English (en)](<../en/Scientific_publications.md> "Scientific publications")** │  **[italiano (it)](</Scientific_publications/it> "Scientific publications/it")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Scientific_publications.md>)** │  **русский (ru)** │
 
 Благодаря совместимости с богатой традицией алгоритмов, написанных на Паскале, быстрому созданию собственного кода и широкой межплатформенной доступности, Free Pascal является идеальной основой для научных приложений. Это может быть основной причиной, по которой множество исследовательских проектов используют Lazarus и FPC. 
 

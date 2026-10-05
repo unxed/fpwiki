@@ -1,6 +1,6 @@
 # Programming with Objects and Classes
 
-│ **[English (en)](<../en/Programming_with_Objects_and_Classes.md> "Programming with Objects and Classes")** │  **[français (fr)](</Programming_with_Objects_and_Classes/fr> "Programming with Objects and Classes/fr")** │  **русский (ru)** │ 
+│ **[English (en)](<../en/Programming_with_Objects_and_Classes.md>)** │  **русский (ru)** │
 
 # Программирование с помощью объектов и классов
 

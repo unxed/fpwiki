@@ -1,7 +1,6 @@
 # AVR Embedded Tutorial - Set up Lazarus for ATmega and ATTiny
 
-│ **[Deutsch (de)](</AVR_Embedded_Tutorial_-_Set_up_Lazarus_for_ATmega_and_ATTiny/de> "AVR Embedded Tutorial - Set up Lazarus for ATmega and ATTiny/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
 ## Contents
 

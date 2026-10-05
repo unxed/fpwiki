@@ -1,7 +1,6 @@
 # TImage
 
-│ [**English (en)**](<../en/TImage.md> "TImage") │  [**suomi (fi)**](</TImage/fi> "TImage/fi") │  [**français (fr)**](</TImage/fr> "TImage/fr") │  [**日本語 (ja)**](</TImage/ja> "TImage/ja") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TImage.md>)** │  **русский (ru)** │
 
 **TImage** [![timage.png](https://wiki.freepascal.org/images/c/ce/timage.png)](</File:timage.png>) \- это компонент, размещаемый на [фоме](<TForm.md> "TForm/ru"), который содержит графическое изображение; обычно оно загружается из графического файла. Данный компонент наследует множество свойств от своих предков - [TCustomImage](<http://lazarus-ccr.sourceforge.net/docs/lcl/extctrls/tcustomimage.html> "doc:lcl/extctrls/tcustomimage.html"), [TGraphicControl](<http://lazarus-ccr.sourceforge.net/docs/lcl/controls/tgraphiccontrol.html> "doc:lcl/controls/tgraphiccontrol.html") и [TControl](<http://lazarus-ccr.sourceforge.net/docs/lcl/controls/tcontrol.html> "doc:lcl/controls/tcontrol.html"). 
 

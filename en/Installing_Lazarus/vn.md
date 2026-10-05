@@ -2,7 +2,7 @@
 
 From Free Pascal wiki
 
-[**Deutsch (de)**](</Installing_Lazarus/de> "Installing Lazarus/de") | [**English (en)**](<../Installing_Lazarus.md> "Installing Lazarus") | [**Español (es)**](</Installing_Lazarus/es> "Installing Lazarus/es") | [**Suomi (fi)**](</Installing_Lazarus/fi> "Installing Lazarus/fi") | [**Français (fr)**](</Installing_Lazarus/fr> "Installing Lazarus/fr") | [**Magyar (hu)**](</Installing_Lazarus/hu> "Installing Lazarus/hu") | [**日本語 (ja)**](</Installing_Lazarus/ja> "Installing Lazarus/ja") | [**한국어 (ko)**](</Installing_Lazarus/ko> "Installing Lazarus/ko") | [**Nederlands (nl)**](</Installing_Lazarus/nl> "Installing Lazarus/nl") | [**Português (pt)**](</Installing_Lazarus/pt> "Installing Lazarus/pt") | [**Slovenčina (sk)**](</Installing_Lazarus/sk> "Installing Lazarus/sk") | ****Tiếng Việt (vn)**** | [**‪中文(中国大陆)‬ (zh_CN)**](</Installing_Lazarus/zh_CN> "Installing Lazarus/zh CN")
+│ **English (en)** │
 
 ## Contents
 

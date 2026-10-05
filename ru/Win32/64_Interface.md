@@ -6,8 +6,7 @@
 
 См. также: [Multiplatform Programming Guide](<../../en/Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **[English (en)](<../../en/Win32/64_Interface.md> "Win32/64 Interface")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../../en/Win32/64_Interface.md>)** │  **русский (ru)** │
 
 ## Contents
 

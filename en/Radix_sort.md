@@ -1,7 +1,6 @@
 # Radix sort
 
-│ **English (en)** │  **[suomi (fi)](</Radix_sort/fi> "Radix sort/fi")** │  **[français (fr)](</Radix_sort/fr> "Radix sort/fr")** │    
-****
+│ **English (en)** │
 
 The Radix sort is an [integer](<Integer.md> "Integer") [sorting algorithm](<sorting_algorithm.md> "sorting algorithm"). 
 

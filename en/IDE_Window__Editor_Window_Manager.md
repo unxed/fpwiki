@@ -1,7 +1,6 @@
 # IDE Window: Editor Window Manager
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 ## Contents
 

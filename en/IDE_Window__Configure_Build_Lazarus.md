@@ -1,7 +1,7 @@
 # IDE Window: Configure Build Lazarus
 
-│ **[Deutsch (de)](</IDE_Window:_Configure_Build_Lazarus/de> "IDE Window: Configure Build Lazarus/de")** │  **English (en)** │  **[français (fr)](</IDE_Window:_Configure_Build_Lazarus/fr> "IDE Window: Configure Build Lazarus/fr")** │  **[português (pt)](</IDE_Window:_Configure_Build_Lazarus/pt> "IDE Window: Configure Build Lazarus/pt")** │    
-****  
+│ **English (en)** │
+
 ****The IDE can rebuild Lazarus and this dialog defines what is rebuilt and how. It does that by calling make and some extra parameters. Only the custom packages, that you installed yourself are compiled by calling the compiler directly.
 
 **Important** : Always keep a backup of the IDE executable (Windows: lazarus.exe, other OS: lazarus). 

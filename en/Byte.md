@@ -1,7 +1,6 @@
 # Byte
 
-│ **[Deutsch (de)](</Byte/de> "Byte/de")** │  **English (en)** │  **[español (es)](</Byte/es> "Byte/es")** │  **[suomi (fi)](</Byte/fi> "Byte/fi")** │  **[français (fr)](</Byte/fr> "Byte/fr")** │  **[italiano (it)](</Byte/it> "Byte/it")** │  **[русский (ru)](<../ru/Byte.md> "Byte/ru")** │  **[中文（中国大陆）‎ (zh_CN)](</Byte/zh_CN> "Byte/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Byte.md>)** │
 
 A `byte` is an unsigned [`integer`](<Integer.md> "Integer") in the range of `0..255`. A `byte` is 8 bits long. A `byte` and a [`char`](<Char.md> "Char") are virtually the same thing as of version 3 of [FPC](<FPC.md> "FPC"). 
 

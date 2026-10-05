@@ -1,8 +1,7 @@
 # Working With TSQLQuery
 
-│ **English (en)** │  **[español (es)](</Working_With_TSQLQuery/es> "Working With TSQLQuery/es")** │  **[français (fr)](</Working_With_TSQLQuery/fr> "Working With TSQLQuery/fr")** │  **[中文（中国大陆）‎ (zh_CN)](</Working_With_TSQLQuery/zh_CN> "Working With TSQLQuery/zh CN")** │    
-****  
-  
+│ **English (en)** │
+
 ---  
 [**Databases portal**](<Portal_Databases.md> "Portal:Databases")  
 References: 

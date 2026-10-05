@@ -1,7 +1,7 @@
 # IDE Window: Publish Project Package
 
-│ **[Deutsch (de)](</IDE_Window:_Publish_Project_Package/de> "IDE Window: Publish Project Package/de")** │  **English (en)** │  **[français (fr)](</IDE_Window:_Publish_Project_Package/fr> "IDE Window: Publish Project Package/fr")** │    
-****  
+│ **English (en)** │
+
 ****[![Project - Publish Project.png](https://wiki.freepascal.org/images/2/22/Project_-_Publish_Project.png)](</File:Project_-_Publish_Project.png>)
 
 Publishing a project or package means here: create a copy of the project/package directory and sub directories. 

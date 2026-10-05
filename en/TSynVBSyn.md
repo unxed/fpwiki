@@ -1,7 +1,6 @@
 # TSynVBSyn
 
-│ **English (en)** │  **[français (fr)](</TSynVBSyn/fr> "TSynVBSyn/fr")** │  **[русский (ru)](<../ru/TSynVBSyn.md> "TSynVBSyn/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TSynVBSyn.md>)** │
 
 **TSynVBSyn** [![tsynvbsyn.png](https://wiki.freepascal.org/images/e/ed/tsynvbsyn.png)](</File:tsynvbsyn.png>) is a component that provides the Visual-Basic-language syntaxchecking-part of syntax-highlighting editing. It is part of the [SynEdit](<SynEdit.md> "SynEdit") package and is available under the [SynEdit tab](<SynEdit_tab.md> "SynEdit tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

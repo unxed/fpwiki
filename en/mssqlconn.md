@@ -1,8 +1,7 @@
 # mssqlconn
 
-│ **English (en)** │  **[español (es)](</mssqlconn/es> "mssqlconn/es")** │  **[français (fr)](</mssqlconn/fr> "mssqlconn/fr")** │  **[polski (pl)](</mssqlconn/pl> "mssqlconn/pl")** │    
-****  
-  
+│ **English (en)** │
+
 ---  
 [**Databases portal**](<Portal_Databases.md> "Portal:Databases")  
 References: 

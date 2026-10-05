@@ -1,7 +1,6 @@
 # LazPaint Windows
 
-│ **English (en)** │  **[suomi (fi)](</LazPaint_Windows/fi> "LazPaint Windows/fi")** │    
-****
+│ **English (en)** │
 
 There are several floating windows giving easy access to the features of the program. 
 

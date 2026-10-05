@@ -1,7 +1,6 @@
 # Colon
 
-│ **English (en)** │  **[suomi (fi)](</Colon/fi> "Colon/fi")** │  **[français (fr)](</Colon/fr> "Colon/fr")** │  **[русский (ru)](<../ru/Colon.md> "Colon/ru")** │  **[中文（中国大陆） (zh_CN)](</Colon/zh_CN> "Colon/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Colon.md>)** │
 
 :
 

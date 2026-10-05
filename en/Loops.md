@@ -1,6 +1,6 @@
 # Loops
 
-│ **[Deutsch (de)](</Loops/de> "Loops/de")** │  **English (en)** │ 
+│ **English (en)** │
 
 A **loop** control structure repeats a [statement](<statement.md> "statement") as long as a certain condition is met. 
 

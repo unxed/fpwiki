@@ -1,7 +1,6 @@
 # Lazarus FAQ
 
-│ **English (en)** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Lazarus_Faq.md>)** │
 
 ![Light bulb](https://upload.wikimedia.org/wikipedia/commons/d/d8/Nuvola_apps_ktip.png) **Note:** This FAQ may be **outdated** in certain parts.
 

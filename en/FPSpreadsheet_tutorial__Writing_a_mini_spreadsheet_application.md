@@ -1,6 +1,6 @@
 # FPSpreadsheet tutorial: Writing a mini spreadsheet application
 
-│ **English (en)** │  [**español (es)**](</FPSpreadsheet_tutorial:_Writing_a_mini_spreadsheet_application/es> "FPSpreadsheet tutorial: Writing a mini spreadsheet application/es") │  [**suomi (fi)**](</FPSpreadsheet_tutorial:_Writing_a_mini_spreadsheet_application/fi> "FPSpreadsheet tutorial: Writing a mini spreadsheet application/fi") │    
+│ **English (en)** │
 
 
 ## Contents

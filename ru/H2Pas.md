@@ -1,7 +1,6 @@
 # H2Pas
 
-│ **[English (en)](<../en/H2Pas.md> "H2Pas")** │  **[français (fr)](</H2Pas/fr> "H2Pas/fr")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</H2Pas/zh_CN> "H2Pas/zh CN")** │    
-****
+│ **[English (en)](<../en/H2Pas.md>)** │  **русский (ru)** │
 
 Взято из [FreePascal User's Manual](<ftp://ftp.freepascal.org/pub/fpc/docs-pdf/user.pdf>): 
 

@@ -1,7 +1,6 @@
 # Smallint
 
-│ **[Deutsch (de)](</Smallint/de> "Smallint/de")** │  **[English (en)](<../en/Smallint.md> "Smallint")** │  **[français (fr)](</Smallint/fr> "Smallint/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Smallint.md>)** │  **русский (ru)** │
 
 Тип **Smallint** является знаковым целым типом, поддерживающим значения в диапазоне от -32768 до 32767. Для переменных этого типа отводится 2 байта (16 бит). 
 

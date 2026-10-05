@@ -1,7 +1,6 @@
 # mORMot
 
-│ **English (en)** │  **[français (fr)](</mORMot/fr> "mORMot/fr")** │  **[中文（中国大陆） (zh_CN)](</mORMot/zh_CN> "mORMot/zh CN")** │    
-****
+│ **English (en)** │
 
 **Synopse mORMot** is an open source client-server ORM SOA MVC framework for Free Pascal, targeting Windows/Linux for the server, and any platform for clients (including mobile and AJAX). 
 

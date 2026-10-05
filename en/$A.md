@@ -1,7 +1,6 @@
 # $A
 
-│ **[Deutsch (de)](</$A/de> "$A/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
   
 Back to [local compiler directives](<local_compiler_directives.md> "local compiler directives"). 

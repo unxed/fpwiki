@@ -1,7 +1,6 @@
 # RichMemo
 
-│ **[English (en)](<../en/RichMemo.md> "RichMemo")** │  **[polski (pl)](</RichMemo/pl> "RichMemo/pl")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/RichMemo.md>)** │  **русский (ru)** │
 
 [![](https://wiki.freepascal.org/images/0/09/richmemosample.png)](</File:richmemosample.png>)
 

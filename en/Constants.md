@@ -1,7 +1,6 @@
 # Constants
 
-│ [**български (bg)**](</Constants/bg> "Constants/bg") │  [**Deutsch (de)**](</Constants/de> "Constants/de") │  **English (en)** │  [**français (fr)**](</Constants/fr> "Constants/fr") │  [**italiano (it)**](</Constants/it> "Constants/it") │  [**日本語 (ja)**](</Constants/ja> "Constants/ja") │  [**한국어 (ko)**](</Constants/ko> "Constants/ko") │  [**русский (ru)**](<../ru/Constants.md> "Constants/ru") │  [**中文（中国大陆）‎ (zh_CN)**](</Constants/zh_CN> "Constants/zh CN") │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Constants.md>)** │
 
 [ ◄ ](<Identifiers.md> "Identifiers") | [ ▲ ](<Contents.md> "Contents") | [ ► ](<Variables_and_Data_Types.md> "Variables and Data Types")  
 ---|---|---  

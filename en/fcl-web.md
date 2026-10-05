@@ -1,7 +1,6 @@
 # fcl-web
 
-│ **English (en)** │  **[español (es)](</fcl-web/es> "fcl-web/es")** │  **[français (fr)](</fcl-web/fr> "fcl-web/fr")** │  **[русский (ru)](<../ru/fcl-web.md> "fcl-web/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/fcl-web.md>)** │
 
 ## Contents
 

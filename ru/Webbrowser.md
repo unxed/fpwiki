@@ -1,7 +1,6 @@
 # Webbrowser
 
-│ **[Deutsch (de)](</Webbrowser/de> "Webbrowser/de")** │  **[English (en)](<../en/Webbrowser.md> "Webbrowser")** │  **[español (es)](</Webbrowser/es> "Webbrowser/es")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Webbrowser.md>)** │  **русский (ru)** │
 
 ## Contents
 

@@ -1,7 +1,6 @@
 # error messages
 
-│ **[English (en)](<../en/error_messages.md> "error messages")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/error_messages.md>)** │  **русский (ru)** │
 
 ## Ошибки, полученные при компиляции
 

@@ -1,7 +1,6 @@
 # TLabeledEdit
 
-│ **[Deutsch (de)](</TLabeledEdit/de> "TLabeledEdit/de")** │  **English (en)** │  **[français (fr)](</TLabeledEdit/fr> "TLabeledEdit/fr")** │  **[русский (ru)](<../ru/TLabeledEdit.md> "TLabeledEdit/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TLabeledEdit.md>)** │
 
 A **TLabeledEdit** [![tlabelededit.png](https://wiki.freepascal.org/images/1/15/tlabelededit.png)](</File:tlabelededit.png>) is a control with a single line of editable text and a label positionend next to it It is available from the [Additional tab](<Additional_tab.md> "Additional tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). A TLabeledEdit combines a [TEdit](<TEdit.md> "TEdit") with a [TLabel](<TLabel.md> "TLabel") as a property EditLabel. 
 

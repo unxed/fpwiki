@@ -310,8 +310,7 @@ BitHelpers package is released under triple license:
 
 
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 ---
 

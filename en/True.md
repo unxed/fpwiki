@@ -1,7 +1,6 @@
 # false and true
 
-│ **English (en)** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/True.md>)** │
 
 The [constants](<Constant.md> "Constant") `false` and `true` are used to define the false and true conditions of a [`boolean`](<Boolean.md> "Boolean") [variable](<Variable.md> "Variable"). They are [manifest constants](</index.php?title=Manifest_constant&action=edit&redlink=1> "Manifest constant \(page does not exist\)") that are defined as part of the [standard data types](<Standard_type.md> "Standard type") the [compiler](<Compiler.md> "Compiler") initially knows about. 
 

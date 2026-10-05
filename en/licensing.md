@@ -1,6 +1,6 @@
 # licensing
 
-│ **English (en)** │  **[русский (ru)](<../ru/licensing.md> "licensing/ru")** │ 
+│ **English (en)** │  **[русский (ru)](<../ru/licensing.md>)** │
 
 ![Light bulb](https://upload.wikimedia.org/wikipedia/commons/d/d8/Nuvola_apps_ktip.png) **Note:** This page refers to Lazarus in a sometimes misleading way. It either refers to Lazarus as a whole, or makes a distinction between "the libraries" and "the environment" (IDE).  
 However "the libraries" in this context should be restricted to the LCL (code in the lcl folder). Other libraries (e.g. in the components folder) sometimes follow the licensing of the LCL, but sometimes have entirely different licenses. 

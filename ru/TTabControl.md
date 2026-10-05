@@ -1,7 +1,6 @@
 # TTabControl
 
-│ **[English (en)](<../en/TTabControl.md> "TTabControl")** │  **[français (fr)](</TTabControl/fr> "TTabControl/fr")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</TTabControl/zh_CN> "TTabControl/zh CN")** │    
-****
+│ **[English (en)](<../en/TTabControl.md>)** │  **русский (ru)** │
 
 **TTabControl** [![ttabcontrol.png](https://wiki.freepascal.org/images/b/b1/ttabcontrol.png)](</File:ttabcontrol.png>) \- компонент, представляющий собой контейнер с набором вкладок. Компонент TPageControl является потомком [TWinControl](</index.php?title=TWinControl/ru&action=edit&redlink=1> "TWinControl/ru \(page does not exist\)") и доступен на вкладке [Common Controls](<Common_Controls_tab.md> "Common Controls tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

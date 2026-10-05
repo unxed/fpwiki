@@ -1,7 +1,6 @@
 # AppIsRunning
 
-│ **English (en)** │  **[français (fr)](</AppIsRunning/fr> "AppIsRunning/fr")** │  **[polski (pl)](</AppIsRunning/pl> "AppIsRunning/pl")** │    
-****
+│ **English (en)** │
 
 ## Test whether an Application is already running
 

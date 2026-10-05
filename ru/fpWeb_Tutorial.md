@@ -1,8 +1,7 @@
 # fpWeb Tutorial
 
-│ **[العربية (ar)](</fpWeb_Tutorial/ar> "fpWeb Tutorial/ar")** │  **[English (en)](<../en/fpWeb_Tutorial.md> "fpWeb Tutorial")** │  **[español (es)](</fpWeb_Tutorial/es> "fpWeb Tutorial/es")** │  **русский (ru)** │    
-****
-    
+│ **[English (en)](<../en/fpWeb_Tutorial.md>)** │  **русский (ru)** │
+
     
      Первоначально основано на учебнике fcl-web (в формате PDF) пользователя форума [Leledumbo](<https://forum.lazarus.freepascal.org/index.php?action=profile;u=7523>).
     

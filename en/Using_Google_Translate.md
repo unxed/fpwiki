@@ -1,7 +1,6 @@
 # Using Google Translate
 
-│ **English (en)** │  **[français (fr)](</Using_Google_Translate/fr> "Using Google Translate/fr")** │  **[português (pt)](</Using_Google_Translate/pt> "Using Google Translate/pt")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

@@ -1,6 +1,6 @@
 # Python4Delphi
 
-│ **[English (en)](<../en/Python4Delphi.md> "Python4Delphi")** │  **русский (ru)** │ 
+│ **[English (en)](<../en/Python4Delphi.md>)** │  **русский (ru)** │
 
 ## Contents
 

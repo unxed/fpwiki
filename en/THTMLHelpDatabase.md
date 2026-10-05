@@ -1,7 +1,6 @@
 # THTMLHelpDatabase
 
-│ **English (en)** │  **[français (fr)](</THTMLHelpDatabase/fr> "THTMLHelpDatabase/fr")** │  **[русский (ru)](<../ru/THTMLHelpDatabase.md> "THTMLHelpDatabase/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/THTMLHelpDatabase.md>)** │
 
 **THTMLHelpDatabase** [![thtmlhelpdatabase.png](https://wiki.freepascal.org/images/3/30/thtmlhelpdatabase.png)](</File:thtmlhelpdatabase.png>) is a non-visual component that offers HTML-context sensitive application help. It is available from the [System tab](<System_tab.md> "System tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

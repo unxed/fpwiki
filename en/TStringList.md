@@ -1,7 +1,6 @@
 # TStringList
 
-│ **English (en)** │  **[suomi (fi)](</TStringList/fi> "TStringList/fi")** │  **[polski (pl)](</TStringList/pl> "TStringList/pl")** │    
-****
+│ **English (en)** │
 
 A **TStringList** is a [datatype](<Data_type.md> "Data type") that can hold an arbitrary length list of [strings](<String.md> "String"). The strings in a TStringList are accessible as concatenated plain text or as a series of strings. Functionality is also provided for key-value pair access. 
 

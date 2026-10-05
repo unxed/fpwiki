@@ -1,6 +1,6 @@
 # Show Application Title, Version, and Company
 
-│ **[English (en)](<../en/Show_Application_Title,_Version,_and_Company.md> "Show Application Title, Version, and Company")** │  **русский (ru)** │ 
+│ **[English (en)](<../en/Show_Application_Title,_Version,_and_Company.md>)** │  **русский (ru)** │
 
 ## Contents
 

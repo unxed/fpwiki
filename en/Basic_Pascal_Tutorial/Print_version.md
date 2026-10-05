@@ -87,8 +87,7 @@
 
 # Introduction
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 [ ◄ ](</index.php?title=Basic_Pascal_Tutorial/Basic_Pascal_Tutorial&action=edit&redlink=1> "Basic Pascal Tutorial/Basic Pascal Tutorial \(page does not exist\)") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<History.md> "Basic Pascal Tutorial/History")  
 ---|---|---  
@@ -108,8 +107,6 @@ To program in Pascal (or any high-level language, for that matter), you will nee
   
 # History of Pascal
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<Introduction.md> "Basic Pascal Tutorial/Introduction") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Compilers.md> "Basic Pascal Tutorial/Compilers")  
 ---|---|---  
@@ -171,8 +168,6 @@ Today Pascal retains a niche in the market through Delphi, Free Pascal and Lazar
   
 # Pascal Compilers
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<History.md> "Basic Pascal Tutorial/History") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Hello,_World.md> "Basic Pascal Tutorial/Hello, World")  
 ---|---|---  
@@ -256,8 +251,6 @@ Note that an .exe file was created in the directory where you saved your program
   
 # Hello, world
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<Compilers.md> "Basic Pascal Tutorial/Compilers") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_1/Program_Structure.md> "Basic Pascal Tutorial/Chapter 1/Program Structure")  
 ---|---|---  
@@ -303,8 +296,6 @@ Basics**
 
 # Program Structure
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<Hello,_World.md> "Basic Pascal Tutorial/Hello, World") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_1/Identifiers.md> "Basic Pascal Tutorial/Chapter 1/Identifiers")  
 ---|---|---  
@@ -399,8 +390,6 @@ Whitespace (spaces, tabs, and end-of-lines) are ignored by the Pascal compiler u
   
 # Identifiers
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_1/Program_Structure.md> "Basic Pascal Tutorial/Chapter 1/Program Structure") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_1/Constants.md> "Basic Pascal Tutorial/Chapter 1/Constants")  
 ---|---|---  
@@ -494,8 +483,6 @@ While it is a good idea to make identifiers to be mnemonic with the use of longe
   
 # Constants
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_1/Identifiers.md> "Basic Pascal Tutorial/Chapter 1/Identifiers") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_1/Variables_and_Data_Types.md> "Basic Pascal Tutorial/Chapter 1/Variables and Data Types")  
 ---|---|---  
@@ -751,8 +738,6 @@ Three-dimensional arrays are rare, and you might never use one, but you should k
   
 # Variables and Data Types
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_1/Constants.md> "Basic Pascal Tutorial/Chapter 1/Constants") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_1/Assignment_and_Operations.md> "Basic Pascal Tutorial/Chapter 1/Assignment and Operations")  
 ---|---|---  
@@ -882,8 +867,6 @@ LongBool | 4 | Any nonzero value
   
 # Assignment and Operations
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_1/Variables_and_Data_Types.md> "Basic Pascal Tutorial/Chapter 1/Variables and Data Types") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_1/Standard_Functions.md> "Basic Pascal Tutorial/Chapter 1/Standard Functions")  
 ---|---|---  
@@ -967,8 +950,6 @@ Pascal cannot perform standard arithmetic operations on Booleans. There is a spe
   
 # Standard Functions
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_1/Assignment_and_Operations.md> "Basic Pascal Tutorial/Chapter 1/Assignment and Operations") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_1/Punctuation_and_Indentation.md> "Basic Pascal Tutorial/Chapter 1/Punctuation and Indentation")  
 ---|---|---  
@@ -1026,8 +1007,6 @@ The above is not an exhaustive list, as modern Pascal compilers include thousand
   
 # Punctuation and Indentation
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_1/Standard_Functions.md> "Basic Pascal Tutorial/Chapter 1/Standard Functions") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_1/Programming_Assignment.md> "Basic Pascal Tutorial/Chapter 1/Programming Assignment")  
 ---|---|---  
@@ -1083,8 +1062,6 @@ Proper indentation makes it much easier to determine how code works, but is vast
   
 # Programming Assignment
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_1/Punctuation_and_Indentation.md> "Basic Pascal Tutorial/Chapter 1/Punctuation and Indentation") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_1/Solution.md> "Basic Pascal Tutorial/Chapter 1/Solution")  
 ---|---|---  
@@ -1135,8 +1112,6 @@ To see one possible solution of the assignment, go to the next page.
   
 # Solution
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_1/Programming_Assignment.md> "Basic Pascal Tutorial/Chapter 1/Programming Assignment") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_2/Input.md> "Basic Pascal Tutorial/Chapter 2/Input")  
 ---|---|---  
@@ -1195,8 +1170,6 @@ Input/Output**
 
 # Input
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_1/Solution.md> "Basic Pascal Tutorial/Chapter 1/Solution") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_2/Output.md> "Basic Pascal Tutorial/Chapter 2/Output")  
 ---|---|---  
@@ -1256,8 +1229,6 @@ Make sure that all identifiers in the argument list refer to variables! Constant
   
 # Output
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_2/Input.md> "Basic Pascal Tutorial/Chapter 2/Input") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_2/Formatting_output.md> "Basic Pascal Tutorial/Chapter 2/Formatting output")  
 ---|---|---  
@@ -1280,8 +1251,6 @@ You can use strings in the argument list, either constants or literal values. If
   
 # Formatting output
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_2/Output.md> "Basic Pascal Tutorial/Chapter 2/Output") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_2/Files.md> "Basic Pascal Tutorial/Chapter 2/Files")  
 ---|---|---  
@@ -1331,8 +1300,6 @@ would look like (with 11 spaces in front):
   
 # Files
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_2/Formatting_output.md> "Basic Pascal Tutorial/Chapter 2/Formatting output") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_2/EOLN_and_EOF.md> "Basic Pascal Tutorial/Chapter 2/EOLN and EOF")  
 ---|---|---  
@@ -1406,8 +1373,6 @@ Here's an example of a program that uses files. This program was written for Tur
   
 # EOLN and EOF
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_2/Files.md> "Basic Pascal Tutorial/Chapter 2/Files") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_2/Programming_Assignment.md> "Basic Pascal Tutorial/Chapter 2/Programming Assignment")  
 ---|---|---  
@@ -1439,8 +1404,6 @@ Usually, you don't type the `end-of-file` character from the keyboard. On DOS/Wi
   
 # Programming Assignment
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_2/EOLN_and_EOF.md> "Basic Pascal Tutorial/Chapter 2/EOLN and EOF") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_2/Solution.md> "Basic Pascal Tutorial/Chapter 2/Solution")  
 ---|---|---  
@@ -1473,8 +1436,6 @@ As an added exercise, you can try to write the output to a file. However, I won'
   
 # Solution
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_2/Programming_Assignment.md> "Basic Pascal Tutorial/Chapter 2/Programming Assignment") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_3/Sequential_control.md> "Basic Pascal Tutorial/Chapter 3/Sequential control")  
 ---|---|---  
@@ -1539,8 +1500,6 @@ Program Flow**
 
 # Sequential control
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_2/Solution.md> "Basic Pascal Tutorial/Chapter 2/Solution") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_3/Boolean_Expressions.md> "Basic Pascal Tutorial/Chapter 3/Boolean Expressions")  
 ---|---|---  
@@ -1554,8 +1513,6 @@ Sequential control is simple. The computer executes each statement and goes on t
   
 # Boolean Expressions
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_3/Sequential_control.md> "Basic Pascal Tutorial/Chapter 3/Sequential control") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_3/IF.md> "Basic Pascal Tutorial/Chapter 3/IF")  
 ---|---|---  
@@ -1660,8 +1617,6 @@ Whenever possible, don't compare two real values with the equals sign. Small rou
   
 # Branching
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_3/Boolean_Expressions.md> "Basic Pascal Tutorial/Chapter 3/Boolean Expressions") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_3/CASE.md> "Basic Pascal Tutorial/Chapter 3/CASE")  
 ---|---|---  
@@ -1830,8 +1785,6 @@ Also notice how important indentation is to convey the logic of program code to 
 [ ◄ ](<Chapter_3/Boolean_Expressions.md> "Basic Pascal Tutorial/Chapter 3/Boolean Expressions") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_3/CASE.md> "Basic Pascal Tutorial/Chapter 3/CASE")  
 ---|---|---  
   
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_3/Boolean_Expressions.md> "Basic Pascal Tutorial/Chapter 3/Boolean Expressions") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_3/CASE.md> "Basic Pascal Tutorial/Chapter 3/CASE")  
 ---|---|---  
@@ -2000,8 +1953,6 @@ Also notice how important indentation is to convey the logic of program code to 
 [ ◄ ](<Chapter_3/Boolean_Expressions.md> "Basic Pascal Tutorial/Chapter 3/Boolean Expressions") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_3/CASE.md> "Basic Pascal Tutorial/Chapter 3/CASE")  
 ---|---|---  
   
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_3/IF.md> "Basic Pascal Tutorial/Chapter 3/IF") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_3/FOR..md> "Basic Pascal Tutorial/Chapter 3/FOR..DO")  
 ---|---|---  
@@ -2051,8 +2002,6 @@ Note that the lists must consist of literal values. That is, you must use consta
   
 # Looping
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_3/CASE.md> "Basic Pascal Tutorial/Chapter 3/CASE") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_3/WHILE..md> "Basic Pascal Tutorial/Chapter 3/WHILE..DO")  
 ---|---|---  
@@ -2115,8 +2064,6 @@ In the `for-to-do` loop, the starting value MUST be lower than the ending value,
 [ ◄ ](<Chapter_3/CASE.md> "Basic Pascal Tutorial/Chapter 3/CASE") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_3/WHILE..md> "Basic Pascal Tutorial/Chapter 3/WHILE..DO")  
 ---|---|---  
   
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_3/CASE.md> "Basic Pascal Tutorial/Chapter 3/CASE") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_3/WHILE..md> "Basic Pascal Tutorial/Chapter 3/WHILE..DO")  
 ---|---|---  
@@ -2179,8 +2126,6 @@ In the `for-to-do` loop, the starting value MUST be lower than the ending value,
 [ ◄ ](<Chapter_3/CASE.md> "Basic Pascal Tutorial/Chapter 3/CASE") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_3/WHILE..md> "Basic Pascal Tutorial/Chapter 3/WHILE..DO")  
 ---|---|---  
   
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_3/FOR..md> "Basic Pascal Tutorial/Chapter 3/FOR..DO") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_3/REPEAT..md> "Basic Pascal Tutorial/Chapter 3/REPEAT..UNTIL")  
 ---|---|---  
@@ -2226,8 +2171,6 @@ The `WHILE ... DO` loop is called a pretest loop because the condition is tested
 [ ◄ ](<Chapter_3/FOR..md> "Basic Pascal Tutorial/Chapter 3/FOR..DO") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_3/REPEAT..md> "Basic Pascal Tutorial/Chapter 3/REPEAT..UNTIL")  
 ---|---|---  
   
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_3/WHILE..md> "Basic Pascal Tutorial/Chapter 3/WHILE..DO") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_3/FOR..md> "Basic Pascal Tutorial/Chapter 3/FOR..IN")  
 ---|---|---  
@@ -2289,8 +2232,6 @@ Successful use of this style depends on Condition dependably becoming True, with
 [ ◄ ](<Chapter_3/WHILE..md> "Basic Pascal Tutorial/Chapter 3/WHILE..DO") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_3/FOR..md> "Basic Pascal Tutorial/Chapter 3/FOR..IN")  
 ---|---|---  
   
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_3/REPEAT..md> "Basic Pascal Tutorial/Chapter 3/REPEAT..UNTIL") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_3/Programming_Assignment.md> "Basic Pascal Tutorial/Chapter 3/Programming Assignment")  
 ---|---|---  
@@ -2306,8 +2247,6 @@ See the following page: [for..in-loops](<../for-in_loop.md> "for-in loop"), whic
   
 # Programming Assignments: Fibonacci Sequence and Powers of Two
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_3/FOR..md> "Basic Pascal Tutorial/Chapter 3/FOR..IN") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_3/Solution.md> "Basic Pascal Tutorial/Chapter 3/Solution")  
 ---|---|---  
@@ -2343,8 +2282,6 @@ Display all powers of 2 that are less than 20000. Display the list in a properly
   
 # Solutions
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_3/Programming_Assignment.md> "Basic Pascal Tutorial/Chapter 3/Programming Assignment") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_4/Procedures.md> "Basic Pascal Tutorial/Chapter 4/Procedures")  
 ---|---|---  
@@ -2463,8 +2400,6 @@ Subprograms**
 
 # Procedures
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_3/Solution.md> "Basic Pascal Tutorial/Chapter 3/Solution") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_4/Parameters.md> "Basic Pascal Tutorial/Chapter 4/Parameters")  
 ---|---|---  
@@ -2537,8 +2472,6 @@ Procedures are very often used to output data. It's that simple (until the next 
   
 # Parameters
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_4/Procedures.md> "Basic Pascal Tutorial/Chapter 4/Procedures") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_4/Functions.md> "Basic Pascal Tutorial/Chapter 4/Functions")  
 ---|---|---  
@@ -2623,8 +2556,6 @@ In other words, call-by-value is a one-way data transfer: main program to proced
   
 # Functions
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_4/Parameters.md> "Basic Pascal Tutorial/Chapter 4/Parameters") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_4/Scope.md> "Basic Pascal Tutorial/Chapter 4/Scope")  
 ---|---|---  
@@ -2668,8 +2599,6 @@ It is generally bad programming form to make use of VAR parameters in functions 
   
 # Scope
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_4/Functions.md> "Basic Pascal Tutorial/Chapter 4/Functions") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_4/Recursion.md> "Basic Pascal Tutorial/Chapter 4/Recursion")  
 ---|---|---  
@@ -2728,8 +2657,6 @@ Here's a scope chart which basically amounts to an indented copy of a program wi
   
 # Recursion
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_4/Scope.md> "Basic Pascal Tutorial/Chapter 4/Scope") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_4/Forward_Referencing.md> "Basic Pascal Tutorial/Chapter 4/Forward Referencing")  
 ---|---|---  
@@ -2775,8 +2702,6 @@ In the example above, the base condition was `if num = 1`.
   
 # Forward Referencing
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_4/Recursion.md> "Basic Pascal Tutorial/Chapter 4/Recursion") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_4/Programming_Assignment.md> "Basic Pascal Tutorial/Chapter 4/Programming Assignment")  
 ---|---|---  
@@ -2814,8 +2739,6 @@ The same goes for functions. Just stick a forward; at the end of the heading.
   
 # Programming Assignment: the Towers of Hanoi
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_4/Forward_Referencing.md> "Basic Pascal Tutorial/Chapter 4/Forward Referencing") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_4/Solution.md> "Basic Pascal Tutorial/Chapter 4/Solution")  
 ---|---|---  
@@ -2873,8 +2796,6 @@ Good luck!
   
 # Solution
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_4/Programming_Assignment.md> "Basic Pascal Tutorial/Chapter 4/Programming Assignment") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_5/Enumerated_types.md> "Basic Pascal Tutorial/Chapter 5/Enumerated types")  
 ---|---|---  
@@ -2949,8 +2870,6 @@ Data types**
 
 # Enumerated types
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_4/Solution.md> "Basic Pascal Tutorial/Chapter 4/Solution") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_5/Subranges.md> "Basic Pascal Tutorial/Chapter 5/Subranges")  
 ---|---|---  
@@ -3033,8 +2952,6 @@ To walk over the enumerated definition:
   
 # Subranges
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_5/Enumerated_types.md> "Basic Pascal Tutorial/Chapter 5/Enumerated types") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_5/1-dimensional_arrays.md> "Basic Pascal Tutorial/Chapter 5/1-dimensional arrays")  
 ---|---|---  
@@ -3065,8 +2982,6 @@ You can also use subranges for built-in ordinal types such as `char` and `intege
   
 # 1-dimensional arrays
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_5/Subranges.md> "Basic Pascal Tutorial/Chapter 5/Subranges") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_5/Multidimensional_arrays.md> "Basic Pascal Tutorial/Chapter 5/Multidimensional arrays")  
 ---|---|---  
@@ -3144,8 +3059,6 @@ Brackets `[ ]` enclose the subscript when referring to arrays.
   
 # Multidimensional arrays
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_5/1-dimensional_arrays.md> "Basic Pascal Tutorial/Chapter 5/1-dimensional arrays") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_5/Records.md> "Basic Pascal Tutorial/Chapter 5/Records")  
 ---|---|---  
@@ -3190,8 +3103,6 @@ You can, of course, use three- or higher-dimensional arrays.
   
 # Records
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_5/Multidimensional_arrays.md> "Basic Pascal Tutorial/Chapter 5/Multidimensional arrays") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_5/Pointers.md> "Basic Pascal Tutorial/Chapter 5/Pointers")  
 ---|---|---  
@@ -3255,8 +3166,6 @@ Example:
   
 # Pointers
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_5/Records.md> "Basic Pascal Tutorial/Chapter 5/Records") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_6/Final_words.md> "Basic Pascal Tutorial/Chapter 6/Final words")  
 ---|---|---  
@@ -3323,8 +3232,6 @@ Each element points to the next. The last record in the chain indicates that the
   
 Final words**
 
-│ **English (en)** │    
-****
 
 [ ◄ ](<Chapter_5/Pointers.md> "Basic Pascal Tutorial/Chapter 5/Pointers") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") |  ►   
 ---|---|---  

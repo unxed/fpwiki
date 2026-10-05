@@ -1,7 +1,6 @@
 # TODBCConnection
 
-│ **English (en)** │  **[français (fr)](</TODBCConnection/fr> "TODBCConnection/fr")** │  **[русский (ru)](<../ru/TODBCConnection.md> "TODBCConnection/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TODBCConnection.md>)** │
 
 ![Light bulb](https://upload.wikimedia.org/wikipedia/commons/d/d8/Nuvola_apps_ktip.png) **Note:** Instead of using a TODBCConnection a proxy-like [TSQLConnector](<TSQLConnector.md> "TSQLConnector") may be used to create more generic database applications
 

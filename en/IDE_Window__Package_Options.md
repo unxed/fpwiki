@@ -1,8 +1,6 @@
 # IDE Window: Package Options
 
-│ **[Deutsch (de)](</IDE_Window:_Package_Options/de> "IDE Window: Package Options/de")** │  **English (en)** │  **[français (fr)](</IDE_Window:_Package_Options/fr> "IDE Window: Package Options/fr")** │  **[русский (ru)](<../ru/IDE_Window__Package_Options.md> "IDE Window: Package Options/ru")** │    
-****  
-****
+│ **English (en)** │  **[русский (ru)](<../ru/IDE_Window__Package_Options.md>)** │
 
 ## Contents
 

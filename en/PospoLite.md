@@ -1,7 +1,6 @@
 # PospoLite
 
-│ **English (en)** │  **[polski (pl)](</PospoLite/pl> "PospoLite/pl")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

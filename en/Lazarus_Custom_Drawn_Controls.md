@@ -1,7 +1,6 @@
 # Lazarus Custom Drawn Controls
 
-│ **English (en)** │  **[русский (ru)](<../ru/Lazarus_Custom_Drawn_Controls.md> "Lazarus Custom Drawn Controls/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Lazarus_Custom_Drawn_Controls.md>)** │
 
 The **Lazarus Custom Drawn Controls** are a set of controls equivalent to the standard Lazarus controls, but which draw themselves. They can have many uses, including the ability to fully customize the drawing, the ability to have exactly the same look in different platforms and also a higher consistency of behavior. 
 

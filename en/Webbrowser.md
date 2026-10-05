@@ -1,7 +1,6 @@
 # Webbrowser
 
-│ **[Deutsch (de)](</Webbrowser/de> "Webbrowser/de")** │  **English (en)** │  **[español (es)](</Webbrowser/es> "Webbrowser/es")** │  **[русский (ru)](<../ru/Webbrowser.md> "Webbrowser/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Webbrowser.md>)** │
 
 This page summarizes various ways to display HTML pages from a Pascal program, ranging from calling an external browser to adding a component capable of rendering the html page into a form. 
 

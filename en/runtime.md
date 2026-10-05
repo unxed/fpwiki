@@ -1,7 +1,6 @@
 # runtime
 
-│ **English (en)** │  **[suomi (fi)](</runtime/fi> "runtime/fi")** │    
-****
+│ **English (en)** │
 
 **Runtime** or **run time** is the amount of time an [executable program](<Executable_program.md> "Executable program") takes from start to end, from [`begin`](<Begin.md> "Begin") to [`end`](<End.md> "End"). In [operating systems](<Operating_System.md> "Operating System") like [Unix](</index.php?title=Unix&action=edit&redlink=1> "Unix \(page does not exist\)"), it can be approximated by the tool [`time(1)`](<https://en.wikipedia.org/wiki/Time_\(Unix\)>). 
 

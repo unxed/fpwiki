@@ -1,6 +1,7 @@
 # Symbol tables
 
-│ **English (en)** │  **[français (fr)](</Symbol_tables/fr> "Symbol tables/fr")** │    
+│ **English (en)** │
+
 ****back to contents[FPC internals](<FPC_internals.md> "FPC internals")
 
 ## Contents

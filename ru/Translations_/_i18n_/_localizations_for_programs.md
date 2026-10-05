@@ -1,7 +1,6 @@
 # Translations / i18n / localizations for programs
 
-│ **[Deutsch (de)](</Translations_/_i18n_/_localizations_for_programs/de> "Translations / i18n / localizations for programs/de")** │  **[English (en)](<../../../en/Translations_/_i18n_/_localizations_for_programs.md> "Translations / i18n / localizations for programs")** │  **[español (es)](</Translations_/_i18n_/_localizations_for_programs/es> "Translations / i18n / localizations for programs/es")** │  **[français (fr)](</Translations_/_i18n_/_localizations_for_programs/fr> "Translations / i18n / localizations for programs/fr")** │  **[日本語 (ja)](</Translations_/_i18n_/_localizations_for_programs/ja> "Translations / i18n / localizations for programs/ja")** │  **[한국어 (ko)](</Translations_/_i18n_/_localizations_for_programs/ko> "Translations / i18n / localizations for programs/ko")** │  **[polski (pl)](</Translations_/_i18n_/_localizations_for_programs/pl> "Translations / i18n / localizations for programs/pl")** │  **[português (pt)](</Translations_/_i18n_/_localizations_for_programs/pt> "Translations / i18n / localizations for programs/pt")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</Translations_/_i18n_/_localizations_for_programs/zh_CN> "Translations / i18n / localizations for programs/zh CN")** │    
-****
+│ **[English (en)](<../../../en/Translations_/_i18n_/_localizations_for_programs.md>)** │  **русский (ru)** │
 
 ## Contents
 

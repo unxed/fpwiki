@@ -1,7 +1,6 @@
 # IDE Window: Extract Procedure
 
-│ [**Deutsch (de)**](</IDE_Window:_Extract_Procedure/de> "IDE Window: Extract Procedure/de") │  **English (en)** │  [**español (es)**](</IDE_Window:_Extract_Procedure/es> "IDE Window: Extract Procedure/es") │  [**suomi (fi)**](</IDE_Window:_Extract_Procedure/fi> "IDE Window: Extract Procedure/fi") │  [**français (fr)**](</IDE_Window:_Extract_Procedure/fr> "IDE Window: Extract Procedure/fr") │  [**русский (ru)**](<../ru/IDE_Window__Extract_Procedure.md> "IDE Window: Extract Procedure/ru") │  [**slovenčina (sk)**](</IDE_Window:_Extract_Procedure/sk> "IDE Window: Extract Procedure/sk") │  [**中文（中国大陆）‎ (zh_CN)**](</IDE_Window:_Extract_Procedure/zh_CN> "IDE Window: Extract Procedure/zh CN") │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/IDE_Window__Extract_Procedure.md>)** │
 
 Abstract: "Extract Procedure" takes some selected pascal statements and creates a new procedure/method from this code. This tool is useful to split big procedures or to easily create a new procedure from some code. 
 

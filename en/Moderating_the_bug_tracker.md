@@ -1,7 +1,6 @@
 # Moderating the bug tracker
 
-│ **[Deutsch (de)](</Moderating_the_bug_tracker/de> "Moderating the bug tracker/de")** │  **English (en)** │  **[français (fr)](</Moderating_the_bug_tracker/fr> "Moderating the bug tracker/fr")** │  **[português (pt)](</Moderating_the_bug_tracker/pt> "Moderating the bug tracker/pt")** │  **[русский (ru)](<../ru/Moderating_the_bug_tracker.md> "Moderating the bug tracker/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Moderating_the_bug_tracker.md>)** │
 
 This document contains some guidelines for moderating the Lazarus [bug tracker](<https://gitlab.com/freepascal.org/lazarus/lazarus/-/issues>).  
 Moderating the bugtracker can only be done by Lazarus developers. 

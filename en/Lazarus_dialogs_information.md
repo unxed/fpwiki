@@ -1,7 +1,6 @@
 # Lazarus dialogs information
 
-│ **English (en)** │  **[日本語 (ja)](</Lazarus_dialogs_information/ja> "Lazarus dialogs information/ja")** │    
-****
+│ **English (en)** │
 
 # Dialogs to be converted to LFM
 

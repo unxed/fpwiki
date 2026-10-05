@@ -1,7 +1,6 @@
 # TDBNavigator
 
-│ [**English (en)**](<../en/TDBNavigator.md> "TDBNavigator") │  [**français (fr)**](</TDBNavigator/fr> "TDBNavigator/fr") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TDBNavigator.md>)** │  **русский (ru)** │
 
 Элемент управления **TDBNavigator** [![tdbnavigator.png](https://wiki.freepascal.org/images/9/95/tdbnavigator.png)](</File:tdbnavigator.png>) предназначен для навигации по записям в подключенной базе данных. Он доступен на вкладке [Data Controls](<Data_Controls_tab.md> "Data Controls tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

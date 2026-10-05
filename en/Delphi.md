@@ -1,7 +1,6 @@
 # Delphi
 
-│ **[Deutsch (de)](</Delphi/de> "Delphi/de")** │  **English (en)** │  **[español (es)](</Delphi/es> "Delphi/es")** │  **[suomi (fi)](</Delphi/fi> "Delphi/fi")** │  **[français (fr)](</Delphi/fr> "Delphi/fr")** │  **[Bahasa Indonesia (id)](</Delphi/id> "Delphi/id")** │  **[português (pt)](</Delphi/pt> "Delphi/pt")** │  **[中文（中国大陆） (zh_CN)](</Delphi/zh_CN> "Delphi/zh CN")** │    
-****
+│ **English (en)** │
 
 **Delphi** is a commercial Rapid Application Development (RAD) tool for Windows, originally written by [Borland](<http://en.wikipedia.org/wiki/Borland>). 
 

@@ -1,7 +1,6 @@
 # End
 
-│ **[Deutsch (de)](</End/de> "End/de")** │  **English (en)** │  **[suomi (fi)](</End/fi> "End/fi")** │  **[français (fr)](</End/fr> "End/fr")** │  **[русский (ru)](<../ru/End.md> "End/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/End.md>)** │
 
 The [keyword](<Keyword.md> "Keyword") `end` terminates an entity. It appears at several occasions: 
 

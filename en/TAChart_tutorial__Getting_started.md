@@ -1,6 +1,6 @@
 # TAChart Tutorial: Getting started
 
-│ [**Deutsch (de)**](</TAChart_Tutorial:_Getting_started/de> "TAChart Tutorial: Getting started/de") │  **English (en)** │  [**suomi (fi)**](</TAChart_Tutorial:_Getting_started/fi> "TAChart Tutorial: Getting started/fi") │  [**français (fr)**](</TAChart_Tutorial:_Getting_started/fr> "TAChart Tutorial: Getting started/fr") │    
+│ **English (en)** │
 
 
 ## Contents

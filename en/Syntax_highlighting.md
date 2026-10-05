@@ -1,7 +1,6 @@
 # Syntax highlighting
 
-│ **English (en)** │  [**suomi (fi)**](</Syntax_highlighting/fi> "Syntax highlighting/fi") │    
-****
+│ **English (en)** │
 
 Syntax highlighting is a feature which displays text in different colors and fonts according to the category of terms. It is the feature of text editors that are used for programming ([source code](<Source_code.md> "Source code")), scripting, markup languages ([HTML](</index.php?title=HTML&action=edit&redlink=1> "HTML \(page does not exist\)"), [JSON](<JSON.md> "JSON"), or [XML](<XML.md> "XML")), or configuration files (LFM, or Ini-files). 
 

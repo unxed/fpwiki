@@ -1,7 +1,6 @@
 # sysutils
 
-│ **English (en)** │  **[Esperanto (eo)](</sysutils/eo> "sysutils/eo")** │  **[français (fr)](</sysutils/fr> "sysutils/fr")** │    
-****
+│ **English (en)** │
 
 The [unit](<Unit.md> "Unit") **`sysUtils`** shipped with the [FPC’s](<FPC.md> "FPC") default [run-time library](<RTL.md> "RTL") provides many system utilities. It attempts to be as compatible to [Delphi’s](<Delphi.md> "Delphi") `sysUtils` unit as possible. However, the FPC version is available on [all platforms that the FPC supports](<Platform_list.md> "Platform list"). It does not contain any Windows-related routines or other highly platform-specific functionality. 
 

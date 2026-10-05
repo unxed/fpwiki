@@ -1,7 +1,6 @@
 # History
 
-│ **English (en)** │  **[français (fr)](</History/fr> "History/fr")** │  **[magyar (hu)](</History/hu> "History/hu")** │  **[Bahasa Indonesia (id)](</History/id> "History/id")** │  **[한국어 (ko)](</History/ko> "History/ko")** │  **[русский (ru)](<../ru/History.md> "History/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/History.md>)** │
 
 The Lazarus project has its roots in the [Megido](<Megido.md> "Megido") project. From Google Groups and other mailing lists we can trace some information about Megido. It was a project that attempted to make an open source clone of Delphi, starting with the source code to [Sibyl](<Sibyl.md> "Sibyl") (which in turn was a clone of [Delphi](<Delphi.md> "Delphi") for OS/2, although its designer was rather restricted). Megido began in 1998, but died somewhere in 1999, owing to lack of focus, and lack of interest in a Sybil-based clone with Sybil's restrictions. 
 

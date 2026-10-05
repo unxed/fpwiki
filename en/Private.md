@@ -1,7 +1,6 @@
 # Private
 
-│ **[Deutsch (de)](</Private/de> "Private/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
   
 Back to [Reserved words](<Reserved_words.md> "Reserved words"). 

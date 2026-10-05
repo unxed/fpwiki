@@ -1,7 +1,6 @@
 # Custom Drawn Interface
 
-│ **[English (en)](<../en/Custom_Drawn_Interface.md> "Custom Drawn Interface")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Custom_Drawn_Interface.md>)** │  **русский (ru)** │
 
 ## Contents
 

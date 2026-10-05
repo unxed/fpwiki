@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Chapter 4/Solution
 
-│ **[български (bg)](</Basic_Pascal_Tutorial/Chapter_4/Solution/bg> "Basic Pascal Tutorial/Chapter 4/Solution/bg")** │  **English (en)** │  **[français (fr)](</Basic_Pascal_Tutorial/Chapter_4/Solution/fr> "Basic Pascal Tutorial/Chapter 4/Solution/fr")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Chapter_4/Solution/ja> "Basic Pascal Tutorial/Chapter 4/Solution/ja")** │  **[中文（中国大陆） (zh_CN)](</Basic_Pascal_Tutorial/Chapter_4/Solution/zh_CN> "Basic Pascal Tutorial/Chapter 4/Solution/zh CN")** │    
-****
+│ **English (en)** │
 
 [ ◄ ](<Programming_Assignment.md> "Basic Pascal Tutorial/Chapter 4/Programming Assignment") | [ ▲ ](<../Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<../Chapter_5/Enumerated_types.md> "Basic Pascal Tutorial/Chapter 5/Enumerated types")  
 ---|---|---  

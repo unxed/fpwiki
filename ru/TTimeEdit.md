@@ -1,7 +1,6 @@
 # TTimeEdit
 
-│ **[English (en)](<../en/TTimeEdit.md> "TTimeEdit")** │  **[français (fr)](</TTimeEdit/fr> "TTimeEdit/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TTimeEdit.md>)** │  **русский (ru)** │
 
 Компонент **TTimeEdit** [![ttimeedit.png](https://wiki.freepascal.org/images/7/72/ttimeedit.png)](</File:ttimeedit.png>) является элементом управления, предназначенным для ввода корректного времени. Компонент TTimeEdit находится на вкладке [Misc](<Misc_tab.md> "Misc tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

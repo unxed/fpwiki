@@ -1,7 +1,6 @@
 # leakview
 
-│ **English (en)** │  **[русский (ru)](<../ru/leakview.md> "leakview/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/leakview.md>)** │
 
 **Leakview** allows fast navigation through [HeapTrc](<heaptrc.md> "heaptrc") leak reports. 
 

@@ -1,7 +1,6 @@
 # LCL AutoSizing
 
-│ **[English (en)](<../en/LCL_AutoSizing.md> "LCL AutoSizing")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/LCL_AutoSizing.md>)** │  **русский (ru)** │
 
 ## Contents
 

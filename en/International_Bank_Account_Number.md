@@ -1,7 +1,6 @@
 # International Bank Account Number
 
-│ **English (en)** │  **[suomi (fi)](</International_Bank_Account_Number/fi> "International Bank Account Number/fi")** │  **[français (fr)](</International_Bank_Account_Number/fr> "International Bank Account Number/fr")** │    
-****
+│ **English (en)** │
 
 The International Bank Account Number (IBAN) is an international standard for numbering bank accounts. It is an ISO 13616 standard. The IBAN consists of up to 34 alphanumeric characters, comprising a country code, two check digits and a bank account number. 
 

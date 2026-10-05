@@ -1,7 +1,6 @@
 # FPC message: Can not find unit
 
-│ **[Deutsch (de)](</FPC_message:_Can_not_find_unit/de> "FPC message: Can not find unit/de")** │  **English (en)** │  **[français (fr)](</FPC_message:_Can_not_find_unit/fr> "FPC message: Can not find unit/fr")** │  **[magyar (hu)](</FPC_message:_Can_not_find_unit/hu> "FPC message: Can not find unit/hu")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

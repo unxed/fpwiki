@@ -1,7 +1,6 @@
 # Inc
 
-│ **[English (en)](<../en/Inc.md> "Inc")** │  **[suomi (fi)](</Inc/fi> "Inc/fi")** │  **[français (fr)](</Inc/fr> "Inc/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Inc.md>)** │  **русский (ru)** │
 
 # Inc
 

@@ -1,7 +1,6 @@
 # lazdbexport
 
-│ **English (en)** │  **[français (fr)](</lazdbexport/fr> "lazdbexport/fr")** │    
-****
+│ **English (en)** │
 
 **lazdbexport** is a package that supplies components to facilitate database export. It is delivered with lazarus and may be installed by using [Package|Install/Uninstall packages]. After install the components are accessible via the Data Export tab. It provides a template class for descendants that can provide export of datasets. Also included are various ready-made descendants for: 
 

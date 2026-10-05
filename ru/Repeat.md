@@ -1,7 +1,6 @@
 # Repeat
 
-│ **[Deutsch (de)](</Repeat/de> "Repeat/de")** │  **[English (en)](<../en/Repeat.md> "Repeat")** │  **[suomi (fi)](</Repeat/fi> "Repeat/fi")** │  **[français (fr)](</Repeat/fr> "Repeat/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Repeat.md>)** │  **русский (ru)** │
 
 Является [ключевым словом](<Keyword.md> "Keyword/ru"), которое используется в управляющей конструкции аналогично циклу '[while](<While.md> "While/ru") [do](<Do.md> "Do/ru")'. 
 

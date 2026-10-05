@@ -1,6 +1,6 @@
 # Databases in Lazarus
 
-
+│ **[English (en)](<../en/Databases_in_Lazarus.md>)** │  **русский (ru)** │
 
 ---
 

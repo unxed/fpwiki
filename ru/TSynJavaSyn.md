@@ -1,7 +1,6 @@
 # TSynJavaSyn
 
-│ **[English (en)](<../en/TSynJavaSyn.md> "TSynJavaSyn")** │  **[français (fr)](</TSynJavaSyn/fr> "TSynJavaSyn/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TSynJavaSyn.md>)** │  **русский (ru)** │
 
 **TSynJavaSyn** [![tsynjavasyn.png](https://wiki.freepascal.org/images/1/14/tsynjavasyn.png)](</File:tsynjavasyn.png>) \- компонент, представляющий подсветку корректного синтаксиса кода на языке Java при его редактировании. Данный компонент является частью пакета [SynEdit](<SynEdit.md> "SynEdit/ru") и доступен на вкладке [SynEdit](<SynEdit_tab.md> "SynEdit tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

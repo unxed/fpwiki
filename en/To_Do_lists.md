@@ -1,6 +1,6 @@
 # To Do lists
 
-│ **[Deutsch (de)](</To_Do_lists/de> "To Do lists/de")** │  **English (en)** │ 
+│ **English (en)** │
 
 ## Todos
 

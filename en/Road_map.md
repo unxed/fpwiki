@@ -1,7 +1,6 @@
 # Road map
 
-│ **English (en)** │  **[русский (ru)](<../ru/Road_map.md> "Road map/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Road_map.md>)** │
 
 ## Current roadmaps
 

@@ -1,7 +1,6 @@
 # Or
 
-│ **[Deutsch (de)](</Or/de> "Or/de")** │  **English (en)** │  **[suomi (fi)](</Or/fi> "Or/fi")** │  **[français (fr)](</Or/fr> "Or/fr")** │  **[русский (ru)](<../ru/Or.md> "Or/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Or.md>)** │
 
 The [reserved word](<Reserved_word.md> "Reserved word") `or` is a binary [operator](<Operator.md> "Operator"). Originally it stood for the logical disjunction of two [boolean values](<Boolean.md> "Boolean") only, but with the advent of [operator overloading](<Operator_overloading.md> "Operator overloading") [FPC](<FPC.md> "FPC") allows everything else, too. FPC also defines the `or` operator accepting two ordinal types while performing calculations on their internal binary representation. 
 

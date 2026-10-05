@@ -1,7 +1,6 @@
 # TPSQL
 
-│ **[Deutsch (de)](</TPSQL/de> "TPSQL/de")** │  **English (en)** │  **[español (es)](</TPSQL/es> "TPSQL/es")** │    
-****
+│ **English (en)** │
 
 **TPSQL** is a modified-LGPL [postgres](<postgres.md> "postgres") database package for Lazarus. It defines two components, TPSQLDatabase and TPSQLDataset, allowing applications to connect to PostgreSQL database servers over TCP/IP networks. 
 

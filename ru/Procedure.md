@@ -1,7 +1,6 @@
 # Procedure
 
-│ **[Deutsch (de)](</Procedure/de> "Procedure/de")** │  **[English (en)](<../en/Procedure.md> "Procedure")** │  **[suomi (fi)](</Procedure/fi> "Procedure/fi")** │  **[français (fr)](</Procedure/fr> "Procedure/fr")** │  **[italiano (it)](</Procedure/it> "Procedure/it")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Procedure.md>)** │  **русский (ru)** │
 
 ## Contents
 

@@ -1,7 +1,6 @@
 # key down
 
-│ **[Deutsch (de)](</key_down/de> "key down/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
 ## Overview
 

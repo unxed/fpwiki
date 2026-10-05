@@ -1,7 +1,6 @@
 # Odd
 
-│ **[Deutsch (de)](</Odd/de> "Odd/de")** │  **English (en)** │  **[polski (pl)](</Odd/pl> "Odd/pl")** │    
-****
+│ **English (en)** │
 
 The [standard function](<Basic_Pascal_Tutorial/Chapter_1/Standard_Functions.md> "Basic Pascal Tutorial/Chapter 1/Standard Functions") [**`odd`**](<https://www.freepascal.org/docs-html/rtl/system/odd.html>) returns [`true`](<True.md> "True") if and only if the passed [`integer`](<Integer.md> "Integer") parameter is odd, that means it is not divisible by `2`. `Odd(x)` is by definition equivalent to the [expression](<expression.md> "expression")
     

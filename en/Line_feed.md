@@ -1,7 +1,6 @@
 # Line feed
 
-│ **English (en)** │  **[suomi (fi)](</Line_feed/fi> "Line feed/fi")** │  **[português (pt)](</Line_feed/pt> "Line feed/pt")** │  **[русский (ru)](<../ru/Line_feed.md> "Line feed/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Line_feed.md>)** │
 
 Line feed (LF) is one of the control characters in [ASCII](<ASCII.md> "ASCII") code and Unicode. In ASCII and Unicode, the character code decimal 10 (or [hexadecimal](<Hexadecimal.md> "Hexadecimal") 0A) is defined to be line feed. 
 

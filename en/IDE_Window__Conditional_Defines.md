@@ -1,7 +1,6 @@
 # IDE Window: Conditional Defines
 
-│ **[Deutsch (de)](</IDE_Window:_Conditional_Defines/de> "IDE Window: Conditional Defines/de")** │  **English (en)** │  **[français (fr)](</IDE_Window:_Conditional_Defines/fr> "IDE Window: Conditional Defines/fr")** │    
-****
+│ **English (en)** │
 
 Utility to assist in inserting conditional defines. For example, to convert 
     

@@ -1,8 +1,6 @@
 # IDE Window: DebuggerClassOptionsFrame
 
-│ **English (en)** │    
-****  
-****
+│ **English (en)** │
 
 ## Contents
 

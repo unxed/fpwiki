@@ -1,8 +1,6 @@
 # IDE Window: Event Log
 
-│ **English (en)** │    
-****  
-****
+│ **English (en)** │
 
 ## Contents
 

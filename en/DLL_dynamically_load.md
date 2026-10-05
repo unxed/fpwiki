@@ -6,8 +6,7 @@ This article applies to [Windows](</Category:Windows> "Category:Windows") only.
 
 See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **[Deutsch (de)](</DLL_dynamically_load/de> "DLL dynamically load/de")** │  **English (en)** │  **[русский (ru)](<../ru/DLL_dynamically_load.md> "DLL dynamically load/ru")** │  **[中文（中国大陆）‎ (zh_CN)](</DLL_dynamically_load/zh_CN> "DLL dynamically load/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/DLL_dynamically_load.md>)** │
 
 The tutorial shows how a DLL (Dynamic Link Library) is loaded dynamically . 
 

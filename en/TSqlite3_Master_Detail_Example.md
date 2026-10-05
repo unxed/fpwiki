@@ -1,6 +1,7 @@
 # TSqlite3 Master Detail Example
 
-│ **English (en)** │  **[français (fr)](</TSqlite3_Master_Detail_Example/fr> "TSqlite3 Master Detail Example/fr")** │    
+│ **English (en)** │
+
 ****TSqlite3 Master Detail Example
 
 ## Contents

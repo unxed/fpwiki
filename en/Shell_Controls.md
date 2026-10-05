@@ -1,7 +1,6 @@
 # Shell Controls
 
-│ **English (en)** │  **[русский (ru)](<../ru/Shell_Controls.md> "Shell Controls/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Shell_Controls.md>)** │
 
 The Shell Controls are a series of advanced controls destinated to beaultifully represent files and directories of the system. 
 

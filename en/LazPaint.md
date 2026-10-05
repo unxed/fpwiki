@@ -1,6 +1,6 @@
 # LazPaint
 
-│ **[Deutsch (de)](</LazPaint/de> "LazPaint/de")** │  **English (en)** │  **[español (es)](</LazPaint/es> "LazPaint/es")** │  **[suomi (fi)](</LazPaint/fi> "LazPaint/fi")** │  **[français (fr)](</LazPaint/fr> "LazPaint/fr")** │  **[русский (ru)](<../ru/LazPaint.md> "LazPaint/ru")** │ 
+│ **English (en)** │  **[русский (ru)](<../ru/LazPaint.md>)** │
 
   
 ****

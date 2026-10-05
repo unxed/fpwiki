@@ -1,7 +1,6 @@
 # NativeInt
 
-│ **[Deutsch (de)](</NativeInt/de> "NativeInt/de")** │  **English (en)** │  **[français (fr)](</NativeInt/fr> "NativeInt/fr")** │    
-****
+│ **English (en)** │
 
   
 Back to the [data types](<Data_type.md> "Data type"). 

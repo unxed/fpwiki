@@ -1,7 +1,6 @@
 # Extended
 
-│ **[Deutsch (de)](</Extended/de> "Extended/de")** │  **[English (en)](<../en/Extended.md> "Extended")** │  **[français (fr)](</Extended/fr> "Extended/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Extended.md>)** │  **русский (ru)** │
 
 **Extended** является расширенным типом данных с плавающей точкой. Обеспечивает максимально точный результат (19-20 десятичных знаков после точки). 
 

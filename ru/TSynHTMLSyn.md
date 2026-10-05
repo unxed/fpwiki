@@ -1,7 +1,6 @@
 # TSynHTMLSyn
 
-│ [**English (en)**](<../en/TSynHTMLSyn.md> "TSynHTMLSyn") │  [**suomi (fi)**](</TSynHTMLSyn/fi> "TSynHTMLSyn/fi") │  [**français (fr)**](</TSynHTMLSyn/fr> "TSynHTMLSyn/fr") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TSynHTMLSyn.md>)** │  **русский (ru)** │
 
 **TSynHTMLSyn** [![tsynhtmlsyn.png](https://wiki.freepascal.org/images/6/69/tsynhtmlsyn.png)](</File:tsynhtmlsyn.png>) \- компонент, представляющий подсветку корректного синтаксиса кода на языке разметки HTML при его редактировании. Данный компонент является частью пакета [SynEdit](<SynEdit.md> "SynEdit/ru") и доступен на вкладке [SynEdit](<SynEdit_tab.md> "SynEdit tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

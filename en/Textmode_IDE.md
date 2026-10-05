@@ -1,7 +1,6 @@
 # Textmode IDE
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 [How to get the fpc ide running under Mac OS X](<How_to_get_the_fpc_ide_running_under_Mac_OS_X.md> "How to get the fpc ide running under Mac OS X")  
   

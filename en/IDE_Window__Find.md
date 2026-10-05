@@ -1,7 +1,6 @@
 # IDE Window: Find
 
-│ [**Deutsch (de)**](</IDE_Window:_Find/de> "IDE Window: Find/de") │  **English (en)** │  [**suomi (fi)**](</IDE_Window:_Find/fi> "IDE Window: Find/fi") │  [**français (fr)**](</IDE_Window:_Find/fr> "IDE Window: Find/fr") │    
-****
+│ **English (en)** │
 
 If this dialog is invoked by Ctrl+F or by menu item "Search > Find" then the replace buttons and options are disabled. 
 

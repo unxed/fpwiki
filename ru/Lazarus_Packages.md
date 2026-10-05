@@ -1,7 +1,6 @@
 # Lazarus Packages
 
-│ **[Deutsch (de)](</Lazarus_Packages/de> "Lazarus Packages/de")** │  **[English (en)](<../en/Lazarus_Packages.md> "Lazarus Packages")** │  **[español (es)](</Lazarus_Packages/es> "Lazarus Packages/es")** │  **[français (fr)](</Lazarus_Packages/fr> "Lazarus Packages/fr")** │  **[日本語 (ja)](</Lazarus_Packages/ja> "Lazarus Packages/ja")** │  **[português (pt)](</Lazarus_Packages/pt> "Lazarus Packages/pt")** │  **русский (ru)** │  **[slovenčina (sk)](</Lazarus_Packages/sk> "Lazarus Packages/sk")** │    
-****
+│ **[English (en)](<../en/Lazarus_Packages.md>)** │  **русский (ru)** │
 
 ## Contents
 

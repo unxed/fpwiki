@@ -1,7 +1,6 @@
 # for-in loop
 
-│ **English (en)** │  **[français (fr)](</for-in_loop/fr> "for-in loop/fr")** │  **[русский (ru)](<../ru/for-in_loop.md> "for-in loop/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/for-in_loop.md>)** │
 
 This iterates over a collection, but where a [basic for-loop](<For.md> "For") uses a numerical index counter, a for-in loop instead retrieves collection elements into the counter variable for immediate use. For-in works on strings, arrays, sets, and any other custom collection that implements the required iterators. Looping over an empty collection does nothing. The counter variable can not be modified inside the loop. 
 

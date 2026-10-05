@@ -1,7 +1,6 @@
 # Pascal
 
-│ **[Deutsch (de)](</Pascal/de> "Pascal/de")** │  **English (en)** │  **[español (es)](</Pascal/es> "Pascal/es")** │  **[suomi (fi)](</Pascal/fi> "Pascal/fi")** │  **[français (fr)](</Pascal/fr> "Pascal/fr")** │  **[Bahasa Indonesia (id)](</Pascal/id> "Pascal/id")** │  **[italiano (it)](</Pascal/it> "Pascal/it")** │  **[português (pt)](</Pascal/pt> "Pascal/pt")** │    
-****
+│ **English (en)** │
 
 ![Light bulb](https://upload.wikimedia.org/wikipedia/commons/d/d8/Nuvola_apps_ktip.png) **Note:** This article is about the programming language Pascal. For the modifier see [pascal](<pascal.md> "pascal").
 

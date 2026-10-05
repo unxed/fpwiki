@@ -1,7 +1,6 @@
 # Write
 
-│ **[Deutsch (de)](</Write/de> "Write/de")** │  **[English (en)](<../en/Write.md> "Write")** │  **[español (es)](</Write/es> "Write/es")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Write.md>)** │  **русский (ru)** │
 
 **Write** является [ключевым словом](<Keyword.md> "Keyword/ru"), которое указывает, что некоторые данные необходимо вывести на экран (по умолчанию) или в [файл](</index.php?title=File/ru&action=edit&redlink=1> "File/ru \(page does not exist\)"). Например: 
     

@@ -1,7 +1,6 @@
 # Lazarus directory permissions on Linux and Unix
 
-│ **English (en)** │  **[magyar (hu)](</Lazarus_directory_permissions_on_Linux_and_Unix/hu> "Lazarus directory permissions on Linux and Unix/hu")** │    
-****
+│ **English (en)** │
 
 ### Common misconceptions
 

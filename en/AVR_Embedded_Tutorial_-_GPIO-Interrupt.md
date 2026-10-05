@@ -1,6 +1,6 @@
 # AVR Embedded Tutorial - GPIO-Interrupt
 
-│ **[Deutsch (de)](</AVR_Embedded_Tutorial_-_GPIO-Interrupt/de> "AVR Embedded Tutorial - GPIO-Interrupt/de")** │  **English (en)** │ 
+│ **English (en)** │
 
 ## Contents
 
@@ -28,8 +28,8 @@
 
 How to control the GPIO and UART can be found here: 
 
-  * [GPIO](</AVR_Embedded_Tutorial_-_Simple_GPIO_on_and_off_output/de> "AVR Embedded Tutorial - Simple GPIO on and off output/de")
-  * [UART](</AVR_Embedded_Tutorial_-_UART/de> "AVR Embedded Tutorial - UART/de") _UARTInit_ and _UARTSendString(..._
+  * GPIO
+  * UART _UARTInit_ and _UARTSendString(..._
 
 
 

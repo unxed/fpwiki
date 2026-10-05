@@ -1,7 +1,6 @@
 # System tab
 
-│ **[English (en)](<../en/System_tab.md> "System tab")** │  **[français (fr)](</System_tab/fr> "System tab/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/System_tab.md>)** │  **русский (ru)** │
 
 Вкладка **System** [палитры компонентов](<Component_Palette.md> "Component Palette/ru") содержит невизуальные компоненты, связанные с операционной системой, например таймеры. 
 

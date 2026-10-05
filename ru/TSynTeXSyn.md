@@ -1,7 +1,6 @@
 # TSynTeXSyn
 
-│ **[English (en)](<../en/TSynTeXSyn.md> "TSynTeXSyn")** │  **[français (fr)](</TSynTeXSyn/fr> "TSynTeXSyn/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TSynTeXSyn.md>)** │  **русский (ru)** │
 
 **TSynTexSyn** [![tsyntexsyn.png](https://wiki.freepascal.org/images/0/02/tsyntexsyn.png)](</File:tsyntexsyn.png>) \- компонент, представляющий подсветку корректного синтаксиса кода на языке (La)TeX при его редактировании. Данный компонент является частью пакета [SynEdit](<SynEdit.md> "SynEdit/ru") и доступен на вкладке [SynEdit](<SynEdit_tab.md> "SynEdit tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

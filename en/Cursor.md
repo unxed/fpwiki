@@ -1,7 +1,6 @@
 # Cursor
 
-│ **[Deutsch (de)](</Cursor/de> "Cursor/de")** │  **English (en)** │  **[suomi (fi)](</Cursor/fi> "Cursor/fi")** │    
-****
+│ **English (en)** │
 
 Cursor - [property](</Property> "Property") of the TCursor Object. 
 

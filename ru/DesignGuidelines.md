@@ -1,7 +1,6 @@
 # DesignGuidelines
 
-│ **[Deutsch (de)](</DesignGuidelines/de> "DesignGuidelines/de")** │  **[English (en)](<../en/DesignGuidelines.md> "DesignGuidelines")** │  **[español (es)](</DesignGuidelines/es> "DesignGuidelines/es")** │  **[français (fr)](</DesignGuidelines/fr> "DesignGuidelines/fr")** │  **[日本語 (ja)](</DesignGuidelines/ja> "DesignGuidelines/ja")** │  **[한국어 (ko)](</DesignGuidelines/ko> "DesignGuidelines/ko")** │  **[português (pt)](</DesignGuidelines/pt> "DesignGuidelines/pt")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/DesignGuidelines.md>)** │  **русский (ru)** │
 
 ## Указания по кодированию для Lazarus
 

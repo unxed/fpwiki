@@ -1,6 +1,6 @@
 # ReactOS
 
-│ **English (en)** │  **[español (es)](</ReactOS/es> "ReactOS/es")** │  **[polski (pl)](</ReactOS/pl> "ReactOS/pl")** │  **[русский (ru)](<../ru/ReactOS.md> "ReactOS/ru")** │ 
+│ **English (en)** │  **[русский (ru)](<../ru/ReactOS.md>)** │
 
 ## Contents
 

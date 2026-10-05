@@ -1,7 +1,6 @@
 # IDE Window: Change Encoding Dialog
 
-│ **[Deutsch (de)](</IDE_Window:_Change_Encoding_Dialog/de> "IDE Window: Change Encoding Dialog/de")** │  **English (en)** │  **[中文（中国大陆）‎ (zh_CN)](</IDE_Window:_Change_Encoding_Dialog/zh_CN> "IDE Window: Change Encoding Dialog/zh CN")** │    
-****
+│ **English (en)** │
 
 You can get to this dialog via: _Tools / Convert encodings of project/packages ..._
 

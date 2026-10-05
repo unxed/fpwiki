@@ -1,7 +1,6 @@
 # Current conversion projects
 
-│ **[Deutsch (de)](</Current_conversion_projects/de> "Current conversion projects/de")** │  **English (en)** │  **[français (fr)](</Current_conversion_projects/fr> "Current conversion projects/fr")** │  **[Bahasa Indonesia (id)](</Current_conversion_projects/id> "Current conversion projects/id")** │  **[한국어 (ko)](</Current_conversion_projects/ko> "Current conversion projects/ko")** │  **[русский (ru)](<../ru/Current_conversion_projects.md> "Current conversion projects/ru")** │  **[中文（中国大陆） (zh_CN)](</Current_conversion_projects/zh_CN> "Current conversion projects/zh CN")** │  **[中文（臺灣） (zh_TW)](</Current_conversion_projects/zh_TW> "Current conversion projects/zh TW")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Current_conversion_projects.md>)** │
 
   
 This page contains a list of applications and components, that are currently being converted. If the conversion has been finished (or before if you want more user feedback), the components can be moved to [Components and Code examples](<Components_and_Code_examples.md> "Components and Code examples") and the applications to [Projects using Lazarus](<Projects_using_Lazarus.md> "Projects using Lazarus"). If a description page has been made, the applications or components can be offered for download at the [sourceforge files area](<http://sourceforge.net/project/showfiles.php?group_id=92177>). 

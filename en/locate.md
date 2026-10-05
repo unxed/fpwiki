@@ -1,7 +1,6 @@
 # locate
 
-│ **English (en)** │  **[français (fr)](</locate/fr> "locate/fr")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

@@ -1,7 +1,6 @@
 # Creating a Backtrace with GDB
 
-│ **[Deutsch (de)](</Creating_a_Backtrace_with_GDB/de> "Creating a Backtrace with GDB/de")** │  **[English (en)](<../en/Creating_a_Backtrace_with_GDB.md> "Creating a Backtrace with GDB")** │  **[日本語 (ja)](</Creating_a_Backtrace_with_GDB/ja> "Creating a Backtrace with GDB/ja")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Creating_a_Backtrace_with_GDB.md>)** │  **русский (ru)** │
 
 ## Contents
 

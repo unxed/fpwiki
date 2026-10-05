@@ -1,7 +1,6 @@
 # Cardinal
 
-│ **[Deutsch (de)](</Cardinal/de> "Cardinal/de")** │  **[English (en)](<../en/Cardinal.md> "Cardinal")** │  **[français (fr)](</Cardinal/fr> "Cardinal/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Cardinal.md>)** │  **русский (ru)** │
 
 **Cardinal** \- это целочисленный тип, определенный в качестве псевдонима типа **DWord** для 32-битных платформ. Также как и **DWord** (двойное слово) этот тип данных является 32-битным и интерпретируется как беззнаковое целое. Минимальное значение этого типа 0x0000000, а максимальное - [0xFFFFFFFF](<Hexadecimal.md> "Hexadecimal/ru")) (4,294,967,295). 
 

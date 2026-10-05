@@ -1,7 +1,6 @@
 # Nomenclature
 
-│ **[Deutsch (de)](</Nomenclature/de> "Nomenclature/de")** │  **English (en)** │  **[español (es)](</Nomenclature/es> "Nomenclature/es")** │  **[français (fr)](</Nomenclature/fr> "Nomenclature/fr")** │  **[日本語 (ja)](</Nomenclature/ja> "Nomenclature/ja")** │  **[한국어 (ko)](</Nomenclature/ko> "Nomenclature/ko")** │  **[português (pt)](</Nomenclature/pt> "Nomenclature/pt")** │  **[русский (ru)](<../ru/Nomenclature.md> "Nomenclature/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Nomenclature.md>)** │
 
   * properties should not start with a verb, but with a noun
   * methods should start with a verb

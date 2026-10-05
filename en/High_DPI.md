@@ -1,7 +1,6 @@
 # High DPI
 
-│ **[Deutsch (de)](</High_DPI/de> "High DPI/de")** │  **English (en)** │  **[español (es)](</High_DPI/es> "High DPI/es")** │  **[русский (ru)](<../ru/High_DPI.md> "High DPI/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/High_DPI.md>)** │
 
 ## Contents
 

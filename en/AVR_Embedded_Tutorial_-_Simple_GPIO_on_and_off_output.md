@@ -1,6 +1,6 @@
 # AVR Embedded Tutorial - Simple GPIO on and off output
 
-│ **[Deutsch (de)](</AVR_Embedded_Tutorial_-_Simple_GPIO_on_and_off_output/de> "AVR Embedded Tutorial - Simple GPIO on and off output/de")** │  **English (en)** │ 
+│ **English (en)** │
 
 ## Contents
 

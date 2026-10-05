@@ -1,7 +1,6 @@
 # Common Controls tab
 
-│ **[English (en)](<../en/Common_Controls_tab.md> "Common Controls tab")** │  **[español (es)](</Common_Controls_tab/es> "Common Controls tab/es")** │  **[suomi (fi)](</Common_Controls_tab/fi> "Common Controls tab/fi")** │  **[français (fr)](</Common_Controls_tab/fr> "Common Controls tab/fr")** │  **[polski (pl)](</Common_Controls_tab/pl> "Common Controls tab/pl")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Common_Controls_tab.md>)** │  **русский (ru)** │
 
 Вкладка **Common Controls** [палитры компонентов](<Component_Palette.md> "Component Palette/ru") содержит видимые компоненты, такие как индикаторы прогресса и компоненты представления информации. 
 

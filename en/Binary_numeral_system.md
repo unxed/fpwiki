@@ -1,7 +1,6 @@
 # Binary numeral system
 
-│ **[Deutsch (de)](</Binary_numeral_system/de> "Binary numeral system/de")** │  **English (en)** │  **[español (es)](</Binary_numeral_system/es> "Binary numeral system/es")** │  **[suomi (fi)](</Binary_numeral_system/fi> "Binary numeral system/fi")** │  **[français (fr)](</Binary_numeral_system/fr> "Binary numeral system/fr")** │  **[português (pt)](</Binary_numeral_system/pt> "Binary numeral system/pt")** │  **[русский (ru)](<../ru/Binary_numeral_system.md> "Binary numeral system/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Binary_numeral_system.md>)** │
 
 A binary numbers composed of two digits, 0 and 1. This base-2 system is the basis for digital systems. Smallest binary item, called a bit (binary digit). 
 

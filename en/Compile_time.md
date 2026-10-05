@@ -1,7 +1,6 @@
 # Compile time
 
-│ **English (en)** │  **[suomi (fi)](</Compile_time/fi> "Compile time/fi")** │  **[français (fr)](</Compile_time/fr> "Compile time/fr")** │    
-****
+│ **English (en)** │
 
 **Compile time** is the duration it takes to compile a module. [Pascal](<Pascal.md> "Pascal") modules can be be compiled in a very short time. A [Hello, World](<Hello,_World.md> "Hello, World") program can be compiled in less than half a second. The [FPC](<FPC.md> "FPC") reports the time it took if the command line option `-vi` (show general information) is set. 
 

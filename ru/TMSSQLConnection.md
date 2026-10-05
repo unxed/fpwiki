@@ -1,8 +1,7 @@
 # TMSSQLConnection
 
-│ **[English (en)](<../en/TMSSQLConnection.md> "TMSSQLConnection")** │  **[français (fr)](</TMSSQLConnection/fr> "TMSSQLConnection/fr")** │  **[polski (pl)](</TMSSQLConnection/pl> "TMSSQLConnection/pl")** │  **русский (ru)** │    
-****  
-  
+│ **[English (en)](<../en/TMSSQLConnection.md>)** │  **русский (ru)** │
+
 ---  
 [**Databases portal**](<../en/Portal_Databases.md> "Portal:Databases")  
 References: 

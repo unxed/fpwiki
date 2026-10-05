@@ -1,7 +1,6 @@
 # Final words
 
-│ **English (en)** │  [**français (fr)**](</Final_words/fr> "Final words/fr") │  [**中文（中国大陆）‎ (zh_CN)**](</Final_words/zh_CN> "Final words/zh CN") │    
-****
+│ **English (en)** │
 
 [ ◄ ](<Pointers.md> "Pointers") | [ ▲ ](<Contents.md> "Contents") |  ►   
 ---|---|---  

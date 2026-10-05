@@ -1,6 +1,6 @@
 # Logging exceptions
 
-│ **English (en)** │  **[русский (ru)](<../ru/Logging_exceptions.md> "Logging exceptions/ru")** │ 
+│ **English (en)** │  **[русский (ru)](<../ru/Logging_exceptions.md>)** │
 
 ## Contents
 

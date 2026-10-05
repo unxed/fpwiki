@@ -1,7 +1,6 @@
 # AVR Embedded Tutorial - Software I2C, TWI
 
-│ **[Deutsch (de)](</AVR_Embedded_Tutorial_-_Software_I2C,_TWI/de> "AVR Embedded Tutorial - Software I2C, TWI/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
 ## Contents
 

@@ -1,7 +1,6 @@
 # Category:Tutorials
 
-│ **[العربية (ar)](</Category:Tutorials/ar> "Category:Tutorials/ar")** │  **[български (bg)](</Category:Tutorials/bg> "Category:Tutorials/bg")** │  **[Deutsch (de)](</Category:Tutorials/de> "Category:Tutorials/de")** │  **English (en)** │  **[español (es)](</Category:Tutorials/es> "Category:Tutorials/es")** │  **[فارسی (fa)](</Category:Tutorials/fa> "Category:Tutorials/fa")** │  **[suomi (fi)](</Category:Tutorials/fi> "Category:Tutorials/fi")** │  **[français (fr)](</Category:Tutorials/fr> "Category:Tutorials/fr")** │  **[magyar (hu)](</Category:Tutorials/hu> "Category:Tutorials/hu")** │  **[Bahasa Indonesia (id)](</Category:Tutorials/id> "Category:Tutorials/id")** │  **[italiano (it)](</Category:Tutorials/it> "Category:Tutorials/it")** │  **[日本語 (ja)](</Category:Tutorials/ja> "Category:Tutorials/ja")** │  **[한국어 (ko)](</Category:Tutorials/ko> "Category:Tutorials/ko")** │  **[македонски (mk)](</Category:Tutorials/mk> "Category:Tutorials/mk")** │  **[Nederlands (nl)](</Category:Tutorials/nl> "Category:Tutorials/nl")** │  **[polski (pl)](</Category:Tutorials/pl> "Category:Tutorials/pl")** │  **[português (pt)](</Category:Tutorials/pt> "Category:Tutorials/pt")** │  **[русский (ru)](</Category:Tutorials/ru> "Category:Tutorials/ru")** │  **[slovenčina (sk)](</Category:Tutorials/sk> "Category:Tutorials/sk")** │  **[shqip (sq)](</Category:Tutorials/sq> "Category:Tutorials/sq")** │  **[svenska (sv)](</Category:Tutorials/sv> "Category:Tutorials/sv")** │  **[Tiếng Việt (vi)](</Category:Tutorials/vi> "Category:Tutorials/vi")** │  **[中文（中国大陆）‎ (zh_CN)](</Category:Tutorials/zh_CN> "Category:Tutorials/zh CN")** │  **[中文（台灣）‎ (zh_TW)](</Category:Tutorials/zh_TW> "Category:Tutorials/zh TW")** │    
-****
+│ **English (en)** │
 
   
 Useful learning tutorials and howto 
@@ -42,7 +41,7 @@ The following 200 pages are in this category, out of 235 total.
   * [Add an Apple Help Book to your macOS app](<../Add_an_Apple_Help_Book_to_your_macOS_app.md> "Add an Apple Help Book to your macOS app")
   * [Add Help to Your Application](<../Add_Help_to_Your_Application.md> "Add Help to Your Application")
   * [Add Help to Your Application/ru](<../../ru/Add_Help_to_Your_Application.md> "Add Help to Your Application/ru")
-  * [Add Help to Your Application/zh CN](</Add_Help_to_Your_Application/zh_CN> "Add Help to Your Application/zh CN")
+  * Add Help to Your Application/zh CN
   * [Advantage Database Server](<../Advantage_Database_Server.md> "Advantage Database Server")
   * [Adventures of a Newbie](<../Adventures_of_a_Newbie.md> "Adventures of a Newbie")
   * [Aero Glass](<../Aero_Glass.md> "Aero Glass")
@@ -71,7 +70,7 @@ The following 200 pages are in this category, out of 235 total.
   * [AVR Embedded Tutorial - Analog Write](<../AVR_Embedded_Tutorial_-_Analog_Write.md> "AVR Embedded Tutorial - Analog Write")
   * [AVR Embedded Tutorial - Delays](<../AVR_Embedded_Tutorial_-_Delays.md> "AVR Embedded Tutorial - Delays")
   * [AVR Embedded Tutorial - EEPROM](<../AVR_Embedded_Tutorial_-_EEPROM.md> "AVR Embedded Tutorial - EEPROM")
-  * [AVR Embedded Tutorial - EEPROM/de](</AVR_Embedded_Tutorial_-_EEPROM/de> "AVR Embedded Tutorial - EEPROM/de")
+  * AVR Embedded Tutorial - EEPROM/de
   * [AVR Embedded Tutorial - Entry Lazarus and Arduino](<../AVR_Embedded_Tutorial_-_Entry_Lazarus_and_Arduino.md> "AVR Embedded Tutorial - Entry Lazarus and Arduino")
   * [AVR Embedded Tutorial - GPIO-Interrupt](<../AVR_Embedded_Tutorial_-_GPIO-Interrupt.md> "AVR Embedded Tutorial - GPIO-Interrupt")
   * [AVR Embedded Tutorial - Int to digits](<../AVR_Embedded_Tutorial_-_Int_to_digits.md> "AVR Embedded Tutorial - Int to digits")
@@ -142,7 +141,7 @@ The following 200 pages are in this category, out of 235 total.
   * [espeak](<../espeak.md> "espeak")
   * [Everything else about translations](<../Everything_else_about_translations.md> "Everything else about translations")
   * [Example of multi-threaded application: array of threads](<../Example_of_multi-threaded_application__array_of_threads.md> "Example of multi-threaded application: array of threads")
-  * [Example of multi-threaded application: array of threads/pl](</Example_of_multi-threaded_application:_array_of_threads/pl> "Example of multi-threaded application: array of threads/pl")
+  * Example of multi-threaded application: array of threads/pl
   * [Executing External Programs](<../Executing_External_Programs.md> "Executing External Programs")
 
 
@@ -156,7 +155,7 @@ The following 200 pages are in this category, out of 235 total.
   * [Firebird](<../Firebird.md> "Firebird")
   * [Firebird embedded](<../Firebird_embedded.md> "Firebird embedded")
   * [Form Tutorial](<../Form_Tutorial.md> "Form Tutorial")
-  * [Form Tutorial/zh CN](</Form_Tutorial/zh_CN> "Form Tutorial/zh CN")
+  * Form Tutorial/zh CN
   * [FPC and Apache Modules](<../FPC_and_Apache_Modules.md> "FPC and Apache Modules")
   * [FPC and SDL](<../FPC_and_SDL.md> "FPC and SDL")
   * [FPCDocs Tutorial](<../FPCDocs_Tutorial.md> "FPCDocs Tutorial")
@@ -185,13 +184,13 @@ The following 200 pages are in this category, out of 235 total.
   * [How to start](<../How_to_start.md> "How to start")
   * [How to use a TrayIcon](<../How_to_use_a_TrayIcon.md> "How to use a TrayIcon")
   * [How to use generics](<../How_to_use_generics.md> "How to use generics")
-  * [How to use generics/fr](</How_to_use_generics/fr> "How to use generics/fr")
+  * How to use generics/fr
   * [How to use menu controls](<../How_to_use_menu_controls.md> "How to use menu controls")
   * [How to use nullable types](<../How_to_use_nullable_types.md> "How to use nullable types")
   * [How To Use TFPExpressionParser](<../How_To_Use_TFPExpressionParser.md> "How To Use TFPExpressionParser")
   * [How to write in-memory database applications in Lazarus/FPC](<../How_to_write_in-memory_database_applications_in_Lazarus/FPC.md> "How to write in-memory database applications in Lazarus/FPC")
   * [How To Write Lazarus Component](<../How_To_Write_Lazarus_Component.md> "How To Write Lazarus Component")
-  * [How To Write Lazarus Component/zh CN](</How_To_Write_Lazarus_Component/zh_CN> "How To Write Lazarus Component/zh CN")
+  * How To Write Lazarus Component/zh CN
   * [Howdy World (Hello World on steroids)](<../Howdy_World_\(Hello_World_on_steroids\).md> "Howdy World \(Hello World on steroids\)")
   * [Howto Use TOpenDialog](<../Howto_Use_TOpenDialog.md> "Howto Use TOpenDialog")
   * [Howto Use TSaveDialog](<../Howto_Use_TSaveDialog.md> "Howto Use TSaveDialog")
@@ -200,7 +199,7 @@ The following 200 pages are in this category, out of 235 total.
 
 ### I
 
-  * [Identify Drives/de](</Identify_Drives/de> "Identify Drives/de")
+  * Identify Drives/de
   * [Inno Setup Usage](<../Inno_Setup_Usage.md> "Inno Setup Usage")
   * [Install Packages](<../Install_Packages.md> "Install Packages")
   * [InstantFPC](<../InstantFPC.md> "InstantFPC")
@@ -247,7 +246,7 @@ The following 200 pages are in this category, out of 235 total.
   * [macOS Static Libraries](<../macOS_Static_Libraries.md> "macOS Static Libraries")
   * [Manager Worker Threads System](<../Manager_Worker_Threads_System.md> "Manager Worker Threads System")
   * [MasterDetail](<../MasterDetail.md> "MasterDetail")
-  * [MasterDetail/ja](</MasterDetail/ja> "MasterDetail/ja")
+  * MasterDetail/ja
   * [MS Access](<../MS_Access.md> "MS Access")
   * [MSEide MSEgui first step](<../MSEide_MSEgui_first_step.md> "MSEide MSEgui first step")
   * [MSEide MSEgui Howto](<../MSEide_MSEgui_Howto.md> "MSEide MSEgui Howto")
@@ -271,7 +270,7 @@ The following 200 pages are in this category, out of 235 total.
   * [ODBCConn](<../ODBCConn.md> "ODBCConn")
   * [Office Automation](<../Office_Automation.md> "Office Automation")
   * [OpenGL Tutorial](<../OpenGL_Tutorial.md> "OpenGL Tutorial")
-  * [OpenGL Tutorial/de](</OpenGL_Tutorial/de> "OpenGL Tutorial/de")
+  * OpenGL Tutorial/de
   * [Oracle](<../Oracle.md> "Oracle")
   * [Other Firebird libraries](<../Other_Firebird_libraries.md> "Other Firebird libraries")
 
@@ -290,7 +289,7 @@ The following 200 pages are in this category, out of 235 total.
   * [postgres](<../postgres.md> "postgres")
   * [Programming Using Objects](<../Programming_Using_Objects.md> "Programming Using Objects")
   * [Programming Using Objects Page 2](<../Programming_Using_Objects_Page_2.md> "Programming Using Objects Page 2")
-  * [Programming Using Objects/ja](</Programming_Using_Objects/ja> "Programming Using Objects/ja")
+  * Programming Using Objects/ja
 
 
 

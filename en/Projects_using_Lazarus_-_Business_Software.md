@@ -1,6 +1,6 @@
 # Projects using Lazarus - Business Software
 
-│ **[Deutsch (de)](</Projects_using_Lazarus_-_Business_Software/de> "Projects using Lazarus - Business Software/de")** │  **English (en)** │ 
+│ **English (en)** │
 
 **[Projects using  
 Free Pascal](<Projects_using_Free_Pascal.md> "Projects using Free Pascal")** Business Software  

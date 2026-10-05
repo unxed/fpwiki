@@ -2,7 +2,7 @@
 
 Redirect to:
 
-  * [AVR Embedded Tutorial - Software I2C / TWI/de](</index.php?title=AVR_Embedded_Tutorial_-_Software_I2C_/_TWI/de&redirect=no> "AVR Embedded Tutorial - Software I2C / TWI/de")
+  * AVR Embedded Tutorial - Software I2C / TWI/de
 
 ---
 

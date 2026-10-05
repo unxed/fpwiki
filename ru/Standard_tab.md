@@ -1,7 +1,6 @@
 # Standard tab
 
-│ **[English (en)](<../en/Standard_tab.md> "Standard tab")** │  **[español (es)](</Standard_tab/es> "Standard tab/es")** │  **[suomi (fi)](</Standard_tab/fi> "Standard tab/fi")** │  **[français (fr)](</Standard_tab/fr> "Standard tab/fr")** │  **[日本語 (ja)](</Standard_tab/ja> "Standard tab/ja")** │  **[polski (pl)](</Standard_tab/pl> "Standard tab/pl")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Standard_tab.md>)** │  **русский (ru)** │
 
 Вкладка **Standard** [палитры компонентов](<Component_Palette.md> "Component Palette/ru"), содержит список элементарных компонентов, которые могут быть использованы на форме. 
 

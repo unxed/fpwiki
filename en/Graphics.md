@@ -1,7 +1,6 @@
 # Graphics
 
-│ **English (en)** │  [**français (fr)**](</Graphics/fr> "Graphics/fr") │  [**中文（中国大陆）‎ (zh_CN)**](</Graphics/zh_CN> "Graphics/zh CN") │    
-****
+│ **English (en)** │
 
 This is a brief guide on how to create simple graphics in Lazarus 
 

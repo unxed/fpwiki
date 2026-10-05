@@ -1,7 +1,6 @@
 # TUpDown
 
-│ **[English (en)](<../en/TUpDown.md> "TUpDown")** │  **[suomi (fi)](</TUpDown/fi> "TUpDown/fi")** │  **[français (fr)](</TUpDown/fr> "TUpDown/fr")** │  **русский (ru)** │  **[中文（中国大陆）‎ (zh_CN)](</TUpDown/zh_CN> "TUpDown/zh CN")** │    
-****
+│ **[English (en)](<../en/TUpDown.md>)** │  **русский (ru)** │
 
 Компонент **TUpDown** [![tupdown.png](https://wiki.freepascal.org/images/f/f4/tupdown.png)](</File:tupdown.png>) представляет собой двухкнопочный элемент управления, помогающий увеличивать/уменьшать некоторое значение, определенное через свойства _Min_ (минимальное значение), _Max_ (макисмальное значение) и _Increment_ (шаг изменения значения). 
 

@@ -1,7 +1,6 @@
 # Program
 
-│ **[Deutsch (de)](</Program/de> "Program/de")** │  **[English (en)](<../en/Program.md> "Program")** │  **[suomi (fi)](</Program/fi> "Program/fi")** │  **[français (fr)](</Program/fr> "Program/fr")** │  **[Bahasa Indonesia (id)](</Program/id> "Program/id")** │  **[italiano (it)](</Program/it> "Program/it")** │  **[português (pt)](</Program/pt> "Program/pt")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Program.md>)** │  **русский (ru)** │
 
 Понятие **программа** означает либо [исполняемая программа](<Executable_program.md> "Executable program/ru"), т.е. самодостаточное и запускаемое [приложение](<../en/Application.md> "Application"), либо часть [файла](</File> "File") (файлов) с [исходным кодом](<../en/Source_code.md> "Source code") на языке [Pascal](<../en/Pascal.md> "Pascal"), который может быть скомпилирован и не объявлен в виде [модуля](<../en/Unit.md> "Unit") или [библиотеки](<../en/Library.md> "Library"). Иногда оно называется главной программой. 
 

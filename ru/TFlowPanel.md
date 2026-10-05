@@ -1,7 +1,6 @@
 # TFlowPanel
 
-│ **[English (en)](<../en/TFlowPanel.md> "TFlowPanel")** │  **[suomi (fi)](</TFlowPanel/fi> "TFlowPanel/fi")** │  **[français (fr)](</TFlowPanel/fr> "TFlowPanel/fr")** │  **[日本語 (ja)](</TFlowPanel/ja> "TFlowPanel/ja")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TFlowPanel.md>)** │  **русский (ru)** │
 
 **TFlowPanel** [![tflowpanel.png](https://wiki.freepascal.org/images/3/3b/tflowpanel.png)](</File:tflowpanel.png>) представляет собой компонент для создания панели, которая может содержать 'плавающие' компоненты (другие панели) в свойстве _ControlList_. Компонент **TFlowPanel** является потомком [TWinControl](</index.php?title=TWinControl/ru&action=edit&redlink=1> "TWinControl/ru \(page does not exist\)") и доступен на вкладке [Additional](<Additional_tab.md> "Additional tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). Элемент управления **TFlowPanel** работает как визуальный контейнер для других компонентов, не имеющих фиксированное положение, которые могут 'плавать', поскольку границы могут изменяться (из-за изменения размера окна или поворота экрана устройства). 
 

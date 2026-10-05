@@ -1,8 +1,6 @@
 # IDE Window: Package Editor
 
-│ **[Deutsch (de)](</IDE_Window:_Package_Editor/de> "IDE Window: Package Editor/de")** │  **English (en)** │  **[suomi (fi)](</IDE_Window:_Package_Editor/fi> "IDE Window: Package Editor/fi")** │  **[français (fr)](</IDE_Window:_Package_Editor/fr> "IDE Window: Package Editor/fr")** │  **[日本語 (ja)](</IDE_Window:_Package_Editor/ja> "IDE Window: Package Editor/ja")** │  **[português (pt)](</IDE_Window:_Package_Editor/pt> "IDE Window: Package Editor/pt")** │    
-****  
-****
+│ **English (en)** │
 
 ## Navigation
 

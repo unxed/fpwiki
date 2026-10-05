@@ -1,7 +1,6 @@
 # Using INI Files
 
-│ **[العربية (ar)](</Using_INI_Files/ar> "Using INI Files/ar")** │  **[Deutsch (de)](</Using_INI_Files/de> "Using INI Files/de")** │  **English (en)** │  **[español (es)](</Using_INI_Files/es> "Using INI Files/es")** │  **[suomi (fi)](</Using_INI_Files/fi> "Using INI Files/fi")** │  **[français (fr)](</Using_INI_Files/fr> "Using INI Files/fr")** │  **[polski (pl)](</Using_INI_Files/pl> "Using INI Files/pl")** │  **[русский (ru)](<../ru/Using_INI_Files.md> "Using INI Files/ru")** │  **[中文（中国大陆） (zh_CN)](</Using_INI_Files/zh_CN> "Using INI Files/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Using_INI_Files.md>)** │
 
 ## Contents
 

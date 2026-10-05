@@ -1,7 +1,6 @@
 # Published
 
-│ **[Deutsch (de)](</Published/de> "Published/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
   
 Back to [Reserved words](<Reserved_words.md> "Reserved words"). 

@@ -1,7 +1,6 @@
 # TCheckListBox
 
-│ **English (en)** │  **[suomi (fi)](</TCheckListBox/fi> "TCheckListBox/fi")** │  **[français (fr)](</TCheckListBox/fr> "TCheckListBox/fr")** │  **[polski (pl)](</TCheckListBox/pl> "TCheckListBox/pl")** │  **[русский (ru)](<../ru/TCheckListBox.md> "TCheckListBox/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TCheckListBox.md>)** │
 
 A **TCheckListBox** [![tchecklistbox.png](https://wiki.freepascal.org/images/6/62/tchecklistbox.png)](</File:tchecklistbox.png>) is a component that shows a (scrollable) list of checkboxes where user can make multiple selections. It is available from the [Additional tab](<Additional_tab.md> "Additional tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

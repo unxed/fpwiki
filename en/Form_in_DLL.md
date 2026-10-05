@@ -1,7 +1,6 @@
 # Form in DLL
 
-│ **English (en)** │  **[français (fr)](</Form_in_DLL/fr> "Form in DLL/fr")** │  **[русский (ru)](<../ru/Form_in_DLL.md> "Form in DLL/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Form_in_DLL.md>)** │
 
 The following application and library demonstrate you how to show a modal and a non-modal form and create a custom component on application form from a DLL library. Tested on win32 and Linux/Gtk2 with Lazarus 1.7 trunk. 
 

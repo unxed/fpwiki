@@ -1,7 +1,6 @@
 # fpwebview
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 ## Contents
 

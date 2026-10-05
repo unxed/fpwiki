@@ -1,7 +1,6 @@
 # Xor
 
-│ [**Deutsch (de)**](</Xor/de> "Xor/de") │  [**English (en)**](<../en/Xor.md> "Xor") │  [**suomi (fi)**](</Xor/fi> "Xor/fi") │  [**français (fr)**](</Xor/fr> "Xor/fr") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Xor.md>)** │  **русский (ru)** │
 
 ## Contents
 

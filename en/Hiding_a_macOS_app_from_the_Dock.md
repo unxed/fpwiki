@@ -1,6 +1,6 @@
 # Hiding a macOS app from the Dock
 
-│ **English (en)** │ 
+│ **English (en)** │
 
 ## Contents
 

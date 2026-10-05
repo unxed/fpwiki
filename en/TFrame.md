@@ -1,7 +1,6 @@
 # TFrame
 
-│ **[Deutsch (de)](</TFrame/de> "TFrame/de")** │  **English (en)** │  **[français (fr)](</TFrame/fr> "TFrame/fr")** │  **[русский (ru)](<../ru/TFrame.md> "TFrame/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TFrame.md>)** │
 
 **TFrame** [![tframe.png](https://wiki.freepascal.org/images/4/4d/tframe.png)](</File:tframe.png>) is a named container for components and very similar to [TForms](<TForm.md> "TForm"). Their unique ability is that they can be embedded into forms or other frames in the designer. As forms they are stored in two files: the code is stored in .pas file and the design in the corresponding .lfm file. 
 

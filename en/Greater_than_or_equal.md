@@ -1,7 +1,6 @@
 # Greater than or equal
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 >= 
 

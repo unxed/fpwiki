@@ -6,8 +6,7 @@ This article applies to [Windows](</Category:Windows> "Category:Windows") only.
 
 See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **[Deutsch (de)](</WindowsVersion/de> "WindowsVersion/de")** │  **[English (en)](<WindowsVersion.md> "WindowsVersion")** │  **[русский (ru)](<../ru/WindowsVersion.md> "WindowsVersion/ru")** │    
-****
+│ **English (en)** │
 
   
 This article is about Windows programming. Obtaining information on the version of the running Windows instance is important for many purposes. 

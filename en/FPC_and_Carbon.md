@@ -16,8 +16,7 @@ This article applies to [iOS](</Category:iOS> "Category:iOS") only.
 
 See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 Carbon is a procedural API currently available on macOS and Mac OS Classic 8.1 or later. It can be utilized to create full-fledged native Macintosh applications integrated with its Aqua look. An alternative to the 32 bit Carbon API is Apple's 64 bit [Cocoa API](<Cocoa_Interface.md> "Cocoa Interface"). This document offers specific information about how to use the Carbon API using FPC. 
 

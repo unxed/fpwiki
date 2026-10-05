@@ -1,7 +1,6 @@
 # PalmOS port
 
-│ **English (en)** │  **[español (es)](</PalmOS_port/es> "PalmOS port/es")** │  **[português (pt)](</PalmOS_port/pt> "PalmOS port/pt")** │    
-****
+│ **English (en)** │
 
 Currently, the PalmOS port is a retro, "just for fun" port of the compiler and runtime libraries, based on an earlier, incomplete effort from over a decade ago. The port was originally started by Mazen Neifer. Peter Vreman ported PalmOS API headers. m68k port and 3.1.x+ compiler support and maintenance by [Károly Balogh](</User:Chain-Q> "User:Chain-Q"). The PalmOS port is a crosscompiler-only target. 
 

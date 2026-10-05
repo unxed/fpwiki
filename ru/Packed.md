@@ -1,7 +1,6 @@
 # Packed
 
-│ **[Deutsch (de)](</Packed/de> "Packed/de")** │  **[English (en)](<../en/Packed.md> "Packed")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Packed.md>)** │  **русский (ru)** │
 
 ## Уплотнение структур
 

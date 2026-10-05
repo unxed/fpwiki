@@ -1,7 +1,6 @@
 # UnicodeString
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
   
 Back to [data types](<Data_type.md> "Data type"). 

@@ -1,7 +1,6 @@
 # fpcunit
 
-│ **English (en)** │  **[français (fr)](</fpcunit/fr> "fpcunit/fr")** │  **[polski (pl)](</fpcunit/pl> "fpcunit/pl")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

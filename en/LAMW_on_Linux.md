@@ -1,6 +1,6 @@
 # LAMW on Linux
 
-│ **English (en)** │  **[polski (pl)](</LAMW_on_Linux/pl> "LAMW on Linux/pl")** │ 
+│ **English (en)** │
 
 For help installing an Android [LAMW](<LAMW.md> "LAMW") development environment on Linux, there are several projects, tutorials, and how-to posts in the forums. Android development has a large dependency stack (java, gradle, ant, build-tools, Android SDK version, NDK version, etc), so tutorials for setting up a development environment tend to eventually break if not regularly tested and updated. 
 

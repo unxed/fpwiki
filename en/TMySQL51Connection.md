@@ -1,7 +1,6 @@
 # TMySQL51Connection
 
-│ **English (en)** │  [**français (fr)**](</TMySQL51Connection/fr> "TMySQL51Connection/fr") │  [**русский (ru)**](<../ru/TMySQL51Connection.md> "TMySQL51Connection/ru") │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TMySQL51Connection.md>)** │
 
 [![Note-icon.png](https://wiki.freepascal.org/images/b/be/Note-icon.png)](</File:Note-icon.png>)
 

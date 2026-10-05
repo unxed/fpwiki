@@ -1,7 +1,6 @@
 # Trunc
 
-│ **English (en)** │  **[suomi (fi)](</Trunc/fi> "Trunc/fi")** │  **[русский (ru)](<../ru/Trunc.md> "Trunc/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Trunc.md>)** │
 
 The [Standard Pascal](<Standard_Pascal.md> "Standard Pascal") function [`trunc`](<https://www.freepascal.org/docs-html/rtl/system/trunc.html>) returns the integer part of a [`real`-type value](<Real.md> "Real") rounded toward zero. 
 

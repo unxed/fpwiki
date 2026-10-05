@@ -1,8 +1,7 @@
 # Clipboard
 
-│ **[Deutsch (de)](</Clipboard/de> "Clipboard/de")** │  **English (en)** │  **[magyar (hu)](</Clipboard/hu> "Clipboard/hu")** │  **[русский (ru)](<../ru/Clipboard.md> "Clipboard/ru")** │    
-****  
-  
+│ **English (en)** │  **[русский (ru)](<../ru/Clipboard.md>)** │
+
 
 
 ## Contents

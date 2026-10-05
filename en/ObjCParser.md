@@ -1,6 +1,6 @@
 # ObjCParser
 
-│ **English (en)** │ 
+│ **English (en)** │
 
 ## Contents
 

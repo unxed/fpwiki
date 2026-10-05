@@ -1,7 +1,6 @@
 # Str
 
-│ [**Deutsch (de)**](</Str/de> "Str/de") │  [**English (en)**](<../en/Str.md> "Str") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Str.md>)** │  **русский (ru)** │
 
 Процедура **Str** преобразовывает число ([Real](<Real.md> "Real/ru"), [Integer](<Integer.md> "Integer/ru"), [Longint](<Longint.md> "Longint/ru"), [Byte](<Byte.md> "Byte/ru") или [Word](<Word.md> "Word/ru")) в строковое представление в соответствии с параметрами форматирования **Width** и **Decimals**. 
 

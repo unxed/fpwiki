@@ -12,8 +12,7 @@
 
 См. также: [Multiplatform Programming Guide](<../en/Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **[English (en)](<../en/Xcode.md> "Xcode")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Xcode.md>)** │  **русский (ru)** │
 
 ## Contents
 

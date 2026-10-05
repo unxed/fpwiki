@@ -1,6 +1,6 @@
 # AVR Embedded Tutorial - EEPROM
 
-│ **[Deutsch (de)](</AVR_Embedded_Tutorial_-_EEPROM/de> "AVR Embedded Tutorial - EEPROM/de")** │  **English (en)** │ 
+│ **English (en)** │
 
 ## Contents
 

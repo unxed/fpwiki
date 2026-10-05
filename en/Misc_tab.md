@@ -1,7 +1,6 @@
 # Misc tab
 
-│ **English (en)** │  **[suomi (fi)](</Misc_tab/fi> "Misc tab/fi")** │  **[français (fr)](</Misc_tab/fr> "Misc tab/fr")** │  **[русский (ru)](<../ru/Misc_tab.md> "Misc tab/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Misc_tab.md>)** │
 
 The **Misc tab** of the [Component Palette](<Component_Palette.md> "Component Palette") lists various (non related) components of the [Lazarus Component Library](<LCL.md> "LCL")
 
@@ -33,7 +32,7 @@ Icon | Component | Description | Online Docs
 [![tidedialoglayoutstorage.png](https://wiki.freepascal.org/images/9/94/tidedialoglayoutstorage.png)](</File:tidedialoglayoutstorage.png>) | [TIDEDialogLayoutStorage](</index.php?title=TIDEDialogLayoutStorage&action=edit&redlink=1> "TIDEDialogLayoutStorage \(page does not exist\)") |  |   
 [Component Palette](<Component_Palette.md> "Component Palette")  
 ---  
-[Standard/ja](</Standard_tab/ja> "Standard tab/ja") \- [Additional/ja](</Additional_tab/ja> "Additional tab/ja") \- [Common Controls/ja](</index.php?title=Common_Controls_tab/ja&action=edit&redlink=1> "Common Controls tab/ja \(page does not exist\)") \- [Dialogs/ja](</index.php?title=Dialogs_tab/ja&action=edit&redlink=1> "Dialogs tab/ja \(page does not exist\)") \- [Data Controls/ja](</Data_Controls_tab/ja> "Data Controls tab/ja") \- [Data Access/ja](</Data_Access_tab/ja> "Data Access tab/ja") \- [System](<System_tab.md> "System tab") \- Misc \- [LazControls](<LazControls_tab.md> "LazControls tab") \- [RTTI](<RTTI_tab.md> "RTTI tab") \- [SQLdb](<SQLdb_tab.md> "SQLdb tab") \- [Pascal Script](<Pascal_Script_tab.md> "Pascal Script tab") \- [SynEdit](<SynEdit_tab.md> "SynEdit tab") \- [Chart](<Chart_tab.md> "Chart tab") \- [IPro](<IPro_tab.md> "IPro tab")
+Standard/ja \- Additional/ja \- Common Controls/ja \- Dialogs/ja \- Data Controls/ja \- Data Access/ja \- [System](<System_tab.md> "System tab") \- Misc \- [LazControls](<LazControls_tab.md> "LazControls tab") \- [RTTI](<RTTI_tab.md> "RTTI tab") \- [SQLdb](<SQLdb_tab.md> "SQLdb tab") \- [Pascal Script](<Pascal_Script_tab.md> "Pascal Script tab") \- [SynEdit](<SynEdit_tab.md> "SynEdit tab") \- [Chart](<Chart_tab.md> "Chart tab") \- [IPro](<IPro_tab.md> "IPro tab")
 
 ---
 

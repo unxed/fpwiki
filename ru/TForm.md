@@ -1,7 +1,6 @@
 # TForm
 
-│ **[Deutsch (de)](</TForm/de> "TForm/de")** │  **[English (en)](<../en/TForm.md> "TForm")** │  **[suomi (fi)](</TForm/fi> "TForm/fi")** │  **[français (fr)](</TForm/fr> "TForm/fr")** │  **[日本語 (ja)](</TForm/ja> "TForm/ja")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</TForm/zh_CN> "TForm/zh CN")** │    
-****
+│ **[English (en)](<../en/TForm.md>)** │  **русский (ru)** │
 
 **TForm** является классом объекта '**форма'**. Все формы, созданные во время разработки, могут быть получены из **TForm**. 
 

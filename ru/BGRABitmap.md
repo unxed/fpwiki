@@ -1,7 +1,6 @@
 # BGRABitmap
 
-│ **[Deutsch (de)](</BGRABitmap/de> "BGRABitmap/de")** │  **[English (en)](<../en/BGRABitmap.md> "BGRABitmap")** │  **[español (es)](</BGRABitmap/es> "BGRABitmap/es")** │  **[français (fr)](</BGRABitmap/fr> "BGRABitmap/fr")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</BGRABitmap/zh_CN> "BGRABitmap/zh CN")** │    
-****
+│ **[English (en)](<../en/BGRABitmap.md>)** │  **русский (ru)** │
 
 [![bgrabitmap logo.jpg](https://wiki.freepascal.org/images/7/7b/bgrabitmap_logo.jpg)](</File:bgrabitmap_logo.jpg>)
 

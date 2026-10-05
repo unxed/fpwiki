@@ -1,7 +1,6 @@
 # subrange types
 
-│ **[Deutsch (de)](</subrange_types/de> "subrange types/de")** │  **English (en)** │  **[français (fr)](</subrange_types/fr> "subrange types/fr")** │    
-****
+│ **English (en)** │
 
   
 Back to [data types](<Data_type.md> "Data type"). 

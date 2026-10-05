@@ -1,8 +1,7 @@
 # TFBAdmin
 
-│ **English (en)** │  **[français (fr)](</TFBAdmin/fr> "TFBAdmin/fr")** │    
-****  
-  
+│ **English (en)** │
+
 ---  
 [**Databases portal**](<Portal_Databases.md> "Portal:Databases")  
 References: 

@@ -1,7 +1,6 @@
 # Build custom dock manager
 
-│ **[English (en)](<../en/Build_custom_dock_manager.md> "Build custom dock manager")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Build_custom_dock_manager.md>)** │  **русский (ru)** │
 
 ## Contents
 

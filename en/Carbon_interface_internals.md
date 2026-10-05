@@ -1,6 +1,6 @@
 # Carbon interface internals
 
-│ **[Deutsch (de)](</Carbon_interface_internals/de> "Carbon interface internals/de")** │  **English (en)** │ 
+│ **English (en)** │
 
 [![macOSlogo.png](https://wiki.freepascal.org/images/1/15/macOSlogo.png)](</File:macOSlogo.png>)
 

@@ -1,7 +1,6 @@
 # TSynPerlSyn
 
-│ **English (en)** │  [**français (fr)**](</TSynPerlSyn/fr> "TSynPerlSyn/fr") │  [**русский (ru)**](<../ru/TSynPerlSyn.md> "TSynPerlSyn/ru") │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TSynPerlSyn.md>)** │
 
 **TSynPerlSyn** [![tsynperlsyn.png](https://wiki.freepascal.org/images/6/63/tsynperlsyn.png)](</File:tsynperlsyn.png>) is a component that provides the Perl-language syntaxchecking-part of syntax-highlighting editing. It is part of the [SynEdit](<SynEdit.md> "SynEdit") package and is available under the [SynEdit tab](<SynEdit_tab.md> "SynEdit tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

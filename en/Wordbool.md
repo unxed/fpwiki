@@ -1,7 +1,6 @@
 # WordBool
 
-│ **[Deutsch (de)](</WordBool/de> "WordBool/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
   
 Back to [data types](<Data_type.md> "Data type"). 

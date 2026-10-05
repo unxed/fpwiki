@@ -1,7 +1,6 @@
 # TSavePictureDialog
 
-│ **[English (en)](<../en/TSavePictureDialog.md> "TSavePictureDialog")** │  **[français (fr)](</TSavePictureDialog/fr> "TSavePictureDialog/fr")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</TSavePictureDialog/zh_CN> "TSavePictureDialog/zh CN")** │    
-****
+│ **[English (en)](<../en/TSavePictureDialog.md>)** │  **русский (ru)** │
 
 **TSavePictureDialog** [![tsavepicturedialog.png](https://wiki.freepascal.org/images/c/c7/tsavepicturedialog.png)](</File:tsavepicturedialog.png>) это диалоговое окно, которое помогает в сохранении графических файлов. Оно располагается на вкладке [Dialogs](<Dialogs_tab.md> "Dialogs tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

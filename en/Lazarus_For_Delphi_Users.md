@@ -1,7 +1,6 @@
 # Lazarus For Delphi Users
 
-│ **[Deutsch (de)](</Lazarus_For_Delphi_Users/de> "Lazarus For Delphi Users/de")** │  **English (en)** │  **[español (es)](</Lazarus_For_Delphi_Users/es> "Lazarus For Delphi Users/es")** │  **[français (fr)](</Lazarus_For_Delphi_Users/fr> "Lazarus For Delphi Users/fr")** │  **[日本語 (ja)](</Lazarus_For_Delphi_Users/ja> "Lazarus For Delphi Users/ja")** │  **[한국어 (ko)](</Lazarus_For_Delphi_Users/ko> "Lazarus For Delphi Users/ko")** │  **[português (pt)](</Lazarus_For_Delphi_Users/pt> "Lazarus For Delphi Users/pt")** │  **[русский (ru)](<../ru/Lazarus_For_Delphi_Users.md> "Lazarus For Delphi Users/ru")** │  **[slovenčina (sk)](</Lazarus_For_Delphi_Users/sk> "Lazarus For Delphi Users/sk")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Lazarus_For_Delphi_Users.md>)** │
 
 This writeup is for people who are interested in Lazarus and already know Delphi. It describes the differences between the two. 
 

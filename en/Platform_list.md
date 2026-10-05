@@ -1,7 +1,6 @@
 # Platform list
 
-│ **[العربية (ar)](</Platform_list/ar> "Platform list/ar")** │  **[Deutsch (de)](</Platform_list/de> "Platform list/de")** │  **English (en)** │  **[français (fr)](</Platform_list/fr> "Platform list/fr")** │  **[Bahasa Indonesia (id)](</Platform_list/id> "Platform list/id")** │  **[português (pt)](</Platform_list/pt> "Platform list/pt")** │  **[русский (ru)](<../ru/Platform_list.md> "Platform list/ru")** │  **[中文（中国大陆） (zh_CN)](</Platform_list/zh_CN> "Platform list/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Platform_list.md>)** │
 
 This list presents all processor architectures and operating system platforms supported by [Free Pascal](<Free_Pascal.md> "Free Pascal") (including experimental implementations). 
 

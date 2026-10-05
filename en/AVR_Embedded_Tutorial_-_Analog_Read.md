@@ -1,6 +1,6 @@
 # AVR Embedded Tutorial - Analog Read
 
-│ [**Deutsch (de)**](</AVR_Embedded_Tutorial_-_Analog_Read/de> "AVR Embedded Tutorial - Analog Read/de") │  **English (en)** │ 
+│ **English (en)** │
 
 ## Contents
 

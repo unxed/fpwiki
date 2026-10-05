@@ -1,7 +1,6 @@
 # SysRec
 
-│ **English (en)** │  **[español (es)](</SysRec/es> "SysRec/es")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

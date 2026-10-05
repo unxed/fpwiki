@@ -1,7 +1,6 @@
 # NativeUInt
 
-│ **[Deutsch (de)](</NativeUInt/de> "NativeUInt/de")** │  **English (en)** │  **[français (fr)](</NativeUInt/fr> "NativeUInt/fr")** │    
-****
+│ **English (en)** │
 
   
 Back to the [data types](<Data_type.md> "Data type"). 

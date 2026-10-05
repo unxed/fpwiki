@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Chapter 3/Boolean Expressions
 
-│ **[български (bg)](</Basic_Pascal_Tutorial/Chapter_3/Boolean_Expressions/bg> "Basic Pascal Tutorial/Chapter 3/Boolean Expressions/bg")** │  **English (en)** │  **[français (fr)](</Basic_Pascal_Tutorial/Chapter_3/Boolean_Expressions/fr> "Basic Pascal Tutorial/Chapter 3/Boolean Expressions/fr")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Chapter_3/Boolean_Expressions/ja> "Basic Pascal Tutorial/Chapter 3/Boolean Expressions/ja")** │  **[中文（中国大陆） (zh_CN)](</Basic_Pascal_Tutorial/Chapter_3/Boolean_Expressions/zh_CN> "Basic Pascal Tutorial/Chapter 3/Boolean Expressions/zh CN")** │    
-****
+│ **English (en)** │
 
 [ ◄ ](<Sequential_control.md> "Basic Pascal Tutorial/Chapter 3/Sequential control") | [ ▲ ](<../Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<IF.md> "Basic Pascal Tutorial/Chapter 3/IF")  
 ---|---|---  

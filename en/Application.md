@@ -1,7 +1,6 @@
 # Application
 
-│ **[Deutsch (de)](</Application/de> "Application/de")** │  **English (en)** │  **[français (fr)](</Application/fr> "Application/fr")** │  **[Bahasa Indonesia (id)](</Application/id> "Application/id")** │  **[polski (pl)](</Application/pl> "Application/pl")** │    
-****
+│ **English (en)** │
 
 An **application** is an [executable program](<Executable_program.md> "Executable program") which is provided data in the form of 
 

@@ -1,7 +1,6 @@
 # Spook's Panel Components
 
-│ **English (en)** │  **[中文（中国大陆） (zh_CN)](</Spook%27s_Panel_Components/zh_CN> "Spook's Panel Components/zh CN")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

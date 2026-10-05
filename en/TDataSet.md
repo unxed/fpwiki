@@ -1,7 +1,6 @@
 # TDataSet
 
-│ **English (en)** │  **[français (fr)](</TDataSet/fr> "TDataSet/fr")** │  **[日本語 (ja)](</TDataSet/ja> "TDataSet/ja")** │  **[polski (pl)](</TDataSet/pl> "TDataSet/pl")** │  **[русский (ru)](<../ru/TDataSet.md> "TDataSet/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TDataSet.md>)** │
 
 **TDataSet** is the main link to the actual data in a database. A TDataSet descendant acts like a cursor on a table or query-result. 
     

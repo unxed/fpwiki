@@ -1,7 +1,6 @@
 # lazbuild
 
-│ **[Deutsch (de)](</lazbuild/de> "lazbuild/de")** │  **English (en)** │  **[español (es)](</lazbuild/es> "lazbuild/es")** │  **[français (fr)](</lazbuild/fr> "lazbuild/fr")** │    
-****
+│ **English (en)** │
 
 lazbuild is a command line utility to compile Lazarus projects and packages, as well as the Lazarus IDE itself. When you built Lazarus yourself you can find the lazbuild executable in the Lazarus source directory together with the lazarus executable. 
 

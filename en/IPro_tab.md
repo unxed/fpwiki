@@ -1,7 +1,6 @@
 # IPro tab
 
-│ **English (en)** │  **[français (fr)](</IPro_tab/fr> "IPro tab/fr")** │  **[русский (ru)](<../ru/IPro_tab.md> "IPro tab/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/IPro_tab.md>)** │
 
 The **IPro tab** of the [Component Palette](<Component_Palette.md> "Component Palette") lists components related to display of html pages. This is needed internally by Lazarus to show the html-formatted popup coding hints and the chm help files. 
 

@@ -1,7 +1,6 @@
 # Lazarus Snapshots Downloads
 
-│ **English (en)** │  **[suomi (fi)](</Lazarus_Snapshots_Downloads/fi> "Lazarus Snapshots Downloads/fi")** │  **[français (fr)](</Lazarus_Snapshots_Downloads/fr> "Lazarus Snapshots Downloads/fr")** │  **[magyar (hu)](</Lazarus_Snapshots_Downloads/hu> "Lazarus Snapshots Downloads/hu")** │  **[italiano (it)](</Lazarus_Snapshots_Downloads/it> "Lazarus Snapshots Downloads/it")** │  **[português (pt)](</Lazarus_Snapshots_Downloads/pt> "Lazarus Snapshots Downloads/pt")** │  **[русский (ru)](<../ru/Lazarus_Snapshots_Downloads.md> "Lazarus Snapshots Downloads/ru")** │  **[中文（中国大陆） (zh_CN)](</Lazarus_Snapshots_Downloads/zh_CN> "Lazarus Snapshots Downloads/zh CN")** │  **[中文（臺灣） (zh_TW)](</Lazarus_Snapshots_Downloads/zh_TW> "Lazarus Snapshots Downloads/zh TW")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Lazarus_Snapshots_Downloads.md>)** │
 
 ## Contents
 

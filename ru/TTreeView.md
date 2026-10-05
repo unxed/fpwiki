@@ -1,7 +1,6 @@
 # TTreeView
 
-│ [**English (en)**](<../en/TTreeView.md> "TTreeView") │  [**español (es)**](</TTreeView/es> "TTreeView/es") │  [**suomi (fi)**](</TTreeView/fi> "TTreeView/fi") │  [**français (fr)**](</TTreeView/fr> "TTreeView/fr") │  [**magyar (hu)**](</TTreeView/hu> "TTreeView/hu") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TTreeView.md>)** │  **русский (ru)** │
 
 [**TTreeView**](<https://lazarus-ccr.sourceforge.io/docs/lcl/comctrls/ttreeview.html>) [![ttreeview.png](https://wiki.freepascal.org/images/c/cd/ttreeview.png)](</File:ttreeview.png>) является графическим элементом управления, который представляет иерархическое представление информации. Каждый элемент может иметь несколько подпунктов. 
 

@@ -1,7 +1,6 @@
 # fpbrowser
 
-│ **English (en)** │  **[français (fr)](</fpbrowser/fr> "fpbrowser/fr")** │    
-****
+│ **English (en)** │
 
 fpbrowser is a web browser written in Lazarus. 
 

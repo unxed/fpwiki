@@ -1,7 +1,6 @@
 # AVR Embedded Tutorial - I²C External-Clock
 
-│ [**Deutsch (de)**](</AVR_Embedded_Tutorial_-_I%C2%B2C_External-Clock/de> "AVR Embedded Tutorial - I²C External-Clock/de") │  **English (en)** │    
-****
+│ **English (en)** │
 
 ## Contents
 

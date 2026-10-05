@@ -1,7 +1,6 @@
 # TControlBar
 
-│ [**English (en)**](<../en/TControlBar.md> "TControlBar") │  [**français (fr)**](</TControlBar/fr> "TControlBar/fr") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TControlBar.md>)** │  **русский (ru)** │
 
 **TControlBar** [![tcontrolbar.png](https://wiki.freepascal.org/images/0/0a/tcontrolbar.png)](</File:tcontrolbar.png>) является компонентом, представляющим собой контейнер для управления панелями инструментов на форме. 
 

@@ -1,7 +1,6 @@
 # ARM Embedded Tutorial - Raspberry Pi Pico Blinking the onboard LED
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 ## Introduction
 

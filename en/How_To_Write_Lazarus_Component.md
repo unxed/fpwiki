@@ -1,7 +1,6 @@
 # How To Write Lazarus Component
 
-│ **[Deutsch (de)](</How_To_Write_Lazarus_Component/de> "How To Write Lazarus Component/de")** │  **English (en)** │  **[español (es)](</How_To_Write_Lazarus_Component/es> "How To Write Lazarus Component/es")** │  **[magyar (hu)](</How_To_Write_Lazarus_Component/hu> "How To Write Lazarus Component/hu")** │  **[italiano (it)](</How_To_Write_Lazarus_Component/it> "How To Write Lazarus Component/it")** │  **[한국어 (ko)](</How_To_Write_Lazarus_Component/ko> "How To Write Lazarus Component/ko")** │  **[русский (ru)](<../ru/How_To_Write_Lazarus_Component.md> "How To Write Lazarus Component/ru")** │  **[中文（中国大陆） (zh_CN)](</How_To_Write_Lazarus_Component/zh_CN> "How To Write Lazarus Component/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/How_To_Write_Lazarus_Component.md>)** │
 
 This is a guide on how to build components. 
 

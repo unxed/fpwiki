@@ -1,7 +1,6 @@
 # MultithreadingAndCriticalsections
 
-│ **English (en)** │  **[français (fr)](</MultithreadingAndCriticalsections/fr> "MultithreadingAndCriticalsections/fr")** │    
-****
+│ **English (en)** │
 
 ## Code Snippet demonstrating Thread programming
     

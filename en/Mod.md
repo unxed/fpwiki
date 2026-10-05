@@ -1,7 +1,6 @@
 # Mod
 
-│ **[Deutsch (de)](</Mod/de> "Mod/de")** │  **English (en)** │  **[français (fr)](</Mod/fr> "Mod/fr")** │    
-****
+│ **English (en)** │
 
   
 Back to [Reserved words](<Reserved_words.md> "Reserved words"). 

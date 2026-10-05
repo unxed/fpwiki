@@ -1,7 +1,6 @@
 # Zlibar
 
-│ **[Deutsch (de)](</Zlibar/de> "Zlibar/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
 ## Contents
 

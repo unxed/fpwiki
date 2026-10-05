@@ -1,7 +1,6 @@
 # TDBLookupListBox
 
-│ **[English (en)](<../en/TDBLookupListBox.md> "TDBLookupListBox")** │  **[français (fr)](</TDBLookupListBox/fr> "TDBLookupListBox/fr")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</TDBLookupListBox/zh_CN> "TDBLookupListBox/zh CN")** │    
-****
+│ **[English (en)](<../en/TDBLookupListBox.md>)** │  **русский (ru)** │
 
 **TDBLookupListBox** [![tdblookuplistbox.png](https://wiki.freepascal.org/images/c/cf/tdblookuplistbox.png)](</File:tdblookuplistbox.png>) является компонентом в виде списка строк из связанного с ним поля [TDataSet](<TDataSet.md> "TDataSet/ru"). Данный компонент доступен на вкладке [Data Controls](<Data_Controls_tab.md> "Data Controls tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

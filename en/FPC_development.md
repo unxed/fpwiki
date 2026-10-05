@@ -1,7 +1,6 @@
 # FPC development
 
-│ **English (en)** │  **[français (fr)](</FPC_development/fr> "FPC development/fr")** │  **[magyar (hu)](</FPC_development/hu> "FPC development/hu")** │  **[Bahasa Indonesia (id)](</FPC_development/id> "FPC development/id")** │  **[日本語 (ja)](</FPC_development/ja> "FPC development/ja")** │  **[한국어 (ko)](</FPC_development/ko> "FPC development/ko")** │  **[русский (ru)](<../ru/FPC_development.md> "FPC development/ru")** │  **[svenska (sv)](</FPC_development/sv> "FPC development/sv")** │  **[Türkçe (tr)](</FPC_development/tr> "FPC development/tr")** │  **[中文（中国大陆） (zh_CN)](</FPC_development/zh_CN> "FPC development/zh CN")** │  **[中文（臺灣） (zh_TW)](</FPC_development/zh_TW> "FPC development/zh TW")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/FPC_development.md>)** │
 
 ## Development
 

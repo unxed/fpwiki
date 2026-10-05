@@ -1,7 +1,6 @@
 # Bluetooth
 
-│ **English (en)** │  **[español (es)](</Bluetooth/es> "Bluetooth/es")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

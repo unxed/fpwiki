@@ -1,7 +1,6 @@
 # Format function
 
-│ **English (en)** │  **[suomi (fi)](</Format_function/fi> "Format function/fi")** │    
-****
+│ **English (en)** │
 
 The **format** [function](<Function.md> "Function") formats a series of values into a [string](<String.md> "String"). The format function is found in the unit _[SysUtils](</index.php?title=SysUtils_unit&action=edit&redlink=1> "SysUtils unit \(page does not exist\)")_. For an in-depth explanation see the [`sysutils.format`](<https://www.freepascal.org/docs-html/rtl/sysutils/format.html>) on line documentation. 
 

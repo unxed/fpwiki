@@ -1,7 +1,6 @@
 # Lazarus- Game Developers Edition
 
-│ **English (en)** │  **[français (fr)](</Lazarus-_Game_Developers_Edition/fr> "Lazarus- Game Developers Edition/fr")** │    
-****
+│ **English (en)** │
 
 ![Light bulb](https://upload.wikimedia.org/wikipedia/commons/d/d8/Nuvola_apps_ktip.png) **Note:** This page was a working document in 2007 for creating a Lazarus installer specially targeted at Game Developers. As at October 2021, no such Games edition exists. This may however serve as a useful starting point should someone(s) undertake such a quest in the future.
 

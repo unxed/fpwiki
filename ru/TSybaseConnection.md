@@ -1,8 +1,7 @@
 # TSybaseConnection
 
-│ **[English (en)](<../en/TSybaseConnection.md> "TSybaseConnection")** │  **[français (fr)](</TSybaseConnection/fr> "TSybaseConnection/fr")** │  **русский (ru)** │    
-****  
-  
+│ **[English (en)](<../en/TSybaseConnection.md>)** │  **русский (ru)** │
+
 ---  
 [**Databases portal**](<../en/Portal_Databases.md> "Portal:Databases")  
 References: 

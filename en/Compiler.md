@@ -1,7 +1,6 @@
 # Compiler
 
-│ **[Deutsch (de)](</Compiler/de> "Compiler/de")** │  **English (en)** │  **[español (es)](</Compiler/es> "Compiler/es")** │  **[suomi (fi)](</Compiler/fi> "Compiler/fi")** │  **[français (fr)](</Compiler/fr> "Compiler/fr")** │  **[Bahasa Indonesia (id)](</Compiler/id> "Compiler/id")** │  **[português (pt)](</Compiler/pt> "Compiler/pt")** │    
-****
+│ **English (en)** │
 
 The **compiler** (in this case, the [FPC](<FPC.md> "FPC") Pascal Compiler) is the executable program that translates Pascal [source code](<Source_code.md> "Source code") into [assembly language](<Assembly_language.md> "Assembly language") to then be processed by the [assembler](<Assembler.md> "Assembler") into the [application](<Application.md> "Application") that the source code specifies. 
 

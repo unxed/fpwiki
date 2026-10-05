@@ -1,6 +1,6 @@
 # LazLogger
 
-│ **English (en)** │  **[русский (ru)](<../ru/LazLogger.md> "LazLogger/ru")** │ 
+│ **English (en)** │  **[русский (ru)](<../ru/LazLogger.md>)** │
 
 ## Contents
 

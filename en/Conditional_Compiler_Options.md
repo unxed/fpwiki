@@ -1,7 +1,6 @@
 # Conditional Compiler Options
 
-│ **English (en)** │  [**français (fr)**](</Conditional_Compiler_Options/fr> "Conditional Compiler Options/fr") │    
-****
+│ **English (en)** │
 
 ## Overview
 

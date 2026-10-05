@@ -1,7 +1,6 @@
 # CopyFile
 
-│ **English (en)** │  **[suomi (fi)](</CopyFile/fi> "CopyFile/fi")** │  **[français (fr)](</CopyFile/fr> "CopyFile/fr")** │  **[русский (ru)](<../ru/CopyFile.md> "CopyFile/ru")** │    
-****
+│ **English (en)** │
 
 [Unit](<Unit.md> "Unit"): Lazarus [fileutil](<fileutil.md> "fileutil") ([UTF-8](<UTF-8.md> "UTF-8") replacements for FPC [RTL](<RTL.md> "RTL") code and additional file/directory handling) 
     

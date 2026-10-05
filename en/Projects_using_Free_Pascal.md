@@ -1,7 +1,6 @@
 # Projects using Free Pascal
 
-│ **English (en)** │  **[فارسی (fa)](</Projects_using_Free_Pascal/fa> "Projects using Free Pascal/fa")** │  **[polski (pl)](</Projects_using_Free_Pascal/pl> "Projects using Free Pascal/pl")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

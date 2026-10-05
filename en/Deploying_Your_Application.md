@@ -1,7 +1,6 @@
 # Deploying Your Application
 
-│ **English (en)** │  **[español (es)](</Deploying_Your_Application/es> "Deploying Your Application/es")** │  **[français (fr)](</Deploying_Your_Application/fr> "Deploying Your Application/fr")** │  **[português (pt)](</Deploying_Your_Application/pt> "Deploying Your Application/pt")** │    
-****
+│ **English (en)** │
 
 You've created your application in Lazarus, tested within the IDE. Now it's time to deploy it to test it on a specific platform. 
 

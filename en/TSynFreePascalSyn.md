@@ -1,7 +1,6 @@
 # TSynFreePascalSyn
 
-│ **English (en)** │  **[français (fr)](</TSynFreePascalSyn/fr> "TSynFreePascalSyn/fr")** │  **[русский (ru)](<../ru/TSynFreePascalSyn.md> "TSynFreePascalSyn/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TSynFreePascalSyn.md>)** │
 
 **TSynFreePascalSyn** [![tsynfreepascalsyn.png](https://wiki.freepascal.org/images/a/a2/tsynfreepascalsyn.png)](</File:tsynfreepascalsyn.png>) is a component that provides the FreePascal-language syntax-checking-part of [syntax-highlighting](<Syntax_highlighting.md> "Syntax highlighting") editing. It is part of the [SynEdit](<SynEdit.md> "SynEdit") package and is available under the [SynEdit tab](<SynEdit_tab.md> "SynEdit tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

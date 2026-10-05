@@ -1,7 +1,6 @@
 # Unit
 
-│ **[Deutsch (de)](</Unit/de> "Unit/de")** │  **English (en)** │  **[español (es)](</Unit/es> "Unit/es")** │  **[suomi (fi)](</Unit/fi> "Unit/fi")** │  **[français (fr)](</Unit/fr> "Unit/fr")** │  **[português (pt)](</Unit/pt> "Unit/pt")** │  **[русский (ru)](<../ru/Unit.md> "Unit/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Unit.md>)** │
 
 A `unit` is a [source code](<Source_code.md> "Source code") file (or the [binary](<Binary.md> "Binary") compiled from that [file](</File> "File")) which was written using the [Pascal](<Pascal.md> "Pascal") programming language, and that is designed to be a single module in an [application](<Application.md> "Application") or an [object module](<Object_module.md> "Object module"). `Unit` is a [reserved word](<Reserved_word.md> "Reserved word"). It must appear before anything in the unit except comments. 
 

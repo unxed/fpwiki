@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Chapter 3/FOR..IN
 
-│ **[български (bg)](</Basic_Pascal_Tutorial/Chapter_3/FOR..IN/bg> "Basic Pascal Tutorial/Chapter 3/FOR..IN/bg")** │  **English (en)** │  **[français (fr)](</Basic_Pascal_Tutorial/Chapter_3/FOR..IN/fr> "Basic Pascal Tutorial/Chapter 3/FOR..IN/fr")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Chapter_3/FOR..IN/ja> "Basic Pascal Tutorial/Chapter 3/FOR..IN/ja")** │  **[中文（中国大陆） (zh_CN)](</Basic_Pascal_Tutorial/Chapter_3/FOR..IN/zh_CN> "Basic Pascal Tutorial/Chapter 3/FOR..IN/zh CN")** │    
-****
+│ **English (en)** │
 
 [ ◄ ](<REPEAT..md> "Basic Pascal Tutorial/Chapter 3/REPEAT..UNTIL") | [ ▲ ](<../Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Programming_Assignment.md> "Basic Pascal Tutorial/Chapter 3/Programming Assignment")  
 ---|---|---  

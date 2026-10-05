@@ -1,7 +1,6 @@
 # Data type
 
-│ **[Deutsch (de)](</Data_type/de> "Data type/de")** │  **[English (en)](<../en/Data_type.md> "Data type")** │  **[español (es)](</Data_type/es> "Data type/es")** │  **[français (fr)](</Data_type/fr> "Data type/fr")** │  **[Bahasa Indonesia (id)](</Data_type/id> "Data type/id")** │  **[italiano (it)](</Data_type/it> "Data type/it")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Data_type.md>)** │  **русский (ru)** │
 
 ## Contents
 

@@ -1,7 +1,6 @@
 # Graphics - Working with TCanvas
 
-│ **English (en)** │  **[français (fr)](</Graphics_-_Working_with_TCanvas/fr> "Graphics - Working with TCanvas/fr")** │  **[italiano (it)](</Graphics_-_Working_with_TCanvas/it> "Graphics - Working with TCanvas/it")** │  **[русский (ru)](<../ru/Graphics_-_Working_with_TCanvas.md> "Graphics - Working with TCanvas/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Graphics_-_Working_with_TCanvas.md>)** │
 
 ## Contents
 

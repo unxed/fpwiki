@@ -6,8 +6,7 @@ This article applies to [WinCE](</Category:WinCE> "Category:WinCE") only.
 
 See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **English (en)** │  **[中文（臺灣） (zh_TW)](</Windows_CE_Development_Notes/zh_TW> "Windows CE Development Notes/zh TW")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

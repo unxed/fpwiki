@@ -1,8 +1,6 @@
 # IDE Window: Make ResourceString
 
-│ **[Deutsch (de)](</IDE_Window:_Make_ResourceString/de> "IDE Window: Make ResourceString/de")** │  **English (en)** │  **[français (fr)](</IDE_Window:_Make_ResourceString/fr> "IDE Window: Make ResourceString/fr")** │  **[日本語 (ja)](</IDE_Window:_Make_ResourceString/ja> "IDE Window: Make ResourceString/ja")** │    
-****  
-****
+│ **English (en)** │
 
 This wizard helps to convert a string constant into a resourcestring. 
 

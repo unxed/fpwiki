@@ -1,7 +1,6 @@
 # FPC
 
-│ **[العربية (ar)](</FPC/ar> "FPC/ar")** │  **[Deutsch (de)](</FPC/de> "FPC/de")** │  **English (en)** │  **[español (es)](</FPC/es> "FPC/es")** │  **[فارسی (fa)](</FPC/fa> "FPC/fa")** │  **[français (fr)](</FPC/fr> "FPC/fr")** │  **[magyar (hu)](</FPC/hu> "FPC/hu")** │  **[Bahasa Indonesia (id)](</FPC/id> "FPC/id")** │  **[日本語 (ja)](</FPC/ja> "FPC/ja")** │  **[한국어 (ko)](</FPC/ko> "FPC/ko")** │  **[português (pt)](</FPC/pt> "FPC/pt")** │  **[русский (ru)](<../ru/FPC.md> "FPC/ru")** │  **[中文（中国大陆） (zh_CN)](</FPC/zh_CN> "FPC/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/FPC.md>)** │
 
 This is the main page of the **Free Pascal Compiler** (**FPC**) itself. 
 

@@ -1,7 +1,6 @@
 # Infinite loop
 
-│ **[English (en)](<../en/Infinite_loop.md> "Infinite loop")** │  **[suomi (fi)](</Infinite_loop/fi> "Infinite loop/fi")** │  **[français (fr)](</Infinite_loop/fr> "Infinite loop/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Infinite_loop.md>)** │  **русский (ru)** │
 
 Бесконечный цикл (также известный как непродуктивный или непрерывный цикл) - это цикл, который никогда не заканчивается. Операторы внутри цикла всегда повторяются. 
 

@@ -1,7 +1,6 @@
 # Angle16Deg
 
-│ **English (en)** │  **[français (fr)](</Angle16Deg/fr> "Angle16Deg/fr")** │    
-****
+│ **English (en)** │
 
 The one angle16deg is 1/16th of a degree. For example, a full circle equals 5760 (= 16*360). 
 

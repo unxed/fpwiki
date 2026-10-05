@@ -1,7 +1,6 @@
 # Autosize / Layout
 
-│ **[English (en)](<../../en/Autosize_/_Layout.md> "Autosize / Layout")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</Autosize_/_Layout/zh_CN> "Autosize / Layout/zh CN")** │  **[中文（臺灣） (zh_TW)](</Autosize_/_Layout/zh_TW> "Autosize / Layout/zh TW")** │    
-****
+│ **[English (en)](<../../en/Autosize_/_Layout.md>)** │  **русский (ru)** │
 
   
 

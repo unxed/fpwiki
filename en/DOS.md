@@ -1,6 +1,6 @@
 # DOS
 
-│ **[Deutsch (de)](</DOS/de> "DOS/de")** │  **English (en)** │ 
+│ **English (en)** │
 
 ![Light bulb](https://upload.wikimedia.org/wikipedia/commons/d/d8/Nuvola_apps_ktip.png) **Note:** This page has outdated information. Somebody is updating the information but you can help.
 

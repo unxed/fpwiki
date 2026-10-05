@@ -1,7 +1,6 @@
 # ARM Embedded Tutorial - Installing Lazarus and Free Pascal
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 ## Contents
 

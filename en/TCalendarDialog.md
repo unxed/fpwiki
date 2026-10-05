@@ -1,7 +1,6 @@
 # TCalendarDialog
 
-│ **English (en)** │  **[suomi (fi)](</TCalendarDialog/fi> "TCalendarDialog/fi")** │  **[français (fr)](</TCalendarDialog/fr> "TCalendarDialog/fr")** │  **[русский (ru)](<../ru/TCalendarDialog.md> "TCalendarDialog/ru")** │  **[中文（中国大陆） (zh_CN)](</TCalendarDialog/zh_CN> "TCalendarDialog/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TCalendarDialog.md>)** │
 
 **TCalendarDialog** [![tcalendardialog.png](https://wiki.freepascal.org/images/8/85/tcalendardialog.png)](</File:tcalendardialog.png>) is a dialog that aids in selecting a date from a calendar. It can be found on the [Dialogs tab](<Dialogs_tab.md> "Dialogs tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

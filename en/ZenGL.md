@@ -1,7 +1,6 @@
 # ZenGL
 
-│ **[Deutsch (de)](</ZenGL/de> "ZenGL/de")** │  **English (en)** │  **[español (es)](</ZenGL/es> "ZenGL/es")** │  **[français (fr)](</ZenGL/fr> "ZenGL/fr")** │  **[русский (ru)](<../ru/ZenGL.md> "ZenGL/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/ZenGL.md>)** │
 
   
 ZenGL | [Tutorial 1](<ZenGL_Tutorial.md> "ZenGL Tutorial") | [Tutorial 2](<ZenGL_Tutorial_2.md> "ZenGL Tutorial 2") | [Tutorial 3](</index.php?title=ZenGL_Tutorial_3&action=edit&redlink=1> "ZenGL Tutorial 3 \(page does not exist\)") | [Edit](<ZenGL.md>)

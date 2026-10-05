@@ -1,7 +1,6 @@
 # TSynXMLSyn
 
-│ **[English (en)](<../en/TSynXMLSyn.md> "TSynXMLSyn")** │  **[français (fr)](</TSynXMLSyn/fr> "TSynXMLSyn/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TSynXMLSyn.md>)** │  **русский (ru)** │
 
 **TSynXMLSyn** [![tsynxmlsyn.png](https://wiki.freepascal.org/images/2/29/tsynxmlsyn.png)](</File:tsynxmlsyn.png>) \- компонент, представляющий подсветку корректного синтаксиса кода на языке разметки XML при его редактировании. Данный компонент является частью пакета [SynEdit](<SynEdit.md> "SynEdit/ru") и доступен на вкладке [SynEdit](<SynEdit_tab.md> "SynEdit tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

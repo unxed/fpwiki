@@ -1,7 +1,6 @@
 # Fibonacci number
 
-│ **[Deutsch (de)](</Fibonacci_number/de> "Fibonacci number/de")** │  **English (en)** │  **[suomi (fi)](</Fibonacci_number/fi> "Fibonacci number/fi")** │  **[français (fr)](</Fibonacci_number/fr> "Fibonacci number/fr")** │  **[русский (ru)](<../ru/Fibonacci_number.md> "Fibonacci number/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Fibonacci_number.md>)** │
 
 The Fibonacci Sequence is the series of numbers: 
     

@@ -1,6 +1,6 @@
 # AVR Embedded Tutorial - Various programmers
 
-│ **[Deutsch (de)](</AVR_Embedded_Tutorial_-_Various_programmers/de> "AVR Embedded Tutorial - Various programmers/de")** │  **English (en)** │ 
+│ **English (en)** │
 
 ## Contents
 

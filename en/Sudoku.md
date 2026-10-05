@@ -1,7 +1,6 @@
 # Sudoku
 
-│ **[Deutsch (de)](</Sudoku/de> "Sudoku/de")** │  **English (en)** │  **[español (es)](</Sudoku/es> "Sudoku/es")** │  **[français (fr)](</Sudoku/fr> "Sudoku/fr")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

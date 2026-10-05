@@ -1,7 +1,6 @@
 # TReplaceDialog
 
-│ **[English (en)](<../en/TReplaceDialog.md> "TReplaceDialog")** │  **[français (fr)](</TReplaceDialog/fr> "TReplaceDialog/fr")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</TReplaceDialog/zh_CN> "TReplaceDialog/zh CN")** │    
-****
+│ **[English (en)](<../en/TReplaceDialog.md>)** │  **русский (ru)** │
 
 **TReplaceDialog** [![treplacedialog.png](https://wiki.freepascal.org/images/9/9c/treplacedialog.png)](</File:treplacedialog.png>) компонент, позволяет найти и заменить текстовую информацию. Он расположен на вкладке [Dialogs](<Dialogs_tab.md> "Dialogs tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

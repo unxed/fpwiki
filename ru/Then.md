@@ -1,7 +1,7 @@
 # Then
 
-│ **[Deutsch (de)](</Then/de> "Then/de")** │  **[English (en)](<../en/Then.md> "Then")** │  **[français (fr)](</Then/fr> "Then/fr")** │  **русский (ru)** │    
-****  
+│ **[English (en)](<../en/Then.md>)** │  **русский (ru)** │
+
 **then** является [ключевым словом](<Keyword.md> "Keyword/ru"), которому предшествует **[if](<If.md> "If/ru")** или необязательное ключевое слово **[else](<Else.md> "Else/ru")**
     
     

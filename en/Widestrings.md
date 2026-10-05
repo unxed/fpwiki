@@ -1,7 +1,6 @@
 # Widestrings
 
-│ **English (en)** │  **[français (fr)](</Widestrings/fr> "Widestrings/fr")** │    
-****
+│ **English (en)** │
 
 ## Widestring
 

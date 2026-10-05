@@ -1,7 +1,6 @@
 # TRandomChartSource
 
-│ **русский (ru)** │    
-****
+│ **русский (ru)** │
 
 **TRandomChartSource** [![trandomchartsource.png](https://wiki.freepascal.org/images/8/8e/trandomchartsource.png)](</File:trandomchartsource.png>) представляет собой источник данных для графиков и диаграмм, генерирующий случайные величины в заданном диапазоне и предназначенный для демонстрации возможностей компонента [TChart](<TChart.md> "TChart/ru") в режиме разработки. Это позволяет видеть и изменять внешний вид диаграммы без необходимости запускать приложение. 
 

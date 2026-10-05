@@ -1,7 +1,6 @@
 # Lazarus IDE Tools
 
-│ **[Deutsch (de)](</Lazarus_IDE_Tools/de> "Lazarus IDE Tools/de")** │  **[English (en)](<../en/Lazarus_IDE_Tools.md> "Lazarus IDE Tools")** │  **[español (es)](</Lazarus_IDE_Tools/es> "Lazarus IDE Tools/es")** │  **[suomi (fi)](</Lazarus_IDE_Tools/fi> "Lazarus IDE Tools/fi")** │  **[français (fr)](</Lazarus_IDE_Tools/fr> "Lazarus IDE Tools/fr")** │  **[日本語 (ja)](</Lazarus_IDE_Tools/ja> "Lazarus IDE Tools/ja")** │  **[한국어 (ko)](</Lazarus_IDE_Tools/ko> "Lazarus IDE Tools/ko")** │  **[Nederlands (nl)](</Lazarus_IDE_Tools/nl> "Lazarus IDE Tools/nl")** │  **[português (pt)](</Lazarus_IDE_Tools/pt> "Lazarus IDE Tools/pt")** │  **русский (ru)** │  **[slovenčina (sk)](</Lazarus_IDE_Tools/sk> "Lazarus IDE Tools/sk")** │  **[中文（中国大陆） (zh_CN)](</Lazarus_IDE_Tools/zh_CN> "Lazarus IDE Tools/zh CN")** │    
-****
+│ **[English (en)](<../en/Lazarus_IDE_Tools.md>)** │  **русский (ru)** │
 
   
 **[Lazarus](<Lazarus_Faq.md> "Lazarus Faq/ru") IDE** \- это инструменты библиотеки [Free Pascal](<../en/Free_Pascal.md> "Free Pascal") для синтаксического анализа и редактирования, называемая "codetools"[(утилиты кода)]. 

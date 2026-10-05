@@ -1,8 +1,6 @@
 # IDE Window: Editor Options HighlightColors
 
-│ **English (en)** │    
-****  
-****
+│ **English (en)** │
 
 _**This is part of the online help for the IDE.**_  
 It describes the section: "Editor" / "Color and Highlight". You can open the described dialog in your IDE via:  

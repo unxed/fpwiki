@@ -1,7 +1,6 @@
 # TAChart Tutorial: Background design
 
-│ **English (en)** │  **[suomi (fi)](</TAChart_Tutorial:_Background_design/fi> "TAChart Tutorial: Background design/fi")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

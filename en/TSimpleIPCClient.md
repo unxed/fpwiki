@@ -1,7 +1,6 @@
 # TSimpleIPCClient
 
-│ **English (en)** │  **[français (fr)](</TSimpleIPCClient/fr> "TSimpleIPCClient/fr")** │  **[русский (ru)](<../ru/TSimpleIPCClient.md> "TSimpleIPCClient/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TSimpleIPCClient.md>)** │
 
 **TSimpleIPCClient** [![tsimpleipcclient.png](https://wiki.freepascal.org/images/e/e5/tsimpleipcclient.png)](</File:tsimpleipcclient.png>) is a network communication component and the client side of a simple IPC communication protocol. The component is available from the [System tab](<System_tab.md> "System tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

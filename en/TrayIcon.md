@@ -1,6 +1,6 @@
 # How to use a TrayIcon
 
-│ **English (en)** │    
+│ **English (en)** │
 
 
 ## Contents

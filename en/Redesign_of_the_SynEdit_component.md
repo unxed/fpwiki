@@ -4,8 +4,7 @@ For more info on SynEdit go to: [SynEdit](<SynEdit.md> "SynEdit")
 
 * * *
 
-│ **English (en)** │  **[español (es)](</Redesign_of_the_SynEdit_component/es> "Redesign of the SynEdit component/es")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

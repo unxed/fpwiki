@@ -1,6 +1,6 @@
 # Lazarus 1.6.0 release notes
 
-│ **English (en)** │ 
+│ **English (en)** │
 
 Lazarus 1.6 was released at February 18, 2016. 
 

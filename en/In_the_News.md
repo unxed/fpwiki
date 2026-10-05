@@ -1,7 +1,6 @@
 # In the News
 
-│ **[Deutsch (de)](</In_the_News/de> "In the News/de")** │  **English (en)** │  **[español (es)](</In_the_News/es> "In the News/es")** │  **[français (fr)](</In_the_News/fr> "In the News/fr")** │  **[italiano (it)](</In_the_News/it> "In the News/it")** │  **[русский (ru)](<../ru/In_the_News.md> "In the News/ru")** │  **[中文（中国大陆） (zh_CN)](</In_the_News/zh_CN> "In the News/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/In_the_News.md>)** │
 
 This page is an attempt to record all the news stories about Free Pascal and Lazarus. I say "an attempt" because it will undoubtedly fail and be consigned to the dustbin of history if no-one contributes news stories that they know of or stumble across. It is not something which any one individual can do alone. It takes a community. As the longest journey begins with the first step, here is that first step. 
 

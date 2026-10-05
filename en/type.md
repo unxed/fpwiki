@@ -1,7 +1,6 @@
 # Type
 
-│ **[Deutsch (de)](</Type/de> "Type/de")** │  **English (en)** │  **[suomi (fi)](</Type/fi> "Type/fi")** │  **[français (fr)](</Type/fr> "Type/fr")** │  **[русский (ru)](<../ru/Type.md> "Type/ru")** │    
-****
+│ **English (en)** │
 
 The [reserved word](<Reserved_word.md> "Reserved word") `type` is used to: 
 

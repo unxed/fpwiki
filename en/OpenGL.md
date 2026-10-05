@@ -1,7 +1,6 @@
 # OpenGL
 
-│ **[Deutsch (de)](</OpenGL/de> "OpenGL/de")** │  **English (en)** │  **[français (fr)](</OpenGL/fr> "OpenGL/fr")** │  **[日本語 (ja)](</OpenGL/ja> "OpenGL/ja")** │  **[português (pt)](</OpenGL/pt> "OpenGL/pt")** │  **[русский (ru)](<../ru/OpenGL.md> "OpenGL/ru")** │  **[Tiếng Việt (vi)](</OpenGL/vi> "OpenGL/vi")** │  **[中文（中国大陆）‎ (zh_CN)](</OpenGL/zh_CN> "OpenGL/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/OpenGL.md>)** │
 
 OpenGL (**Open** **G** raphics **L** ibrary) is a cross-platform API for producing 3D computer graphics. Most modern video cards provide hardware accelerated OpenGL support, wich makes OpenGL a good solution for writing advanced graphics software. 
 

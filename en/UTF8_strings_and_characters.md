@@ -1,7 +1,6 @@
 # UTF8 strings and characters
 
-│ **English (en)** │  **[suomi (fi)](</UTF8_strings_and_characters/fi> "UTF8 strings and characters/fi")** │  **[русский (ru)](<../ru/UTF8_strings_and_characters.md> "UTF8 strings and characters/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/UTF8_strings_and_characters.md>)** │
 
 ## Contents
 

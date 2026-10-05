@@ -1,6 +1,6 @@
 # Operators
 
-│ **[Deutsch (de)](</Operators/de> "Operators/de")** │  **English (en)** │ 
+│ **English (en)** │
 
 ## Contents
 

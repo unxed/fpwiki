@@ -1,7 +1,6 @@
 # Comments
 
-│ [**Deutsch (de)**](</Comments/de> "Comments/de") │  [**English (en)**](<../en/Comments.md> "Comments") │  [**suomi (fi)**](</Comments/fi> "Comments/fi") │  [**français (fr)**](</Comments/fr> "Comments/fr") │  [**italiano (it)**](</Comments/it> "Comments/it") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Comments.md>)** │  **русский (ru)** │
 
 Комментарии представляют собой понятные человеку пояснения или другие виды примечаний в исходном коде программы. Они не обрабатываются компилятором и пропускаются в процессе сборки вашей программы. 
 

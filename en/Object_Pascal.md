@@ -53,9 +53,9 @@ The following modes support development with Object Pascal syntax with Free Pasc
 
 ## See also
 
-  * Tao Yue's [Basic Pascal Tutorial/ja](</Basic_Pascal_Tutorial/ja> "Basic Pascal Tutorial/ja")
+  * Tao Yue's Basic Pascal Tutorial/ja
   * [Basic Pascal Tutorial/History](<Basic_Pascal_Tutorial/History.md> "Basic Pascal Tutorial/History")
-  * [Object Oriented Programming with Free Pascal and Lazarus/ja](</Object_Oriented_Programming_with_Free_Pascal_and_Lazarus/ja> "Object Oriented Programming with Free Pascal and Lazarus/ja")
+  * Object Oriented Programming with Free Pascal and Lazarus/ja
 
 
 

@@ -1,7 +1,6 @@
 # Command-line interface
 
-│ **English (en)** │  **[suomi (fi)](</Command-line_interface/fi> "Command-line interface/fi")** │    
-****
+│ **English (en)** │
 
 **Command-line interface** (CLI) is an operating environment where text commands are given to a computer. For a command line command, the computer often responds to the text. For example, the [FPC](<FPC.md> "FPC") [compiler](<Compiler.md> "Compiler") is used from the command line and it also responds with text to the command line ( Of course it does more than that). A shell is a program that handles commands from a command line. [Application](<Application.md> "Application") programs may also have command line interfaces. 
 

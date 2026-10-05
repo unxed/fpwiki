@@ -1,7 +1,6 @@
 # Using Lazarus for other computer languages
 
-│ **English (en)** │  **[magyar (hu)](</Using_Lazarus_for_other_computer_languages/hu> "Using Lazarus for other computer languages/hu")** │  **[русский (ru)](<../ru/Using_Lazarus_for_other_computer_languages.md> "Using Lazarus for other computer languages/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Using_Lazarus_for_other_computer_languages.md>)** │
 
 Lazarus is great for Free Pascal. But you can use the IDE for other languages too. This is useful to port C code or to edit cross multi tier applications, without the need to use different editors and reducing the trouble when switching between different sets of shortcuts and menu entries. 
 

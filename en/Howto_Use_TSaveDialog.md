@@ -1,7 +1,6 @@
 # Howto Use TSaveDialog
 
-│ **[Deutsch (de)](</Howto_Use_TSaveDialog/de> "Howto Use TSaveDialog/de")** │  **English (en)** │  **[español (es)](</Howto_Use_TSaveDialog/es> "Howto Use TSaveDialog/es")** │  **[suomi (fi)](</Howto_Use_TSaveDialog/fi> "Howto Use TSaveDialog/fi")** │  **[français (fr)](</Howto_Use_TSaveDialog/fr> "Howto Use TSaveDialog/fr")** │  **[日本語 (ja)](</Howto_Use_TSaveDialog/ja> "Howto Use TSaveDialog/ja")** │  **[polski (pl)](</Howto_Use_TSaveDialog/pl> "Howto Use TSaveDialog/pl")** │  **[русский (ru)](<../ru/Howto_Use_TSaveDialog.md> "Howto Use TSaveDialog/ru")** │  **[slovenčina (sk)](</Howto_Use_TSaveDialog/sk> "Howto Use TSaveDialog/sk")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Howto_Use_TSaveDialog.md>)** │
 
 [![tsavedialog.png](https://wiki.freepascal.org/images/4/4a/tsavedialog.png)](</File:tsavedialog.png>)
 

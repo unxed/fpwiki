@@ -1,7 +1,6 @@
 # shared library
 
-│ **[Deutsch (de)](</shared_library/de> "shared library/de")** │  **English (en)** │  **[español (es)](</shared_library/es> "shared library/es")** │  **[한국어 (ko)](</shared_library/ko> "shared library/ko")** │  **[русский (ru)](<../ru/shared_library.md> "shared library/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/shared_library.md>)** │
 
 A shared library is a compiled piece of code that can be shared and used by various programs. It provides functions and procedures that other programs can call. It is different from a static library (that is linked into an executable and becomes part of it) or an executable. Shared library in this article is meant to include both Linux .so and Windows .dll, unless explicitly specified, like "unix shared library" or "dll". 
 

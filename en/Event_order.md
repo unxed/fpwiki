@@ -1,7 +1,6 @@
 # Event order
 
-│ **[Deutsch (de)](</Event_order/de> "Event order/de")** │  **English (en)** │  **[suomi (fi)](</Event_order/fi> "Event order/fi")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

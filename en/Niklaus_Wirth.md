@@ -1,7 +1,6 @@
 # Niklaus Wirth
 
-│ **[Deutsch (de)](</Niklaus_Wirth/de> "Niklaus Wirth/de")** │  **English (en)** │  **[Bahasa Indonesia (id)](</Niklaus_Wirth/id> "Niklaus Wirth/id")** │    
-****
+│ **English (en)** │
 
 **Niklaus E. Wirth** (born February 15, 1934, died January 1, 2024) was a Swiss computer scientist. 
 

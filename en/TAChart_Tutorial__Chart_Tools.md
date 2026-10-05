@@ -1,7 +1,6 @@
 # TAChart Tutorial: Chart Tools
 
-│ **[Deutsch (de)](</TAChart_Tutorial:_Chart_Tools/de> "TAChart Tutorial: Chart Tools/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
 ## Contents
 

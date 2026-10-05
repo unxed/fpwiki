@@ -1,5 +1,7 @@
 # TForm.OnDestroy
 
+│ **English (en)** │  **[русский (ru)](<../ru/TForm.md>)** │
+
 ## Overview
 
 The **OnDestroy** event is used to perform special processing when the form is destroyed. 

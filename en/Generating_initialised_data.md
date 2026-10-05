@@ -1,7 +1,6 @@
 # Generating initialised data
 
-│ **English (en)** │  **[français (fr)](</Generating_initialised_data/fr> "Generating initialised data/fr")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

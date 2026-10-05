@@ -1,7 +1,6 @@
 # Except
 
-│ **[Deutsch (de)](</Except/de> "Except/de")** │  **English (en)** │  **[suomi (fi)](</Except/fi> "Except/fi")** │    
-****
+│ **English (en)** │
 
 ` except` is a [reserved word](<Reserved_word.md> "Reserved word") that is only used in conjunction with [try](<Try.md> "Try"). 
 

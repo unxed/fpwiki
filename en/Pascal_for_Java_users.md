@@ -1,7 +1,6 @@
 # Pascal for Java users
 
-│ **[Deutsch (de)](</Pascal_for_Java_users/de> "Pascal for Java users/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
 ## Contents
 

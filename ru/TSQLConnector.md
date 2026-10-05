@@ -1,8 +1,7 @@
 # TSQLConnector
 
-│ **[English (en)](<../en/TSQLConnector.md> "TSQLConnector")** │  **[français (fr)](</TSQLConnector/fr> "TSQLConnector/fr")** │  **[日本語 (ja)](</TSQLConnector/ja> "TSQLConnector/ja")** │  **[polski (pl)](</TSQLConnector/pl> "TSQLConnector/pl")** │  **русский (ru)** │    
-****  
-  
+│ **[English (en)](<../en/TSQLConnector.md>)** │  **русский (ru)** │
+
 ---  
 [**Databases portal**](<../en/Portal_Databases.md> "Portal:Databases")  
 References: 

@@ -1,8 +1,7 @@
 # TSQLTransaction
 
-│ **English (en)** │  **[français (fr)](</TSQLTransaction/fr> "TSQLTransaction/fr")** │  **[日本語 (ja)](</TSQLTransaction/ja> "TSQLTransaction/ja")** │  **[русский (ru)](<../ru/TSQLTransaction.md> "TSQLTransaction/ru")** │    
-****  
-  
+│ **English (en)** │  **[русский (ru)](<../ru/TSQLTransaction.md>)** │
+
 ---  
 [**Databases portal**](<Portal_Databases.md> "Portal:Databases")  
 References: 

@@ -1,7 +1,6 @@
 # Daemons and Services
 
-│ **[English (en)](<../en/Daemons_and_Services.md> "Daemons and Services")** │  **[español (es)](</Daemons_and_Services/es> "Daemons and Services/es")** │  **[français (fr)](</Daemons_and_Services/fr> "Daemons and Services/fr")** │  **[polski (pl)](</Daemons_and_Services/pl> "Daemons and Services/pl")** │  **[português (pt)](</Daemons_and_Services/pt> "Daemons and Services/pt")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Daemons_and_Services.md>)** │  **русский (ru)** │
 
 ## Contents
 

@@ -1,7 +1,6 @@
 # Printing
 
-│ **English (en)** │  **[polski (pl)](</Printing/pl> "Printing/pl")** │    
-****
+│ **English (en)** │
 
 [Using the printer](<Using_the_printer.md> "Using the printer") in FPC and Lazarus can be done from high levels of abstraction down to being able to control what bytes get sent to the printer. 
 

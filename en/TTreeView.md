@@ -1,7 +1,6 @@
 # TTreeView
 
-│ **English (en)** │  **[español (es)](</TTreeView/es> "TTreeView/es")** │  **[suomi (fi)](</TTreeView/fi> "TTreeView/fi")** │  **[français (fr)](</TTreeView/fr> "TTreeView/fr")** │  **[magyar (hu)](</TTreeView/hu> "TTreeView/hu")** │  **[русский (ru)](<../ru/TTreeView.md> "TTreeView/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TTreeView.md>)** │
 
 A **TTreeView** [![ttreeview.png](https://wiki.freepascal.org/images/c/cd/ttreeview.png)](</File:ttreeview.png>) is a graphical control element that presents a hierarchical view of information. Each item can have a number of subitems. 
 

@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Chapter 1/Program Structure
 
-│ [**български (bg)**](</Basic_Pascal_Tutorial/Chapter_1/Program_Structure/bg> "Basic Pascal Tutorial/Chapter 1/Program Structure/bg") │  [**Deutsch (de)**](</Basic_Pascal_Tutorial/Chapter_1/Program_Structure/de> "Basic Pascal Tutorial/Chapter 1/Program Structure/de") │  [**English (en)**](<../../../en/Basic_Pascal_Tutorial/Chapter_1/Program_Structure.md> "Basic Pascal Tutorial/Chapter 1/Program Structure") │  [**español (es)**](</Basic_Pascal_Tutorial/Chapter_1/Program_Structure/es> "Basic Pascal Tutorial/Chapter 1/Program Structure/es") │  [**français (fr)**](</Basic_Pascal_Tutorial/Chapter_1/Program_Structure/fr> "Basic Pascal Tutorial/Chapter 1/Program Structure/fr") │  [**italiano (it)**](</Basic_Pascal_Tutorial/Chapter_1/Program_Structure/it> "Basic Pascal Tutorial/Chapter 1/Program Structure/it") │  [**日本語 (ja)**](</Basic_Pascal_Tutorial/Chapter_1/Program_Structure/ja> "Basic Pascal Tutorial/Chapter 1/Program Structure/ja") │  [**한국어 (ko)**](</Basic_Pascal_Tutorial/Chapter_1/Program_Structure/ko> "Basic Pascal Tutorial/Chapter 1/Program Structure/ko") │  **русский (ru)** │  [**中文（中国大陆）‎ (zh_CN)**](</Basic_Pascal_Tutorial/Chapter_1/Program_Structure/zh_CN> "Basic Pascal Tutorial/Chapter 1/Program Structure/zh CN") │    
-****
+│ **[English (en)](<../../../en/Basic_Pascal_Tutorial/Chapter_1/Program_Structure.md>)** │  **русский (ru)** │
 
 [ ◄ ](<../Hello,_World.md> "Basic Pascal Tutorial/Hello, World/ru") | [ ▲ ](<../Contents.md> "Basic Pascal Tutorial/Contents/ru") | [ ► ](<Identifiers.md> "Basic Pascal Tutorial/Chapter 1/Identifiers/ru")  
 ---|---|---  

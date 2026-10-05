@@ -1,6 +1,6 @@
 # FPC PasCocoa/Differences
 
-│ **English (en)** │ 
+│ **English (en)** │
 
 FPC's [Objective-Pascal](<../FPC_PasCocoa.md> "FPC PasCocoa") dialect was introduced to enable seamless interfacing with Objective-C code, in particular on macOS. Due to inherent differences between the C and Pascal philosophies, this language mode will have some seemingly strange behaviour regardless of whether your main background is in Objective-C or in Object Pascal. 
 

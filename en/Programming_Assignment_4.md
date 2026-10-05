@@ -1,7 +1,6 @@
 # Programming Assignment 4
 
-│ [**български (bg)**](</Programming_Assignment_4/bg> "Programming Assignment 4/bg") │  **English (en)** │  [**français (fr)**](</Programming_Assignment_4/fr> "Programming Assignment 4/fr") │  [**日本語 (ja)**](</Programming_Assignment_4/ja> "Programming Assignment 4/ja") │  [**中文（中国大陆）‎ (zh_CN)**](</Programming_Assignment_4/zh_CN> "Programming Assignment 4/zh CN") │    
-****
+│ **English (en)** │
 
 [ ◄ ](<Forward_Referencing.md> "Forward Referencing") | [ ▲ ](<Contents.md> "Contents") | [ ► ](<Solution_4.md> "Solution 4")  
 ---|---|---  

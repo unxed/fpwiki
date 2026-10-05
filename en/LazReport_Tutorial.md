@@ -1,7 +1,6 @@
 # LazReport Tutorial
 
-│ **[Deutsch (de)](</LazReport_Tutorial/de> "LazReport Tutorial/de")** │  **English (en)** │  **[español (es)](</LazReport_Tutorial/es> "LazReport Tutorial/es")** │  **[português (pt)](</LazReport_Tutorial/pt> "LazReport Tutorial/pt")** │    
-****
+│ **English (en)** │
 
 ## Contents
 
@@ -25,7 +24,7 @@
 
 ## Overview
 
-This page started as a translation of the Portuguese language [Tutorial de LazReport](</LazReport_Tutorial/pt> "LazReport Tutorial/pt") (which itself appears to be a translation from a French document). It was updated for LazReport (instead of FastReport) on Lazarus (instead of Delphi), using T*Connection instead of a DBase table. 
+This page started as a translation of the Portuguese language Tutorial de LazReport (which itself appears to be a translation from a French document). It was updated for LazReport (instead of FastReport) on Lazarus (instead of Delphi), using T*Connection instead of a DBase table. 
 
 ## Starting with LazReport
 
@@ -384,7 +383,7 @@ Alternatively, you can also pass the value directly to the variable using the fo
 
 ## See also
 
-  * [Tutorial de LazReport](</LazReport_Tutorial/pt> "LazReport Tutorial/pt") Version used as a basis for this translation.
+  * Tutorial de LazReport Version used as a basis for this translation.
   * [LazReport Documentation](<LazReport_Documentation.md> "LazReport Documentation")
 
 ---

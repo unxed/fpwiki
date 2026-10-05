@@ -1,7 +1,6 @@
 # global compiler directives
 
-│ **[Deutsch (de)](</global_compiler_directives/de> "global compiler directives/de")** │  **English (en)** │  **[français (fr)](</global_compiler_directives/fr> "global compiler directives/fr")** │  **[русский (ru)](<../ru/global_compiler_directives.md> "global compiler directives/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/global_compiler_directives.md>)** │
 
 Free Pascal supports [compiler directives](<Compiler_directive.md> "Compiler directive") in the [source file](<Source_code.md> "Source code"). Basically the same directives as in Turbo Pascal, Delphi and Apple Pascal (Mac OS) pascal compilers are supported. Some are recognized for compatibility only, and have no effect. 
 

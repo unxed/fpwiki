@@ -1,6 +1,6 @@
 # Program Structure
 
-│ [**Deutsch (de)**](</Program_Structure/de> "Program Structure/de") │  [**English (en)**](<../en/Program_Structure.md> "Program Structure") │  [**español (es)**](</Program_Structure/es> "Program Structure/es") │  [**français (fr)**](</Program_Structure/fr> "Program Structure/fr") │  [**italiano (it)**](</Program_Structure/it> "Program Structure/it") │  [**日本語 (ja)**](</Program_Structure/ja> "Program Structure/ja") │  [**한국어 (ko)**](</Program_Structure/ko> "Program Structure/ko") │  **русский (ru)** │  [**中文（中国大陆）‎ (zh_CN)**](</Program_Structure/zh_CN> "Program Structure/zh CN") │    
+│ **[English (en)](<../en/Program_Structure.md>)** │  **русский (ru)** │
 
 
 [ ◄ ](<Hello,_World.md> "Hello, World/ru") |  [ ▲ ](<Contents.md> "Contents/ru") |  [ ► ](<Identifiers.md> "Identifiers/ru")  

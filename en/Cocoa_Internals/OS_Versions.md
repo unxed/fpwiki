@@ -1,7 +1,6 @@
 # Cocoa Internals/OS Versions
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 The page cover issues of (backwards) compatibility and API deprecation across different macOS versions. 
 

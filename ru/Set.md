@@ -1,7 +1,6 @@
 # Set
 
-│ **[Deutsch (de)](</Set/de> "Set/de")** │  **[English (en)](<../en/Set.md> "Set")** │  **[suomi (fi)](</Set/fi> "Set/fi")** │  **[français (fr)](</Set/fr> "Set/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Set.md>)** │  **русский (ru)** │
 
 ## Введение
 

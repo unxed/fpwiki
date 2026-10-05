@@ -1,7 +1,6 @@
 # SizeOf
 
-│ **[Deutsch (de)](</SizeOf/de> "SizeOf/de")** │  **[English (en)](<../en/SizeOf.md> "SizeOf")** │  **[suomi (fi)](</SizeOf/fi> "SizeOf/fi")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/SizeOf.md>)** │  **русский (ru)** │
 
 [Функция](<Function.md> "Function/ru") [времени компиляции](<../en/Compile_time.md> "Compile time") [`sizeOf`](<https://www.freepascal.org/docs-html/rtl/system/sizeof.html>) вычисляет размер в байтах данного имени [типа данных](<Data_type.md> "Data type/ru") или [идентификатора](<Identifier.md> "Identifier/ru") [переменной](<Variable.md> "Variable/ru"). 
 

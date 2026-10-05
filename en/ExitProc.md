@@ -1,7 +1,6 @@
 # ExitProc
 
-│ **[Deutsch (de)](</ExitProc/de> "ExitProc/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
 ## Contents
 

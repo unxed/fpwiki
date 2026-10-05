@@ -1,5 +1,7 @@
 # pas2js.cfg
 
+│ **English (en)** │  **[русский (ru)](<../ru/pas2js.md>)** │
+
 ## Contents
 
   * 1 Locations

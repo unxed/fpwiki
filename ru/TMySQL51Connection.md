@@ -1,7 +1,6 @@
 # TMySQL51Connection
 
-│ **[English (en)](<../en/TMySQL51Connection.md> "TMySQL51Connection")** │  **[français (fr)](</TMySQL51Connection/fr> "TMySQL51Connection/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TMySQL51Connection.md>)** │  **русский (ru)** │
 
 ![Light bulb](https://upload.wikimedia.org/wikipedia/commons/d/d8/Nuvola_apps_ktip.png) **Примечание:** Для создания приложений при работе с любыми базами данных вместо TMySQL51Connection может использоваться [TSQLConnector](<TSQLConnector.md> "TSQLConnector/ru")
 

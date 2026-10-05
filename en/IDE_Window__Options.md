@@ -1,7 +1,6 @@
 # IDE Window: Options
 
-│ [**Deutsch (de)**](</IDE_Window:_Options/de> "IDE Window: Options/de") │  **English (en)** │    
-****
+│ **English (en)** │
 
 [![](https://wiki.freepascal.org/images/5/5b/IDE-options.JPG)](</File:IDE-options.JPG>)
 

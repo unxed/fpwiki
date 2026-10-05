@@ -1,7 +1,6 @@
 # TListViewFilterEdit
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 [![ListViewFilterEdit.png](https://wiki.freepascal.org/images/4/4c/ListViewFilterEdit.png)](</File:ListViewFilterEdit.png>)
 

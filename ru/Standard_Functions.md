@@ -1,7 +1,6 @@
 # Standard Functions
 
-│ [**Deutsch (de)**](</Standard_Functions/de> "Standard Functions/de") │  [**English (en)**](<../en/Standard_Functions.md> "Standard Functions") │  [**français (fr)**](</Standard_Functions/fr> "Standard Functions/fr") │  [**日本語 (ja)**](</Standard_Functions/ja> "Standard Functions/ja") │  [**한국어 (ko)**](</Standard_Functions/ko> "Standard Functions/ko") │  **русский (ru)** │  [**中文（中国大陆）‎ (zh_CN)**](</Standard_Functions/zh_CN> "Standard Functions/zh CN") │    
-****
+│ **[English (en)](<../en/Standard_Functions.md>)** │  **русский (ru)** │
 
 [ ◄ ](<Assignment_and_Operations.md> "Assignment and Operations/ru") | [ ▲ ](<Contents.md> "Contents/ru") | [ ► ](<Punctuation_and_Indentation.md> "Punctuation and Indentation/ru")  
 ---|---|---  

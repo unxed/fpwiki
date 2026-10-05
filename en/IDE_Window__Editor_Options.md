@@ -1,8 +1,6 @@
 # IDE Window: Editor Options
 
-│ **[Deutsch (de)](</IDE_Window:_Editor_Options/de> "IDE Window: Editor Options/de")** │  **English (en)** │  **[español (es)](</IDE_Window:_Editor_Options/es> "IDE Window: Editor Options/es")** │  **[suomi (fi)](</IDE_Window:_Editor_Options/fi> "IDE Window: Editor Options/fi")** │    
-****  
-****
+│ **English (en)** │
 
 [![](https://wiki.freepascal.org/images/d/d1/IDE-options-editor.JPG)](</File:IDE-options-editor.JPG>)
 

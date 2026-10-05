@@ -1,7 +1,6 @@
 # How to use nullable types
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
   
 Here is a small example of how to use the [nullable types](<Nullable_types.md> "Nullable types") in [Delphi mode ( `{$mode Delphi}` )](<Mode_Delphi.md> "Mode Delphi"). The [unit's](<Unit.md> "Unit") nullable [source code](<Source_code.md> "Source code") is referenced on the [nullable types](<Nullable_types.md> "Nullable types") wiki page. 

@@ -6,8 +6,7 @@
 
 См. также: [Multiplatform Programming Guide](<../en/Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **[Deutsch (de)](</DLL_dynamically_load/de> "DLL dynamically load/de")** │  **[English (en)](<../en/DLL_dynamically_load.md> "DLL dynamically load")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</DLL_dynamically_load/zh_CN> "DLL dynamically load/zh CN")** │    
-****
+│ **[English (en)](<../en/DLL_dynamically_load.md>)** │  **русский (ru)** │
 
 В руководстве показано, как динамически загружается DLL (библиотека динамической компоновки). 
 

@@ -1,6 +1,6 @@
 # Stringlist
 
-│ **[Deutsch (de)](</Stringlist/de> "Stringlist/de")** │  **English (en)** │  **[polski (pl)](</Stringlist/pl> "Stringlist/pl")** │ 
+│ **English (en)** │
 
 ## Contents
 

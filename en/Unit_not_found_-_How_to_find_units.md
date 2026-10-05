@@ -1,7 +1,6 @@
 # Unit not found - How to find units
 
-│ **[Deutsch (de)](</Unit_not_found_-_How_to_find_units/de> "Unit not found - How to find units/de")** │  **English (en)** │  **[français (fr)](</Unit_not_found_-_How_to_find_units/fr> "Unit not found - How to find units/fr")** │  **[magyar (hu)](</Unit_not_found_-_How_to_find_units/hu> "Unit not found - How to find units/hu")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

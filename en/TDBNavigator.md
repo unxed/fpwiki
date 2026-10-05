@@ -1,7 +1,6 @@
 # TDBNavigator
 
-│ **English (en)** │  **[français (fr)](</TDBNavigator/fr> "TDBNavigator/fr")** │  **[日本語 (ja)](</TDBNavigator/ja> "TDBNavigator/ja")** │  **[русский (ru)](<../ru/TDBNavigator.md> "TDBNavigator/ru")** │  **[中文（中国大陆） (zh_CN)](</TDBNavigator/zh_CN> "TDBNavigator/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TDBNavigator.md>)** │
 
 **TDBNavigator** [![tdbnavigator.png](https://wiki.freepascal.org/images/9/95/tdbnavigator.png)](</File:tdbnavigator.png>) is a navigation control for use with a connected database. It is available from the [Data Controls tab](<Data_Controls_tab.md> "Data Controls tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

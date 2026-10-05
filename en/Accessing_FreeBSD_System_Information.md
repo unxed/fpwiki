@@ -1,7 +1,6 @@
 # Accessing FreeBSD System Information
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 [Sysctl](<https://www.freebsd.org/cgi/man.cgi?query=sysctl&sektion=3>) provides an interface that allows you to read and, with appropriate privileges, set many kernel attributes in FreeBSD (the BSDs, macOS and Linux). This provides a wealth of information detailing system hardware and configuration attributes which can be useful when debugging or simply optimising your application (eg to take advantage of threads on multi-core CPU systems). 
 

@@ -2,7 +2,7 @@
 
 From Free Pascal wiki
 
-[**Deutsch (de)**](</Related_projects/de> "Related projects/de") | [**English (en)**](<../Related_projects.md> "Related projects") | [**Español (es)**](</Related_projects/es> "Related projects/es") | [**Français (fr)**](</Related_projects/fr> "Related projects/fr") | [**Magyar (hu)**](</Related_projects/hu> "Related projects/hu") | [**한국어 (ko)**](</Related_projects/ko> "Related projects/ko") | [**Русский (ru)**](<../../ru/Related_projects.md> "Related projects/ru") | [**Türkçe (tr)**](</Related_projects/tr> "Related projects/tr") | ****Tiếng Việt (vn)**** | [**‪中文(中国大陆)‬ (zh_CN)**](</Related_projects/zh_CN> "Related projects/zh CN")
+│ **English (en)** │
 
 Bên cạnh Lazarus và FPC, trang wiki cũng chứa thông tin của những dự án liên quan: 
 

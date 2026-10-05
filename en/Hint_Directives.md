@@ -1,7 +1,6 @@
 # Hint Directives
 
-│ **English (en)** │  **[suomi (fi)](</Hint_Directives/fi> "Hint Directives/fi")** │  **[français (fr)](</Hint_Directives/fr> "Hint Directives/fr")** │    
-****
+│ **English (en)** │
 
 ## Using Hint Directives
 

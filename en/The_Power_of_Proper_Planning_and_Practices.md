@@ -1,7 +1,6 @@
 # The Power of Proper Planning and Practices
 
-│ **English (en)** │  **[français (fr)](</The_Power_of_Proper_Planning_and_Practices/fr> "The Power of Proper Planning and Practices/fr")** │  **[português (pt)](</The_Power_of_Proper_Planning_and_Practices/pt> "The Power of Proper Planning and Practices/pt")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

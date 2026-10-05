@@ -1,7 +1,6 @@
 # Synapse
 
-│ **[English (en)](<../en/Synapse.md> "Synapse")** │  **[polski (pl)](</Synapse/pl> "Synapse/pl")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Synapse.md>)** │  **русский (ru)** │
 
 Synapse предоставляет простой в использовании последовательный порт и синхронную библиотеку TCP/IP. 
 

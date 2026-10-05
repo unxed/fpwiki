@@ -1,8 +1,7 @@
 # TPQConnection
 
-│ **English (en)** │  **[français (fr)](</TPQConnection/fr> "TPQConnection/fr")** │  **[русский (ru)](<../ru/TPQConnection.md> "TPQConnection/ru")** │    
-****  
-  
+│ **English (en)** │  **[русский (ru)](<../ru/TPQConnection.md>)** │
+
 ---  
 [**Databases portal**](<Portal_Databases.md> "Portal:Databases")  
 References: 

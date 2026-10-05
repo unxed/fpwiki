@@ -1,7 +1,6 @@
 # compile-time error
 
-│ **English (en)** │  **[suomi (fi)](</compile-time_error/fi> "compile-time error/fi")** │    
-****
+│ **English (en)** │
 
 Compile-time error, which means the [program](<Program.md> "Program") did not compile. The [compiler](<Compiler.md> "Compiler") found and reported an error during [compile time](<Compile_time.md> "Compile time"). 
 

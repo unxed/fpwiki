@@ -1,7 +1,6 @@
 # fcl-net
 
-│ **English (en)** │  **[français (fr)](</fcl-net/fr> "fcl-net/fr")** │    
-****
+│ **English (en)** │
 
 **fcl-net** is a package of the FCL that provides networking services, including the former netdb - DNS resolving, for *nix systems. 
 

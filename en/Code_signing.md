@@ -1,7 +1,6 @@
 # Code signing
 
-│ **English (en)** │  **[français (fr)](</Code_signing/fr> "Code signing/fr")** │    
-****
+│ **English (en)** │
 
 Every piece of code may contain viruses, spyware, trojan horses, backdoors, rootkits, keyloggers and other kinds of malware. The risk has dramatically increased with the advent of wide-area networks like the internet, where it is easy to download programs of unknown or unverified origin. 
 

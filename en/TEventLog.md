@@ -1,7 +1,6 @@
 # TEventLog
 
-│ **English (en)** │  **[français (fr)](</TEventLog/fr> "TEventLog/fr")** │  **[русский (ru)](<../ru/TEventLog.md> "TEventLog/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TEventLog.md>)** │
 
 **TEventLog** [![teventlog.png](https://wiki.freepascal.org/images/d/dc/teventlog.png)](</File:teventlog.png>) is a non-visual component that assists in event-logging. It is available from [System tab](<System_tab.md> "System tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

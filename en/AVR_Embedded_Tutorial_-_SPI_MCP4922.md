@@ -1,7 +1,6 @@
 # AVR Embedded Tutorial - SPI MCP4922
 
-│ **[Deutsch (de)](</AVR_Embedded_Tutorial_-_SPI_MCP4922/de> "AVR Embedded Tutorial - SPI MCP4922/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
 ## Contents
 

@@ -6,8 +6,7 @@ This article applies to [macOS](</Category:macOS> "Category:macOS") only.
 
 See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 A sheet is a modal dialog that’s attached to a particular window—usually a document—and prevents further interaction with the window until the sheet is dismissed. It is the Apple recommended way to request user input before proceeding with a document-specific action, such as attaching files, exporting, saving, and printing. Sheets are also used to present information to the user before the next step, for example, a licensing agreement that requires acceptance. 
 

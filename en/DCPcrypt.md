@@ -1,7 +1,6 @@
 # DCPcrypt
 
-│ **[Deutsch (de)](</DCPcrypt/de> "DCPcrypt/de")** │  **English (en)** │  **[español (es)](</DCPcrypt/es> "DCPcrypt/es")** │  **[suomi (fi)](</DCPcrypt/fi> "DCPcrypt/fi")** │  **[français (fr)](</DCPcrypt/fr> "DCPcrypt/fr")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

@@ -1,7 +1,6 @@
 # Graphical User Interface
 
-│ **English (en)** │  **[suomi (fi)](</Graphical_User_Interface/fi> "Graphical User Interface/fi")** │    
-****
+│ **English (en)** │
 
 Graphical user interface (GUI) is program that enables a person to communicate with electronic devices such as computers, smart phone, hand-held devices and other appliances through the use of symbols, visual metaphors, and pointing devices (such as a mouse, stylus, trackball, touchpad, a finger, or gesture ). 
 

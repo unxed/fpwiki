@@ -1,7 +1,6 @@
 # Free Vision
 
-│ **[Deutsch (de)](</Free_Vision/de> "Free Vision/de")** │  **English (en)** │  **[日本語 (ja)](</Free_Vision/ja> "Free Vision/ja")** │  **[português (pt)](</Free_Vision/pt> "Free Vision/pt")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

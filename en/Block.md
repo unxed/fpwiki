@@ -1,6 +1,6 @@
 # Block
 
-│ **English (en)** │ 
+│ **English (en)** │
 
 A **block** is a sequence of [declarations](<Declaration.md> "Declaration") followed by a sequence of [statements](<statement.md> "statement"). The declarations are optional. The sequence of statements can be empty, but at least the [`begin`](<Begin.md> "Begin")…[`end`](<End.md> "End")-[frame](<Frame.md> "Frame") has to be present (in [routines](<Routine.md> "Routine") [`asm`](<Asm.md> "Asm")…`end` is allowed, too). The key feature of a block is, that declarations are only valid while the statements are processed. This concept is known as [scope](<Scope.md> "Scope"). 
 

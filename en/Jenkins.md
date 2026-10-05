@@ -1,7 +1,6 @@
 # Jenkins
 
-│ **English (en)** │  **[français (fr)](</Jenkins/fr> "Jenkins/fr")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

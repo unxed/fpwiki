@@ -1,7 +1,6 @@
 # NaN
 
-│ **English (en)** │  **[suomi (fi)](</NaN/fi> "NaN/fi")** │  **[русский (ru)](<../ru/NaN.md> "NaN/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/NaN.md>)** │
 
 ` NaN` (not a number) is a numeric data type value representing an undefined or unrepresentable value. These values result from operations which have undefined numerical results. `NaN` is not the same as infinity. 
     

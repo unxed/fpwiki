@@ -1,7 +1,6 @@
 # Install Packages
 
-│ **[Deutsch (de)](</Install_Packages/de> "Install Packages/de")** │  **English (en)** │  **[español (es)](</Install_Packages/es> "Install Packages/es")** │  **[français (fr)](</Install_Packages/fr> "Install Packages/fr")** │  **[magyar (hu)](</Install_Packages/hu> "Install Packages/hu")** │  **[日本語 (ja)](</Install_Packages/ja> "Install Packages/ja")** │  **[português (pt)](</Install_Packages/pt> "Install Packages/pt")** │  **[русский (ru)](<../ru/Install_Packages.md> "Install Packages/ru")** │  **[slovenčina (sk)](</Install_Packages/sk> "Install Packages/sk")** │  **[中文（中国大陆） (zh_CN)](</Install_Packages/zh_CN> "Install Packages/zh CN")** │  **[中文（臺灣） (zh_TW)](</Install_Packages/zh_TW> "Install Packages/zh TW")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Install_Packages.md>)** │
 
 ## Contents
 

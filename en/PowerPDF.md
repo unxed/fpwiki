@@ -1,7 +1,6 @@
 # PowerPDF
 
-│ **[Deutsch (de)](</PowerPDF/de> "PowerPDF/de")** │  **English (en)** │  **[español (es)](</PowerPDF/es> "PowerPDF/es")** │  **[français (fr)](</PowerPDF/fr> "PowerPDF/fr")** │  **[polski (pl)](</PowerPDF/pl> "PowerPDF/pl")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

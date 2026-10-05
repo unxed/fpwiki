@@ -1,7 +1,6 @@
 # Streaming components
 
-│ **[Deutsch (de)](</Streaming_components/de> "Streaming components/de")** │  **English (en)** │  **[français (fr)](</Streaming_components/fr> "Streaming components/fr")** │  **[日本語 (ja)](</Streaming_components/ja> "Streaming components/ja")** │  **[polski (pl)](</Streaming_components/pl> "Streaming components/pl")** │  **[português (pt)](</Streaming_components/pt> "Streaming components/pt")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

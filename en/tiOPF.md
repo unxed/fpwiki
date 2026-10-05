@@ -1,7 +1,6 @@
 # tiOPF
 
-│ **[Deutsch (de)](</tiOPF/de> "tiOPF/de")** │  **English (en)** │  **[italiano (it)](</tiOPF/it> "tiOPF/it")** │  **[日本語 (ja)](</tiOPF/ja> "tiOPF/ja")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

@@ -1,7 +1,6 @@
 # TAChart Tutorial: Dual y axis, Legend
 
-│ **English (en)** │  **[suomi (fi)](</TAChart_Tutorial:_Dual_y_axis,_Legend/fi> "TAChart Tutorial: Dual y axis, Legend/fi")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

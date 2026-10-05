@@ -1,7 +1,6 @@
 # spelling
 
-│ **English (en)** │  **[español (es)](</spelling/es> "spelling/es")** │  **[русский (ru)](<../ru/spelling.md> "spelling/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/spelling.md>)** │
 
 ## Contents
 

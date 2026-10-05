@@ -1,7 +1,6 @@
 # Chr
 
-│ **[Deutsch (de)](</Chr/de> "Chr/de")** │  **English (en)** │  **[français (fr)](</Chr/fr> "Chr/fr")** │  **[русский (ru)](<../ru/Chr.md> "Chr/ru")** │    
-****
+│ **English (en)** │
 
 The function `chr` returns the [`char`](<Char.md> "Char") which has [ASCII](<ASCII.md> "ASCII") value `b`. The signature reads: 
     

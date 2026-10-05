@@ -1,7 +1,6 @@
 # Ord
 
-│ **[Deutsch (de)](</Ord/de> "Ord/de")** │  **English (en)** │  **[français (fr)](</Ord/fr> "Ord/fr")** │  **[русский (ru)](<../ru/Ord.md> "Ord/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Ord.md>)** │
 
 The language construct `ord(someVariable)` evaluates to the index of any ordinal type, including, but not limited to any [`integer`](<Integer.md> "Integer") type and [ sub-ranges](<subrange_types.md> "subrange types") thereof, [`char`](<Char.md> "Char"), [`boolean`](<Boolean.md> "Boolean"), or any [enumerative type](<Enum_Type.md> "Enum Type"). 
 

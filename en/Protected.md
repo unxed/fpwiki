@@ -1,7 +1,6 @@
 # Protected
 
-│ **[Deutsch (de)](</Protected/de> "Protected/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
   
 Back to [Reserved words](<Reserved_words.md> "Reserved words"). 

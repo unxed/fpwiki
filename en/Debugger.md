@@ -1,7 +1,6 @@
 # Debugger
 
-│ **English (en)** │  **[suomi (fi)](</Debugger/fi> "Debugger/fi")** │  **[français (fr)](</Debugger/fr> "Debugger/fr")** │    
-****
+│ **English (en)** │
 
 A debugger is a [program](<Program.md> "Program") used to test and debug other programs. Often, when using the debugger, the program being scanned is compiled with special [compiler](<Compiler.md> "Compiler") settings which adds information for tracing errors. This way, the debugger knows what the [source code](<Source_code.md> "Source code") file is named for and the line from which the code is executed. But when the program works well, you can remove this data and reduce the size of the binary. 
 

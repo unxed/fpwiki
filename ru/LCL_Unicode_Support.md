@@ -1,7 +1,6 @@
 # LCL Unicode Support
 
-│ **[Deutsch (de)](</LCL_Unicode_Support/de> "LCL Unicode Support/de")** │  **[English (en)](<../en/LCL_Unicode_Support.md> "LCL Unicode Support")** │  **[español (es)](</LCL_Unicode_Support/es> "LCL Unicode Support/es")** │  **[français (fr)](</LCL_Unicode_Support/fr> "LCL Unicode Support/fr")** │  **[日本語 (ja)](</LCL_Unicode_Support/ja> "LCL Unicode Support/ja")** │  **[한국어 (ko)](</LCL_Unicode_Support/ko> "LCL Unicode Support/ko")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</LCL_Unicode_Support/zh_CN> "LCL Unicode Support/zh CN")** │  **[中文（臺灣） (zh_TW)](</LCL_Unicode_Support/zh_TW> "LCL Unicode Support/zh TW")** │    
-****
+│ **[English (en)](<../en/LCL_Unicode_Support.md>)** │  **русский (ru)** │
 
 ## Contents
 

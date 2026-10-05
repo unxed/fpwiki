@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Hello, World
 
-│ **[العربية (ar)](</Basic_Pascal_Tutorial/Hello,_World/ar> "Basic Pascal Tutorial/Hello, World/ar")** │  **[български (bg)](</Basic_Pascal_Tutorial/Hello,_World/bg> "Basic Pascal Tutorial/Hello, World/bg")** │  **[Deutsch (de)](</Basic_Pascal_Tutorial/Hello,_World/de> "Basic Pascal Tutorial/Hello, World/de")** │  **English (en)** │  **[español (es)](</Basic_Pascal_Tutorial/Hello,_World/es> "Basic Pascal Tutorial/Hello, World/es")** │  **[français (fr)](</Basic_Pascal_Tutorial/Hello,_World/fr> "Basic Pascal Tutorial/Hello, World/fr")** │  **[italiano (it)](</Basic_Pascal_Tutorial/Hello,_World/it> "Basic Pascal Tutorial/Hello, World/it")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Hello,_World/ja> "Basic Pascal Tutorial/Hello, World/ja")** │  **[한국어 (ko)](</Basic_Pascal_Tutorial/Hello,_World/ko> "Basic Pascal Tutorial/Hello, World/ko")** │  **[русский (ru)](<../../ru/Basic_Pascal_Tutorial/Hello,_World.md> "Basic Pascal Tutorial/Hello, World/ru")** │  **[svenska (sv)](</Basic_Pascal_Tutorial/Hello,_World/sv> "Basic Pascal Tutorial/Hello, World/sv")** │  **[中文（中国大陆） (zh_CN)](</Basic_Pascal_Tutorial/Hello,_World/zh_CN> "Basic Pascal Tutorial/Hello, World/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../../ru/Basic_Pascal_Tutorial/Hello,_World.md>)** │
 
 [ ◄ ](<Compilers.md> "Basic Pascal Tutorial/Compilers") | [ ▲ ](<Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Chapter_1/Program_Structure.md> "Basic Pascal Tutorial/Chapter 1/Program Structure")  
 ---|---|---  

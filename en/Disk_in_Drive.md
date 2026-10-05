@@ -6,8 +6,7 @@ This article applies to [Windows](</Category:Windows> "Category:Windows") only.
 
 See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **[Deutsch (de)](</Disk_in_Drive/de> "Disk in Drive/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
 The function checks whether there is a disk medium in the CD or DVD drive. 
     

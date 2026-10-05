@@ -1,7 +1,6 @@
 # TSpinEdit
 
-│ [**English (en)**](<../en/TSpinEdit.md> "TSpinEdit") │  [**suomi (fi)**](</TSpinEdit/fi> "TSpinEdit/fi") │  [**français (fr)**](</TSpinEdit/fr> "TSpinEdit/fr") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TSpinEdit.md>)** │  **русский (ru)** │
 
 Элемент управления **TSpinEdit** [![tspinedit.png](https://wiki.freepascal.org/images/b/bf/tspinedit.png)](</File:tspinedit.png>) находится на вкладке [Misc](<Misc_tab.md> "Misc tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). Он полезен для установки числовых значений. Фактически, элемент **TSpinEdit** является комбинацией элемента [TUpDown](<TUpDown.md> "TUpDown/ru") и связанного с ним элемента [TEdit](<TEdit.md> "TEdit/ru"), предназначенного для ввода чисел. 
 

@@ -1,7 +1,6 @@
 # Type information
 
-│ **English (en)** │  **[français (fr)](</Type_information/fr> "Type information/fr")** │    
-****
+│ **English (en)** │
 
 Back to contents [FPC internals](<FPC_internals.md> "FPC internals")
 

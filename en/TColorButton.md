@@ -1,7 +1,6 @@
 # TColorButton
 
-│ **English (en)** │  **[français (fr)](</TColorButton/fr> "TColorButton/fr")** │  **[русский (ru)](<../ru/TColorButton.md> "TColorButton/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TColorButton.md>)** │
 
 **TColorButton** [![tcolorbutton.png](https://wiki.freepascal.org/images/8/85/tcolorbutton.png)](</File:tcolorbutton.png>) is a component that creates a button with a colored surface. A TColorButton is a descendant of [TGraphicControl](<TGraphicControl.md> "TGraphicControl") and is available under the [Misc tab](<Misc_tab.md> "Misc tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

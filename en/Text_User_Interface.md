@@ -1,7 +1,6 @@
 # Text User Interface
 
-│ **English (en)** │  **[suomi (fi)](</Text_User_Interface/fi> "Text User Interface/fi")** │    
-****
+│ **English (en)** │
 
 **Text user interface** is a character-based interface where the pixels on the screen are not controlled one by one, but all the results on the screen come from the graphics card's character generator, which typically has a collection of characters according to the [ASCII](<ASCII.md> "ASCII") or ANSI X3.64 (VT100) standard. TUI is different from the [command line](<Command-line_interface.md> "Command-line interface"): 
 

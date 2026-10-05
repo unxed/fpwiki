@@ -1,7 +1,6 @@
 # Build current FPC and Lazarus for Raspberry Pi OS
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 Raspberry Pi OS Bullseye (based on Debian 11 Bullseye) has FPC and Lazarus available in the repositories, but they suffer from the same "design decisions" that don't allow for a nice experience, namely the smooth IDE rebuilding capability based on source packages that is possible with FPC/Lazarus official .deb packages vs the crippled experience with the official Debian/Raspberry Pi OS packages. One wishes there were official FPC/Lazarus packages for Raspberry Pi OS as there are for Intel Debian/Ubuntu, which are also frequently updated; not being that the case (at least for now), this page shows the steps for building your own FPC, FPC-source and Lazarus packages for Raspberry Pi OS. Example shows steps for Lazarus 2.2.0 which includes FPC 3.2.2, most recent at the time of writing. Adjust accordingly. 
 

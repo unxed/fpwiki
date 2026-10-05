@@ -1,6 +1,7 @@
 # TSaveDialog
 
-│ **[English (en)](<../en/TSaveDialog.md> "TSaveDialog")** │  **[français (fr)](</TSaveDialog/fr> "TSaveDialog/fr")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</TSaveDialog/zh_CN> "TSaveDialog/zh CN")** │    
+│ **[English (en)](<../en/TSaveDialog.md>)** │  **русский (ru)** │
+
 ******TSaveDialog** [![tsavedialog.png](https://wiki.freepascal.org/images/4/4a/tsavedialog.png)](</File:tsavedialog.png>) этот компонент отображает диалоговое окно, использующиеся для сохранения файлов. Он расположен на вкладке [Dialogs](<Dialogs_tab.md> "Dialogs tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 
 ## См. также

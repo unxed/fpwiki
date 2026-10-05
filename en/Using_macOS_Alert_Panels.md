@@ -1,6 +1,6 @@
 # Using macOS Alert Panels
 
-│ **English (en)** │ 
+│ **English (en)** │
 
 [![macOSlogo.png](https://wiki.freepascal.org/images/1/15/macOSlogo.png)](</File:macOSlogo.png>)
 

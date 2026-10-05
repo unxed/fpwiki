@@ -1,7 +1,6 @@
 # Lazarus IDE
 
-│ [**Deutsch (de)**](</Lazarus_IDE/de> "Lazarus IDE/de") │  **English (en)** │  [**español (es)**](</Lazarus_IDE/es> "Lazarus IDE/es") │  [**suomi (fi)**](</Lazarus_IDE/fi> "Lazarus IDE/fi") │  [**français (fr)**](</Lazarus_IDE/fr> "Lazarus IDE/fr") │  [**日本語 (ja)**](</Lazarus_IDE/ja> "Lazarus IDE/ja") │    
-****
+│ **English (en)** │
 
 [![Lazarus IDE main menu](https://wiki.freepascal.org/images/d/d3/IDE-menu-main.JPG)](</File:IDE-menu-main.JPG> "Lazarus IDE main menu")
 

@@ -1,7 +1,6 @@
 # Dynamic array
 
-│ **[English (en)](<../en/Dynamic_array.md> "Dynamic array")** │  **[español (es)](</Dynamic_array/es> "Dynamic array/es")** │  **[suomi (fi)](</Dynamic_array/fi> "Dynamic array/fi")** │  **[français (fr)](</Dynamic_array/fr> "Dynamic array/fr")** │  **[日本語 (ja)](</Dynamic_array/ja> "Dynamic array/ja")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Dynamic_array.md>)** │  **русский (ru)** │
 
 Динамический массив - это [массив](<Array.md> "Array/ru"), размеры которого неизвестны во [время компиляции](<../en/Compile_time.md> "Compile time"). Динамический массив не является единственным типом, предоставляющим массивы переменной длины, но с 2018 года он является единственным, который поддерживает [FPC](<FPC.md> "FPC/ru"). 
 

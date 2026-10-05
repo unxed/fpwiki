@@ -1,6 +1,7 @@
 # TFixedFormatDataSet
 
-│ **English (en)** │  **[français (fr)](</TFixedFormatDataSet/fr> "TFixedFormatDataSet/fr")** │  **[русский (ru)](<../ru/TFixedFormatDataSet.md> "TFixedFormatDataSet/ru")** │    
+│ **English (en)** │  **[русский (ru)](<../ru/TFixedFormatDataSet.md>)** │
+
 ******TFixedFormatDataSet** [![tfixedformatdataset.png](https://wiki.freepascal.org/images/d/d4/tfixedformatdataset.png)](</File:tfixedformatdataset.png>) is a database component that implements fixed-format text-based `[TDataSet](<TDataSet.md> "TDataSet")`. 
 
 ## See also

@@ -1,7 +1,6 @@
 # Extending the IDE
 
-│ **[Deutsch (de)](</Extending_the_IDE/de> "Extending the IDE/de")** │  **English (en)** │  **[español (es)](</Extending_the_IDE/es> "Extending the IDE/es")** │  **[français (fr)](</Extending_the_IDE/fr> "Extending the IDE/fr")** │  **[日本語 (ja)](</Extending_the_IDE/ja> "Extending the IDE/ja")** │  **[русский (ru)](<../ru/Extending_the_IDE.md> "Extending the IDE/ru")** │  **[slovenčina (sk)](</Extending_the_IDE/sk> "Extending the IDE/sk")** │  **[中文（中国大陆） (zh_CN)](</Extending_the_IDE/zh_CN> "Extending the IDE/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Extending_the_IDE.md>)** │
 
 ## Contents
 

@@ -1,7 +1,6 @@
 # Generics
 
-│ **[English (en)](<../en/Generics.md> "Generics")** │  **[français (fr)](</Generics/fr> "Generics/fr")** │  **[한국어 (ko)](</Generics/ko> "Generics/ko")** │  **[polski (pl)](</Generics/pl> "Generics/pl")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Generics.md>)** │  **русский (ru)** │
 
 ## Contents
 

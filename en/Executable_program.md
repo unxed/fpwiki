@@ -1,7 +1,6 @@
 # Executable program
 
-│ **[Deutsch (de)](</Executable_program/de> "Executable program/de")** │  **English (en)** │  **[suomi (fi)](</Executable_program/fi> "Executable program/fi")** │  **[français (fr)](</Executable_program/fr> "Executable program/fr")** │  **[Bahasa Indonesia (id)](</Executable_program/id> "Executable program/id")** │  **[polski (pl)](</Executable_program/pl> "Executable program/pl")** │  **[português (pt)](</Executable_program/pt> "Executable program/pt")** │  **[русский (ru)](<../ru/Executable_program.md> "Executable program/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Executable_program.md>)** │
 
 An **executable program** is the translation of (in our case, [Pascal](<Pascal.md> "Pascal")) [source code](<Source_code.md> "Source code") by a [compiler](<Compiler.md> "Compiler") (or [assembly language](<Assembly_language.md> "Assembly language") source code which is translated by an [assembler](<Assembler.md> "Assembler")) into an [object module](<Object_module.md> "Object module"), which has been combined with any necessary Pascal [units](<Unit.md> "Unit"), the Pascal [run time library](<RTL.md> "RTL") and any other object modules which may have been written by others, to produce an actual [binary](<Binary.md> "Binary") program which can be 
 

@@ -1,7 +1,6 @@
 # Branch
 
-│ **[Deutsch (de)](</Branch/de> "Branch/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
 A **branch** , also called **conditional** or **conditional statement** , is a [statement](<statement.md> "statement") that is executed depending on an [expression’s](<expression.md> "expression") value. Usually this expression depends on the [program’s](<Program.md> "Program") state. 
 

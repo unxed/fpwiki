@@ -1,7 +1,6 @@
 # TButtonPanel
 
-│ **[English (en)](<../en/TButtonPanel.md> "TButtonPanel")** │  **[français (fr)](</TButtonPanel/fr> "TButtonPanel/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TButtonPanel.md>)** │  **русский (ru)** │
 
 **TButtonPanel** [![tbuttonpanel.png](https://wiki.freepascal.org/images/f/f0/tbuttonpanel.png)](</File:tbuttonpanel.png>) представляет собой визуальный компонент, расположенный на вкладке [Misc](<Misc_tab.md> "Misc tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"), в виде панели, выровненной по нижней границе формы, с возможностью выбора предварительно размещенных кнопок _Help_ , _Close_ , _Ok_ и _Cancel_. 
 

@@ -1,7 +1,6 @@
 # TsWorksheetGrid
 
-│ **[English (en)](<../en/TsWorksheetGrid.md> "TsWorksheetGrid")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TsWorksheetGrid.md>)** │  **русский (ru)** │
 
 * * *
 

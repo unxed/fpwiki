@@ -1,7 +1,6 @@
 # IDE Window: Search Results
 
-│ **[Deutsch (de)](</IDE_Window:_Search_Results/de> "IDE Window: Search Results/de")** │  **English (en)** │  **[français (fr)](</IDE_Window:_Search_Results/fr> "IDE Window: Search Results/fr")** │    
-****
+│ **English (en)** │
 
 Every search result is shown in a line. 
 

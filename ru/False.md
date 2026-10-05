@@ -1,7 +1,6 @@
 # False
 
-│ **[Deutsch (de)](</False/de> "False/de")** │  **[English (en)](<../en/False.md> "False")** │  **[français (fr)](</False/fr> "False/fr")** │  **русский (ru)** │  **[中文（中国大陆）‎ (zh_CN)](</False/zh_CN> "False/zh CN")** │    
-****
+│ **[English (en)](<../en/False.md>)** │  **русский (ru)** │
 
 [Константа](<../en/Const.md> "Const") **false** используется для определения истинности условия в [булевой](<../en/Boolean.md> "Boolean") переменной, в качестве противоположенного значения [true](<../en/True.md> "True"). Эта [неименованная (манифестная) константа](</index.php?title=Manifest_constant&action=edit&redlink=1> "Manifest constant \(page does not exist\)") является частью [стандартных типов данных](<../en/Standard_type.md> "Standard type") и компилятор изначально знает о ней. 
 

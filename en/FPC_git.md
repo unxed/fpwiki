@@ -1,7 +1,6 @@
 # FPC git
 
-│ **English (en)** │  **[русский (ru)](<../ru/FPC_git.md> "FPC git/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/FPC_git.md>)** │
 
 ## Contents
 

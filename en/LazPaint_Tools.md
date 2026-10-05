@@ -1,7 +1,6 @@
 # LazPaint Tools
 
-│ **English (en)** │  **[suomi (fi)](</LazPaint_Tools/fi> "LazPaint Tools/fi")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

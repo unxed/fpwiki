@@ -1,7 +1,6 @@
 # Assembler
 
-│ **[Deutsch (de)](</Assembler/de> "Assembler/de")** │  **English (en)** │  **[français (fr)](</Assembler/fr> "Assembler/fr")** │  **[português (pt)](</Assembler/pt> "Assembler/pt")** │    
-****
+│ **English (en)** │
 
 The **assembler** is the [executable program](<Executable_program.md> "Executable program") that translates [source code](<Source_code.md> "Source code") written in [assembly language](<Assembly_language.md> "Assembly language") into an executable program or which produces an [object module](<Object_module.md> "Object module") that can be passed to a program [linker](</index.php?title=linker&action=edit&redlink=1> "linker \(page does not exist\)") which then produces the executable program. 
 

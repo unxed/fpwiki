@@ -1,7 +1,6 @@
 # Char
 
-│ **[Deutsch (de)](</Char/de> "Char/de")** │  **[English (en)](<../en/Char.md> "Char")** │  **[español (es)](</Char/es> "Char/es")** │  **[français (fr)](</Char/fr> "Char/fr")** │  **[italiano (it)](</Char/it> "Char/it")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Char.md>)** │  **русский (ru)** │
 
 Переменная типа **char** хранит один символ и в настоящее время имеет размер 1 байт ([AnsiChar](<AnsiChar.md> "AnsiChar/ru") является псевдонимом типа **char**). Однако, в будущем **char** может стать таким же типом, как [WideChar](</index.php?title=WideChar/ru&action=edit&redlink=1> "WideChar/ru \(page does not exist\)"). В настоящее время [byte](<Byte.md> "Byte/ru") и **char** почти синонимы - имеют размер 1 байт (8 бит), однако, **char** может использоваться только для хранения символов или части [строки](<String.md> "String/ru"), но не может использоваться в арифметических выражениях, в то время как **byte** может использоваться только как числовой тип. 
 

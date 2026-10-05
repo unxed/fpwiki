@@ -1,7 +1,6 @@
 # JavaScript
 
-│ [**English (en)**](<../en/JavaScript.md> "JavaScript") │  [**suomi (fi)**](</JavaScript/fi> "JavaScript/fi") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/JavaScript.md>)** │  **русский (ru)** │
 
 JavaScript - это объектно-ориентированный язык сценариев. JavaScript используется для создания интерактивных сайтов. 
 

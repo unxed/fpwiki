@@ -1,6 +1,6 @@
 # ARM Embedded Tutorial - Simple Timer
 
-│ **[Deutsch (de)](</ARM_Embedded_Tutorial_-_Simple_Timer/de> "ARM Embedded Tutorial - Simple Timer/de")** │  **English (en)** │ 
+│ **English (en)** │
 
 ## Contents
 

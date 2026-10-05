@@ -1,7 +1,6 @@
 # Shell sort
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 The Shell sort algorithm (aka shellsort or Shell's sort) is an [integer](<Integer.md> "Integer") [sorting algorithm](<sorting_algorithm.md> "sorting algorithm"). It is a fast sorting algorithm (although slower than quicksort) that has the advantage that it is non-recursive, so it doesn't use the call stack. Therefore the method is advantageous on small and embedded systems and for sorting very large arrays. The algorithm was published in assembler code by Donald L. Shell in 1959. 
 

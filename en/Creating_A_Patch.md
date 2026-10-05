@@ -1,7 +1,6 @@
 # Creating A Patch
 
-│ **[Deutsch (de)](</Creating_A_Patch/de> "Creating A Patch/de")** │  **English (en)** │  **[español (es)](</Creating_A_Patch/es> "Creating A Patch/es")** │  **[français (fr)](</Creating_A_Patch/fr> "Creating A Patch/fr")** │  **[日本語 (ja)](</Creating_A_Patch/ja> "Creating A Patch/ja")** │  **[português (pt)](</Creating_A_Patch/pt> "Creating A Patch/pt")** │  **[русский (ru)](<../ru/Creating_A_Patch.md> "Creating A Patch/ru")** │  **[slovenčina (sk)](</Creating_A_Patch/sk> "Creating A Patch/sk")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Creating_A_Patch.md>)** │
 
 If you want to submit improvements to the FPC or Lazarus code, you need to submit a patch which developers can easily merge. 
 

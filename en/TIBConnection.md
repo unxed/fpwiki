@@ -1,8 +1,7 @@
 # TIBConnection
 
-│ **English (en)** │  **[français (fr)](</TIBConnection/fr> "TIBConnection/fr")** │  **[русский (ru)](<../ru/TIBConnection.md> "TIBConnection/ru")** │    
-****  
-  
+│ **English (en)** │  **[русский (ru)](<../ru/TIBConnection.md>)** │
+
 ---  
 [**Databases portal**](<Portal_Databases.md> "Portal:Databases")  
 References: 

@@ -1,7 +1,6 @@
 # Linux Programming Tips
 
-│ **English (en)** │  **[français (fr)](</Linux_Programming_Tips/fr> "Linux Programming Tips/fr")** │    
-****
+│ **English (en)** │
 
 [![Crystal 128 penguin.png](https://upload.wikimedia.org/wikipedia/commons/1/1c/Crystal_128_penguin.png)](</File:Crystal_128_penguin.png>)
 

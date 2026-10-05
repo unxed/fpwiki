@@ -1,7 +1,6 @@
 # modifier
 
-│ **English (en)** │  **[Esperanto (eo)](</modifier/eo> "modifier/eo")** │  **[suomi (fi)](</modifier/fi> "modifier/fi")** │  **[français (fr)](</modifier/fr> "modifier/fr")** │    
-****
+│ **English (en)** │
 
 **Modifiers** are [keywords](<Keyword.md> "Keyword") modifying the standard behavior of a [Pascal](<Pascal.md> "Pascal") language construct, although some modifiers merely serve the purpose of being a _hint_ to the compiler. 
 

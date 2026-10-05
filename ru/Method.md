@@ -1,7 +1,6 @@
 # Method
 
-│ **[English (en)](<../en/Method.md> "Method")** │  **[français (fr)](</Method/fr> "Method/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Method.md>)** │  **русский (ru)** │
 
 ## Определение
 

@@ -1,7 +1,6 @@
 # Unit
 
-│ **[Deutsch (de)](</Unit/de> "Unit/de")** │  **[English (en)](<../en/Unit.md> "Unit")** │  **[español (es)](</Unit/es> "Unit/es")** │  **[suomi (fi)](</Unit/fi> "Unit/fi")** │  **[français (fr)](</Unit/fr> "Unit/fr")** │  **[português (pt)](</Unit/pt> "Unit/pt")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Unit.md>)** │  **русский (ru)** │
 
   
 Назад к [Зарезервированным словам](<Reserved_words.md> "Reserved words/ru"). 

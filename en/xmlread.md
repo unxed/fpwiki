@@ -1,7 +1,6 @@
 # xmlread
 
-│ **English (en)** │  **[español (es)](</xmlread/es> "xmlread/es")** │    
-****
+│ **English (en)** │
 
 Provides an XML reader, which can read XML data from a file or stream. The data is stored in a [TXMLDocument](<TXMLDocument.md> "TXMLDocument"). 
 

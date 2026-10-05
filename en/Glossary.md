@@ -1,8 +1,6 @@
 # Glossary
 
-│ **[Deutsch (de)](</Glossary/de> "Glossary/de")** │  **English (en)** │  **[español (es)](</Glossary/es> "Glossary/es")** │  **[français (fr)](</Glossary/fr> "Glossary/fr")** │  **[italiano (it)](</Glossary/it> "Glossary/it")** │  **[中文（臺灣） (zh_TW)](</Glossary/zh_TW> "Glossary/zh TW")** │    
-****  
-****
+│ **English (en)** │
 
 This page will never be complete. You are encouraged to continue adding things to it that — 
 

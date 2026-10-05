@@ -1,7 +1,6 @@
 # Finalization
 
-│ [**Deutsch (de)**](</Finalization/de> "Finalization/de") │  [**English (en)**](<../en/Finalization.md> "Finalization") │  [**suomi (fi)**](</Finalization/fi> "Finalization/fi") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Finalization.md>)** │  **русский (ru)** │
 
 **Finalization** является [зарезервированным словом](<Reserved_words.md> "Reserved words/ru") в [Object Pascal](</index.php?title=Object_Pascal/ru&action=edit&redlink=1> "Object Pascal/ru \(page does not exist\)"). Оно начинает раздел завершения (финализации) в [модуле](<Unit.md> "Unit/ru"). 
 

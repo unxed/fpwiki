@@ -6,8 +6,7 @@ This article applies to [Mac OS Classic](</Category:Mac_OS_Classic> "Category:Ma
 
 See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **English (en)** │  **[Bahasa Indonesia (id)](</Link_on_target/id> "Link on target/id")** │  **[русский (ru)](<../ru/Link_on_target.md> "Link on target/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Link_on_target.md>)** │
 
 The -st option defers assembling and linking to be made manually after compiling with fpc. Instead a script is generated which, when is executed on the target, completes the build process. The name of the script is <target>_ppas. 
 

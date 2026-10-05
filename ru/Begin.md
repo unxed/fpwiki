@@ -1,7 +1,6 @@
 # Begin
 
-│ **[Deutsch (de)](</Begin/de> "Begin/de")** │  **[English (en)](<../en/Begin.md> "Begin")** │  **[español (es)](</Begin/es> "Begin/es")** │  **[suomi (fi)](</Begin/fi> "Begin/fi")** │  **[français (fr)](</Begin/fr> "Begin/fr")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</Begin/zh_CN> "Begin/zh CN")** │    
-****
+│ **[English (en)](<../en/Begin.md>)** │  **русский (ru)** │
 
 [Ключевое слово](<Reserved_word.md> "Reserved word/ru") **begin** используется для начала исполняемой секции [функции](<Function.md> "Function/ru"), [метода](<Method.md> "Method/ru") [объекта](</index.php?title=Object/ru&action=edit&redlink=1> "Object/ru \(page does not exist\)"), [процедуры](<Procedure.md> "Procedure/ru"), [программы](<Program.md> "Program/ru"), [свойства](</Property/ru> "Property/ru") объекта или используется для отделения начала выражения [блока](</index.php?title=Block/ru&action=edit&redlink=1> "Block/ru \(page does not exist\)"). 
 

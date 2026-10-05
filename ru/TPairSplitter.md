@@ -1,7 +1,6 @@
 # TPairSplitter
 
-│ **[English (en)](<../en/TPairSplitter.md> "TPairSplitter")** │  **[français (fr)](</TPairSplitter/fr> "TPairSplitter/fr")** │  **[日本語 (ja)](</TPairSplitter/ja> "TPairSplitter/ja")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TPairSplitter.md>)** │  **русский (ru)** │
 
 **TPairSplitter** [![tpairsplitter.png](https://wiki.freepascal.org/images/6/62/tpairsplitter.png)](</File:tpairsplitter.png>) является компонентом, который может быть размещен на [панели](<TPanel.md> "TPanel/ru") или форме, представляющим собой контейнер с двумя разделенными компонентами [TPairSplitterSide](</index.php?title=TPairSplitterSide/ru&action=edit&redlink=1> "TPairSplitterSide/ru \(page does not exist\)"). 
 

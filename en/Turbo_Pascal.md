@@ -1,8 +1,7 @@
 # Turbo Pascal
 
-│ **[Deutsch (de)](</Turbo_Pascal/de> "Turbo Pascal/de")** │  **English (en)** │  **[español (es)](</Turbo_Pascal/es> "Turbo Pascal/es")** │  **[suomi (fi)](</Turbo_Pascal/fi> "Turbo Pascal/fi")** │  **[français (fr)](</Turbo_Pascal/fr> "Turbo Pascal/fr")** │    
-****  
-  
+│ **English (en)** │
+
 
 
 [![](https://wiki.freepascal.org/images/5/59/tp_v3_z80.png)](</File:tp_v3_z80.png>)

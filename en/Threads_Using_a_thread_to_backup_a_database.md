@@ -1,7 +1,6 @@
 # Threads Using a thread to backup a database
 
-│ **English (en)** │  **[français (fr)](</Threads_Using_a_thread_to_backup_a_database/fr> "Threads Using a thread to backup a database/fr")** │    
-****
+│ **English (en)** │
 
 ## Sample code illustrating use of threads
 

@@ -1,7 +1,6 @@
 # CsvDocument
 
-│ **[English (en)](<../en/CsvDocument.md> "CsvDocument")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/CsvDocument.md>)** │  **русский (ru)** │
 
 [![Warning-icon.png](https://wiki.freepascal.org/images/b/b2/Warning-icon.png)](</File:Warning-icon.png>)
 

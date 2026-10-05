@@ -1,8 +1,7 @@
 # ODBCConn
 
-│ **English (en)** │  **[español (es)](</ODBCConn/es> "ODBCConn/es")** │  **[français (fr)](</ODBCConn/fr> "ODBCConn/fr")** │  **[日本語 (ja)](</ODBCConn/ja> "ODBCConn/ja")** │    
-****  
-  
+│ **English (en)** │
+
 ---  
 [**Databases portal**](<Portal_Databases.md> "Portal:Databases")  
 References: 

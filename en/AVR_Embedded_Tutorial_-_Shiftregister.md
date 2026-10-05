@@ -1,6 +1,6 @@
 # AVR Embedded Tutorial - Shiftregister
 
-│ **[Deutsch (de)](</AVR_Embedded_Tutorial_-_Shiftregister/de> "AVR Embedded Tutorial - Shiftregister/de")** │  **English (en)** │ 
+│ **English (en)** │
 
 ## Contents
 

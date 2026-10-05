@@ -1,8 +1,7 @@
 # TSQLDBLibraryLoader
 
-│ **English (en)** │  **[français (fr)](</TSQLDBLibraryLoader/fr> "TSQLDBLibraryLoader/fr")** │  **[日本語 (ja)](</TSQLDBLibraryLoader/ja> "TSQLDBLibraryLoader/ja")** │  **[polski (pl)](</TSQLDBLibraryLoader/pl> "TSQLDBLibraryLoader/pl")** │  **[中文（中国大陆） (zh_CN)](</TSQLDBLibraryLoader/zh_CN> "TSQLDBLibraryLoader/zh CN")** │    
-****  
-  
+│ **English (en)** │
+
 ---  
 [**Databases portal**](<Portal_Databases.md> "Portal:Databases")  
 References: 

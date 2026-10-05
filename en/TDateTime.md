@@ -1,7 +1,6 @@
 # TDateTime
 
-│ **English (en)** │  **[suomi (fi)](</TDateTime/fi> "TDateTime/fi")** │    
-****
+│ **English (en)** │
 
 TDateTime is stored as a double, the integer part representing days and the fractional part being fraction of a day. The integer part is the number of days that have passed since December 30, 1899, and can be a negative number. The fractional part reflects the fraction of a 24-hour day without regard to the sign of the TDateTime value, so care must be taken when computing negative TDateTime values with a fractional part.  
 Methods exist in Sysutils (datetimeroutines) that allow reading, writing and calculating with TDateTime, converting to and from a number of formats.  

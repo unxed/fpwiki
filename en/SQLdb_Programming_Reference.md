@@ -1,8 +1,7 @@
 # SQLdb Programming Reference
 
-│ **English (en)** │  **[español (es)](</SQLdb_Programming_Reference/es> "SQLdb Programming Reference/es")** │  **[français (fr)](</SQLdb_Programming_Reference/fr> "SQLdb Programming Reference/fr")** │  **[日本語 (ja)](</SQLdb_Programming_Reference/ja> "SQLdb Programming Reference/ja")** │  **[中文（中国大陆） (zh_CN)](</SQLdb_Programming_Reference/zh_CN> "SQLdb Programming Reference/zh CN")** │    
-****  
-  
+│ **English (en)** │
+
 ---  
 [**Databases portal**](<Portal_Databases.md> "Portal:Databases")  
 References: 

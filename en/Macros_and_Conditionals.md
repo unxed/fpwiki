@@ -1,7 +1,6 @@
 # Macros and Conditionals
 
-│ **English (en)** │  **[français (fr)](</Macros_and_Conditionals/fr> "Macros and Conditionals/fr")** │  **[русский (ru)](<../ru/Macros_and_Conditionals.md> "Macros and Conditionals/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Macros_and_Conditionals.md>)** │
 
 ## Contents
 

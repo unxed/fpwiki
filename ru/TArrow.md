@@ -1,6 +1,6 @@
 # TArrow
 
-│ [**English (en)**](<../en/TArrow.md> "TArrow") │  [**français (fr)**](</TArrow/fr> "TArrow/fr") │  **русский (ru)** │    
+│ **[English (en)](<../en/TArrow.md>)** │  **русский (ru)** │
 
 
 **TArrow** [![tarrow.png](https://wiki.freepascal.org/images/d/df/tarrow.png)](</File:tarrow.png>) \- это компонент, содержащий графическое изображение в виде стрелки и предназначенный для размещения на [форме](<TForm.md> "TForm/ru"). Данный компонент является потомком [TGraphicControl](<TGraphicControl.md> "TGraphicControl/ru") и доступен на вкладке [Misc](<Misc_tab.md> "Misc tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 

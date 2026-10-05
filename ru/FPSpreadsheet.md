@@ -1,7 +1,6 @@
 # FPSpreadsheet
 
-│ **[Deutsch (de)](</FPSpreadsheet/de> "FPSpreadsheet/de")** │  **[English (en)](<../en/FPSpreadsheet.md> "FPSpreadsheet")** │  **[español (es)](</FPSpreadsheet/es> "FPSpreadsheet/es")** │  **[français (fr)](</FPSpreadsheet/fr> "FPSpreadsheet/fr")** │  **[polski (pl)](</FPSpreadsheet/pl> "FPSpreadsheet/pl")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/FPSpreadsheet.md>)** │  **русский (ru)** │
 
 FpSpreadsheet библиотека предоставляет удобный способ создания и чтения табличных документов в различных форматах. Библиотека написана на очень гибкой основе, и поэтому её можно легко расширять поддержкой любого количества форматов. 
 

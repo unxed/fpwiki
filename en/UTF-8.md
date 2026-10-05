@@ -1,7 +1,6 @@
 # UTF-8
 
-│ **English (en)** │  **[suomi (fi)](</UTF-8/fi> "UTF-8/fi")** │  **[français (fr)](</UTF-8/fr> "UTF-8/fr")** │  **[русский (ru)](<../ru/UTF-8.md> "UTF-8/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/UTF-8.md>)** │
 
 UTF-8 (8-bit UCS/Unicode Transformation Format) is a variable-length character encoding for Unicode. Unicode characters U+0000 to U+007F are encoded simply as bytes 00h to 7Fh. This means that files and strings which contain only 7-bit [ASCII](<ASCII.md> "ASCII") characters have the same encoding under both ASCII and UTF-8. 
 

@@ -1,7 +1,6 @@
 # FPReport Usage
 
-│ **English (en)** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/FPReport_Usage.md>)** │
 
 On this page we'll dissect how to create a simple report in code. As a starting point, we take the dataset demo report from the Free Pascal demo application. 
 

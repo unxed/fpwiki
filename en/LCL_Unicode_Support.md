@@ -1,7 +1,6 @@
 # Unicode Support in Lazarus
 
-│ **English (en)** │  **[日本語 (ja)](</Unicode_Support_in_Lazarus/ja> "Unicode Support in Lazarus/ja")** │  **[русский (ru)](<../ru/Unicode_Support_in_Lazarus.md> "Unicode Support in Lazarus/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/LCL_Unicode_Support.md>)** │
 
 ## Contents
 

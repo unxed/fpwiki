@@ -1,6 +1,6 @@
 # Message files
 
-│ [**English (en)**](<../en/Message_files.md> "Message files") │  **русский (ru)** │    
+│ **[English (en)](<../en/Message_files.md>)** │  **русский (ru)** │
 
 
 ## Основы

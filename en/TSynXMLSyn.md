@@ -1,7 +1,6 @@
 # TSynXMLSyn
 
-│ **English (en)** │  **[français (fr)](</TSynXMLSyn/fr> "TSynXMLSyn/fr")** │  **[русский (ru)](<../ru/TSynXMLSyn.md> "TSynXMLSyn/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TSynXMLSyn.md>)** │
 
 **TSynXMLSyn** [![tsynxmlsyn.png](https://wiki.freepascal.org/images/2/29/tsynxmlsyn.png)](</File:tsynxmlsyn.png>) is a component that provides the [XML](<XML.md> "XML")-language syntaxchecking-part of [syntax-highlighting](<Syntax_highlighting.md> "Syntax highlighting") editing. It is part of the [SynEdit](<SynEdit.md> "SynEdit") package and is available under the [SynEdit tab](<SynEdit_tab.md> "SynEdit tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

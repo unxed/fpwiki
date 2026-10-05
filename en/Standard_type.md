@@ -1,7 +1,6 @@
 # Standard type
 
-│ **English (en)** │  **[italiano (it)](</Standard_type/it> "Standard type/it")** │  **[русский (ru)](<../ru/Standard_type.md> "Standard type/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Standard_type.md>)** │
 
 There are certain [data types](<Data_type.md> "Data type") which are defined by a [Pascal](<Pascal.md> "Pascal") [compiler](<Compiler.md> "Compiler") as **standard data types**. These types are generally the _atomic_ data structures used by a [Pascal](<Pascal.md> "Pascal") [program](<Program.md> "Program"), as variables and constants that would be made up of them can't be created from something else without these types. The typical standard types include: 
 

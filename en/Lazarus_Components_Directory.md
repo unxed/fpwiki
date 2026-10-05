@@ -1,7 +1,6 @@
 # Lazarus Components Directory
 
-│ **[Deutsch (de)](</Lazarus_Components_Directory/de> "Lazarus Components Directory/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
 The "components" directory of the Lazarus source tree comes with a number of very useful components, and they are described below. Note that there are also other components which can be downloaded separately from the [Lazarus Code and Component Repository](<Components_and_Code_examples.md> "Components and Code examples"). 
 

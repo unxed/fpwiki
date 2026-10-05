@@ -1,7 +1,6 @@
 # Arduino
 
-│ **[Deutsch (de)](</Arduino/de> "Arduino/de")** │  **English (en)** │  **[español (es)](</Arduino/es> "Arduino/es")** │    
-****
+│ **English (en)** │
 
 [![Arduino Logo.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/50px-Arduino_Logo.svg.png)](</File:Arduino_Logo.svg>)
 
@@ -48,7 +47,7 @@ Currently (2017) most Arduino boards carry microcontrollers of the AVR family (A
 
 There are further wiki pages for programing AVR microcontrollers: [AVR](<AVR.md> "AVR"), [AVR Programming](<AVR_Programming.md> "AVR Programming")
 
-There is also a tutorial on how to use Lazarus on a AtMega328p (Arduino Uno/Nano) in German language: [AVR Embedded Tutorial/de](</AVR_Embedded_Tutorial/de> "AVR Embedded Tutorial/de")
+There is also a tutorial on how to use Lazarus on a AtMega328p (Arduino Uno/Nano) in German language: AVR Embedded Tutorial/de
 
   
 

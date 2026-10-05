@@ -1,7 +1,6 @@
 # Lazarus Inline Assembler
 
-│ **[English (en)](<../en/Lazarus_Inline_Assembler.md> "Lazarus Inline Assembler")** │  **[español (es)](</Lazarus_Inline_Assembler/es> "Lazarus Inline Assembler/es")** │  **[français (fr)](</Lazarus_Inline_Assembler/fr> "Lazarus Inline Assembler/fr")** │  **[日本語 (ja)](</Lazarus_Inline_Assembler/ja> "Lazarus Inline Assembler/ja")** │  **[한국어 (ko)](</Lazarus_Inline_Assembler/ko> "Lazarus Inline Assembler/ko")** │  **русский (ru)** │  **[Tiếng Việt (vi)](</Lazarus_Inline_Assembler/vi> "Lazarus Inline Assembler/vi")** │    
-****
+│ **[English (en)](<../en/Lazarus_Inline_Assembler.md>)** │  **русский (ru)** │
 
 Это не завершённая статья. Ниже приведён пример для начала работы: 
     

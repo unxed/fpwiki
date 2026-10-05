@@ -1,8 +1,6 @@
 # IDE Window: Configure Build file
 
-│ **English (en)** │  **[français (fr)](</IDE_Window:_Configure_Build_file/fr> "IDE Window: Configure Build file/fr")** │    
-****  
-****
+│ **English (en)** │
 
 Normally 'building' and 'running' menu items and shortcuts invokes building (running) the current project. 
 

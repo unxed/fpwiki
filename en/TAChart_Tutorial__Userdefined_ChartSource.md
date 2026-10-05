@@ -1,7 +1,6 @@
 # TAChart Tutorial: Userdefined ChartSource
 
-│ **English (en)** │  [**suomi (fi)**](</TAChart_Tutorial:_Userdefined_ChartSource/fi> "TAChart Tutorial: Userdefined ChartSource/fi") │    
-****
+│ **English (en)** │
 
 ## Contents
 

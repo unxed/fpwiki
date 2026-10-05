@@ -1,5 +1,7 @@
 # Var
 
+│ **English (en)** │  **[русский (ru)](<../ru/Var.md>)** │
+
 The [keyword](<Keyword.md> "Keyword") `var` is used to: 
 
   * start section of [variable](<Variable.md> "Variable") declarations, and

@@ -1,7 +1,6 @@
 # TFindDialog
 
-│ **[English (en)](<../en/TFindDialog.md> "TFindDialog")** │  **[suomi (fi)](</TFindDialog/fi> "TFindDialog/fi")** │  **[français (fr)](</TFindDialog/fr> "TFindDialog/fr")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</TFindDialog/zh_CN> "TFindDialog/zh CN")** │    
-****
+│ **[English (en)](<../en/TFindDialog.md>)** │  **русский (ru)** │
 
 **TFindDialog** [![tfinddialog.png](https://wiki.freepascal.org/images/8/87/tfinddialog.png)](</File:tfinddialog.png>) этот компонент помогает в поиске информации. Он расположен на вкладке [Dialogs](<Dialogs_tab.md> "Dialogs tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

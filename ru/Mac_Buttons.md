@@ -1,7 +1,6 @@
 # Mac Buttons
 
-│ **[English (en)](<../en/Mac_Buttons.md> "Mac Buttons")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Mac_Buttons.md>)** │  **русский (ru)** │
 
 [![macOSlogo.png](https://wiki.freepascal.org/images/1/15/macOSlogo.png)](</File:macOSlogo.png>)
 

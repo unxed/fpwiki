@@ -1,7 +1,6 @@
 # ATTabs
 
-│ **[Deutsch (de)](</ATTabs/de> "ATTabs/de")** │  **[English (en)](<../en/ATTabs.md> "ATTabs")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/ATTabs.md>)** │  **русский (ru)** │
 
 ## Contents
 

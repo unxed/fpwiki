@@ -1,7 +1,6 @@
 # Greatest common divisor
 
-│ **English (en)** │  **[suomi (fi)](</Greatest_common_divisor/fi> "Greatest common divisor/fi")** │  **[français (fr)](</Greatest_common_divisor/fr> "Greatest common divisor/fr")** │  **[polski (pl)](</Greatest_common_divisor/pl> "Greatest common divisor/pl")** │  **[русский (ru)](<../ru/Greatest_common_divisor.md> "Greatest common divisor/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Greatest_common_divisor.md>)** │
 
 The greatest common divisor of two integers is the largest integer that divides them both. If numbers are 121 and 143 then greatest common divisor is 11. 
 

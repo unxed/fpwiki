@@ -1,6 +1,6 @@
 # Notarization for macOS 10.14.5+
 
-│ **English (en)** │  **[русский (ru)](<../ru/Notarization_for_macOS_10.14.md> "Notarization for macOS 10.14.5+/ru")** │ 
+│ **English (en)** │  **[русский (ru)](<../ru/Notarization_for_macOS_10.14.md>)** │
 
 [![macOSlogo.png](https://wiki.freepascal.org/images/1/15/macOSlogo.png)](</File:macOSlogo.png>)
 

@@ -1,7 +1,6 @@
 # TSynUNIXShellScriptSyn
 
-│ **English (en)** │  **[français (fr)](</TSynUNIXShellScriptSyn/fr> "TSynUNIXShellScriptSyn/fr")** │  **[русский (ru)](<../ru/TSynUNIXShellScriptSyn.md> "TSynUNIXShellScriptSyn/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TSynUNIXShellScriptSyn.md>)** │
 
 **TSynUnixShellScriptSyn** [![tsynunixshellscriptsyn.png](https://wiki.freepascal.org/images/e/e7/tsynunixshellscriptsyn.png)](</File:tsynunixshellscriptsyn.png>) is a component that provides the Unix-shell-script syntax-checking-part of syntax-highlighting editing. It is part of the [SynEdit](<SynEdit.md> "SynEdit") package and is available under the [SynEdit tab](<SynEdit_tab.md> "SynEdit tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

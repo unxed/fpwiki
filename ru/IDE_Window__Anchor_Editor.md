@@ -1,8 +1,6 @@
 # IDE Window: Anchor Editor
 
-│ **[Deutsch (de)](</IDE_Window:_Anchor_Editor/de> "IDE Window: Anchor Editor/de")** │  **[English (en)](<../en/IDE_Window__Anchor_Editor.md> "IDE Window: Anchor Editor")** │  **[français (fr)](</IDE_Window:_Anchor_Editor/fr> "IDE Window: Anchor Editor/fr")** │  **русский (ru)** │    
-****  
-****
+│ **[English (en)](<../en/IDE_Window__Anchor_Editor.md>)** │  **русский (ru)** │
 
   
 [![Anchor Editor en.png](https://wiki.freepascal.org/images/2/28/Anchor_Editor_en.png)](</File:Anchor_Editor_en.png>)

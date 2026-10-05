@@ -1,7 +1,6 @@
 # ColorPalette
 
-│ **English (en)** │  **[français (fr)](</ColorPalette/fr> "ColorPalette/fr")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

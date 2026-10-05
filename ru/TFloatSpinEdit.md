@@ -1,7 +1,6 @@
 # TFloatSpinEdit
 
-│ [**English (en)**](<../en/TFloatSpinEdit.md> "TFloatSpinEdit") │  [**français (fr)**](</TFloatSpinEdit/fr> "TFloatSpinEdit/fr") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TFloatSpinEdit.md>)** │  **русский (ru)** │
 
 Элемент управления **TFloatSpinEdit** [![tfloatspinedit.png](https://wiki.freepascal.org/images/4/45/tfloatspinedit.png)](</File:tfloatspinedit.png>) расположен на вкладке [Misc](<Misc_tab.md> "Misc tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). Он размещается на форме и полезен при вводе вещественных значений. На самом деле, элемент управления TFloatSpinEdit является комбинацией элементов [TUpDown](<TUpDown.md> "TUpDown/ru") и связанного с ним элемента управления [TEdit](<TEdit.md> "TEdit/ru"), специально предназначенного для чисел с плавающей точкой. 
 

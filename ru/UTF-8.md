@@ -1,7 +1,6 @@
 # UTF-8
 
-│ **[English (en)](<../en/UTF-8.md> "UTF-8")** │  **[suomi (fi)](</UTF-8/fi> "UTF-8/fi")** │  **[français (fr)](</UTF-8/fr> "UTF-8/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/UTF-8.md>)** │  **русский (ru)** │
 
 UTF-8 (8-bit **U** CS/Unicode **T** ransformation **F** ormat, или _8-битный Формат Преобразования UCS/Unicode_) - это кодировка символов переменной длины для Unicode. Символы Unicode от U+0000 до U+007F кодируются просто как байты от 00h до 7Fh. Это означает, что файлы и строки, содержащие только 7-битные символы [ASCII](<ASCII.md> "ASCII/ru"), имеют одинаковую кодировку как в ASCII, так и в UTF-8. 
 

@@ -1,6 +1,6 @@
 # Installing Lazarus on FreeBSD
 
-│ **English (en)** │ 
+│ **English (en)** │
 
 ## Contents
 

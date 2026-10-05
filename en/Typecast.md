@@ -1,6 +1,7 @@
 # Typecast
 
-│ **[Deutsch (de)](</Typecast/de> "Typecast/de")** │  **English (en)** │  **[français (fr)](</Typecast/fr> "Typecast/fr")** │  **[русский (ru)](<../ru/Typecast.md> "Typecast/ru")** │    
+│ **English (en)** │  **[русский (ru)](<../ru/Typecast.md>)** │
+
 ****Typecasting is the concept, allowing to[assign](<Becomes.md> "Becomes") values of [variables](<Variable.md> "Variable") or expressions, that do not match the variable’s [data type](<Data_type.md> "Data type"), virtually overriding [Pascal](<Pascal.md> "Pascal")’s strong typing system. 
 
 ## Contents

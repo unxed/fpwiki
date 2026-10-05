@@ -1,7 +1,6 @@
 # Constref
 
-│ **English (en)** │  **[français (fr)](</Constref/fr> "Constref/fr")** │    
-****
+│ **English (en)** │
 
 Version 2.6 of Free Pascal added the **constref** parameter qualifier. 
     

@@ -1,6 +1,7 @@
 # TDBListBox
 
-│ **English (en)** │  **[français (fr)](</TDBListBox/fr> "TDBListBox/fr")** │  **[русский (ru)](<../ru/TDBListBox.md> "TDBListBox/ru")** │  **[中文（中国大陆）‎ (zh_CN)](</TDBListBox/zh_CN> "TDBListBox/zh CN")** │    
+│ **English (en)** │  **[русский (ru)](<../ru/TDBListBox.md>)** │
+
 ****A**TDBListBox** [![tdblistbox.png](https://wiki.freepascal.org/images/7/73/tdblistbox.png)](</File:tdblistbox.png>) is a component that shows a (scrollable) list of (short) strings from an associated [TDataSet](<TDataSet.md> "TDataSet") where user is to select one. It is available from the [Data Controls tab](<Data_Controls_tab.md> "Data Controls tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 
 ## See also

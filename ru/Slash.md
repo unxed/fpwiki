@@ -1,7 +1,6 @@
 # Slash
 
-│ **[Deutsch (de)](</Slash/de> "Slash/de")** │  **[English (en)](<../en/Slash.md> "Slash")** │  **[suomi (fi)](</Slash/fi> "Slash/fi")** │  **[français (fr)](</Slash/fr> "Slash/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Slash.md>)** │  **русский (ru)** │
 
 /
 

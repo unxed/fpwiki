@@ -1,7 +1,6 @@
 # Plus
 
-│ **English (en)** │  **[suomi (fi)](</Plus/fi> "Plus/fi")** │  **[français (fr)](</Plus/fr> "Plus/fr")** │  **[русский (ru)](<../ru/Plus.md> "Plus/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Plus.md>)** │
 
 +
 

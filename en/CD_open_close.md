@@ -6,8 +6,7 @@ This article applies to [Windows](</Category:Windows> "Category:Windows") only.
 
 See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **[Deutsch (de)](</CD_open_close/de> "CD open close/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
 These procedures open and close a CD / DVD drive: 
     

@@ -1,7 +1,6 @@
 # RXfpc
 
-│ **[Deutsch (de)](</RXfpc/de> "RXfpc/de")** │  **[English (en)](<../en/RXfpc.md> "RXfpc")** │  **[español (es)](</RXfpc/es> "RXfpc/es")** │  **[français (fr)](</RXfpc/fr> "RXfpc/fr")** │  **[português (pt)](</RXfpc/pt> "RXfpc/pt")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/RXfpc.md>)** │  **русский (ru)** │
 
 ## Contents
 

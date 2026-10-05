@@ -1,7 +1,6 @@
 # Threadvar
 
-│ **[Deutsch (de)](</Threadvar/de> "Threadvar/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
   
 Back to [Reserved words](<Reserved_words.md> "Reserved words"). 

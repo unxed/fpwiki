@@ -1,7 +1,6 @@
 # TUpDown
 
-│ **English (en)** │  [**suomi (fi)**](</TUpDown/fi> "TUpDown/fi") │  [**français (fr)**](</TUpDown/fr> "TUpDown/fr") │  [**русский (ru)**](<../ru/TUpDown.md> "TUpDown/ru") │  [**中文（中国大陆）‎ (zh_CN)**](</TUpDown/zh_CN> "TUpDown/zh CN") │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TUpDown.md>)** │
 
 The **TUpDown** [![tupdown.png](https://wiki.freepascal.org/images/f/f4/tupdown.png)](</File:tupdown.png>) component is two-button control that assists in increment/decrement of some value as determined by its **Min** and **Max** and **Increment** properties. The TUpDown component appears with two arrow buttons pointing up (next) and down (previous), respectively. Min and Max properties are used to set the minimum and maximum values of the TUpDown. The values of the TUpDown component are [Smallint](<Smallint.md> "Smallint") numbers. [Property](</Property> "Property") **Position** represents the currently selected value. If property **ArrowKeys** is [True](<True.md> "True"), the TUpDown component can be operated by the keyboard's arrow keys, which would simulate a click on the next or previous button. The **Asscociate** property may link to some other control that gets its value-change instruction from the TUpDown. TUpDown is found on the the [Common Controls tab](<Common_Controls_tab.md> "Common Controls tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

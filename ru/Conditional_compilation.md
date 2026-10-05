@@ -1,7 +1,6 @@
 # Conditional compilation
 
-│ [**Deutsch (de)**](</Conditional_compilation/de> "Conditional compilation/de") │  [**English (en)**](<../en/Conditional_compilation.md> "Conditional compilation") │  [**suomi (fi)**](</Conditional_compilation/fi> "Conditional compilation/fi") │  [**français (fr)**](</Conditional_compilation/fr> "Conditional compilation/fr") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Conditional_compilation.md>)** │  **русский (ru)** │
 
 ## Contents
 

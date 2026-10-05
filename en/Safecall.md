@@ -1,7 +1,6 @@
 # Safecall
 
-│ **[Deutsch (de)](</Safecall/de> "Safecall/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
   
 Back to [Reserved words](<Reserved_words.md> "Reserved words"). 

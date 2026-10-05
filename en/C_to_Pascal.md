@@ -1,7 +1,6 @@
 # C to Pascal
 
-│ **English (en)** │  **[français (fr)](</C_to_Pascal/fr> "C to Pascal/fr")** │    
-****
+│ **English (en)** │
 
 One of the weaknesses of Pascal compared to the C language, is a lower number of existing libraries. The reason for that is the much greater popularity of the C language compared to Pascal. Rather than rewrite the existing C libraries in Pascal, an easier alternative is to use the C libraries from Pascal. 
 

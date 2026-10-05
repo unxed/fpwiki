@@ -1,7 +1,6 @@
 # FPReport Usage
 
-│ **[English (en)](<../en/FPReport_Usage.md> "FPReport Usage")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/FPReport_Usage.md>)** │  **русский (ru)** │
 
 На этой странице мы рассмотрим, как создать простой отчет в коде. В качестве отправной точки мы возьмем демонстрационный отчет dataset из демонстрационного приложения Free Pascal. 
 

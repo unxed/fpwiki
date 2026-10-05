@@ -1,7 +1,6 @@
 # Binary numeral system
 
-│ **[Deutsch (de)](</Binary_numeral_system/de> "Binary numeral system/de")** │  **[English (en)](<../en/Binary_numeral_system.md> "Binary numeral system")** │  **[español (es)](</Binary_numeral_system/es> "Binary numeral system/es")** │  **[suomi (fi)](</Binary_numeral_system/fi> "Binary numeral system/fi")** │  **[français (fr)](</Binary_numeral_system/fr> "Binary numeral system/fr")** │  **[português (pt)](</Binary_numeral_system/pt> "Binary numeral system/pt")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Binary_numeral_system.md>)** │  **русский (ru)** │
 
 Двоичные числа состоят из двух цифр: 0 и 1. Эта двоичная система счисления является основой для цифровых систем. Наименьший элемент в двоичной системе называется _битом_ (двоичная цифра). 
 

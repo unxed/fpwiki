@@ -1,7 +1,6 @@
 # CEF4Delphi
 
-│ **English (en)** │  **[español (es)](</CEF4Delphi/es> "CEF4Delphi/es")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

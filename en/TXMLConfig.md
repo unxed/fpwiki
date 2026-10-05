@@ -1,7 +1,6 @@
 # TXMLConfig
 
-│ **English (en)** │  **[français (fr)](</TXMLConfig/fr> "TXMLConfig/fr")** │    
-****
+│ **English (en)** │
 
 There is existing documentation for this component in the [xmlconf](<xmlconf.md> "xmlconf") wiki. Please refer to that page for current information. 
 

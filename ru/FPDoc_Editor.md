@@ -1,7 +1,6 @@
 # FPDoc Editor
 
-│ **[Deutsch (de)](</FPDoc_Editor/de> "FPDoc Editor/de")** │  **[English (en)](<../en/FPDoc_Editor.md> "FPDoc Editor")** │  **[français (fr)](</FPDoc_Editor/fr> "FPDoc Editor/fr")** │  **[日本語 (ja)](</FPDoc_Editor/ja> "FPDoc Editor/ja")** │  **[polski (pl)](</FPDoc_Editor/pl> "FPDoc Editor/pl")** │  **[português (pt)](</FPDoc_Editor/pt> "FPDoc Editor/pt")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/FPDoc_Editor.md>)** │  **русский (ru)** │
 
 ## Contents
 

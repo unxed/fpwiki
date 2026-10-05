@@ -1,7 +1,6 @@
 # How to use procedural variables
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 Copy the text below and it will demonstrate the use of procedural variables, this is a fully working program. You don't even need to understand how it works. The syntax is pretty simple. 
     

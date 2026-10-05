@@ -6,7 +6,7 @@ This article applies to [macOS](</Category:macOS> "Category:macOS") only.
 
 See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **English (en)** │ 
+│ **English (en)** │
 
   
 _Mach-O, short for Mach object file format, is a file format for executables, object code, shared libraries, dynamically-loaded code, and core dumps. A derivation of the a.out format, Mach-O offered more extensibility and faster access to information in the symbol table._ Source: [Wikipedia](<http://en.wikipedia.org/wiki/Mach-O>). 

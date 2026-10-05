@@ -1,7 +1,6 @@
 # Console Mode Pascal
 
-│ **[Deutsch (de)](</Console_Mode_Pascal/de> "Console Mode Pascal/de")** │  **English (en)** │  **[español (es)](</Console_Mode_Pascal/es> "Console Mode Pascal/es")** │  **[suomi (fi)](</Console_Mode_Pascal/fi> "Console Mode Pascal/fi")** │  **[magyar (hu)](</Console_Mode_Pascal/hu> "Console Mode Pascal/hu")** │  **[日本語 (ja)](</Console_Mode_Pascal/ja> "Console Mode Pascal/ja")** │  **[русский (ru)](<../ru/Console_Mode_Pascal.md> "Console Mode Pascal/ru")** │  **[slovenčina (sk)](</Console_Mode_Pascal/sk> "Console Mode Pascal/sk")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Console_Mode_Pascal.md>)** │
 
 ## Contents
 

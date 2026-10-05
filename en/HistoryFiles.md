@@ -1,7 +1,6 @@
 # HistoryFiles
 
-│ **English (en)** │  **[français (fr)](</HistoryFiles/fr> "HistoryFiles/fr")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

@@ -1,7 +1,6 @@
 # AVR Embedded Tutorial - I²C EEPROM
 
-│ [**Deutsch (de)**](</AVR_Embedded_Tutorial_-_I%C2%B2C_EEPROM/de> "AVR Embedded Tutorial - I²C EEPROM/de") │  **English (en)** │    
-****
+│ **English (en)** │
 
 ## Contents
 

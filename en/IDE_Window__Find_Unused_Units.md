@@ -1,7 +1,6 @@
 # IDE Window: Find Unused Units
 
-│ **[Deutsch (de)](</IDE_Window:_Find_Unused_Units/de> "IDE Window: Find Unused Units/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
 ## Contents
 

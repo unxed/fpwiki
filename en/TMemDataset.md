@@ -1,7 +1,6 @@
 # TMemDataset
 
-│ **English (en)** │  **[français (fr)](</TMemDataset/fr> "TMemDataset/fr")** │    
-****
+│ **English (en)** │
 
 **TMemDataset** [![tmemdataset.png](https://wiki.freepascal.org/images/4/41/tmemdataset.png)](</File:tmemdataset.png>) is a component that provides the link to the memory-mirrored actual data in a database. A TMemDataset descendant acts like a cursor on a table or query-result. TMemDataset is a lightweight alternative to TBufDataset. TBufDataset provides much complex functionality (like client-side indexes and filtering) 
 

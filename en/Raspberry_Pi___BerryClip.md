@@ -1,7 +1,6 @@
 # Raspberry Pi : BerryClip
 
-│ **English (en)** │  [**suomi (fi)**](</Raspberry_Pi_:_BerryClip/fi> "Raspberry Pi : BerryClip/fi") │    
-****
+│ **English (en)** │
 
 [![Raspberry Pi Logo.png](https://wiki.freepascal.org/images/8/85/Raspberry_Pi_Logo.png)](</File:Raspberry_Pi_Logo.png>)
 

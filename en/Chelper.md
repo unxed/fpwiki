@@ -1,7 +1,6 @@
 # Chelper
 
-│ **English (en)** │  **[français (fr)](</Chelper/fr> "Chelper/fr")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

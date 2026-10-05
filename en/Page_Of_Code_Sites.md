@@ -1,7 +1,6 @@
 # Page Of Code Sites
 
-│ **[Deutsch (de)](</Page_Of_Code_Sites/de> "Page Of Code Sites/de")** │  **English (en)** │  **[فارسی (fa)](</Page_Of_Code_Sites/fa> "Page Of Code Sites/fa")** │  **[français (fr)](</Page_Of_Code_Sites/fr> "Page Of Code Sites/fr")** │  **[Bahasa Indonesia (id)](</Page_Of_Code_Sites/id> "Page Of Code Sites/id")** │  **[한국어 (ko)](</Page_Of_Code_Sites/ko> "Page Of Code Sites/ko")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

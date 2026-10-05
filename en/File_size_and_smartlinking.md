@@ -1,7 +1,6 @@
 # File size and smartlinking
 
-│ **[Deutsch (de)](</File_size_and_smartlinking/de> "File size and smartlinking/de")** │  **English (en)** │  **[français (fr)](</File_size_and_smartlinking/fr> "File size and smartlinking/fr")** │  **[日本語 (ja)](</File_size_and_smartlinking/ja> "File size and smartlinking/ja")** │  **[português (pt)](</File_size_and_smartlinking/pt> "File size and smartlinking/pt")** │  **[中文（中国大陆） (zh_CN)](</File_size_and_smartlinking/zh_CN> "File size and smartlinking/zh CN")** │    
-****
+│ **English (en)** │
 
 This article is a work in progress about executable size and smartlinking on Lazarus. Feel free to contribute. 
 

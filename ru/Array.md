@@ -1,7 +1,6 @@
 # Array
 
-│ **[Deutsch (de)](</Array/de> "Array/de")** │  **[English (en)](<../en/Array.md> "Array")** │  **[español (es)](</Array/es> "Array/es")** │  **[suomi (fi)](</Array/fi> "Array/fi")** │  **[français (fr)](</Array/fr> "Array/fr")** │  **[Bahasa Indonesia (id)](</Array/id> "Array/id")** │  **[日本語 (ja)](</Array/ja> "Array/ja")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</Array/zh_CN> "Array/zh CN")** │    
-****
+│ **[English (en)](<../en/Array.md>)** │  **русский (ru)** │
 
 Тип **array** (массив) представляет собой последовательность однотипных [переменных](<Variable.md> "Variable/ru"). Примерами могут служить массивы [символов](<Char.md> "Char/ru"), [целых](<Integer.md> "Integer/ru") и [вещественных](<Real.md> "Real/ru") чисел. Фактически, в массивах могут использоваться любые типы, включая определенные пользователем. Однако, элементы массива всегда являются однотипными. Элементы разных типов не могут быть сгруппированы в массив. Для этих целей необходимо использовать [записи](<Record.md> "Record/ru"). 
 

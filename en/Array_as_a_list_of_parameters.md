@@ -1,6 +1,6 @@
 # Array as a list of parameters
 
-│ **English (en)** │  **[italiano (it)](</Array_as_a_list_of_parameters/it> "Array as a list of parameters/it")** │ 
+│ **English (en)** │
 
 ## Contents
 

@@ -1,7 +1,6 @@
 # runtime error
 
-│ **English (en)** │  **[suomi (fi)](</runtime_error/fi> "runtime error/fi")** │    
-****
+│ **English (en)** │
 
 A run-time error is an irreparable error condition that arises during the [run-time](<runtime.md> "runtime"), i.e. the execution of a [program](<Executable_program.md> "Executable program"). 
 

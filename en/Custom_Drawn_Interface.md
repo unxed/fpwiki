@@ -1,7 +1,6 @@
 # Custom Drawn Interface
 
-│ **English (en)** │  **[русский (ru)](<../ru/Custom_Drawn_Interface.md> "Custom Drawn Interface/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Custom_Drawn_Interface.md>)** │
 
 [![Warning-icon.png](https://wiki.freepascal.org/images/b/b2/Warning-icon.png)](</File:Warning-icon.png>)
 

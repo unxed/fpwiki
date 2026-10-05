@@ -1,8 +1,7 @@
 # SqlDBHowto
 
-│ **[Deutsch (de)](</SqlDBHowto/de> "SqlDBHowto/de")** │  **English (en)** │  **[español (es)](</SqlDBHowto/es> "SqlDBHowto/es")** │  **[français (fr)](</SqlDBHowto/fr> "SqlDBHowto/fr")** │  **[日本語 (ja)](</SqlDBHowto/ja> "SqlDBHowto/ja")** │  **[Nederlands (nl)](</SqlDBHowto/nl> "SqlDBHowto/nl")** │  **[polski (pl)](</SqlDBHowto/pl> "SqlDBHowto/pl")** │  **[中文（中国大陆） (zh_CN)](</SqlDBHowto/zh_CN> "SqlDBHowto/zh CN")** │    
-****  
-  
+│ **English (en)** │
+
 ---  
 [**Databases portal**](<Portal_Databases.md> "Portal:Databases")  
 References: 

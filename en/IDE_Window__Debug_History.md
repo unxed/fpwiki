@@ -1,8 +1,6 @@
 # IDE Window: Debug History
 
-│ **English (en)** │  **[русский (ru)](<../ru/IDE_Window__Debug_History.md> "IDE Window: Debug History/ru")** │    
-****  
-****
+│ **English (en)** │  **[русский (ru)](<../ru/IDE_Window__Debug_History.md>)** │
 
 ## Contents
 

@@ -1,7 +1,6 @@
 # TActionList
 
-│ **[Deutsch (de)](</TActionList/de> "TActionList/de")** │  **English (en)** │  **[français (fr)](</TActionList/fr> "TActionList/fr")** │  **[русский (ru)](<../ru/TActionList.md> "TActionList/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TActionList.md>)** │
 
 A **TActionList** [![tactionlist.png](https://wiki.freepascal.org/images/4/4b/tactionlist.png)](</File:tactionlist.png>) component is a container for [TAction](<TAction.md> "TAction") components. When using TActions in the Action-property of buttons, menus, dialogs, controls it is possible to centralize the effects of mouse-clicks, menu-choices, dialog-selections etc. in a single event handler. 
 

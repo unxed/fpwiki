@@ -1,7 +1,6 @@
 # RTL
 
-│ **[Deutsch (de)](</RTL/de> "RTL/de")** │  **English (en)** │  **[español (es)](</RTL/es> "RTL/es")** │  **[français (fr)](</RTL/fr> "RTL/fr")** │  **[Bahasa Indonesia (id)](</RTL/id> "RTL/id")** │  **[日本語 (ja)](</RTL/ja> "RTL/ja")** │  **[русский (ru)](<../ru/RTL.md> "RTL/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/RTL.md>)** │
 
 Free Pascal **Runtime Library** (**RTL**) 
 

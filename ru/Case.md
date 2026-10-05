@@ -1,7 +1,6 @@
 # Case
 
-│ **[Deutsch (de)](</Case/de> "Case/de")** │  **[English (en)](<../en/Case.md> "Case")** │  **[español (es)](</Case/es> "Case/es")** │  **[suomi (fi)](</Case/fi> "Case/fi")** │  **[français (fr)](</Case/fr> "Case/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Case.md>)** │  **русский (ru)** │
 
 Зарезервированным словом **Case** начинается блок _инструкции выбора_. Инструкция **case** сравнивает значение перечислимого, порядкового или строкового типа для каждого селектора. Селектор может быть [константой](</index.php?title=Const/ru&action=edit&redlink=1> "Const/ru \(page does not exist\)"), диапазоном или списком значений, разделенных [запятыми](<Comma.md> "Comma/ru"). Поле селектора отделяется от выполняемых инструкций [двоеточием](<Colon.md> "Colon/ru"). 
 

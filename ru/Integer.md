@@ -1,7 +1,6 @@
 # Integer
 
-│ **[Deutsch (de)](</Integer/de> "Integer/de")** │  **[English (en)](<../en/Integer.md> "Integer")** │  **[suomi (fi)](</Integer/fi> "Integer/fi")** │  **[français (fr)](</Integer/fr> "Integer/fr")** │  **[italiano (it)](</Integer/it> "Integer/it")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Integer.md>)** │  **русский (ru)** │
 
 **Integer** является [стандартным типом данных](<Standard_type.md> "Standard type/ru") языка программирования [Pascal](<../en/Pascal.md> "Pascal"). Он используется для определения целых чисел, в отличие от типа [real](<Real.md> "Real/ru"), применяющегося для представления вещественных чисел, которые могут содержать десятичную точку и, возможно, экспоненту. 
 

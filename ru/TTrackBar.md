@@ -1,7 +1,6 @@
 # TTrackBar
 
-│ **[English (en)](<../en/TTrackBar.md> "TTrackBar")** │  **[suomi (fi)](</TTrackBar/fi> "TTrackBar/fi")** │  **[français (fr)](</TTrackBar/fr> "TTrackBar/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TTrackBar.md>)** │  **русский (ru)** │
 
 [Компонент](</index.php?title=component/ru&action=edit&redlink=1> "component/ru \(page does not exist\)") **TTrackBar** [![ttrackbar.png](https://wiki.freepascal.org/images/8/82/ttrackbar.png)](</File:ttrackbar.png>) находится на вкладке [Common Controls](<Common_Controls_tab.md> "Common Controls tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru") и предназначен для отображения отслеживаемого значения. Компонент TTrackBar состоит из ползунка и отметок и является прокручиваемым элементом управления, похожим на [TScrollBar](</index.php?title=TScrollBar/ru&action=edit&redlink=1> "TScrollBar/ru \(page does not exist\)"). 
 

@@ -1,7 +1,6 @@
 # Web Service Toolkit
 
-│ **English (en)** │  **[français (fr)](</Web_Service_Toolkit/fr> "Web Service Toolkit/fr")** │  **[português (pt)](</Web_Service_Toolkit/pt> "Web Service Toolkit/pt")** │  **[русский (ru)](<../ru/Web_Service_Toolkit.md> "Web Service Toolkit/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Web_Service_Toolkit.md>)** │
 
 "Web Service Toolkit” is a web services package for FPC, Lazarus and Delphi; “Web Service Toolkit” is meant to ease web services **consumption and creation** by FPC, Lazarus and Delphi users. 
 

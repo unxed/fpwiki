@@ -1,7 +1,6 @@
 # Main Loop Hooks
 
-│ **English (en)** │  **[français (fr)](</Main_Loop_Hooks/fr> "Main Loop Hooks/fr")** │  **[日本語 (ja)](</Main_Loop_Hooks/ja> "Main Loop Hooks/ja")** │  **[slovenčina (sk)](</Main_Loop_Hooks/sk> "Main Loop Hooks/sk")** │  **[中文（中国大陆） (zh_CN)](</Main_Loop_Hooks/zh_CN> "Main Loop Hooks/zh CN")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

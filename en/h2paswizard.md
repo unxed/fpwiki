@@ -1,7 +1,6 @@
 # H2Paswizard
 
-│ **English (en)** │  **[français (fr)](</H2Paswizard/fr> "H2Paswizard/fr")** │  **[русский (ru)](<../ru/H2Paswizard.md> "H2Paswizard/ru")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

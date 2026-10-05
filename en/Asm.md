@@ -1,7 +1,6 @@
 # Asm
 
-│ **[Deutsch (de)](</Asm/de> "Asm/de")** │  **English (en)** │  **[español (es)](</Asm/es> "Asm/es")** │  **[suomi (fi)](</Asm/fi> "Asm/fi")** │    
-****
+│ **English (en)** │
 
 The [reserved word](<Reserved_word.md> "Reserved word") `asm` starts a [frame](<Frame.md> "Frame") of inline [assembly](<Assembly_language.md> "Assembly language") code. 
     

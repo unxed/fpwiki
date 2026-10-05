@@ -1,7 +1,6 @@
 # ARM Embedded Tutorial - Raspberry Pi Pico saying Hello via UART
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 ## Introduction
 

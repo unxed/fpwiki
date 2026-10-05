@@ -1,7 +1,6 @@
 # Detect Windows x32-x64 example
 
-│ **English (en)** │  **[français (fr)](</Detect_Windows_x32-x64_example/fr> "Detect Windows x32-x64 example/fr")** │    
-****
+│ **English (en)** │
 
 Sometimes you want to know the OS bitness. For Windows, works for me on Vista x64 with FPC x86 compiler - thanks to [German Lazarus forum](<http://www.lazarusforum.de/viewtopic.php?f=55&t=5287%7Cthe>): 
     

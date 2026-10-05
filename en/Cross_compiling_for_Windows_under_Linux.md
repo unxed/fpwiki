@@ -1,7 +1,6 @@
 # Cross compiling for Windows under Linux
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 ![Light bulb](https://upload.wikimedia.org/wikipedia/commons/d/d8/Nuvola_apps_ktip.png) **Note:** Rewrite in progress, original content is retained inside comment tags; will pop up here again as it's reviewed and updated as necessary.
 

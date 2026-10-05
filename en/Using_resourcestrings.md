@@ -1,7 +1,6 @@
 # Using resourcestrings
 
-│ **English (en)** │  **[español (es)](</Using_resourcestrings/es> "Using resourcestrings/es")** │  **[Bahasa Indonesia (id)](</Using_resourcestrings/id> "Using resourcestrings/id")** │  **[русский (ru)](<../ru/Using_resourcestrings.md> "Using resourcestrings/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Using_resourcestrings.md>)** │
 
 Resource strings provide a mechanism to internationalize (and to some degree localize) your application. 
 

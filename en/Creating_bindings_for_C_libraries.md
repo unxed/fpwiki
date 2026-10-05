@@ -1,7 +1,6 @@
 # Creating bindings for C libraries
 
-│ **English (en)** │  **[español (es)](</Creating_bindings_for_C_libraries/es> "Creating bindings for C libraries/es")** │  **[français (fr)](</Creating_bindings_for_C_libraries/fr> "Creating bindings for C libraries/fr")** │  **[日本語 (ja)](</Creating_bindings_for_C_libraries/ja> "Creating bindings for C libraries/ja")** │  **[русский (ru)](<../ru/Creating_bindings_for_C_libraries.md> "Creating bindings for C libraries/ru")** │  **[中文（中国大陆） (zh_CN)](</Creating_bindings_for_C_libraries/zh_CN> "Creating bindings for C libraries/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Creating_bindings_for_C_libraries.md>)** │
 
 ## Contents
 

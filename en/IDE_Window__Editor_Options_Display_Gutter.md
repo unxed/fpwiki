@@ -1,8 +1,6 @@
 # IDE Window: Editor Options Display Gutter
 
-│ **English (en)** │    
-****  
-****
+│ **English (en)** │
 
 ## Navigation
 

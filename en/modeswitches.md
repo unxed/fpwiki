@@ -1,6 +1,7 @@
 # modeswitches
 
-│ **English (en)** │  **[中文（中国大陆） (zh_CN)](</modeswitches/zh_CN> "modeswitches/zh CN")** │    
+│ **English (en)** │
+
 ****Mode switches enable specific functionality and are enabled using the compiler directive {$modeswitch name}.
 
 Free pascal supports the following mode switches. 

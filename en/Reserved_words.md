@@ -1,7 +1,6 @@
 # Reserved words
 
-│ **[Deutsch (de)](</Reserved_words/de> "Reserved words/de")** │  **English (en)** │  **[français (fr)](</Reserved_words/fr> "Reserved words/fr")** │  **[polski (pl)](</Reserved_words/pl> "Reserved words/pl")** │  **[русский (ru)](<../ru/Reserved_words.md> "Reserved words/ru")** │  **[中文（中国大陆）‎ (zh_CN)](</Reserved_words/zh_CN> "Reserved words/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Reserved_words.md>)** │
 
 ## Contents
 

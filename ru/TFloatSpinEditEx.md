@@ -1,6 +1,6 @@
 # TFloatSpinEditEx
 
-│ [**English (en)**](<../en/TFloatSpinEditEx.md> "TFloatSpinEditEx") │ **русский (ru)** │ 
+│ **[English (en)](<../en/TFloatSpinEditEx.md>)** │  **русский (ru)** │
 
   
 

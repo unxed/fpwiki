@@ -1,7 +1,6 @@
 # Left curly bracket
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 {
 

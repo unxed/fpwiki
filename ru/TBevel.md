@@ -1,7 +1,6 @@
 # TBevel
 
-│ **[English (en)](<../en/TBevel.md> "TBevel")** │  **[français (fr)](</TBevel/fr> "TBevel/fr")** │  **[日本語 (ja)](</TBevel/ja> "TBevel/ja")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TBevel.md>)** │  **русский (ru)** │
 
 **TBevel** [![tbevel.png](https://wiki.freepascal.org/images/f/ff/tbevel.png)](</File:tbevel.png>) \- это компонент, предназначенный для оформления интерфейса, с помощью которого можно создать области с выпуклыми или вогнутыми краями на форме. Компонент TBevel является потомком [TGraphicControl](<TGraphicControl.md> "TGraphicControl/ru") и доступен на вкладке [Additional](<Additional_tab.md> "Additional tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

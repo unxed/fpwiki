@@ -1,6 +1,6 @@
 # Android4Pascal
 
-│ **English (en)** │ 
+│ **English (en)** │
 
 [![Android robot.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/50px-Android_robot.svg.png)](</File:Android_robot.svg>)
 

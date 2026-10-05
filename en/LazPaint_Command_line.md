@@ -1,7 +1,6 @@
 # LazPaint Command line
 
-│ **English (en)** │  **[suomi (fi)](</LazPaint_Command_line/fi> "LazPaint Command line/fi")** │  **[français (fr)](</LazPaint_Command_line/fr> "LazPaint Command line/fr")** │    
-****
+│ **English (en)** │
 
 [ Go back](<LazPaint.md> "LazPaint")
 

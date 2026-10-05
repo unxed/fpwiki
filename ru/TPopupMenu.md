@@ -1,7 +1,6 @@
 # TPopupMenu
 
-│ [**Deutsch (de)**](</TPopupMenu/de> "TPopupMenu/de") │  [**English (en)**](<../en/TPopupMenu.md> "TPopupMenu") │  [**suomi (fi)**](</TPopupMenu/fi> "TPopupMenu/fi") │  [**français (fr)**](</TPopupMenu/fr> "TPopupMenu/fr") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TPopupMenu.md>)** │  **русский (ru)** │
 
 **TPopupMenu** [![tpopupmenu.png](https://wiki.freepascal.org/images/5/5d/tpopupmenu.png)](</File:tpopupmenu.png>) \- позволяет создать всплывающее (контекстное) меню, которое отображается при клике правой кнопкой мыши. 
 

@@ -1,7 +1,6 @@
 # FPC and DBus
 
-│ **English (en)** │  **[español (es)](</FPC_and_DBus/es> "FPC and DBus/es")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

@@ -6,8 +6,7 @@ This article applies to [Windows](</Category:Windows> "Category:Windows") only.
 
 See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **[Deutsch (de)](</Office_Automation/de> "Office Automation/de")** │  **English (en)** │  **[español (es)](</Office_Automation/es> "Office Automation/es")** │  **[français (fr)](</Office_Automation/fr> "Office Automation/fr")** │  **[italiano (it)](</Office_Automation/it> "Office Automation/it")** │  **[русский (ru)](<../ru/Office_Automation.md> "Office Automation/ru")** │  **[中文（中国大陆） (zh_CN)](</Office_Automation/zh_CN> "Office Automation/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Office_Automation.md>)** │
 
 The ability to interact with Office software and generate spreadsheets, text documents and presentations from code can be invaluable in the office, and save a lot of time otherwise spent on repetitive tasks. 
 
@@ -170,7 +169,7 @@ Limitations: Since **End** is a reserved word in FPC it shall be used as a param
     
 
   
-A lot of examples for Excel are available on the German wiki page [ExcelAutomation/de](</ExcelAutomation/de> "ExcelAutomation/de"). 
+A lot of examples for Excel are available on the German wiki page ExcelAutomation/de. 
 
 ## Using the fpXMLXSDExport unit
 
@@ -349,7 +348,7 @@ Microsoft Office applications require HTML to be pasted onto the clipboard in a 
 ## See also
 
   * [Clipboard](<Clipboard.md> "Clipboard")
-  * [Powerpoint Automation](</PowerpointAutomation/de> "PowerpointAutomation/de")
+  * Powerpoint Automation
 
 
 

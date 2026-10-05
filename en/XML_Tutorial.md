@@ -1,7 +1,6 @@
 # XML Tutorial
 
-│ **[Deutsch (de)](</XML_Tutorial/de> "XML Tutorial/de")** │  **English (en)** │  **[español (es)](</XML_Tutorial/es> "XML Tutorial/es")** │  **[français (fr)](</XML_Tutorial/fr> "XML Tutorial/fr")** │  **[magyar (hu)](</XML_Tutorial/hu> "XML Tutorial/hu")** │  **[Bahasa Indonesia (id)](</XML_Tutorial/id> "XML Tutorial/id")** │  **[italiano (it)](</XML_Tutorial/it> "XML Tutorial/it")** │  **[日本語 (ja)](</XML_Tutorial/ja> "XML Tutorial/ja")** │  **[한국어 (ko)](</XML_Tutorial/ko> "XML Tutorial/ko")** │  **[português (pt)](</XML_Tutorial/pt> "XML Tutorial/pt")** │  **[русский (ru)](<../ru/XML_Tutorial.md> "XML Tutorial/ru")** │  **[中文（中国大陆） (zh_CN)](</XML_Tutorial/zh_CN> "XML Tutorial/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/XML_Tutorial.md>)** │
 
 The Extensible Markup Language (XML) is a World Wide Web Consortium (or "[W3C](<http://www.w3.org/>)") recommended language created to interchange information between different systems. 
 

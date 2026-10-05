@@ -1,7 +1,6 @@
 # Example of multi-threaded application: array of threads
 
-│ **English (en)** │  **[español (es)](</Example_of_multi-threaded_application:_array_of_threads/es> "Example of multi-threaded application: array of threads/es")** │  **[日本語 (ja)](</Example_of_multi-threaded_application:_array_of_threads/ja> "Example of multi-threaded application: array of threads/ja")** │  **[polski (pl)](</Example_of_multi-threaded_application:_array_of_threads/pl> "Example of multi-threaded application: array of threads/pl")** │    
-****
+│ **English (en)** │
 
 Here I want to show an example how to create a lot of threads and wait while they will not finish their jobs (I don't need any synchronisation). I'm writing this tutorial because it was not obvious for me to write such a program after reading [Multithreaded Application Tutorial](<Multithreaded_Application_Tutorial.md> "Multithreaded Application Tutorial"). I was writing my application for macOS, but the resulting code should work on any system. 
 

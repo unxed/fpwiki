@@ -1,7 +1,6 @@
 # fpCEF3
 
-[**Deutsch (de)**](</fpCEF3/de> "fpCEF3/de") | **English (en)**   
-****
+│ **English (en)** │
 
 ## Contents
 

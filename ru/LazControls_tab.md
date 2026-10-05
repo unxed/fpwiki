@@ -1,7 +1,6 @@
 # LazControls tab
 
-│ **[English (en)](<../en/LazControls_tab.md> "LazControls tab")** │  **[français (fr)](</LazControls_tab/fr> "LazControls tab/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/LazControls_tab.md>)** │  **русский (ru)** │
 
 На вкладке **LazControls** [палитры компонентов](<Component_Palette.md> "Component Palette/ru") перечислены различные специфические компоненты [библиотеки LCL](<LCL.md> "LCL/ru")
 

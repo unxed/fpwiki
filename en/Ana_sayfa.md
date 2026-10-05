@@ -1,31 +1,30 @@
 # Main Page/tr
 
-│ [**Afrikaans (af)**](</Main_Page/af> "Main Page/af") │  [**العربية (ar)**](</Main_Page/ar> "Main Page/ar") │  [**català (ca)**](</Main_Page/ca> "Main Page/ca") │  [**čeština (cs)**](</Main_Page/cs> "Main Page/cs") │  [**Deutsch (de)**](</Main_Page/de> "Main Page/de") │  [**English (en)**](<Main_Page.md> "Main Page") │  [**español (es)**](</Main_Page/es> "Main Page/es") │  [**فارسی (fa)**](</Main_Page/fa> "Main Page/fa") │  [**suomi (fi)**](</Main_Page/fi> "Main Page/fi") │  [**français (fr)**](</Main_Page/fr> "Main Page/fr") │  [**magyar (hu)**](</Main_Page/hu> "Main Page/hu") │  [**Bahasa Indonesia (id)**](</Main_Page/id> "Main Page/id") │  [**italiano (it)**](</Main_Page/it> "Main Page/it") │  [**日本語 (ja)**](</Main_Page/ja> "Main Page/ja") │  [**한국어 (ko)**](</Main_Page/ko> "Main Page/ko") │  [**Nederlands (nl)**](</Main_Page/nl> "Main Page/nl") │  [**polski (pl)**](</Main_Page/pl> "Main Page/pl") │  [**português (pt)**](</Main_Page/pt> "Main Page/pt") │  [**română (ro)**](</Main_Page/ro> "Main Page/ro") │  [**русский (ru)**](<../ru/Main_Page.md> "Main Page/ru") │  [**slovenčina (sk)**](</Main_Page/sk> "Main Page/sk") │  [**svenska (sv)**](</Main_Page/sv> "Main Page/sv") │  **Türkçe (tr)** │  [**українська (uk)**](</Main_Page/uk> "Main Page/uk") │  [**Tiếng Việt (vi)**](</Main_Page/vi> "Main Page/vi") │  [**中文（中国大陆）‎ (zh_CN)**](</Main_Page/zh_CN> "Main Page/zh CN") │  [**中文（台灣）‎ (zh_TW)**](</Main_Page/zh_TW> "Main Page/zh TW") │    
-****
+│ **English (en)** │
 
 # Lazarus ve Free Pascal Wikiye Hoş Geldiniz
 
 ## Hakkında
 
-Bu wikinin amacı Free Pascal / Lazarus ve [İlgili projeler](</Related_projects/tr> "Related projects/tr") için bir bilgi tabanı oluşturmaktır. 
+Bu wikinin amacı Free Pascal / Lazarus ve İlgili projeler için bir bilgi tabanı oluşturmaktır. 
 
-Free Pascal zaten çeşitli biçimlerde iyi kullanıcı belgelerine sahiptir, ancak [ FPC geliştirici bilgileri, kurumsal bilgiler](</FPC_development/tr> "FPC development/tr") ve [ FPC belgeler](</FPC_documentation/tr> "FPC documentation/tr") henüz bu wikide toplanmamıştır. 
+Free Pascal zaten çeşitli biçimlerde iyi kullanıcı belgelerine sahiptir, ancak  FPC geliştirici bilgileri, kurumsal bilgiler ve  FPC belgeler henüz bu wikide toplanmamıştır. 
 
 Lazarus, diğer yandan kullanıcı belgelerinde bazı eksikliklere sahiptir. Bundan dolayı, bu alanda herkesin içerik ekleyebileceği ve düzenleyebileceği bir "açık belge" veya "wiki" olarak ortaya konmuştur. 
 
-Bu wiki, bir tarayıcı ile hızlıca değişiklikler ve eklemeler yapmayı mümkün kılar ! Eğitim için, [WikiPedia Eğitimine](<http://tr.wikipedia.org/wiki/Yard%C4%B1m:Sayfa_nas%C4%B1l_yaz%C4%B1l%C4%B1r>) veya [30 Saniyede Hızlı Wiki Eğitimine (ing.)](<http://www.chat11.com/30_Second_Quick_Wiki_Tutorial>) lütfen bir göz atınız. Pratik yapmak için bir [Sand Box](<Sand_Box.md> "Sand Box") kullanılabilir. Herhangi bir sorununuz varsa, lütfen [yöneticiyi](<http://sourceforge.net/users/vlx/>) haberdar ediniz veya bir hata raporu göndermek için [Lazarus-CCR](<http://sourceforge.net/projects/lazarus-ccr>) sitesini kullanınız. Ayrıca isterseniz [Site Geribesleme](</Site_Feedback/tr> "Site Feedback/tr") sayfasında bir not veya öneri bırakabilirsiniz. 
+Bu wiki, bir tarayıcı ile hızlıca değişiklikler ve eklemeler yapmayı mümkün kılar ! Eğitim için, [WikiPedia Eğitimine](<http://tr.wikipedia.org/wiki/Yard%C4%B1m:Sayfa_nas%C4%B1l_yaz%C4%B1l%C4%B1r>) veya [30 Saniyede Hızlı Wiki Eğitimine (ing.)](<http://www.chat11.com/30_Second_Quick_Wiki_Tutorial>) lütfen bir göz atınız. Pratik yapmak için bir [Sand Box](<Sand_Box.md> "Sand Box") kullanılabilir. Herhangi bir sorununuz varsa, lütfen [yöneticiyi](<http://sourceforge.net/users/vlx/>) haberdar ediniz veya bir hata raporu göndermek için [Lazarus-CCR](<http://sourceforge.net/projects/lazarus-ccr>) sitesini kullanınız. Ayrıca isterseniz Site Geribesleme sayfasında bir not veya öneri bırakabilirsiniz. 
 
 Lazarus **proje geçmişi** için, [History](<History.md> "History") sayfasına bakınız. 
 
 ## Free Pascal Belgeleri
 
-[FPC geliştirici belgeleri](</FPC_documentation/tr> "FPC documentation/tr")
+FPC geliştirici belgeleri
 
     Free Pascal Derleyici geliştiricileri ve diğer katkıda bulunanlar için faydalı belgeler, diğer dillerde mesaj çevirileri, FPC bültenleri, yapılacaklar listeleri, pascal bağlantıları listesi, kurumsal bilgiler, FPC sürümleri için prosedürler ve bazı ilgili belgeleri içerir.
 
 ## Lazarus Belgeleri
 
-[Lazarus Belgeleri](</Lazarus_Documentation/tr> "Lazarus Documentation/tr")
+Lazarus Belgeleri
 
     Tüm mevcut belgeleri ve Lazarus IDE için (Free Pascal Derleyici kılavuzları dahil) öğreticiler, [Lazarus Belgeleri](<Lazarus_Documentation.md> "Lazarus Documentation") sayfasında bulunabilir. [ Kurulum talimatları](<Installing_Lazarus.md> "Installing Lazarus") da mevcuttur. Sayfaların çoğu "devam eden çalışmalar"dır; bu nedenle bu bölümlere deneyimlerinizi eklemek için çekinmeyin. İsterseniz, iletişim bilgileri ile kişisel sayfa oluşturabilirsiniz.
 

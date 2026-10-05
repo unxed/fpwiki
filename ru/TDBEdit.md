@@ -1,7 +1,6 @@
 # TDBEdit
 
-│ **[English (en)](<../en/TDBEdit.md> "TDBEdit")** │  **[français (fr)](</TDBEdit/fr> "TDBEdit/fr")** │  **[日本語 (ja)](</TDBEdit/ja> "TDBEdit/ja")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</TDBEdit/zh_CN> "TDBEdit/zh CN")** │    
-****
+│ **[English (en)](<../en/TDBEdit.md>)** │  **русский (ru)** │
 
 **TDBEdit** [![tdbedit.png](https://wiki.freepascal.org/images/9/9f/tdbedit.png)](</File:tdbedit.png>) является элементом управления для редактирования значения поля текущей записи при использовании с подключенной базой данных. Компонент TDBEdit доступен на вкладке [Data Controls](<Data_Controls_tab.md> "Data Controls tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

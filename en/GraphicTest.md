@@ -1,7 +1,6 @@
 # GraphicTest
 
-│ **English (en)** │  [**日本語 (ja)**](</GraphicTest/ja> "GraphicTest/ja") │    
-****
+│ **English (en)** │
 
 [![Graphic test.png](https://wiki.freepascal.org/images/5/58/Graphic_test.png)](</File:Graphic_test.png>)
 

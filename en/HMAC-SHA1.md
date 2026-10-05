@@ -1,7 +1,6 @@
 # HMAC-SHA1
 
-│ **English (en)** │  **[français (fr)](</HMAC-SHA1/fr> "HMAC-SHA1/fr")** │    
-****
+│ **English (en)** │
 
 ## Overview
 

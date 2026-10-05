@@ -1,6 +1,6 @@
 # Shortint
 
-│ [**Deutsch (de)**](</Shortint/de> "Shortint/de") │  **English (en)** │  [**français (fr)**](</Shortint/fr> "Shortint/fr") │    
+│ **English (en)** │  **[русский (ru)](<../ru/Shortint.md>)** │
 
 
 A shortint is a signed integer in the range of -128 to 127. The shortint is 8 bits long. 

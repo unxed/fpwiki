@@ -1,7 +1,6 @@
 # JVCL Components
 
-│ **[English (en)](<../en/JVCL_Components.md> "JVCL Components")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/JVCL_Components.md>)** │  **русский (ru)** │
 
   
 

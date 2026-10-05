@@ -1,7 +1,6 @@
 # Equal
 
-│ **English (en)** │  **[suomi (fi)](</Equal/fi> "Equal/fi")** │  **[français (fr)](</Equal/fr> "Equal/fr")** │  **[русский (ru)](<../ru/Equal.md> "Equal/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Equal.md>)** │
 
 =
 

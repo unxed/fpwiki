@@ -1,7 +1,6 @@
 # Int
 
-│ **English (en)** │  **[русский (ru)](<../ru/Int.md> "Int/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Int.md>)** │
 
 The [`function`](<Function.md> "Function") **[`Int`](<https://www.freepascal.org/docs-html/rtl/system/int.html>)** returns the [integer](<Integer.md> "Integer") part of the argument. It is an [UCSD Pascal](<UCSD_Pascal.md> "UCSD Pascal") extension supported by the [FPC](<FPC.md> "FPC") as an `InternProc`. 
 

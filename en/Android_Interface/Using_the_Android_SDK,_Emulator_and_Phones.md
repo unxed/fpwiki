@@ -6,8 +6,7 @@ This article applies to [Android](</Category:Android> "Category:Android") only.
 
 See also: [Multiplatform Programming Guide](<../Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **English (en)** │  [**русский (ru)**](<../../ru/Custom_Drawn_Interface/Using_the_Android_SDK,_Emulator_and_Phones.md> "Custom Drawn Interface/Using the Android SDK, Emulator and Phones/ru") │    
-****
+│ **English (en)** │  **[русский (ru)](<../../ru/Android_Interface/Using_the_Android_SDK,_Emulator_and_Phones.md>)** │
 
 Go back to [Custom Drawn Interface/Android](<../Custom_Drawn_Interface/Android.md> "Custom Drawn Interface/Android")
 

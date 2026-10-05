@@ -1,8 +1,6 @@
 # IDE Window: IDE Options Dialog
 
-│ **[Deutsch (de)](</IDE_Window:_IDE_Options_Dialog/de> "IDE Window: IDE Options Dialog/de")** │  **English (en)** │    
-****  
-****
+│ **English (en)** │
 
 ## [**Main Menu**](<Main_menu.md> "Main menu") > [**Tools**](<Main_menu.md> "Main menu") > **Options**
 

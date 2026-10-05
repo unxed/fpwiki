@@ -1,8 +1,7 @@
 # Oracle
 
-│ **English (en)** │  **[español (es)](</Oracle/es> "Oracle/es")** │  **[français (fr)](</Oracle/fr> "Oracle/fr")** │  **[日本語 (ja)](</Oracle/ja> "Oracle/ja")** │    
-****  
-  
+│ **English (en)** │
+
 ---  
 [**Databases portal**](<Portal_Databases.md> "Portal:Databases")  
 References: 

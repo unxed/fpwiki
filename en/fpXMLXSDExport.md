@@ -1,7 +1,6 @@
 # fpXMLXSDExport
 
-│ **English (en)** │  **[français (fr)](</fpXMLXSDExport/fr> "fpXMLXSDExport/fr")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

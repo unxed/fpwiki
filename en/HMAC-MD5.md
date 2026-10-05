@@ -1,7 +1,6 @@
 # HMAC-MD5
 
-│ **English (en)** │  **[français (fr)](</HMAC-MD5/fr> "HMAC-MD5/fr")** │    
-****
+│ **English (en)** │
 
 ## Overview
 

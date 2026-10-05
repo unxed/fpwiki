@@ -1,7 +1,6 @@
 # Case
 
-│ **[Deutsch (de)](</Case/de> "Case/de")** │  **English (en)** │  **[español (es)](</Case/es> "Case/es")** │  **[suomi (fi)](</Case/fi> "Case/fi")** │  **[français (fr)](</Case/fr> "Case/fr")** │  **[русский (ru)](<../ru/Case.md> "Case/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Case.md>)** │
 
 The [reserved word](<Reserved_word.md> "Reserved word") `case` starts a clause where alternatives are chosen. 
 

@@ -1,7 +1,6 @@
 # File Handling In Pascal
 
-│ **[العربية (ar)](</File_Handling_In_Pascal/ar> "File Handling In Pascal/ar")** │  **[English (en)](<../en/File_Handling_In_Pascal.md> "File Handling In Pascal")** │  **[español (es)](</File_Handling_In_Pascal/es> "File Handling In Pascal/es")** │  **[suomi (fi)](</File_Handling_In_Pascal/fi> "File Handling In Pascal/fi")** │  **[français (fr)](</File_Handling_In_Pascal/fr> "File Handling In Pascal/fr")** │  **[日本語 (ja)](</File_Handling_In_Pascal/ja> "File Handling In Pascal/ja")** │  **русский (ru)** │  **[中文（中国大陆）‎ (zh_CN)](</File_Handling_In_Pascal/zh_CN> "File Handling In Pascal/zh CN")** │  **[中文（台灣）‎ (zh_TW)](</File_Handling_In_Pascal/zh_TW> "File Handling In Pascal/zh TW")** │    
-****
+│ **[English (en)](<../en/File_Handling_In_Pascal.md>)** │  **русский (ru)** │
 
 ## Contents
 

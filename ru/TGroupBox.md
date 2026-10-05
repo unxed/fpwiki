@@ -1,7 +1,6 @@
 # TGroupBox
 
-│ [**Deutsch (de)**](</TGroupBox/de> "TGroupBox/de") │  [**English (en)**](<../en/TGroupBox.md> "TGroupBox") │  [**suomi (fi)**](</TGroupBox/fi> "TGroupBox/fi") │  [**français (fr)**](</TGroupBox/fr> "TGroupBox/fr") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TGroupBox.md>)** │  **русский (ru)** │
 
 **TGroupBox** [![tgroupbox.png](https://wiki.freepascal.org/images/1/18/tgroupbox.png)](</File:tgroupbox.png>) является контейнером, который позволяет физически сгруппировать некоторое количество объектов на форме. 
 

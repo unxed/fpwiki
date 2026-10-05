@@ -1,6 +1,6 @@
 # macOS File and Custom URL Scheme Associations
 
-│ **English (en)** │ 
+│ **English (en)** │
 
 [![macOSlogo.png](https://wiki.freepascal.org/images/1/15/macOSlogo.png)](</File:macOSlogo.png>)
 

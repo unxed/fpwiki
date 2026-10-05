@@ -1,8 +1,6 @@
 # IDE Window: Find or Rename identifier
 
-│ **[Deutsch (de)](</IDE_Window:_Find_or_Rename_identifier/de> "IDE Window: Find or Rename identifier/de")** │  **English (en)** │  **[suomi (fi)](</IDE_Window:_Find_or_Rename_identifier/fi> "IDE Window: Find or Rename identifier/fi")** │  **[français (fr)](</IDE_Window:_Find_or_Rename_identifier/fr> "IDE Window: Find or Rename identifier/fr")** │    
-****  
-****
+│ **English (en)** │
 
 This dialog is reached by placing the cursor on an [identifier](<Identifier.md> "Identifier") in the source editor, right-clicking and choosing either "Find > Find Identifier References..." or choosing "Refactoring > Rename Identifier...". Alternatively, this dialog can be reached by choosing from the Main Menu, "Search > Find Identifier References...". 
 

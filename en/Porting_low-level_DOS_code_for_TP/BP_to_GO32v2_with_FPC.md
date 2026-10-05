@@ -1,7 +1,6 @@
 # Porting low-level DOS code for TP/BP to GO32v2 with FPC
 
-│ **English (en)** │  **[español (es)](</Porting_low-level_DOS_code_for_TP/BP_to_GO32v2_with_FPC/es> "Porting low-level DOS code for TP/BP to GO32v2 with FPC/es")** │  **[Bahasa Indonesia (id)](</Porting_low-level_DOS_code_for_TP/BP_to_GO32v2_with_FPC/id> "Porting low-level DOS code for TP/BP to GO32v2 with FPC/id")** │    
-****
+│ **English (en)** │
 
 "Low-level DOS code" refers to assembler routines, use of DOS and BIOS functions, etc. This page tries to provide hints regarding general areas of interest when porting such code originally written for TP/BP to GO32v2 target with FPC (or potentially other similar targets like WDOSX). Don't expect any detailed tutorial - messing with low-level code always requires a lot of knowledge and experience, and porting old 16-bit code written for real mode to 32-bit protected mode makes it even more demanding. 
 

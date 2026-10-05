@@ -1,7 +1,6 @@
 # Raspberry Pi - SPI
 
-│ **[Deutsch (de)](</Raspberry_Pi_-_SPI/de> "Raspberry Pi - SPI/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
 ## Contents
 

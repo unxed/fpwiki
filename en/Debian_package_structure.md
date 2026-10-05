@@ -1,7 +1,6 @@
 # Debian package structure
 
-│ **English (en)** │  **[русский (ru)](<../ru/Debian_package_structure.md> "Debian package structure/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Debian_package_structure.md>)** │
 
 Installations on Debian are provided as files with .deb extension. This article discusses how to build them manually. 
 

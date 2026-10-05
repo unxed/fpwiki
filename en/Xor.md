@@ -1,6 +1,7 @@
 # Xor
 
-│ **[Deutsch (de)](</Xor/de> "Xor/de")** │  **English (en)** │  **[suomi (fi)](</Xor/fi> "Xor/fi")** │  **[français (fr)](</Xor/fr> "Xor/fr")** │  **[русский (ru)](<../ru/Xor.md> "Xor/ru")** │    
+│ **English (en)** │  **[русский (ru)](<../ru/Xor.md>)** │
+
 ****Back to[Reserved words](<Reserved_words.md> "Reserved words"). 
 
 The **xor** [`operator`](<Operator.md> "Operator") compares two [`boolean`](<Boolean.md> "Boolean") values, and returns true if and only if one of them is true. 

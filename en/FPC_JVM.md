@@ -1,7 +1,6 @@
 # FPC JVM
 
-│ **English (en)** │  **[русский (ru)](<../ru/FPC_JVM.md> "FPC JVM/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/FPC_JVM.md>)** │
 
 ## Contents
 

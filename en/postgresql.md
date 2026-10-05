@@ -1,8 +1,7 @@
 # postgres
 
-│ **[Deutsch (de)](</postgres/de> "postgres/de")** │  **English (en)** │  **[español (es)](</postgres/es> "postgres/es")** │  **[français (fr)](</postgres/fr> "postgres/fr")** │  **[日本語 (ja)](</postgres/ja> "postgres/ja")** │    
-****  
-  
+│ **English (en)** │
+
 ---  
 [**Databases portal**](<Portal_Databases.md> "Portal:Databases")  
 References: 

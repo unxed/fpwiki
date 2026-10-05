@@ -1,7 +1,6 @@
 # Pascal Script
 
-│ **[Deutsch (de)](</Pascal_Script/de> "Pascal Script/de")** │  **English (en)** │  **[español (es)](</Pascal_Script/es> "Pascal Script/es")** │  **[日本語 (ja)](</Pascal_Script/ja> "Pascal Script/ja")** │  **[русский (ru)](<../ru/Pascal_Script.md> "Pascal Script/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Pascal_Script.md>)** │
 
 **Pascal Script** is an [Object Pascal](<Object_Pascal.md> "Object Pascal")/[Delphi](<Delphi.md> "Delphi")/[Lazarus](<Lazarus.md> "Lazarus")-compatible interpreter with bytecode compiler that delivers a [scripting](<PascalScript.md> "PascalScript") environment for application programs. 
 

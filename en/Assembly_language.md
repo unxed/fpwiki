@@ -1,7 +1,6 @@
 # Assembly language
 
-│ **[Deutsch (de)](</Assembly_language/de> "Assembly language/de")** │  **English (en)** │  **[español (es)](</Assembly_language/es> "Assembly language/es")** │  **[suomi (fi)](</Assembly_language/fi> "Assembly language/fi")** │    
-****
+│ **English (en)** │
 
 Assembly language is the [source code](<Source_code.md> "Source code") which is written to be translated by an [assembler](<Assembler.md> "Assembler") into the binary executable program which is then run to produce the desired results. 
 

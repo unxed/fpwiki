@@ -1,7 +1,6 @@
 # TPairSplitter
 
-│ **English (en)** │  **[français (fr)](</TPairSplitter/fr> "TPairSplitter/fr")** │  **[русский (ru)](<../ru/TPairSplitter.md> "TPairSplitter/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TPairSplitter.md>)** │
 
 A TPairSplitter [![tpairsplitter.png](https://wiki.freepascal.org/images/6/62/tpairsplitter.png)](</File:tpairsplitter.png>) is a component that can be placed on a panel or form and provides two [TPairSplitterSide](</index.php?title=TPairSplitterSide&action=edit&redlink=1> "TPairSplitterSide \(page does not exist\)") sub-components. 
 

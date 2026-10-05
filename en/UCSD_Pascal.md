@@ -1,7 +1,6 @@
 # UCSD Pascal
 
-│ **[Deutsch (de)](</UCSD_Pascal/de> "UCSD Pascal/de")** │  **English (en)** │  **[suomi (fi)](</UCSD_Pascal/fi> "UCSD Pascal/fi")** │  **[français (fr)](</UCSD_Pascal/fr> "UCSD Pascal/fr")** │    
-****
+│ **English (en)** │
 
 **UCSD Pascal** was the first minicomputer and microcomputer implementation of the [Pascal](<Pascal.md> "Pascal") programming language. Developed at the University of California, San Diego, under the direction of Kenneth Bowes, it implemented a number of significant improvements to the [standard Pascal](<Standard_Pascal.md> "Standard Pascal") language, including 
 

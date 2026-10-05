@@ -6,7 +6,7 @@ This article applies to [macOS](</Category:macOS> "Category:macOS") only.
 
 See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **English (en)** │ 
+│ **English (en)** │
 
 For macOS you need to create an app bundle for an executable file in order to drop it on the dock or launch it by double-clicking. An app bundle is really just a special folder that can have the same name as the executable, but with an .app extension. Finder doesn't display the .app extension, although you'll see it if you use ls in a Terminal window. 
 

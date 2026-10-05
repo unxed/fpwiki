@@ -1,7 +1,6 @@
 # FPC Internals/Parameters
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 back to contents [FPC internals](<../FPC_internals.md> "FPC internals")
 

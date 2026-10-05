@@ -1,7 +1,6 @@
 # IDE Window: Editor Options Mouse
 
-│ **[Deutsch (de)](</IDE_Window:_Editor_Options_Mouse/de> "IDE Window: Editor Options Mouse/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
   
 _**This is part of the online help for the IDE.**_  

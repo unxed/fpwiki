@@ -1,7 +1,6 @@
 # TStringList-TStrings Tutorial
 
-│ **[Deutsch (de)](</TStringList-TStrings_Tutorial/de> "TStringList-TStrings Tutorial/de")** │  **[English (en)](<../en/TStringList-TStrings_Tutorial.md> "TStringList-TStrings Tutorial")** │  **[español (es)](</TStringList-TStrings_Tutorial/es> "TStringList-TStrings Tutorial/es")** │  **[suomi (fi)](</TStringList-TStrings_Tutorial/fi> "TStringList-TStrings Tutorial/fi")** │  **[français (fr)](</TStringList-TStrings_Tutorial/fr> "TStringList-TStrings Tutorial/fr")** │  **[polski (pl)](</TStringList-TStrings_Tutorial/pl> "TStringList-TStrings Tutorial/pl")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TStringList-TStrings_Tutorial.md>)** │  **русский (ru)** │
 
 ## Contents
 

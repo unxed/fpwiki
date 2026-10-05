@@ -1,7 +1,6 @@
 # OpenGL Tutorial
 
-│ **[Deutsch (de)](</OpenGL_Tutorial/de> "OpenGL Tutorial/de")** │  **[English (en)](<../en/OpenGL_Tutorial.md> "OpenGL Tutorial")** │  **[español (es)](</OpenGL_Tutorial/es> "OpenGL Tutorial/es")** │  **[français (fr)](</OpenGL_Tutorial/fr> "OpenGL Tutorial/fr")** │  **[日本語 (ja)](</OpenGL_Tutorial/ja> "OpenGL Tutorial/ja")** │  **[한국어 (ko)](</OpenGL_Tutorial/ko> "OpenGL Tutorial/ko")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</OpenGL_Tutorial/zh_CN> "OpenGL Tutorial/zh CN")** │    
-****
+│ **[English (en)](<../en/OpenGL_Tutorial.md>)** │  **русский (ru)** │
 
 ## Contents
 

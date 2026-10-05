@@ -1,7 +1,6 @@
 # EpikTimer
 
-│ **[Deutsch (de)](</EpikTimer/de> "EpikTimer/de")** │  **English (en)** │  **[français (fr)](</EpikTimer/fr> "EpikTimer/fr")** │  **[русский (ru)](<../ru/EpikTimer.md> "EpikTimer/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/EpikTimer.md>)** │
 
 ## Contents
 

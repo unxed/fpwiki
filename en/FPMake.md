@@ -1,7 +1,6 @@
 # FPMake
 
-│ **English (en)** │  **[русский (ru)](<../ru/FPMake.md> "FPMake/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/FPMake.md>)** │
 
 **FPMake** is a build-system for Pascal code specifically. It can be compared with other build systems like Make, cons, scons, etc. 
 

@@ -1,7 +1,6 @@
 # System unit
 
-│ **English (en)** │  **[français (fr)](</System_unit/fr> "System unit/fr")** │    
-****
+│ **English (en)** │
 
 In Free Pascal the **System** unit is the unit that is included by _every_ program. FPC's [run-time library](<RTL.md> "RTL") comes with a System unit where most, if not all of its functionalities work on every available [platform](<Platform_list.md> "Platform list"). 
 

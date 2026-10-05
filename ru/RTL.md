@@ -1,7 +1,6 @@
 # RTL
 
-│ **[Deutsch (de)](</RTL/de> "RTL/de")** │  **[English (en)](<../en/RTL.md> "RTL")** │  **[español (es)](</RTL/es> "RTL/es")** │  **[français (fr)](</RTL/fr> "RTL/fr")** │  **[Bahasa Indonesia (id)](</RTL/id> "RTL/id")** │  **[日本語 (ja)](</RTL/ja> "RTL/ja")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/RTL.md>)** │  **русский (ru)** │
 
 Библиотека времени выполнения (RTL) 
 

@@ -1,7 +1,6 @@
 # TColorButton
 
-│ **[English (en)](<../en/TColorButton.md> "TColorButton")** │  **[français (fr)](</TColorButton/fr> "TColorButton/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TColorButton.md>)** │  **русский (ru)** │
 
 **TColorButton** [![tcolorbutton.png](https://wiki.freepascal.org/images/8/85/tcolorbutton.png)](</File:tcolorbutton.png>) \- это компонент, представляющий собой кнопку с закрашенной поверхностью. Компонент TColorButton является потомком [TGraphicControl](<TGraphicControl.md> "TGraphicControl/ru") и доступен на вкладке [Misc](<Misc_tab.md> "Misc tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

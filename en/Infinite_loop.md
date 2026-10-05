@@ -1,7 +1,6 @@
 # Infinite loop
 
-│ **English (en)** │  [**suomi (fi)**](</Infinite_loop/fi> "Infinite loop/fi") │  [**français (fr)**](</Infinite_loop/fr> "Infinite loop/fr") │  [**русский (ru)**](<../ru/Infinite_loop.md> "Infinite loop/ru") │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Infinite_loop.md>)** │
 
 An **infinite loop** (also known as an endless loop or unproductive loop or a continuous loop) is a loop which never ends. Inside a loop, [statements](<statement.md> "statement") are repeated forever. 
 

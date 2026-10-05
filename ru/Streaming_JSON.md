@@ -1,7 +1,6 @@
 # Streaming JSON
 
-│ **[Deutsch (de)](</Streaming_JSON/de> "Streaming JSON/de")** │  **[English (en)](<../en/Streaming_JSON.md> "Streaming JSON")** │  **[polski (pl)](</Streaming_JSON/pl> "Streaming JSON/pl")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</Streaming_JSON/zh_CN> "Streaming JSON/zh CN")** │    
-****
+│ **[English (en)](<../en/Streaming_JSON.md>)** │  **русский (ru)** │
 
 ![Light bulb](https://upload.wikimedia.org/wikipedia/commons/d/d8/Nuvola_apps_ktip.png) **Примечание:** Эта статья является перевод статьи с английского [Streaming_JSON](<../en/Streaming_JSON.md> "Streaming JSON") от 2014-10-02, которая была переведена с помощью Google Translate с немецкого (оригинал). Понятно, что результат перевода может быть ужасным, вполне может требоваться ручная корректировка. **Убедительная просьба не использовать автоматический перевод без окончательной обработки**
 

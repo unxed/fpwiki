@@ -1,7 +1,6 @@
 # Not equal
 
-│ **[English (en)](<../en/Not_equal.md> "Not equal")** │  **[suomi (fi)](</Not_equal/fi> "Not equal/fi")** │  **[français (fr)](</Not_equal/fr> "Not equal/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Not_equal.md>)** │  **русский (ru)** │
 
 <>
 

@@ -1,7 +1,6 @@
 # Embedded
 
-│ **English (en)** │  **[español (es)](</Embedded/es> "Embedded/es")** │  **[中文（中国大陆） (zh_CN)](</Embedded/zh_CN> "Embedded/zh CN")** │  **[中文（臺灣） (zh_TW)](</Embedded/zh_TW> "Embedded/zh TW")** │    
-****
+│ **English (en)** │
 
 This page is about embedded systems with operating system (Nintendo platforms, Linux Embedded, Windows embedded). For microcontroller programming, i.e. embedded systems without operating system, see [TARGET Embedded](<TARGET_Embedded.md> "TARGET Embedded"). 
 

@@ -1,8 +1,7 @@
 # Virtual Pascal
 
-│ **[Deutsch (de)](</Virtual_Pascal/de> "Virtual Pascal/de")** │  **English (en)** │  **[français (fr)](</Virtual_Pascal/fr> "Virtual Pascal/fr")** │    
-****  
-  
+│ **English (en)** │
+
 
 
 ## Overview

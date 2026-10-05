@@ -1,7 +1,7 @@
 # fpjsondataset
 
-│ **English (en)** │  **[polski (pl)](</fpjsondataset/pl> "fpjsondataset/pl")** │   
-  
+│ **English (en)** │
+
 ---  
 [**Databases portal**](<Portal_Databases.md> "Portal:Databases")  
 References: 

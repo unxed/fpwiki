@@ -1,7 +1,6 @@
 # TSQLScript
 
-│ **English (en)** │  **[français (fr)](</TSQLScript/fr> "TSQLScript/fr")** │  **[日本語 (ja)](</TSQLScript/ja> "TSQLScript/ja")** │    
-****
+│ **English (en)** │
 
 **TSQLScript** [![tsqlscript.png](https://wiki.freepascal.org/images/5/52/tsqlscript.png)](</File:tsqlscript.png>) lets you run a batch of SQL statements/multiple SQL statements in one run. It is useful if you want to set up a new database or update an existing database schema. 
 

@@ -1,7 +1,6 @@
 # svgalib
 
-**English (en)** | | [**español (es)**](</svgalib/es> "svgalib/es") |    
-****
+│ **English (en)** │
 
 ## Contents
 

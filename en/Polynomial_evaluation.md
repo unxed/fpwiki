@@ -1,7 +1,6 @@
 # Polynomial evaluation
 
-│ **English (en)** │  **[français (fr)](</Polynomial_evaluation/fr> "Polynomial evaluation/fr")** │    
-****
+│ **English (en)** │
 
 # Introduction
 

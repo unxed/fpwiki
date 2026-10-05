@@ -1,7 +1,6 @@
 # TLHelpConnector
 
-│ **English (en)** │  **[français (fr)](</TLHelpConnector/fr> "TLHelpConnector/fr")** │  **[русский (ru)](<../ru/TLHelpConnector.md> "TLHelpConnector/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TLHelpConnector.md>)** │
 
 **TLHelpConnector** [![tlhelpconnector.png](https://wiki.freepascal.org/images/b/bf/tlhelpconnector.png)](</File:tlhelpconnector.png>) is a component that offers context sensitive application help. It is available from the [System tab](<System_tab.md> "System tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). LHelp gives access to the lazarus-help files (CHM). 
 

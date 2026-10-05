@@ -1,7 +1,6 @@
 # Understanding Interfaces
 
-│ **English (en)** │  **[español (es)](</Understanding_Interfaces/es> "Understanding Interfaces/es")** │    
-****
+│ **English (en)** │
 
 ## The reason for interfaces
 

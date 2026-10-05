@@ -1,7 +1,6 @@
 # Greater than
 
-│ **[English (en)](<../en/Greater_than.md> "Greater than")** │  **[suomi (fi)](</Greater_than/fi> "Greater than/fi")** │  **[français (fr)](</Greater_than/fr> "Greater than/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Greater_than.md>)** │  **русский (ru)** │
 
 >
 

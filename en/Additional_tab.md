@@ -1,7 +1,6 @@
 # Additional tab
 
-│ **English (en)** │  **[español (es)](</Additional_tab/es> "Additional tab/es")** │  **[suomi (fi)](</Additional_tab/fi> "Additional tab/fi")** │  **[français (fr)](</Additional_tab/fr> "Additional tab/fr")** │  **[日本語 (ja)](</Additional_tab/ja> "Additional tab/ja")** │  **[polski (pl)](</Additional_tab/pl> "Additional tab/pl")** │  **[русский (ru)](<../ru/Additional_tab.md> "Additional tab/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Additional_tab.md>)** │
 
 The **Additional tab** of the [Component Palette](<Component_Palette.md> "Component Palette") contains more, often-used components 
 
@@ -37,9 +36,9 @@ Icon | Component | Description | Online Docs
 
   * [extctrls doc](<http://lazarus-ccr.sourceforge.net/docs/lcl/extctrls/index-4.html>)
 
-[Component Palette/ja](</Component_Palette/ja> "Component Palette/ja")  
+Component Palette/ja  
 ---  
-[Standard](</Standard_tab/ja> "Standard tab/ja") \- [Additional](</Additional_tab/ja> "Additional tab/ja") \- [Common Controls](</index.php?title=Common_Controls_tab/ja&action=edit&redlink=1> "Common Controls tab/ja \(page does not exist\)") \- [Dialogs](</index.php?title=Dialogs_tab/ja&action=edit&redlink=1> "Dialogs tab/ja \(page does not exist\)") \- [Data Controls](</Data_Controls_tab/ja> "Data Controls tab/ja") \- [Data Access](</Data_Access_tab/ja> "Data Access tab/ja") \- [System](</index.php?title=System_tab/ja&action=edit&redlink=1> "System tab/ja \(page does not exist\)") \- [Misc](</index.php?title=Misc_tab/ja&action=edit&redlink=1> "Misc tab/ja \(page does not exist\)") \- [LazControls](</index.php?title=LazControls_tab/ja&action=edit&redlink=1> "LazControls tab/ja \(page does not exist\)") \- [RTTI](</index.php?title=RTTI_tab/ja&action=edit&redlink=1> "RTTI tab/ja \(page does not exist\)") \- [SQLdb](</SQLdb_tab/ja> "SQLdb tab/ja") \- [Pascal Script](</index.php?title=Pascal_Script_tab/ja&action=edit&redlink=1> "Pascal Script tab/ja \(page does not exist\)") \- [SynEdit](</index.php?title=SynEdit_tab/ja&action=edit&redlink=1> "SynEdit tab/ja \(page does not exist\)") \- [Chart](</index.php?title=Chart_tab/ja&action=edit&redlink=1> "Chart tab/ja \(page does not exist\)") \- [IPro](</index.php?title=IPro_tab/ja&action=edit&redlink=1> "IPro tab/ja \(page does not exist\)")
+Standard \- Additional \- Common Controls \- Dialogs \- Data Controls \- Data Access \- System \- Misc \- LazControls \- RTTI \- SQLdb \- Pascal Script \- SynEdit \- Chart \- IPro
 
 ---
 

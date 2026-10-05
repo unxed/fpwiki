@@ -1,7 +1,6 @@
 # Form Tutorial
 
-│ **[Deutsch (de)](</Form_Tutorial/de> "Form Tutorial/de")** │  **English (en)** │  **[suomi (fi)](</Form_Tutorial/fi> "Form Tutorial/fi")** │  **[日本語 (ja)](</Form_Tutorial/ja> "Form Tutorial/ja")** │  **[中文（中国大陆） (zh_CN)](</Form_Tutorial/zh_CN> "Form Tutorial/zh CN")** │    
-****
+│ **English (en)** │
 
 A short introduction on using Forms in Lazarus. 
 
@@ -404,7 +403,7 @@ In this example clicking a button should open another form that itself contains 
   * [Tips for manual generation of controls](<LCL_Tips.md> "LCL Tips")
   * [Example to create a complete GUI application by code](<LCL_Tips.md> "LCL Tips")
   * [Testing, if form exists](<Testing,_if_form_exists.md> "Testing, if form exists")
-  * [Canvas draw vertical line on form/de](</Canvas_draw_vertical_line_on_form/de> "Canvas draw vertical line on form/de")
+  * Canvas draw vertical line on form/de
   * [Drawing with canvas](<Drawing_with_canvas.md> "Drawing with canvas") on form
   * [user should not be able to close form](<user_should_not_be_able_to_close_form.md> "user should not be able to close form")
   * [Creating a non-rectangular window or control](<LCL_Tips.md> "LCL Tips")

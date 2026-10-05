@@ -1,7 +1,6 @@
 # Downto
 
-│ **[Deutsch (de)](</Downto/de> "Downto/de")** │  **[English (en)](<../en/Downto.md> "Downto")** │  **[español (es)](</Downto/es> "Downto/es")** │  **[français (fr)](</Downto/fr> "Downto/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Downto.md>)** │  **русский (ru)** │
 
   
 [Ключевое слово](<Keyword.md> "Keyword/ru") **Downto** используется для указания того, что значение переменной-счетчика в цикле [For](<For.md> "For/ru") _уменьшается_ на 1 на каждом шаге цикла. Значение переменной-счетчика, указанное после слова **downto** , должно быть меньше, чем начальное значение в инструкции цикла [For](<For.md> "For/ru"). 

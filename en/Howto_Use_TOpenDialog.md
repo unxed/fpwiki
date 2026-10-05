@@ -1,7 +1,6 @@
 # Howto Use TOpenDialog
 
-│ **[Deutsch (de)](</Howto_Use_TOpenDialog/de> "Howto Use TOpenDialog/de")** │  **English (en)** │  **[español (es)](</Howto_Use_TOpenDialog/es> "Howto Use TOpenDialog/es")** │  **[suomi (fi)](</Howto_Use_TOpenDialog/fi> "Howto Use TOpenDialog/fi")** │  **[français (fr)](</Howto_Use_TOpenDialog/fr> "Howto Use TOpenDialog/fr")** │  **[日本語 (ja)](</Howto_Use_TOpenDialog/ja> "Howto Use TOpenDialog/ja")** │  **[polski (pl)](</Howto_Use_TOpenDialog/pl> "Howto Use TOpenDialog/pl")** │  **[русский (ru)](<../ru/Howto_Use_TOpenDialog.md> "Howto Use TOpenDialog/ru")** │  **[slovenčina (sk)](</Howto_Use_TOpenDialog/sk> "Howto Use TOpenDialog/sk")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Howto_Use_TOpenDialog.md>)** │
 
 Simple and short guidelines: 
 

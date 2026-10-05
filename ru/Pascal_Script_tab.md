@@ -1,7 +1,6 @@
 # Pascal Script tab
 
-│ **[English (en)](<../en/Pascal_Script_tab.md> "Pascal Script tab")** │  **[français (fr)](</Pascal_Script_tab/fr> "Pascal Script tab/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Pascal_Script_tab.md>)** │  **русский (ru)** │
 
 Вкладка **Pascal Script** [палитры компонентов](<Component_Palette.md> "Component Palette/ru") содержит список компонентов для работы со [скриптовым языком Pascal](<Pascal_Script.md> "Pascal Script/ru"). 
 

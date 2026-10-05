@@ -1,8 +1,6 @@
 # IDE Window: Diff
 
-│ **[Deutsch (de)](</IDE_Window:_Diff/de> "IDE Window: Diff/de")** │  **English (en)** │  **[español (es)](</IDE_Window:_Diff/es> "IDE Window: Diff/es")** │  **[suomi (fi)](</IDE_Window:_Diff/fi> "IDE Window: Diff/fi")** │  **[français (fr)](</IDE_Window:_Diff/fr> "IDE Window: Diff/fr")** │    
-****  
-****
+│ **English (en)** │
 
 ## Contents
 

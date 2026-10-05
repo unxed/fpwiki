@@ -1,7 +1,6 @@
 # Procedures
 
-│ [**български (bg)**](</Procedures/bg> "Procedures/bg") │  **English (en)** │  [**français (fr)**](</Procedures/fr> "Procedures/fr") │  [**日本語 (ja)**](</Procedures/ja> "Procedures/ja") │  [**中文（中国大陆）‎ (zh_CN)**](</Procedures/zh_CN> "Procedures/zh CN") │    
-****
+│ **English (en)** │
 
 [ ◄ ](<Solution_3.md> "Solution 3") | [ ▲ ](<Contents.md> "Contents") | [ ► ](<Parameters.md> "Parameters")  
 ---|---|---  

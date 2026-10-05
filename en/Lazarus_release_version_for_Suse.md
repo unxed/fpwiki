@@ -1,6 +1,6 @@
 # Lazarus release version for Suse
 
-│ **English (en)** │  **[polski (pl)](</Lazarus_release_version_for_Suse/pl> "Lazarus release version for Suse/pl")** │ 
+│ **English (en)** │
 
 [![Crystal 128 penguin.png](https://upload.wikimedia.org/wikipedia/commons/1/1c/Crystal_128_penguin.png)](</File:Crystal_128_penguin.png>)
 

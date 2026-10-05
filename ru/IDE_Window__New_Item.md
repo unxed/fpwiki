@@ -1,8 +1,6 @@
 # IDE Window: New Item
 
-│ **[English (en)](<../en/IDE_Window__New_Item.md> "IDE Window: New Item")** │  **[français (fr)](</IDE_Window:_New_Item/fr> "IDE Window: New Item/fr")** │  **русский (ru)** │    
-****  
-****
+│ **[English (en)](<../en/IDE_Window__New_Item.md>)** │  **русский (ru)** │
 
 Диалог **File|New item** помогает начать новый элемент. Элементы, показанные в этом диалоговом окне, можно расширить, установив пакеты Lazarus. 
 

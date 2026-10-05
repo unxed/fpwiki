@@ -1,7 +1,6 @@
 # System unit structure
 
-│ **English (en)** │  [**español (es)**](</System_unit_structure/es> "System unit structure/es") │  [**français (fr)**](</System_unit_structure/fr> "System unit structure/fr") │    
-****
+│ **English (en)** │
 
 (work in progress - incomplete!) 
 

@@ -1,7 +1,6 @@
 # TShape
 
-│ **English (en)** │  **[français (fr)](</TShape/fr> "TShape/fr")** │  **[русский (ru)](<../ru/TShape.md> "TShape/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TShape.md>)** │
 
 **TShape** [![tshape.png](https://wiki.freepascal.org/images/0/0e/tshape.png)](</File:tshape.png>) is a component that creates a shape (triangle, circle or square) on the surface of its parent (such as a [TForm](<TForm.md> "TForm")). It is a [TGraphicControl](<TGraphicControl.md> "TGraphicControl") descendant and is available under the [Additional tab](<Additional_tab.md> "Additional tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

@@ -1,7 +1,6 @@
 # Getting translation strings right
 
-│ **[Deutsch (de)](</Getting_translation_strings_right/de> "Getting translation strings right/de")** │  **English (en)** │  **[español (es)](</Getting_translation_strings_right/es> "Getting translation strings right/es")** │  **[français (fr)](</Getting_translation_strings_right/fr> "Getting translation strings right/fr")** │  **[日本語 (ja)](</Getting_translation_strings_right/ja> "Getting translation strings right/ja")** │  **[русский (ru)](<../ru/Getting_translation_strings_right.md> "Getting translation strings right/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Getting_translation_strings_right.md>)** │
 
 This page contains some basic notes on getting translation strings right from the start, from the original writers (e.g. most often programmers) angle. 
 

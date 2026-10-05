@@ -12,8 +12,7 @@ This article applies to [Qt widgetset](</Category:Qt> "Category:Qt") only.
 
 See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **English (en)** │  **[日本語 (ja)](</Qt_Interface_Mac/ja> "Qt Interface Mac/ja")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

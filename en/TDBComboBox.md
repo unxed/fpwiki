@@ -1,7 +1,6 @@
 # TDBComboBox
 
-│ **English (en)** │  **[français (fr)](</TDBComboBox/fr> "TDBComboBox/fr")** │  **[русский (ru)](<../ru/TDBComboBox.md> "TDBComboBox/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TDBComboBox.md>)** │
 
 The **TDBComboBox** [![tdbcombobox.png](https://wiki.freepascal.org/images/a/a2/tdbcombobox.png)](</File:tdbcombobox.png>) is a databound [TComboBox](<TComboBox.md> "TComboBox") available from the [Data Controls tab](<Data_Controls_tab.md> "Data Controls tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

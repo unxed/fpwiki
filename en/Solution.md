@@ -1,7 +1,6 @@
 # Solution
 
-│ [**български (bg)**](</Solution/bg> "Solution/bg") │  [**Deutsch (de)**](</Solution/de> "Solution/de") │  **English (en)** │  [**français (fr)**](</Solution/fr> "Solution/fr") │  [**日本語 (ja)**](</Solution/ja> "Solution/ja") │  [**한국어 (ko)**](</Solution/ko> "Solution/ko") │  [**русский (ru)**](<../ru/Solution.md> "Solution/ru") │  [**中文（中国大陆）‎ (zh_CN)**](</Solution/zh_CN> "Solution/zh CN") │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Solution.md>)** │
 
 [ ◄ ](<Programming_Assignment.md> "Programming Assignment") | [ ▲ ](<Contents.md> "Contents") | [ ► ](<Input.md> "Input")  
 ---|---|---  

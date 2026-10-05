@@ -1,6 +1,6 @@
 # loop instruction
 
-│ **English (en)** │ 
+│ **English (en)** │
 
 Pascal has three types of loop instruction, one increments a variable, and the other two test a boolean value to see if it is true. One performs the test before executing the loop, the other two after executing it. 
 

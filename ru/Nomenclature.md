@@ -1,7 +1,6 @@
 # Nomenclature
 
-│ [**Deutsch (de)**](</Nomenclature/de> "Nomenclature/de") │  [**English (en)**](<../en/Nomenclature.md> "Nomenclature") │  [**español (es)**](</Nomenclature/es> "Nomenclature/es") │  [**français (fr)**](</Nomenclature/fr> "Nomenclature/fr") │  [**日本語 (ja)**](</Nomenclature/ja> "Nomenclature/ja") │  [**한국어 (ko)**](</Nomenclature/ko> "Nomenclature/ko") │  [**português (pt)**](</Nomenclature/pt> "Nomenclature/pt") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Nomenclature.md>)** │  **русский (ru)** │
 
   * Свойства должны начинаться не с глагола, а с существительного.
   * Методы лучше начинать с глагола.

@@ -1,6 +1,6 @@
 # AVR Embedded Tutorial - Multiplex
 
-│ **[Deutsch (de)](</AVR_Embedded_Tutorial_-_Multiplex/de> "AVR Embedded Tutorial - Multiplex/de")** │  **English (en)** │ 
+│ **English (en)** │
 
 ## Contents
 

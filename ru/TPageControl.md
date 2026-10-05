@@ -1,7 +1,6 @@
 # TPageControl
 
-│ **[English (en)](<../en/TPageControl.md> "TPageControl")** │  **[suomi (fi)](</TPageControl/fi> "TPageControl/fi")** │  **[français (fr)](</TPageControl/fr> "TPageControl/fr")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</TPageControl/zh_CN> "TPageControl/zh CN")** │    
-****
+│ **[English (en)](<../en/TPageControl.md>)** │  **русский (ru)** │
 
 **TPageControl** [![tpagecontrol.png](https://wiki.freepascal.org/images/e/e4/tpagecontrol.png)](</File:tpagecontrol.png>) \- компонент, представляющий собой контейнер с набором страниц, похожий на настоящую записную книжку. Компонент TPageControl является потомком [TWinControl](</index.php?title=TWinControl/ru&action=edit&redlink=1> "TWinControl/ru \(page does not exist\)") и доступен на вкладке [Common Controls](<Common_Controls_tab.md> "Common Controls tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

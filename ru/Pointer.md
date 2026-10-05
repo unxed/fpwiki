@@ -1,7 +1,6 @@
 # Pointer
 
-│ **[Deutsch (de)](</Pointer/de> "Pointer/de")** │  **[English (en)](<../en/Pointer.md> "Pointer")** │  **[suomi (fi)](</Pointer/fi> "Pointer/fi")** │  **[français (fr)](</Pointer/fr> "Pointer/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Pointer.md>)** │  **русский (ru)** │
 
 Тип **Pointer** в Free Pascal имеет два значения: 
 

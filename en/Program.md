@@ -1,7 +1,6 @@
 # Program
 
-│ **[Deutsch (de)](</Program/de> "Program/de")** │  **English (en)** │  **[suomi (fi)](</Program/fi> "Program/fi")** │  **[français (fr)](</Program/fr> "Program/fr")** │  **[Bahasa Indonesia (id)](</Program/id> "Program/id")** │  **[italiano (it)](</Program/it> "Program/it")** │  **[português (pt)](</Program/pt> "Program/pt")** │  **[русский (ru)](<../ru/Program.md> "Program/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Program.md>)** │
 
 A **program** is either an [executable program](<Executable_program.md> "Executable program"), that is, the complete and runnable [application](<Application.md> "Application"), or it is that portion of a [Pascal](<Pascal.md> "Pascal") [Source code](<Source_code.md> "Source code") [file](</File> "File") or files that can be compiled and is not declared to be a [unit](<Unit.md> "Unit") or [library](<Library.md> "Library"). This is sometimes referred to as the main program. 
 

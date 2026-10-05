@@ -6,8 +6,7 @@
 
 См. также: [Multiplatform Programming Guide](<../en/Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **[Deutsch (de)](</Office_Automation/de> "Office Automation/de")** │  **[English (en)](<../en/Office_Automation.md> "Office Automation")** │  **[español (es)](</Office_Automation/es> "Office Automation/es")** │  **[français (fr)](</Office_Automation/fr> "Office Automation/fr")** │  **[italiano (it)](</Office_Automation/it> "Office Automation/it")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</Office_Automation/zh_CN> "Office Automation/zh CN")** │    
-****
+│ **[English (en)](<../en/Office_Automation.md>)** │  **русский (ru)** │
 
 Возможность взаимодействовать с офисным программным обеспечением и создание электронных таблиц, текстовых документов и презентаций из кода может быть очень полезным в офисе, и выиграть много времени, для тех, кто может это сделать. Одним из таких примеров является создание приложений, которые могут читать файлы в произвольном формате и сохранять их в Excel. Такую задачу гораздо более эффективно решить программно, нежели вручную. 
 

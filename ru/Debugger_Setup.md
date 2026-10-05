@@ -1,7 +1,6 @@
 # Debugger Setup
 
-│ [**English (en)**](<../en/Debugger_Setup.md> "Debugger Setup") │  [**español (es)**](</Debugger_Setup/es> "Debugger Setup/es") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Debugger_Setup.md>)** │  **русский (ru)** │
 
 ## Contents
 

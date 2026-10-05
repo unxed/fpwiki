@@ -1,7 +1,6 @@
 # Shl
 
-│ **[Deutsch (de)](</Shl/de> "Shl/de")** │  **[English (en)](<../en/Shl.md> "Shl")** │  **[suomi (fi)](</Shl/fi> "Shl/fi")** │  **[français (fr)](</Shl/fr> "Shl/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Shl.md>)** │  **русский (ru)** │
 
 ## Обзор
 

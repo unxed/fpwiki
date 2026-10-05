@@ -1,7 +1,6 @@
 # TColorListBox
 
-│ **English (en)** │  [**suomi (fi)**](</TColorListBox/fi> "TColorListBox/fi") │  [**français (fr)**](</TColorListBox/fr> "TColorListBox/fr") │  [**русский (ru)**](<../ru/TColorListBox.md> "TColorListBox/ru") │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TColorListBox.md>)** │
 
 [![tcolorlistbox screenshot.png](https://wiki.freepascal.org/images/6/64/tcolorlistbox_screenshot.png)](</File:tcolorlistbox_screenshot.png>)
 

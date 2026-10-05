@@ -1,7 +1,6 @@
 # Reintroduce
 
-│ **[Deutsch (de)](</Reintroduce/de> "Reintroduce/de")** │  **English (en)** │  **[Esperanto (eo)](</Reintroduce/eo> "Reintroduce/eo")** │  **[suomi (fi)](</Reintroduce/fi> "Reintroduce/fi")** │  **[français (fr)](</Reintroduce/fr> "Reintroduce/fr")** │    
-****
+│ **English (en)** │
 
 The [modifier](<modifier.md> "modifier") `reintroduce` belongs to [object-oriented programming](<object-oriented_programming.md> "object-oriented programming"). The modifier `reintroduce` allows a method of the parent [class](<Class.md> "Class") to be concealed by a new [method](<Method.md> "Method") with the same name. That is, a new method exists in the class derived from the parent class and in all other classes derived from it. The method in the parent class is preserved and can still be used by it. 
 

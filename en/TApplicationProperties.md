@@ -1,7 +1,6 @@
 # TApplicationProperties
 
-│ **English (en)** │  **[français (fr)](</TApplicationProperties/fr> "TApplicationProperties/fr")** │  **[日本語 (ja)](</TApplicationProperties/ja> "TApplicationProperties/ja")** │  **[русский (ru)](<../ru/TApplicationProperties.md> "TApplicationProperties/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TApplicationProperties.md>)** │
 
 **TApplicationProperties** [![tapplicationproperties.png](https://wiki.freepascal.org/images/9/9b/tapplicationproperties.png)](</File:tapplicationproperties.png>) is a non-visible component that gives easy access to a bunch of application properties. TApplicationProperties is available under the [Additional tab](<Additional_tab.md> "Additional tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

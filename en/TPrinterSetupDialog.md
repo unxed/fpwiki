@@ -1,7 +1,6 @@
 # TPrinterSetupDialog
 
-│ **English (en)** │  **[français (fr)](</TPrinterSetupDialog/fr> "TPrinterSetupDialog/fr")** │  **[русский (ru)](<../ru/TPrinterSetupDialog.md> "TPrinterSetupDialog/ru")** │  **[中文（中国大陆） (zh_CN)](</TPrinterSetupDialog/zh_CN> "TPrinterSetupDialog/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TPrinterSetupDialog.md>)** │
 
 **TPrinterSetupDialog** [![tprintersetupdialog.png](https://wiki.freepascal.org/images/b/b3/tprintersetupdialog.png)](</File:tprintersetupdialog.png>) is a dialog that aids selecting the correct printer settings. It can be found on the [Dialogs tab](<Dialogs_tab.md> "Dialogs tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

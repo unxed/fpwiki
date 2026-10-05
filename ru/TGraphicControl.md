@@ -1,6 +1,6 @@
 # TGraphicControl
 
-│ [**English (en)**](<../en/TGraphicControl.md> "TGraphicControl") │  [**suomi (fi)**](</TGraphicControl/fi> "TGraphicControl/fi") │  **русский (ru)** │ 
+│ **[English (en)](<../en/TGraphicControl.md>)** │  **русский (ru)** │
 
 **TGraphicControl** является базовым классом для компонентов с облегченной графикой, наподобие [TBevel](<TBevel.md> "TBevel/ru"). 
 

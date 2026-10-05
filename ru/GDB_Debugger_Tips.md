@@ -1,7 +1,6 @@
 # GDB Debugger Tips
 
-│ **[English (en)](<../en/GDB_Debugger_Tips.md> "GDB Debugger Tips")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/GDB_Debugger_Tips.md>)** │  **русский (ru)** │
 
   
 

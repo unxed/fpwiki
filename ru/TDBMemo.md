@@ -1,7 +1,6 @@
 # TDBMemo
 
-│ **[English (en)](<../en/TDBMemo.md> "TDBMemo")** │  **[français (fr)](</TDBMemo/fr> "TDBMemo/fr")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</TDBMemo/zh_CN> "TDBMemo/zh CN")** │    
-****
+│ **[English (en)](<../en/TDBMemo.md>)** │  **русский (ru)** │
 
 **TDBMemo** [![tdbmemo.png](https://wiki.freepascal.org/images/1/13/tdbmemo.png)](</File:tdbmemo.png>) является многострочным текстовым элементом управления при использовании с подключенной базой данных. Компонент TDBMemo доступен на вкладке [Data Controls](<Data_Controls_tab.md> "Data Controls tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

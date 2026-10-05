@@ -1,7 +1,6 @@
 # RegEx packages
 
-│ **[Deutsch (de)](</RegEx_packages/de> "RegEx packages/de")** │  **English (en)** │  **[español (es)](</RegEx_packages/es> "RegEx packages/es")** │  **[Bahasa Indonesia (id)](</RegEx_packages/id> "RegEx packages/id")** │  **[polski (pl)](</RegEx_packages/pl> "RegEx packages/pl")** │  **[中文（中国大陆） (zh_CN)](</RegEx_packages/zh_CN> "RegEx packages/zh CN")** │    
-****
+│ **English (en)** │
 
 Free Pascal includes the RegExpr package, which includes several "engines" for regular expressions. The main of these engines is TRegExpr, others are deprecated and not developed anymore. 
 

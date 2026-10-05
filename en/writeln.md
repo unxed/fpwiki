@@ -1,6 +1,7 @@
 # Write
 
-│ **[Deutsch (de)](</Write/de> "Write/de")** │  **English (en)** │  **[español (es)](</Write/es> "Write/es")** │  **[русский (ru)](<../ru/Write.md> "Write/ru")** │    
+│ **English (en)** │
+
 ****The procedures` write` and `writeLn` store a date in a [`text`](<Text.md> "Text") or typed [file](</File> "File"). They are defined as part of the [Pascal](<Standard_Pascal.md> "Standard Pascal") programming language, thus everyone can expect them to work no matter which [compiler](<Compiler.md> "Compiler") is used. 
 
 In [`property`](</Property> "Property") definitions the [reserved word](<Reserved_word.md> "Reserved word") `write` is used to direct write access. This article deals with the procedures `write` and `writeLn`. See [`object`](<Object.md> "Object") and related articles for the occurrence of `write` in the context of properties. 

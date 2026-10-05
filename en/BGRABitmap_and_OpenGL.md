@@ -1,7 +1,6 @@
 # BGRABitmap and OpenGL
 
-│ **English (en)** │  **[français (fr)](</BGRABitmap_and_OpenGL/fr> "BGRABitmap and OpenGL/fr")** │    
-****
+│ **English (en)** │
 
 [BGRABitmap](<BGRABitmap.md> "BGRABitmap") allows to draw with [OpenGL](<OpenGL.md> "OpenGL") and so to benefit from hardware acceleration. 
 

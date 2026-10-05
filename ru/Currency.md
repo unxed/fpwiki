@@ -1,7 +1,6 @@
 # Currency
 
-│ **[Deutsch (de)](</Currency/de> "Currency/de")** │  **[English (en)](<../en/Currency.md> "Currency")** │  **[suomi (fi)](</Currency/fi> "Currency/fi")** │  **[français (fr)](</Currency/fr> "Currency/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Currency.md>)** │  **русский (ru)** │
 
 Тип `Currency` является вещественным [типом данных](<../en/Data_type.md> "Data type") с фиксированной точкой (4 десятичных знака после точки), представляющий значения в диапазоне от -922337203685477.5808 до 922337203685477.5807. Тип данных [data type](<../en/Data_type.md> "Data type") используется с целью получения точного результата при арифметических вычислениях. 
 

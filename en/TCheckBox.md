@@ -1,7 +1,6 @@
 # TCheckBox
 
-│ **[Deutsch (de)](</TCheckBox/de> "TCheckBox/de")** │  **English (en)** │  **[suomi (fi)](</TCheckBox/fi> "TCheckBox/fi")** │  **[français (fr)](</TCheckBox/fr> "TCheckBox/fr")** │  **[日本語 (ja)](</TCheckBox/ja> "TCheckBox/ja")** │  **[русский (ru)](<../ru/TCheckBox.md> "TCheckBox/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TCheckBox.md>)** │
 
 A **TCheckBox** [![tcheckbox.png](https://wiki.freepascal.org/images/3/3c/tcheckbox.png)](</File:tcheckbox.png>) is a component that provides a label with a box which can contain a check mark. The TCheckbox control is the standard checkbox. It is available fron the [Standard tab](<Standard_tab.md> "Standard tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). When the TCheckBox is checked (☑) then checked property is [True](<True.md> "True") otherwise [False](<False.md> "False"). If property AllowGrayed is set to False (default value), the check box has only two possible states (property State): cbChecked and cbUnchecked. If AllowGrayed is set to True, the check box has three possible states: cbChecked, cbUnchecked and cbGrayed. 
 

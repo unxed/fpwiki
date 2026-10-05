@@ -1,7 +1,6 @@
 # IDE directives
 
-│ **English (en)** │  **[español (es)](</IDE_directives/es> "IDE directives/es")** │  **[français (fr)](</IDE_directives/fr> "IDE directives/fr")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

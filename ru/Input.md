@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Chapter 2/Input
 
-│ **[български (bg)](</Basic_Pascal_Tutorial/Chapter_2/Input/bg> "Basic Pascal Tutorial/Chapter 2/Input/bg")** │  **[Deutsch (de)](</Basic_Pascal_Tutorial/Chapter_2/Input/de> "Basic Pascal Tutorial/Chapter 2/Input/de")** │  **[English (en)](<../en/Basic_Pascal_Tutorial/Chapter_2/Input.md> "Basic Pascal Tutorial/Chapter 2/Input")** │  **[français (fr)](</Basic_Pascal_Tutorial/Chapter_2/Input/fr> "Basic Pascal Tutorial/Chapter 2/Input/fr")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Chapter_2/Input/ja> "Basic Pascal Tutorial/Chapter 2/Input/ja")** │  **[한국어 (ko)](</Basic_Pascal_Tutorial/Chapter_2/Input/ko> "Basic Pascal Tutorial/Chapter 2/Input/ko")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</Basic_Pascal_Tutorial/Chapter_2/Input/zh_CN> "Basic Pascal Tutorial/Chapter 2/Input/zh CN")** │    
-****
+│ **[English (en)](<../en/Input.md>)** │  **русский (ru)** │
 
 [ ◄ ](<Basic_Pascal_Tutorial/Chapter_1/Solution.md> "Basic Pascal Tutorial/Chapter 1/Solution/ru") | [ ▲ ](<Basic_Pascal_Tutorial/Contents.md> "Basic Pascal Tutorial/Contents/ru") | [ ► ](<Basic_Pascal_Tutorial/Chapter_2/Output.md> "Basic Pascal Tutorial/Chapter 2/Output/ru")  
 ---|---|---  

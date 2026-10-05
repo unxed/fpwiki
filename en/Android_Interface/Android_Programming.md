@@ -4,7 +4,7 @@ From Free Pascal wiki
 
 (Redirected from [Android Interface/Android Programming](</index.php?title=Android_Interface/Android_Programming&redirect=no> "Android Interface/Android Programming"))
 
-****English (en)**** | [**日本語 (ja)**](</Android_Programming/ja> "Android Programming/ja") | [**한국어 (ko)**](</Android_Programming/ko> "Android Programming/ko") | [**Русский (ru)**](<../../ru/Android_Programming.md> "Android Programming/ru") | [**‪中文(中国大陆)‬ (zh_CN)**](</Android_Programming/zh_CN> "Android Programming/zh CN")
+│ **English (en)** │
 
 See also [Custom Drawn Interface/Android](<../Custom_Drawn_Interface/Android.md> "Custom Drawn Interface/Android")
 

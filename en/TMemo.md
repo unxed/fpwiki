@@ -1,7 +1,6 @@
 # TMemo
 
-│ **[Deutsch (de)](</TMemo/de> "TMemo/de")** │  **English (en)** │  **[suomi (fi)](</TMemo/fi> "TMemo/fi")** │  **[français (fr)](</TMemo/fr> "TMemo/fr")** │  **[русский (ru)](<../ru/TMemo.md> "TMemo/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TMemo.md>)** │
 
 A **TMemo** [![tmemo.png](https://wiki.freepascal.org/images/f/f3/tmemo.png)](</File:tmemo.png>) is a control with multiple lines of editable text. It is available from the [Standard tab](<Standard_tab.md> "Standard tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

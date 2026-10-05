@@ -1,6 +1,6 @@
 # Android Build APK
 
-│ **[English (en)](<../en/Android_Build_APK.md> "Android Build APK")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</Android_Build_APK/zh_CN> "Android Build APK/zh CN")** │ 
+│ **[English (en)](<../en/Android_Build_APK.md>)** │  **русский (ru)** │
 
 Данная статья освещает способ как скомпилировать проект на FPC и загрузить его на андроид устройство. 
 

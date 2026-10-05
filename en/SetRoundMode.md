@@ -1,6 +1,6 @@
 # SetRoundMode
 
-│ **[Deutsch (de)](</SetRoundMode/de> "SetRoundMode/de")** │  **English (en)** │ 
+│ **English (en)** │
 
 With [`math.setRoundMode`](<https://www.freepascal.org/docs-html/rtl/math/setroundmode.html>) you can set the FPU’s method of rounding. If no FPU is present, the global variable [`system.softFloat_rounding_mode`](<https://www.freepascal.org/docs-html/rtl/system/softfloat_rounding_mode.html>) will determine the rounding mode for floating-point operations implemented by software. 
 

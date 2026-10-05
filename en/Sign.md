@@ -1,6 +1,6 @@
 # Sign
 
-│ **[Deutsch (de)](</Sign/de> "Sign/de")** │  **English (en)** │ 
+│ **English (en)** │
 
   
 

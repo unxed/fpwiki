@@ -1,6 +1,6 @@
 # UTF8 Tools
 
-│ **English (en)** │  **[русский (ru)](<../ru/UTF8_Tools.md> "UTF8 Tools/ru")** │ 
+│ **English (en)** │
 
 ## Contents
 

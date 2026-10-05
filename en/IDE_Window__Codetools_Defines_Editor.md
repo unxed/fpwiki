@@ -1,7 +1,6 @@
 # IDE Window: Codetools Defines Editor
 
-│ **[Deutsch (de)](</IDE_Window:_Codetools_Defines_Editor/de> "IDE Window: Codetools Defines Editor/de")** │  **English (en)** │  **[français (fr)](</IDE_Window:_Codetools_Defines_Editor/fr> "IDE Window: Codetools Defines Editor/fr")** │    
-****
+│ **English (en)** │
 
 ![Light bulb](https://upload.wikimedia.org/wikipedia/commons/d/d8/Nuvola_apps_ktip.png) **Note:** These values are only used by the codetools, not by the compiler. To setup search paths use the [Environment options](<IDE_Window__Environment_Options.md> "IDE Window: Environment Options"), [Compiler Options](<IDE_Window__Compiler_Options.md> "IDE Window: Compiler Options"), [Package Editor](<IDE_Window__Package_Editor.md> "IDE Window: Package Editor") and [Project Inspector](<IDE_Window__Project_Inspector.md> "IDE Window: Project Inspector"). The IDE automatically creates codetools nodes for those values. 
 

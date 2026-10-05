@@ -1,7 +1,6 @@
 # Typecast
 
-│ **[Deutsch (de)](</Typecast/de> "Typecast/de")** │  **[English (en)](<../en/Typecast.md> "Typecast")** │  **[français (fr)](</Typecast/fr> "Typecast/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Typecast.md>)** │  **русский (ru)** │
 
 Typecasting(приведение типов) - это концепция, позволяющая [присваивать](<Becomes.md> "Becomes/ru") значения [переменных](<Variable.md> "Variable/ru") или выражений, которые не соответствуют [типу данных](<Data_type.md> "Data type/ru"), переменной, фактически перекрывая систему строгой типизации [Pascal](<../en/Pascal.md> "Pascal"). 
 

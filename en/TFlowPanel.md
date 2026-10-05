@@ -1,7 +1,6 @@
 # TFlowPanel
 
-│ **English (en)** │  **[suomi (fi)](</TFlowPanel/fi> "TFlowPanel/fi")** │  **[français (fr)](</TFlowPanel/fr> "TFlowPanel/fr")** │  **[日本語 (ja)](</TFlowPanel/ja> "TFlowPanel/ja")** │  **[русский (ru)](<../ru/TFlowPanel.md> "TFlowPanel/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TFlowPanel.md>)** │
 
 **TFlowPanel** [![tflowpanel.png](https://wiki.freepascal.org/images/3/3b/tflowpanel.png)](</File:tflowpanel.png>) is a component that creates a panel that can contain 'flowing' other components (panels) in its ControlList on a form. A TFlowPanel is a descendant of [TWinControl](</index.php?title=TWinControl&action=edit&redlink=1> "TWinControl \(page does not exist\)") and is available under the [Additional tab](<Additional_tab.md> "Additional tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). A TFlowPanel act as a visible container for other components that do not have a fixed position but can 'flow' as boundaries might change (due to window resizing or turning the display device). 
 

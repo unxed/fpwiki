@@ -1,7 +1,6 @@
 # Read
 
-│ [**Deutsch (de)**](</Read/de> "Read/de") │  **English (en)** │    
-****
+│ **English (en)** │
 
 The procedures `read` and `readLn` retrieve data from a [`text` file](<Text.md> "Text") (such as `input`, the command line interface, or any file on disk). They are defined as part of the [Pascal](<Standard_Pascal.md> "Standard Pascal") programming language. Everyone can expect them to work no matter which compiler has been used. 
 

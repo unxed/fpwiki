@@ -1,7 +1,6 @@
 # Enum type
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 An **enumeration** is a custom [data type](<Data_type.md> "Data type") in [Pascal](<Pascal.md> "Pascal"). It is a discrete value that can be referred to by a unique [identifier](<Identifier.md> "Identifier"). 
 

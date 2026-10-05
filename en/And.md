@@ -1,7 +1,6 @@
 # And
 
-│ **[Deutsch (de)](</And/de> "And/de")** │  **English (en)** │  **[español (es)](</And/es> "And/es")** │  **[suomi (fi)](</And/fi> "And/fi")** │  **[français (fr)](</And/fr> "And/fr")** │  **[русский (ru)](<../ru/And.md> "And/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/And.md>)** │
 
 The binary operator `and` performs a logical conjunction. [FPC](<FPC.md> "FPC") also does a bitwise `and` when supplied with ordinal types. 
 

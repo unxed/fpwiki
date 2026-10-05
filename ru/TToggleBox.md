@@ -1,7 +1,6 @@
 # TToggleBox
 
-│ **[Deutsch (de)](</TToggleBox/de> "TToggleBox/de")** │  **[English (en)](<../en/TToggleBox.md> "TToggleBox")** │  **[suomi (fi)](</TToggleBox/fi> "TToggleBox/fi")** │  **[français (fr)](</TToggleBox/fr> "TToggleBox/fr")** │  **[日本語 (ja)](</TToggleBox/ja> "TToggleBox/ja")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TToggleBox.md>)** │  **русский (ru)** │
 
 **TToggleBox** [![ttogglebox.png](https://wiki.freepascal.org/images/5/5e/ttogglebox.png)](</File:ttogglebox.png>) представляет собой кнопку с надписью, имеющую 2 логических состояния - _нажата_ или _не нажата_. Перевод из одного состояния в другое осуществляется одиночным щелчком мыши. 
 

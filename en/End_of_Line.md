@@ -1,7 +1,6 @@
 # End of Line
 
-│ **English (en)** │  **[suomi (fi)](</End_of_Line/fi> "End of Line/fi")** │  **[русский (ru)](<../ru/End_of_Line.md> "End of Line/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/End_of_Line.md>)** │
 
 ` LineEnding` is end of line marker. This [constant](<Constant.md> "Constant") ([system unit](<System_unit.md> "System unit")) is used when writing end of lines to text files. In other words, it starts a new line. 
 

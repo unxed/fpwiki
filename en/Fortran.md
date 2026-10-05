@@ -1,7 +1,6 @@
 # Fortran
 
-│ **[Deutsch (de)](</Fortran/de> "Fortran/de")** │  **English (en)** │  **[français (fr)](</Fortran/fr> "Fortran/fr")** │    
-****
+│ **English (en)** │
 
 **Fortran** is a programming language originally developed in the early 1950s as an alternative to writing computer programs using [assembly language](<Assembly_language.md> "Assembly language"). It is believed to be the first high-level language developed, and was intended both to make writing of programs easier, and potentially allow [source code](<Source_code.md> "Source code") of them to be portable among different machines. 
 

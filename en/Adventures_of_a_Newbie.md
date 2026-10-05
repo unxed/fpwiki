@@ -1,7 +1,6 @@
 # Adventures of a Newbie
 
-│ **English (en)** │  **[español (es)](</Adventures_of_a_Newbie/es> "Adventures of a Newbie/es")** │  **[日本語 (ja)](</Adventures_of_a_Newbie/ja> "Adventures of a Newbie/ja")** │    
-****
+│ **English (en)** │
 
 [![Warning-icon.png](https://wiki.freepascal.org/images/b/b2/Warning-icon.png)](</File:Warning-icon.png>)
 

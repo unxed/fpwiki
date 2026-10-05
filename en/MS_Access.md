@@ -1,8 +1,7 @@
 # MS Access
 
-│ **English (en)** │  **[español (es)](</MS_Access/es> "MS Access/es")** │  **[français (fr)](</MS_Access/fr> "MS Access/fr")** │  **[日本語 (ja)](</MS_Access/ja> "MS Access/ja")** │  **[русский (ru)](<../ru/MS_Access.md> "MS Access/ru")** │    
-****  
-  
+│ **English (en)** │  **[русский (ru)](<../ru/MS_Access.md>)** │
+
 ---  
 [**Databases portal**](<Portal_Databases.md> "Portal:Databases")  
 References: 

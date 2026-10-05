@@ -1,8 +1,6 @@
 # IDE Window: Project Inspector
 
-│ **[Deutsch (de)](</IDE_Window:_Project_Inspector/de> "IDE Window: Project Inspector/de")** │  **English (en)** │  **[suomi (fi)](</IDE_Window:_Project_Inspector/fi> "IDE Window: Project Inspector/fi")** │  **[français (fr)](</IDE_Window:_Project_Inspector/fr> "IDE Window: Project Inspector/fr")** │  **[русский (ru)](<../ru/IDE_Window__Project_Inspector.md> "IDE Window: Project Inspector/ru")** │    
-****  
-****
+│ **English (en)** │  **[русский (ru)](<../ru/IDE_Window__Project_Inspector.md>)** │
 
 This is a floating window showing all files and dependencies of the project. 
 

@@ -1,7 +1,6 @@
 # Holywar
 
-│ **English (en)** │  **[русский (ru)](<../ru/Holywar.md> "Holywar/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Holywar.md>)** │
 
 The page is dedicated to list all possible pros (mostly) and cons of Pascal language (all kinds of pascal included). 
 

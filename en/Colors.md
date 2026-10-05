@@ -1,7 +1,6 @@
 # Colors
 
-│ **[Deutsch (de)](</Colors/de> "Colors/de")** │  **English (en)** │  **[español (es)](</Colors/es> "Colors/es")** │  **[suomi (fi)](</Colors/fi> "Colors/fi")** │  **[français (fr)](</Colors/fr> "Colors/fr")** │  **[日本語 (ja)](</Colors/ja> "Colors/ja")** │  **[русский (ru)](<../ru/Colors.md> "Colors/ru")** │  **[中文（中国大陆） (zh_CN)](</Colors/zh_CN> "Colors/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Colors.md>)** │
 
 ## Contents
 

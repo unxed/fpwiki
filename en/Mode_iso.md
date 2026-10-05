@@ -1,7 +1,6 @@
 # Mode iso
 
-│ **English (en)** │  **[français (fr)](</Mode_iso/fr> "Mode iso/fr")** │  **[русский (ru)](<../ru/Mode_iso.md> "Mode iso/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Mode_iso.md>)** │
 
 [FPC](<FPC.md> "FPC")’s [compatibility mode](<Compiler_Mode.md> "Compiler Mode") **`{$mode ISO}`** _intends_ to comply with the requirements of level 0 and 1 of the ISO/IEC standard 7185. It became available in [version 2.6.0](<FPC_New_Features_2.6.md> "FPC New Features 2.6.0"). The International Organization for Standardization standard 7185 is also known as [Standard “Unextended” Pascal](<Standard_Pascal.md> "Standard Pascal"). 
 

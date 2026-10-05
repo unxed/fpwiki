@@ -1,7 +1,6 @@
 # Lazarus IDE Shortcuts
 
-│ **English (en)** │  **[한국어 (ko)](</Lazarus_IDE_Shortcuts/ko> "Lazarus IDE Shortcuts/ko")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

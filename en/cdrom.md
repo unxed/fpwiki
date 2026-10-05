@@ -1,6 +1,6 @@
 # cdrom
 
-****English (en)**** | [**español (es)**](</cdrom/es> "cdrom/es")   
+│ **English (en)** │
 
 
 The cdrom package contains some routines to read the table of contents (TOC) of a CD-ROM. From this TOC a DISC ID can be computed which can be used to query a CDDB server such as the one on freecddb.org. This unit is compatible with Linux (only tested on x86) and Windows (only tested on 32-bit) 

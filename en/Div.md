@@ -1,7 +1,6 @@
 # Div
 
-│ **[Deutsch (de)](</Div/de> "Div/de")** │  **English (en)** │  **[español (es)](</Div/es> "Div/es")** │  **[suomi (fi)](</Div/fi> "Div/fi")** │  **[français (fr)](</Div/fr> "Div/fr")** │  **[русский (ru)](<../ru/Div.md> "Div/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Div.md>)** │
 
 ` div` is division in which the fractional part (remainder) is discarded. The expression `a div b` returns the integer part of the result of dividing two integers. This is in contrast to the expression `a / b` which returns a [`real`](<Real.md> "Real") result. 
 

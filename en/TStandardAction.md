@@ -1,6 +1,6 @@
 # TStandardAction
 
-│ **English (en)** │  [**русский (ru)**](<../ru/TStandardAction.md> "TStandardAction/ru") │    
+│ **English (en)** │  **[русский (ru)](<../ru/TStandardAction.md>)** │
 
 
 A **TStandardAction** is a predefined [TAction](<TAction.md> "TAction") for use in a [TActionList](<TActionList.md> "TActionList"). 

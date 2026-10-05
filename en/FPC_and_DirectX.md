@@ -1,7 +1,6 @@
 # FPC and DirectX
 
-│ **[Deutsch (de)](</FPC_and_DirectX/de> "FPC and DirectX/de")** │  **English (en)** │  **[français (fr)](</FPC_and_DirectX/fr> "FPC and DirectX/fr")** │    
-****
+│ **English (en)** │
 
 ## Introduction
 

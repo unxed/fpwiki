@@ -1,7 +1,6 @@
 # Carriage return
 
-│ **[English (en)](<../en/Carriage_return.md> "Carriage return")** │  **[suomi (fi)](</Carriage_return/fi> "Carriage return/fi")** │  **[português (pt)](</Carriage_return/pt> "Carriage return/pt")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Carriage_return.md>)** │  **русский (ru)** │
 
 **Возврат каретки** (CR) является одним из управляющих символов в кодировках [ASCII](<ASCII.md> "ASCII/ru") и Unicode. В кодировках ASCII и Unicode данный символ определен с кодом 13 в десятичной системе или 0D в [шестнадцатеричной](<Hexadecimal.md> "Hexadecimal/ru"). 
 

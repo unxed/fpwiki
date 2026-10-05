@@ -1,7 +1,6 @@
 # Free Pascal Window Manager
 
-│ **English (en)** │  **[español (es)](</Free_Pascal_Window_Manager/es> "Free Pascal Window Manager/es")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

@@ -1,8 +1,6 @@
 # Portal:New Users
 
-│ [**English (en)**](<../en/Portal_New_Users.md> "Portal:New Users") │  [**español (es)**](</Portal:New_Users/es> "Portal:New Users/es") │  [**français (fr)**](</Portal:New_Users/fr> "Portal:New Users/fr") │  [**italiano (it)**](</Portal:New_Users/it> "Portal:New Users/it") │  **русский (ru)** │  [**中文（中国大陆）‎ (zh_CN)**](</Portal:New_Users/zh_CN> "Portal:New Users/zh CN") │    
-****  
-****
+│ **[English (en)](<../en/Portal_New_Users.md>)** │  **русский (ru)** │
 
 < [Lookup](</Help:Contents> "Help:Contents") < [Portals](</Category:Portals> "Category:Portals") < **Portal:New Users/ru**
 

@@ -1,7 +1,6 @@
 # THeaderControl
 
-│ **[English (en)](<../en/THeaderControl.md> "THeaderControl")** │  **[français (fr)](</THeaderControl/fr> "THeaderControl/fr")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</THeaderControl/zh_CN> "THeaderControl/zh CN")** │    
-****
+│ **[English (en)](<../en/THeaderControl.md>)** │  **русский (ru)** │
 
 **THeaderControl** [![theadercontrol.png](https://wiki.freepascal.org/images/5/5b/theadercontrol.png)](</File:theadercontrol.png>) является компонентом, представляющим собой список заголовков со связанными текстом и изображениями. Элемент **THeaderControl** является потомком [TWinControl](</index.php?title=TWinControl/ru&action=edit&redlink=1> "TWinControl/ru \(page does not exist\)") и доступен на вкладке [Common Controls](<Common_Controls_tab.md> "Common Controls tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

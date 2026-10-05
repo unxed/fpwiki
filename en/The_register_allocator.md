@@ -1,7 +1,6 @@
 # The register allocator
 
-│ **English (en)** │  **[français (fr)](</The_register_allocator/fr> "The register allocator/fr")** │    
-****
+│ **English (en)** │
 
 back to contents [FPC internals](<FPC_internals.md> "FPC internals")
 

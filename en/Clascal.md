@@ -1,7 +1,6 @@
 # Clascal
 
-│ **English (en)** │  **[français (fr)](</Clascal/fr> "Clascal/fr")** │    
-****
+│ **English (en)** │
 
 **Clascal** was the first working prototype of [Object Pascal](<Object_Pascal.md> "Object Pascal") developed in 1983 by the Personal Office Systems (POS) division of Apple Computer (later renamed to **The Lisa Division** , still later to **The 32-Bit Systems Division**). It was the first true object-oriented version of [Pascal](<Pascal.md> "Pascal"). 
 

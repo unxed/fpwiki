@@ -1,7 +1,6 @@
 # Grids Reference Page
 
-│ **[Deutsch (de)](</Grids_Reference_Page/de> "Grids Reference Page/de")** │  **[English (en)](<../en/Grids_Reference_Page.md> "Grids Reference Page")** │  **[español (es)](</Grids_Reference_Page/es> "Grids Reference Page/es")** │  **[polski (pl)](</Grids_Reference_Page/pl> "Grids Reference Page/pl")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Grids_Reference_Page.md>)** │  **русский (ru)** │
 
   
 

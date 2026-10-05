@@ -1,7 +1,6 @@
 # SizeOf
 
-│ **[Deutsch (de)](</SizeOf/de> "SizeOf/de")** │  **English (en)** │  **[suomi (fi)](</SizeOf/fi> "SizeOf/fi")** │  **[русский (ru)](<../ru/SizeOf.md> "SizeOf/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/SizeOf.md>)** │
 
   
 The [compile-time](<Compile_time.md> "Compile time") [function](<Function.md> "Function") [`sizeOf`](<https://www.freepascal.org/docs-html/rtl/system/sizeof.html>) evaluates to the size in Bytes of a given [data type](<Data_type.md> "Data type") name or [variable](<Variable.md> "Variable") [identifier](<Identifier.md> "Identifier"). 

@@ -1,7 +1,6 @@
 # Frac
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 Function **Frac** returns the fractional part of the argument X, where X is a floating point value. 
 

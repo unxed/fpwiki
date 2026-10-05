@@ -1,7 +1,7 @@
 # ASCII
 
-│ **[Deutsch (de)](</ASCII/de> "ASCII/de")** │  **[English (en)](<../en/ASCII.md> "ASCII")** │  **[suomi (fi)](</ASCII/fi> "ASCII/fi")** │  **[français (fr)](</ASCII/fr> "ASCII/fr")** │  **[português (pt)](</ASCII/pt> "ASCII/pt")** │  **русский (ru)** │    
-****  
+│ **[English (en)](<../en/ASCII.md>)** │  **русский (ru)** │
+
 ASCII (American Standard Code for Information Interchange) - 7-битное кодирование символов. 
 
 Первые 32 символа (десятичные коды 0–31) в ASCII зарезервированы для управляющих символов; ещё 95 ASCII-символов являются печатаемыми, пронумерованные с 32 по 126. 

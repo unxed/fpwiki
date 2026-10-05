@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Chapter 4/Recursion
 
-│ **[български (bg)](</Basic_Pascal_Tutorial/Chapter_4/Recursion/bg> "Basic Pascal Tutorial/Chapter 4/Recursion/bg")** │  **English (en)** │  **[français (fr)](</Basic_Pascal_Tutorial/Chapter_4/Recursion/fr> "Basic Pascal Tutorial/Chapter 4/Recursion/fr")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Chapter_4/Recursion/ja> "Basic Pascal Tutorial/Chapter 4/Recursion/ja")** │  **[中文（中国大陆） (zh_CN)](</Basic_Pascal_Tutorial/Chapter_4/Recursion/zh_CN> "Basic Pascal Tutorial/Chapter 4/Recursion/zh CN")** │    
-****
+│ **English (en)** │
 
 [ ◄ ](<Scope.md> "Basic Pascal Tutorial/Chapter 4/Scope") | [ ▲ ](<../Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Forward_Referencing.md> "Basic Pascal Tutorial/Chapter 4/Forward Referencing")  
 ---|---|---  

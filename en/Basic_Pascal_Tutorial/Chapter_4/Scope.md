@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Chapter 4/Scope
 
-│ **[български (bg)](</Basic_Pascal_Tutorial/Chapter_4/Scope/bg> "Basic Pascal Tutorial/Chapter 4/Scope/bg")** │  **English (en)** │  **[français (fr)](</Basic_Pascal_Tutorial/Chapter_4/Scope/fr> "Basic Pascal Tutorial/Chapter 4/Scope/fr")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Chapter_4/Scope/ja> "Basic Pascal Tutorial/Chapter 4/Scope/ja")** │  **[中文（中国大陆） (zh_CN)](</Basic_Pascal_Tutorial/Chapter_4/Scope/zh_CN> "Basic Pascal Tutorial/Chapter 4/Scope/zh CN")** │    
-****
+│ **English (en)** │
 
 [ ◄ ](<Functions.md> "Basic Pascal Tutorial/Chapter 4/Functions") | [ ▲ ](<../Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Recursion.md> "Basic Pascal Tutorial/Chapter 4/Recursion")  
 ---|---|---  

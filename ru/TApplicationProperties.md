@@ -1,7 +1,6 @@
 # TApplicationProperties
 
-│ **[English (en)](<../en/TApplicationProperties.md> "TApplicationProperties")** │  **[français (fr)](</TApplicationProperties/fr> "TApplicationProperties/fr")** │  **[日本語 (ja)](</TApplicationProperties/ja> "TApplicationProperties/ja")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TApplicationProperties.md>)** │  **русский (ru)** │
 
 **TApplicationProperties** [![tapplicationproperties.png](https://wiki.freepascal.org/images/9/9b/tapplicationproperties.png)](</File:tapplicationproperties.png>) является невизуальным компонентом, предоставляющим простой доступ к группе свойств приложения. Компонент **TApplicationProperties** доступен на вкладке [Additional](<Additional_tab.md> "Additional tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

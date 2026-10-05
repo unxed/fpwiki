@@ -1,6 +1,6 @@
 # try
 
-[**Deutsch (de)**](</Try/de> "Try/de") | ****English (en)**** | [**español (es)**](</try/es> "try/es")
+│ **English (en)** │
 
 **try** is part of either a try..[finally](</index.php?title=finally&action=edit&redlink=1> "finally \(page does not exist\)") block or a try..[except](</index.php?title=except&action=edit&redlink=1> "except \(page does not exist\)") block. 
 

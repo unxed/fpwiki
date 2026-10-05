@@ -1,7 +1,6 @@
 # AVR Embedded Tutorial - ADS1115
 
-│ **[Deutsch (de)](</AVR_Embedded_Tutorial_-_ADS1115/de> "AVR Embedded Tutorial - ADS1115/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
 The control of the [ADS1115](<https://www.ti.com/product/ADS1115>) external I²C ADC with 16-bit resolution is shown here: 
 

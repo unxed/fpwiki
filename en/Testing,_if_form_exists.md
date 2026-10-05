@@ -1,7 +1,6 @@
 # Testing, if form exists
 
-│ **[Deutsch (de)](</Testing,_if_form_exists/de> "Testing, if form exists/de")** │  **English (en)** │  **[français (fr)](</Testing,_if_form_exists/fr> "Testing, if form exists/fr")** │    
-****
+│ **English (en)** │
 
 Sometimes a [form](<TForm.md> "TForm") may be launched from several places in a program. If it already exists, it only needs to be brought to the front. If not, it needs to be created. 
 

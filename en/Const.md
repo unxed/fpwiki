@@ -1,7 +1,6 @@
 # Const
 
-│ **[Deutsch (de)](</Const/de> "Const/de")** │  **English (en)** │  **[español (es)](</Const/es> "Const/es")** │  **[suomi (fi)](</Const/fi> "Const/fi")** │  **[français (fr)](</Const/fr> "Const/fr")** │  **[中文（中国大陆） (zh_CN)](</Const/zh_CN> "Const/zh CN")** │    
-****
+│ **English (en)** │
 
 The **const** [keyword](<Keyword.md> "Keyword") has three uses in a [Pascal](<Pascal.md> "Pascal") [program](<Program.md> "Program"): 
 

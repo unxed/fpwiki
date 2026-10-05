@@ -1,7 +1,6 @@
 # Variant
 
-│ **[Deutsch (de)](</Variant/de> "Variant/de")** │  **English (en)** │  **[español (es)](</Variant/es> "Variant/es")** │  **[français (fr)](</Variant/fr> "Variant/fr")** │  **[polski (pl)](</Variant/pl> "Variant/pl")** │    
-****
+│ **English (en)** │
 
   
 Back to [data types](<Data_type.md> "Data type"). 

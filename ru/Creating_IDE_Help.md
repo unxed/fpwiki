@@ -1,6 +1,6 @@
 # Creating IDE Help
 
-│ **[Deutsch (de)](</Creating_IDE_Help/de> "Creating IDE Help/de")** │  **[English (en)](<../en/Creating_IDE_Help.md> "Creating IDE Help")** │  **[日本語 (ja)](</Creating_IDE_Help/ja> "Creating IDE Help/ja")** │  **русский (ru)** │ 
+│ **[English (en)](<../en/Creating_IDE_Help.md>)** │  **русский (ru)** │
 
   
 

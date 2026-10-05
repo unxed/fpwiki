@@ -1,7 +1,6 @@
 # To
 
-│ **[Deutsch (de)](</To/de> "To/de")** │  **English (en)** │  **[français (fr)](</To/fr> "To/fr")** │  **[русский (ru)](<../ru/To.md> "To/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/To.md>)** │
 
   
 Back to [Reserved words](<Reserved_words.md> "Reserved words"). 

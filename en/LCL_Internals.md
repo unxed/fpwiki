@@ -1,7 +1,6 @@
 # LCL Internals
 
-│ **English (en)** │  **[español (es)](</LCL_Internals/es> "LCL Internals/es")** │  **[日本語 (ja)](</LCL_Internals/ja> "LCL Internals/ja")** │  **[русский (ru)](<../ru/LCL_Internals.md> "LCL Internals/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/LCL_Internals.md>)** │
 
 * * *
 

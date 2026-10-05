@@ -1,7 +1,6 @@
 # Components and Code examples
 
-│ **[Deutsch (de)](</Components_and_Code_examples/de> "Components and Code examples/de")** │  **English (en)** │  **[español (es)](</Components_and_Code_examples/es> "Components and Code examples/es")** │  **[suomi (fi)](</Components_and_Code_examples/fi> "Components and Code examples/fi")** │  **[français (fr)](</Components_and_Code_examples/fr> "Components and Code examples/fr")** │  **[magyar (hu)](</Components_and_Code_examples/hu> "Components and Code examples/hu")** │  **[Bahasa Indonesia (id)](</Components_and_Code_examples/id> "Components and Code examples/id")** │  **[italiano (it)](</Components_and_Code_examples/it> "Components and Code examples/it")** │  **[日本語 (ja)](</Components_and_Code_examples/ja> "Components and Code examples/ja")** │  **[한국어 (ko)](</Components_and_Code_examples/ko> "Components and Code examples/ko")** │  **[português (pt)](</Components_and_Code_examples/pt> "Components and Code examples/pt")** │  **[русский (ru)](<../ru/Components_and_Code_examples.md> "Components and Code examples/ru")** │  **[slovenčina (sk)](</Components_and_Code_examples/sk> "Components and Code examples/sk")** │  **[中文（中国大陆） (zh_CN)](</Components_and_Code_examples/zh_CN> "Components and Code examples/zh CN")** │  **[中文（臺灣） (zh_TW)](</Components_and_Code_examples/zh_TW> "Components and Code examples/zh TW")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Code_Examples.md>)** │
 
 [![fpc source logo.png](https://wiki.freepascal.org/images/e/e1/fpc_source_logo.png)](</File:fpc_source_logo.png>)
 

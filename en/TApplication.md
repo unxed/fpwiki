@@ -1,7 +1,6 @@
 # TApplication
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 **TApplication** (with instance Application) that is available in every Lazarus program. 
 

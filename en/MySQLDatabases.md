@@ -1,8 +1,7 @@
 # MySQLDatabases
 
-│ **[Deutsch (de)](</MySQLDatabases/de> "MySQLDatabases/de")** │  **English (en)** │  **[français (fr)](</MySQLDatabases/fr> "MySQLDatabases/fr")** │  **[日本語 (ja)](</MySQLDatabases/ja> "MySQLDatabases/ja")** │  **[polski (pl)](</MySQLDatabases/pl> "MySQLDatabases/pl")** │  **[slovenčina (sk)](</MySQLDatabases/sk> "MySQLDatabases/sk")** │    
-****  
-  
+│ **English (en)** │
+
 ---  
 [**Databases portal**](<Portal_Databases.md> "Portal:Databases")  
 References: 
@@ -127,7 +126,7 @@ A [TDBGrid](<TDBGrid.md> "TDBGrid") can be used to present the data retrieved by
 
 ### The basics
 
-We will try to make a program based on the one made [here (in Dutch)](</Lazarus_Database_Tutorial/nl#Verbinding_met_MySQL_vanuit_een_Lazarus_Programma> "Lazarus Database Tutorial/nl") which is based on the [original (in English)](<Lazarus_Database_Tutorial.md> "Lazarus Database Tutorial") by [Chris](</User:Kirkpatc> "User:Kirkpatc"). 
+We will try to make a program based on the one made here (in Dutch) which is based on the [original (in English)](<Lazarus_Database_Tutorial.md> "Lazarus Database Tutorial") by [Chris](</User:Kirkpatc> "User:Kirkpatc"). 
 
 ### The main form
 

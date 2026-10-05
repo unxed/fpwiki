@@ -1,7 +1,6 @@
 # Integer
 
-│ **[Deutsch (de)](</Integer/de> "Integer/de")** │  **English (en)** │  **[suomi (fi)](</Integer/fi> "Integer/fi")** │  **[français (fr)](</Integer/fr> "Integer/fr")** │  **[italiano (it)](</Integer/it> "Integer/it")** │  **[русский (ru)](<../ru/Integer.md> "Integer/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Int64.md>)** │
 
 The [data type](<Data_type.md> "Data type") `integer` is a [built-in](<Standard_type.md> "Standard type") data type of the programming language [Pascal](<Pascal.md> "Pascal"). It can store a subset of ℤ, the set of whole numbers. 
 

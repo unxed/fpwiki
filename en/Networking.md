@@ -1,7 +1,6 @@
 # Networking
 
-│ **[Deutsch (de)](</Networking/de> "Networking/de")** │  **English (en)** │  **[español (es)](</Networking/es> "Networking/es")** │  **[français (fr)](</Networking/fr> "Networking/fr")** │  **[日本語 (ja)](</Networking/ja> "Networking/ja")** │  **[한국어 (ko)](</Networking/ko> "Networking/ko")** │  **[polski (pl)](</Networking/pl> "Networking/pl")** │  **[português (pt)](</Networking/pt> "Networking/pt")** │  **[русский (ru)](<../ru/Networking.md> "Networking/ru")** │  **[slovenčina (sk)](</Networking/sk> "Networking/sk")** │  **[中文（中国大陆） (zh_CN)](</Networking/zh_CN> "Networking/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Networking.md>)** │
 
 This page contains both tutorials/code and information with regard to network programming with Lazarus as well as plain FPC. 
 

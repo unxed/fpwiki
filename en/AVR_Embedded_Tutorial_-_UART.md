@@ -1,6 +1,6 @@
 # AVR Embedded Tutorial - UART
 
-│ **[Deutsch (de)](</AVR_Embedded_Tutorial_-_UART/de> "AVR Embedded Tutorial - UART/de")** │  **English (en)** │ 
+│ **English (en)** │
 
 ## Contents
 

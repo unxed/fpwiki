@@ -1,7 +1,6 @@
 # TCalendarDialog
 
-│ **[English (en)](<../en/TCalendarDialog.md> "TCalendarDialog")** │  **[suomi (fi)](</TCalendarDialog/fi> "TCalendarDialog/fi")** │  **[français (fr)](</TCalendarDialog/fr> "TCalendarDialog/fr")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</TCalendarDialog/zh_CN> "TCalendarDialog/zh CN")** │    
-****
+│ **[English (en)](<../en/TCalendarDialog.md>)** │  **русский (ru)** │
 
 **TCalendarDialog** [![tcalendardialog.png](https://wiki.freepascal.org/images/8/85/tcalendardialog.png)](</File:tcalendardialog.png>) это диалоговое окно, которое позволяет выбрать дату из календаря.Оно располагается на вкладке [Dialogs](<Dialogs_tab.md> "Dialogs tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

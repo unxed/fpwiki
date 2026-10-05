@@ -1,7 +1,6 @@
 # case-sensitive
 
-│ **English (en)** │  [**suomi (fi)**](</case-sensitive/fi> "case-sensitive/fi") │    
-****
+│ **English (en)** │
 
 Case-sensitive is ability to distinguish between uppercase (capital) and lowercase (small) letters. [Pascal](<Pascal.md> "Pascal") is not case-sensitive (case-insensitive). 
 

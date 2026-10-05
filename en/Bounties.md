@@ -1,7 +1,6 @@
 # Bounties
 
-│ **English (en)** │  **[português (pt)](</Bounties/pt> "Bounties/pt")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

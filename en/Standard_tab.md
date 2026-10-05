@@ -1,7 +1,6 @@
 # Standard tab
 
-│ **English (en)** │  **[español (es)](</Standard_tab/es> "Standard tab/es")** │  **[suomi (fi)](</Standard_tab/fi> "Standard tab/fi")** │  **[français (fr)](</Standard_tab/fr> "Standard tab/fr")** │  **[日本語 (ja)](</Standard_tab/ja> "Standard tab/ja")** │  **[polski (pl)](</Standard_tab/pl> "Standard tab/pl")** │  **[русский (ru)](<../ru/Standard_tab.md> "Standard tab/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Standard_tab.md>)** │
 
 The **Standard tab** on the [Component Palette](<Component_Palette.md> "Component Palette") lists elementary components for use on a form. 
 

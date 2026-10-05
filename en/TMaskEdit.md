@@ -1,7 +1,6 @@
 # TMaskEdit
 
-│ **English (en)** │  **[français (fr)](</TMaskEdit/fr> "TMaskEdit/fr")** │  **[日本語 (ja)](</TMaskEdit/ja> "TMaskEdit/ja")** │  **[русский (ru)](<../ru/TMaskEdit.md> "TMaskEdit/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TMaskEdit.md>)** │
 
 A **TMaskEdit** [![tmaskedit.png](https://wiki.freepascal.org/images/0/06/tmaskedit.png)](</File:tmaskedit.png>) is a control with a single line of editable text that has to fit to a predefined 'EditMask'. It is available from the [Additional tab](<Additional_tab.md> "Additional tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

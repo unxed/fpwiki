@@ -1,7 +1,6 @@
 # MSEide+MSEgui
 
-│ **English (en)** │  **[español (es)](</MSEide%2BMSEgui/es> "MSEide+MSEgui/es")** │  **[français (fr)](</MSEide%2BMSEgui/fr> "MSEide+MSEgui/fr")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

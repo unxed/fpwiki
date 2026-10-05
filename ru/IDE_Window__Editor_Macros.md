@@ -1,8 +1,6 @@
 # IDE Window: Editor Macros
 
-│ **[Deutsch (de)](</IDE_Window:_Editor_Macros/de> "IDE Window: Editor Macros/de")** │  **[English (en)](<../en/IDE_Window__Editor_Macros.md> "IDE Window: Editor Macros")** │  **русский (ru)** │    
-****  
-****
+│ **[English (en)](<../en/IDE_Window__Editor_Macros.md>)** │  **русский (ru)** │
 
 ## Contents
 

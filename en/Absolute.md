@@ -1,7 +1,6 @@
 # Absolute
 
-│ **[Deutsch (de)](</Absolute/de> "Absolute/de")** │  **English (en)** │  **[español (es)](</Absolute/es> "Absolute/es")** │  **[suomi (fi)](</Absolute/fi> "Absolute/fi")** │  **[français (fr)](</Absolute/fr> "Absolute/fr")** │  **[русский (ru)](<../ru/Absolute.md> "Absolute/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Absolute.md>)** │
 
 The `absolute` [modifier](<modifier.md> "modifier") causes a [variable](<Variable.md> "Variable") to be stored at the same memory location as another variable. 
 

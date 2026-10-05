@@ -1,7 +1,6 @@
 # TDateEdit
 
-│ **English (en)** │  **[français (fr)](</TDateEdit/fr> "TDateEdit/fr")** │  **[русский (ru)](<../ru/TDateEdit.md> "TDateEdit/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TDateEdit.md>)** │
 
 The **TDateEdit** [![tdateedit.png](https://wiki.freepascal.org/images/b/be/tdateedit.png)](</File:tdateedit.png>) component is a control that assists in picking a correct date. TDateEdit is found on the the [Misc tab](<Misc_tab.md> "Misc tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

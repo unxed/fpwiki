@@ -1,8 +1,6 @@
 # IDE Window: Show Compiler Options
 
-│ **[Deutsch (de)](</IDE_Window:_Show_Compiler_Options/de> "IDE Window: Show Compiler Options/de")** │  **English (en)** │    
-****  
-****
+│ **English (en)** │
 
 This dialog is accessible via the **Show Options** button on the [Compiler Options](<IDE_Window__Project_Options.md> "IDE Window: Project Options") dialog accessible from the [Main Menu](<Main_menu.md> "Main menu") > [Project Options](<IDE_Window__Project_Options.md> "IDE Window: Project Options") dialog. 
 

@@ -1,7 +1,6 @@
 # TImageList
 
-│ [**English (en)**](<../en/TImageList.md> "TImageList") │  [**français (fr)**](</TImageList/fr> "TImageList/fr") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TImageList.md>)** │  **русский (ru)** │
 
 **TImageList** [![timagelist.png](https://wiki.freepascal.org/images/2/23/timagelist.png)](</File:timagelist.png>) является компонентом, представляющим собой список [изображений](<TImage.md> "TImage/ru"), которые могут использоваться в других компонентах, таких как [TToolBar](<TToolBar.md> "TToolBar/ru") или [TActionList](<TActionList.md> "TActionList/ru"). 
 

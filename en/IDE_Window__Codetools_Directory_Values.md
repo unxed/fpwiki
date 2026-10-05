@@ -1,8 +1,6 @@
 # IDE Window: Codetools Directory Values
 
-│ **[Deutsch (de)](</IDE_Window:_Codetools_Directory_Values/de> "IDE Window: Codetools Directory Values/de")** │  **English (en)** │  **[français (fr)](</IDE_Window:_Codetools_Directory_Values/fr> "IDE Window: Codetools Directory Values/fr")** │    
-****  
-****
+│ **English (en)** │
 
 [![CodeTools Dir values 2 0 10.jpg](https://wiki.freepascal.org/images/4/43/CodeTools_Dir_values_2_0_10.jpg)](</File:CodeTools_Dir_values_2_0_10.jpg>)
 

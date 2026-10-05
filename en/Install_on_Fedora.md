@@ -1,7 +1,6 @@
 # Install on Fedora
 
-│ **English (en)** │  **[polski (pl)](</Install_on_Fedora/pl> "Install on Fedora/pl")** │    
-****
+│ **English (en)** │
 
 **Please See[Installing Lazarus on Linux](<Installing_Lazarus_on_Linux.md> "Installing Lazarus on Linux") \- a page that covers most of what you need for most Linux Distributions.**
 

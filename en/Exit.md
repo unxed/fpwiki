@@ -1,7 +1,6 @@
 # Exit
 
-│ **[Deutsch (de)](</Exit/de> "Exit/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
 The pseudo-[`procedure`](<Procedure.md> "Procedure") **[`exit`](<https://www.freepascal.org/docs-html/rtl/system/exit.html>)** immediately leaves the surrounding [block](<Block.md> "Block"). It is similar to [C](<Pascal_for_C_users.md> "Pascal for C users")’s `return`. 
 

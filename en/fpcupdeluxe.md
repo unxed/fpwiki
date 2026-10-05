@@ -1,7 +1,6 @@
 # fpcupdeluxe
 
-│ **[Deutsch (de)](</fpcupdeluxe/de> "fpcupdeluxe/de")** │  **English (en)** │  **[español (es)](</fpcupdeluxe/es> "fpcupdeluxe/es")** │  **[русский (ru)](<../ru/fpcupdeluxe.md> "fpcupdeluxe/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/fpcupdeluxe.md>)** │
 
 ## Contents
 

@@ -1,7 +1,7 @@
 # Until
 
-│ [**Deutsch (de)**](</Until/de> "Until/de") │  **English (en)** │  [**français (fr)**](</Until/fr> "Until/fr") │    
-  
+│ **English (en)** │
+
 This [keyword](<Keyword.md> "Keyword") is used in a control construct that is similar to a [while](<While.md> "While") or [do](<Do.md> "Do") loop. 
 
 Syntax: 

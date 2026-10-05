@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Chapter 1/Assignment and Operations
 
-│ **[български (bg)](</Basic_Pascal_Tutorial/Chapter_1/Assignment_and_Operations/bg> "Basic Pascal Tutorial/Chapter 1/Assignment and Operations/bg")** │  **[Deutsch (de)](</Basic_Pascal_Tutorial/Chapter_1/Assignment_and_Operations/de> "Basic Pascal Tutorial/Chapter 1/Assignment and Operations/de")** │  **[English (en)](<../../../en/Basic_Pascal_Tutorial/Chapter_1/Assignment_and_Operations.md> "Basic Pascal Tutorial/Chapter 1/Assignment and Operations")** │  **[español (es)](</Basic_Pascal_Tutorial/Chapter_1/Assignment_and_Operations/es> "Basic Pascal Tutorial/Chapter 1/Assignment and Operations/es")** │  **[français (fr)](</Basic_Pascal_Tutorial/Chapter_1/Assignment_and_Operations/fr> "Basic Pascal Tutorial/Chapter 1/Assignment and Operations/fr")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Chapter_1/Assignment_and_Operations/ja> "Basic Pascal Tutorial/Chapter 1/Assignment and Operations/ja")** │  **[한국어 (ko)](</Basic_Pascal_Tutorial/Chapter_1/Assignment_and_Operations/ko> "Basic Pascal Tutorial/Chapter 1/Assignment and Operations/ko")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</Basic_Pascal_Tutorial/Chapter_1/Assignment_and_Operations/zh_CN> "Basic Pascal Tutorial/Chapter 1/Assignment and Operations/zh CN")** │    
-****
+│ **[English (en)](<../../../en/Basic_Pascal_Tutorial/Chapter_1/Assignment_and_Operations.md>)** │  **русский (ru)** │
 
 [ ◄ ](<Variables_and_Data_Types.md> "Basic Pascal Tutorial/Chapter 1/Variables and Data Types/ru") | [ ▲ ](<../Contents.md> "Basic Pascal Tutorial/Contents/ru") | [ ► ](<Standard_Functions.md> "Basic Pascal Tutorial/Chapter 1/Standard Functions/ru")  
 ---|---|---  

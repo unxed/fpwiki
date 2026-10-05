@@ -1,7 +1,6 @@
 # Inherited
 
-│ **[Deutsch (de)](</Inherited/de> "Inherited/de")** │  **English (en)** │  **[suomi (fi)](</Inherited/fi> "Inherited/fi")** │  **[français (fr)](</Inherited/fr> "Inherited/fr")** │  **[русский (ru)](<../ru/Inherited.md> "Inherited/ru")** │    
-****
+│ **English (en)** │
 
   
 Back to [Reserved words](<Reserved_words.md> "Reserved words"). 

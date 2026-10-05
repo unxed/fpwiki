@@ -1,7 +1,6 @@
 # String
 
-│ **[Deutsch (de)](</String/de> "String/de")** │  **[English (en)](<../en/String.md> "String")** │  **[español (es)](</String/es> "String/es")** │  **[français (fr)](</String/fr> "String/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/String.md>)** │  **русский (ru)** │
 
 **String** является [типом данных](<Type.md> "Type/ru"), который может содержать [символы](<Character_and_string_types.md> "Character and string types/ru"). 
 

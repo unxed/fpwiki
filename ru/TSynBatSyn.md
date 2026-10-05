@@ -1,7 +1,6 @@
 # TSynBatSyn
 
-│ [**English (en)**](<../en/TSynBatSyn.md> "TSynBatSyn") │  [**français (fr)**](</TSynBatSyn/fr> "TSynBatSyn/fr") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TSynBatSyn.md>)** │  **русский (ru)** │
 
 **TSynBatSyn** [![tsynbatsyn.png](https://wiki.freepascal.org/images/3/3e/tsynbatsyn.png)](</File:tsynbatsyn.png>) \- компонент, представляющий подсветку корректного синтаксиса batch-файлов при их редактировании. Данный компонент является частью пакета [SynEdit](<SynEdit.md> "SynEdit/ru") и доступен на вкладке [SynEdit](<SynEdit_tab.md> "SynEdit tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

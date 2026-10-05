@@ -1,7 +1,6 @@
 # Currency
 
-│ **[Deutsch (de)](</Currency/de> "Currency/de")** │  **English (en)** │  **[suomi (fi)](</Currency/fi> "Currency/fi")** │  **[français (fr)](</Currency/fr> "Currency/fr")** │  **[русский (ru)](<../ru/Currency.md> "Currency/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Currency.md>)** │
 
 The `Currency` type is a real [data type](<Data_type.md> "Data type") with 4 digits to the right of the decimal point and a range of -922337203685477.5808 to 922337203685477.5807 . The purpose of the `Currency` data type is to give arithmetic results that exactly correspond to decimal calculations on the input values. 
 

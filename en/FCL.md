@@ -1,7 +1,6 @@
 # FCL
 
-│ **[Deutsch (de)](</FCL/de> "FCL/de")** │  **English (en)** │  **[español (es)](</FCL/es> "FCL/es")** │  **[suomi (fi)](</FCL/fi> "FCL/fi")** │  **[français (fr)](</FCL/fr> "FCL/fr")** │  **[Bahasa Indonesia (id)](</FCL/id> "FCL/id")** │  **[日本語 (ja)](</FCL/ja> "FCL/ja")** │  **[русский (ru)](<../ru/FCL.md> "FCL/ru")** │  **[中文（中国大陆） (zh_CN)](</FCL/zh_CN> "FCL/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/FCL.md>)** │
 
 The _Free Component Library_ (**FCL**) consists of a collection of units, providing components (mostly classes) for common tasks. You can also see the [LCL Components](<LCL_Components.md> "LCL Components") available directly within Lazarus. The FCL intends to be compatible with Delphi's _Visual Component Library_ (VCL), but the FCL is restricted to non-visual components. On the other hand, the FCL also goes beyond the VCL. 
 

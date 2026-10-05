@@ -1,7 +1,6 @@
 # Packages Extra
 
-│ **[Deutsch (de)](</Packages_Extra/de> "Packages Extra/de")** │  **[English (en)](<../en/Packages_Extra.md> "Packages Extra")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Packages_Extra.md>)** │  **русский (ru)** │
 
 Обратите внимание, что начиная с версии 2.2.2, больше не будут доступны основные и дополнительные пакеты, потому что все они были объединены в packages/subdir. 
 

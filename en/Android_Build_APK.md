@@ -1,6 +1,6 @@
 # Android Build APK
 
-│ **English (en)** │  **[русский (ru)](<../ru/Android_Build_APK.md> "Android Build APK/ru")** │  **[中文（中国大陆）‎ (zh_CN)](</Android_Build_APK/zh_CN> "Android Build APK/zh CN")** │ 
+│ **English (en)** │  **[русский (ru)](<../ru/Android_Build_APK.md>)** │
 
 This article covers a way to compile a project in FPC and download it to an Android device. It is assumed that the project is an NDK library that is loaded in Java code. Also, this method is not tied to any IDE extension (for example Android4Laz) and can be used separately for arbitrary projects. 
 

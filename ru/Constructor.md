@@ -1,7 +1,6 @@
 # Constructor
 
-│ **[Deutsch (de)](</Constructor/de> "Constructor/de")** │  **[English (en)](<../en/Constructor.md> "Constructor")** │  **[español (es)](</Constructor/es> "Constructor/es")** │  **[suomi (fi)](</Constructor/fi> "Constructor/fi")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Constructor.md>)** │  **русский (ru)** │
 
 [Зарезервированное слово](<Reserved_word.md> "Reserved word/ru") **constructor** относится к [объектно-ориентированному программированию](</index.php?title=object-oriented_programming/ru&action=edit&redlink=1> "object-oriented programming/ru \(page does not exist\)"). Оно является [методом](<Method.md> "Method/ru") для создания [класса](<Class.md> "Class/ru"), который создает объект класса. 
 

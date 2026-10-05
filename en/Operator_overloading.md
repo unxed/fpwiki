@@ -1,6 +1,6 @@
 # Operator overloading
 
-│ **English (en)** │ 
+│ **English (en)** │
 
 [Operator](<Operator.md> "Operator") overloading refers to re-defining already defined [operators](<Operators.md> "Operators") with new definitions. The term is – although imprecisely – used for operator definitions, that have not yet been defined, too. 
 

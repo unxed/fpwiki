@@ -1,8 +1,6 @@
 # IDE Window: Divider Drawing
 
-│ **English (en)** │    
-****  
-****
+│ **English (en)** │
 
 ## Navigation
 

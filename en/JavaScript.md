@@ -1,7 +1,6 @@
 # JavaScript
 
-│ **English (en)** │  **[suomi (fi)](</JavaScript/fi> "JavaScript/fi")** │  **[русский (ru)](<../ru/JavaScript.md> "JavaScript/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/JavaScript.md>)** │
 
 JavaScript is an object-based scripting language. JavaScript is used to create interactive websites. 
 

@@ -1,8 +1,7 @@
 # Databases
 
-│ **[Deutsch (de)](</Databases/de> "Databases/de")** │  **[English (en)](<../en/Databases.md> "Databases")** │  **[español (es)](</Databases/es> "Databases/es")** │  **[français (fr)](</Databases/fr> "Databases/fr")** │  **[italiano (it)](</Databases/it> "Databases/it")** │  **[日本語 (ja)](</Databases/ja> "Databases/ja")** │  **[português (pt)](</Databases/pt> "Databases/pt")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</Databases/zh_CN> "Databases/zh CN")** │    
-****  
-  
+│ **[English (en)](<../en/Databases.md>)** │  **русский (ru)** │
+
 ---  
 [**Databases portal**](<../en/Portal_Databases.md> "Portal:Databases")  
 References: 

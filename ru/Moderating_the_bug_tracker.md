@@ -1,7 +1,6 @@
 # Moderating the bug tracker
 
-│ **[Deutsch (de)](</Moderating_the_bug_tracker/de> "Moderating the bug tracker/de")** │  **[English (en)](<../en/Moderating_the_bug_tracker.md> "Moderating the bug tracker")** │  **[français (fr)](</Moderating_the_bug_tracker/fr> "Moderating the bug tracker/fr")** │  **[português (pt)](</Moderating_the_bug_tracker/pt> "Moderating the bug tracker/pt")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Moderating_the_bug_tracker.md>)** │  **русский (ru)** │
 
 Этот документ содержит некоторые рекомендации по использованию [багтрекера](<http://bugs.freepascal.org/view_all_bug_page.php?project_id=1>) Lazarus'а. Этот документ написан для двух групп: 
 

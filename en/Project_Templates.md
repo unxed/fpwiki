@@ -1,7 +1,6 @@
 # Project Templates
 
-│ **[Deutsch (de)](</Project_Templates/de> "Project Templates/de")** │  **English (en)** │  **[русский (ru)](<../ru/Project_Templates.md> "Project Templates/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Project_Templates.md>)** │
 
   
 

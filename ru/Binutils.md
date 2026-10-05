@@ -1,7 +1,6 @@
 # Binutils
 
-│ [**English (en)**](<../en/Binutils.md> "Binutils") │  [**magyar (hu)**](</Binutils/hu> "Binutils/hu") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Binutils.md>)** │  **русский (ru)** │
 
 В большинстве случаев для кросс-компиляции с одной платформы на другую кросс-утилиты (Binutils), то есть ассемблер, компоновщик и т.д. 
 

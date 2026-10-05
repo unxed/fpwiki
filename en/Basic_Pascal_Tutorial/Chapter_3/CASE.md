@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Chapter 3/CASE
 
-│ **[български (bg)](</Basic_Pascal_Tutorial/Chapter_3/CASE/bg> "Basic Pascal Tutorial/Chapter 3/CASE/bg")** │  **English (en)** │  **[español (es)](</Basic_Pascal_Tutorial/Chapter_3/CASE/es> "Basic Pascal Tutorial/Chapter 3/CASE/es")** │  **[français (fr)](</Basic_Pascal_Tutorial/Chapter_3/CASE/fr> "Basic Pascal Tutorial/Chapter 3/CASE/fr")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Chapter_3/CASE/ja> "Basic Pascal Tutorial/Chapter 3/CASE/ja")** │  **[中文（中国大陆） (zh_CN)](</Basic_Pascal_Tutorial/Chapter_3/CASE/zh_CN> "Basic Pascal Tutorial/Chapter 3/CASE/zh CN")** │    
-****
+│ **English (en)** │
 
 [ ◄ ](<IF.md> "Basic Pascal Tutorial/Chapter 3/IF") | [ ▲ ](<../Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<FOR..md> "Basic Pascal Tutorial/Chapter 3/FOR..DO")  
 ---|---|---  

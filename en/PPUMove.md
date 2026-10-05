@@ -1,7 +1,6 @@
 # PPUMove
 
-│ **English (en)** │  **[français (fr)](</PPUMove/fr> "PPUMove/fr")** │    
-****
+│ **English (en)** │
 
 From [FreePascal User's Manual](<ftp://ftp.freepascal.org/pub/fpc/docs-pdf/user.pdf>): 
 

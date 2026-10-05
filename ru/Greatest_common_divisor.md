@@ -1,7 +1,6 @@
 # Greatest common divisor
 
-│ **[English (en)](<../en/Greatest_common_divisor.md> "Greatest common divisor")** │  **[suomi (fi)](</Greatest_common_divisor/fi> "Greatest common divisor/fi")** │  **[français (fr)](</Greatest_common_divisor/fr> "Greatest common divisor/fr")** │  **[polski (pl)](</Greatest_common_divisor/pl> "Greatest common divisor/pl")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Greatest_common_divisor.md>)** │  **русский (ru)** │
 
 Наибольшим общим делителем (**НОД**) двух целых чисел является наибольшее целое число, на которое делятся оба данных числа. Для чисел 121 и 143 наибольшим общим делителем является число 11. 
 

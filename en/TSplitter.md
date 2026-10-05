@@ -1,7 +1,6 @@
 # TSplitter
 
-│ **[Deutsch (de)](</TSplitter/de> "TSplitter/de")** │  **English (en)** │  **[suomi (fi)](</TSplitter/fi> "TSplitter/fi")** │  **[français (fr)](</TSplitter/fr> "TSplitter/fr")** │  **[русский (ru)](<../ru/TSplitter.md> "TSplitter/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TSplitter.md>)** │
 
 A TSplitter [![tsplitter.png](https://wiki.freepascal.org/images/e/e6/tsplitter.png)](</File:tsplitter.png>) is a component that can be placed on a panel or form as vertical or horizontal bar to separate sub-panels functionally. 
 

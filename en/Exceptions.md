@@ -1,7 +1,6 @@
 # Exceptions
 
-│ **English (en)** │  **[suomi (fi)](</Exceptions/fi> "Exceptions/fi")** │    
-****
+│ **English (en)** │
 
 [Free Pascal](<FPC.md> "FPC") supports exceptions. Exceptions are useful for error handling and avoiding resource leaks. However, bear in mind that exceptions have a performance impact, i.e. exceptions are expensive (in processor time). 
 

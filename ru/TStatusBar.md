@@ -1,7 +1,6 @@
 # TStatusBar
 
-│ **[English (en)](<../en/TStatusBar.md> "TStatusBar")** │  **[français (fr)](</TStatusBar/fr> "TStatusBar/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TStatusBar.md>)** │  **русский (ru)** │
 
 **TStatusBar** [![tstatusbar.png](https://wiki.freepascal.org/images/4/42/tstatusbar.png)](</File:tstatusbar.png>) является визуальным компонентом, расположенным на вкладке [Common Controls](<Common_Controls_tab.md> "Common Controls tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"), и представляет собой строку состояния с одиночной областью (свойство `SimpleText`) или списком текстовых строк, добавляемых через свойство `Panels`, которые разделят сроку состояния на две или более частей с собственным содержимым. Ширина каждой отдельной панели задается свойством _Width_. 
 

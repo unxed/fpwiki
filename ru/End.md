@@ -1,7 +1,7 @@
 # End
 
-│ [**Deutsch (de)**](</End/de> "End/de") │  [**English (en)**](<../en/End.md> "End") │  [**suomi (fi)**](</End/fi> "End/fi") │  [**français (fr)**](</End/fr> "End/fr") │  **русский (ru)** │    
-****  
+│ **[English (en)](<../en/End.md>)** │  **русский (ru)** │
+
 **End** является [ключевым словом](<Keyword.md> "Keyword/ru"), предназначенным для: 
 
   * завершения [блока](</index.php?title=Block/ru&action=edit&redlink=1> "Block/ru \(page does not exist\)") инструкций, начинающихся зарезервированными словами [Begin](<Begin.md> "Begin/ru") или [Case](<Case.md> "Case/ru");

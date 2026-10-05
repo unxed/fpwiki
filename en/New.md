@@ -1,7 +1,6 @@
 # New
 
-│ **[Deutsch (de)](</New/de> "New/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
   
 Back to [Reserved words](<Reserved_words.md> "Reserved words"). 

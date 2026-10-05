@@ -6,8 +6,7 @@ This article applies to [macOS](</Category:macOS> "Category:macOS") only.
 
 See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **English (en)** │  **[русский (ru)](<../ru/Mac_Buttons.md> "Mac Buttons/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Mac_Buttons.md>)** │
 
 By default, the button placed onto a form by Lazarus is 75 width by 25 height, which is not the standard for Mac Applications. 
 

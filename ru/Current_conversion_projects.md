@@ -1,7 +1,6 @@
 # Current conversion projects
 
-│ **[Deutsch (de)](</Current_conversion_projects/de> "Current conversion projects/de")** │  **[English (en)](<../en/Current_conversion_projects.md> "Current conversion projects")** │  **[français (fr)](</Current_conversion_projects/fr> "Current conversion projects/fr")** │  **[Bahasa Indonesia (id)](</Current_conversion_projects/id> "Current conversion projects/id")** │  **[한국어 (ko)](</Current_conversion_projects/ko> "Current conversion projects/ko")** │  **русский (ru)** │  **[中文（中国大陆）‎ (zh_CN)](</Current_conversion_projects/zh_CN> "Current conversion projects/zh CN")** │  **[中文（台灣）‎ (zh_TW)](</Current_conversion_projects/zh_TW> "Current conversion projects/zh TW")** │    
-****
+│ **[English (en)](<../en/Current_conversion_projects.md>)** │  **русский (ru)** │
 
   
 Эта страница содержит список приложений и компонентов, которые сейчас находятся в стадии переноса. Если перенос завершён (или сначала вы хотите получить сведения от пользователей), компоненты могут быть перемещены в [Components and Code examples](<../en/Components_and_Code_examples.md> "Components and Code examples") и приложения в [Projects using Lazarus](<../en/Projects_using_Lazarus.md> "Projects using Lazarus"). Если создать описание страницы, для приложения или компонента можно создать ссылку для скачивания [sourceforge files area](<http://sourceforge.net/project/showfiles.php?group_id=92177>). 

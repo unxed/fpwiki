@@ -1,8 +1,6 @@
 # IDE Window: Breakpoints
 
-│ **[Deutsch (de)](</IDE_Window:_Breakpoints/de> "IDE Window: Breakpoints/de")** │  **English (en)** │  **[français (fr)](</IDE_Window:_Breakpoints/fr> "IDE Window: Breakpoints/fr")** │  **[русский (ru)](<../ru/IDE_Window__Breakpoints.md> "IDE Window: Breakpoints/ru")** │    
-****  
-****
+│ **English (en)** │
 
 ## Contents
 

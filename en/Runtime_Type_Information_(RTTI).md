@@ -1,7 +1,6 @@
 # Runtime Type Information (RTTI)
 
-│ **English (en)** │  **[français (fr)](</Runtime_Type_Information_\(RTTI\)/fr> "Runtime Type Information \(RTTI\)/fr")** │  **[русский (ru)](<../ru/Runtime_Type_Information_\(RTTI\).md> "Runtime Type Information \(RTTI\)/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Runtime_Type_Information_(RTTI).md>)** │
 
 **Runtime Type Information RTTI** can be utilized to obtain meta information in a Pascal application. 
 

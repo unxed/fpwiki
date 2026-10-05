@@ -1,7 +1,6 @@
 # TSynCssSyn
 
-│ **English (en)** │  **[français (fr)](</TSynCssSyn/fr> "TSynCssSyn/fr")** │  **[русский (ru)](<../ru/TSynCssSyn.md> "TSynCssSyn/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TSynCssSyn.md>)** │
 
 **TSynCssSyn** [![tsyncsssyn.png](https://wiki.freepascal.org/images/b/ba/tsyncsssyn.png)](</File:tsyncsssyn.png>) is a component that provides the CSS-language syntaxchecking-part of syntax-highlighting editing. It is part of the [SynEdit](<SynEdit.md> "SynEdit") package and is available under the [SynEdit tab](<SynEdit_tab.md> "SynEdit tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

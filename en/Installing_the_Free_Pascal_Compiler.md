@@ -1,6 +1,6 @@
 # Installing the Free Pascal Compiler
 
-│ **English (en)** │  **[中文（中国大陆） (zh_CN)](</Installing_the_Free_Pascal_Compiler/zh_CN> "Installing the Free Pascal Compiler/zh CN")** │ 
+│ **English (en)** │
 
 While the Free Pascal Compiler comes pre-built for several processor architectures and operating systems, there may be occasions where a pre-built compiler won't do, and you need to build it yourself. There are a number of reasons for doing this, including: 
 

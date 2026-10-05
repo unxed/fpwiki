@@ -1,7 +1,6 @@
 # TAsyncProcess
 
-│ **[English (en)](<../en/TAsyncProcess.md> "TAsyncProcess")** │  **[français (fr)](</TAsyncProcess/fr> "TAsyncProcess/fr")** │  **[polski (pl)](</TAsyncProcess/pl> "TAsyncProcess/pl")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TAsyncProcess.md>)** │  **русский (ru)** │
 
 **TAsyncProcess** [![tasyncprocess.png](https://wiki.freepascal.org/images/1/14/tasyncprocess.png)](</File:tasyncprocess.png>) представляет собой невизуальный компонент, который расположен на вкладке [System](<System_tab.md> "System tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru") и является версией компонента [TProcessUTF8](<TProcessUTF8.md> "TProcessUTF8/ru"), который может обрабатывать асинхронное выполнение. 
 

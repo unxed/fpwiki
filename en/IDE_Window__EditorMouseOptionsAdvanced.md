@@ -1,7 +1,6 @@
 # IDE Window: EditorMouseOptionsAdvanced
 
-│ **[Deutsch (de)](</IDE_Window:_EditorMouseOptionsAdvanced/de> "IDE Window: EditorMouseOptionsAdvanced/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
   * This page is part of [IDE_Window:_Editor_Options](<IDE_Window__Editor_Options.md> "IDE Window: Editor Options")
 

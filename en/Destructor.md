@@ -1,7 +1,6 @@
 # Destructor
 
-│ **[Deutsch (de)](</Destructor/de> "Destructor/de")** │  **English (en)** │  **[suomi (fi)](</Destructor/fi> "Destructor/fi")** │    
-****
+│ **English (en)** │
 
 The [reserved word](<Reserved_word.md> "Reserved word") `destructor` belongs to [object-oriented programming](<object-oriented_programming.md> "object-oriented programming"). The destroyer is used to release resources like memory. The destroyer must always be made so that when the memory is released, the memory used by the entire [class](<Class.md> "Class") (object) is released and therefore no memory leak occurs. 
 

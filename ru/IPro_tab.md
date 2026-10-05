@@ -1,7 +1,6 @@
 # IPro tab
 
-│ **[English (en)](<../en/IPro_tab.md> "IPro tab")** │  **[français (fr)](</IPro_tab/fr> "IPro tab/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/IPro_tab.md>)** │  **русский (ru)** │
 
 Вкладка **IPro** [палитры компонентов](<Component_Palette.md> "Component Palette/ru") содержит список компонентов [Lazarus Component Library](<LCL.md> "LCL/ru"), связанных с доступом в Интернет 
 

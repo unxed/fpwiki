@@ -1,7 +1,6 @@
 # Android tutorial
 
-│ **English (en)** │  **[español (es)](</Android_tutorial/es> "Android tutorial/es")** │  **[русский (ru)](<../ru/Android_tutorial.md> "Android tutorial/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Android_tutorial.md>)** │
 
 [![Android robot.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/50px-Android_robot.svg.png)](</File:Android_robot.svg>)
 

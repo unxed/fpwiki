@@ -1,7 +1,6 @@
 # GNU Pascal
 
-│ **English (en)** │  **[français (fr)](</GNU_Pascal/fr> "GNU Pascal/fr")** │    
-****
+│ **English (en)** │
 
 GNU Pascal (GPC) is the official [Pascal](<Pascal.md> "Pascal") compiler of the [GNU](<GNU.md> "GNU") project. It is compatible to [Standard Pascal](<Standard_Pascal.md> "Standard Pascal") as defined in ISO 7185, and it implements "most" of the ISO 10206 [Extended Pascal](<Extended_Pascal.md> "Extended Pascal") standard. 
 

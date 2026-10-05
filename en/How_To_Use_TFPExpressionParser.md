@@ -1,7 +1,6 @@
 # How To Use TFPExpressionParser
 
-│ **English (en)** │  **[suomi (fi)](</How_To_Use_TFPExpressionParser/fi> "How To Use TFPExpressionParser/fi")** │    
-****
+│ **English (en)** │
 
 ` TFPExpressionParser` allows to analyze and calculate [expressions](<expression.md> "expression") such as `sin(x)*cos(2*x)` for any value of the [variable](<Variable.md> "Variable") `x`. Besides mathematical expressions it can also handle [boolean](<Boolean.md> "Boolean") values, string formulas, [date/time](<TDateTime.md> "TDateTime") values etc. Even user-provided functions can be linked in. 
 

@@ -1,7 +1,6 @@
 # Message files
 
-│ **English (en)** │  [**русский (ru)**](<../ru/Message_files.md> "Message files/ru") │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Message_files.md>)** │
 
 back to contents [FPC internals](<FPC_internals.md> "FPC internals")
 

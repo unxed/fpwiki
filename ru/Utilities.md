@@ -1,6 +1,6 @@
 # Utilities
 
-│ [**Deutsch (de)**](</Utilities/de> "Utilities/de") │  [**English (en)**](<../en/Utilities.md> "Utilities") │  [**français (fr)**](</Utilities/fr> "Utilities/fr") │  [**magyar (hu)**](</Utilities/hu> "Utilities/hu") │  [**Bahasa Indonesia (id)**](</Utilities/id> "Utilities/id") │  **русский (ru)** │    
+│ **[English (en)](<../en/Utilities.md>)** │  **русский (ru)** │
 
 
 ## Contents

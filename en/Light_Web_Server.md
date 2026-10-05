@@ -1,7 +1,6 @@
 # Light Web Server
 
-│ **English (en)** │  **[español (es)](</Light_Web_Server/es> "Light Web Server/es")** │  **[français (fr)](</Light_Web_Server/fr> "Light Web Server/fr")** │    
-****
+│ **English (en)** │
 
 A light web server that supports HTTPS currently written with [Synapse](<Synapse.md> "Synapse") and Free Pascal: 
     

@@ -1,8 +1,6 @@
 # IDE Window: Registers
 
-│ **English (en)** │    
-****  
-****
+│ **English (en)** │
 
 ## Contents
 

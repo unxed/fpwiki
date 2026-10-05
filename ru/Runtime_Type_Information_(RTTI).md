@@ -1,6 +1,6 @@
 # Runtime Type Information (RTTI)
 
-│ **[English (en)](<../en/Runtime_Type_Information_\(RTTI\).md> "Runtime Type Information \(RTTI\)")** │  **[français (fr)](</Runtime_Type_Information_\(RTTI\)/fr> "Runtime Type Information \(RTTI\)/fr")** │  **русский (ru)** │ 
+│ **[English (en)](<../en/Runtime_Type_Information_(RTTI).md>)** │  **русский (ru)** │
 
   
 ****

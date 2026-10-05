@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Chapter 4/Parameters
 
-│ **[български (bg)](</Basic_Pascal_Tutorial/Chapter_4/Parameters/bg> "Basic Pascal Tutorial/Chapter 4/Parameters/bg")** │  **English (en)** │  **[español (es)](</Basic_Pascal_Tutorial/Chapter_4/Parameters/es> "Basic Pascal Tutorial/Chapter 4/Parameters/es")** │  **[français (fr)](</Basic_Pascal_Tutorial/Chapter_4/Parameters/fr> "Basic Pascal Tutorial/Chapter 4/Parameters/fr")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Chapter_4/Parameters/ja> "Basic Pascal Tutorial/Chapter 4/Parameters/ja")** │  **[中文（中国大陆）‎ (zh_CN)](</Basic_Pascal_Tutorial/Chapter_4/Parameters/zh_CN> "Basic Pascal Tutorial/Chapter 4/Parameters/zh CN")** │    
-****
+│ **English (en)** │
 
 [ ◄ ](<Basic_Pascal_Tutorial/Chapter_4/Procedures.md> "Basic Pascal Tutorial/Chapter 4/Procedures") | [ ▲ ](<Basic_Pascal_Tutorial/Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Basic_Pascal_Tutorial/Chapter_4/Functions.md> "Basic Pascal Tutorial/Chapter 4/Functions")  
 ---|---|---  

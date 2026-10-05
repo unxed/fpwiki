@@ -1,7 +1,6 @@
 # Case Studies
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 The following **case studies** provide the reader with examples, where Lazarus and Free Pascal have been used for successful development of professional applications for business, game development, science, health-care and other fields. 
 

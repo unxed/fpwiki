@@ -1,7 +1,6 @@
 # TShape
 
-│ **[English (en)](<../en/TShape.md> "TShape")** │  **[français (fr)](</TShape/fr> "TShape/fr")** │  **[日本語 (ja)](</TShape/ja> "TShape/ja")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TShape.md>)** │  **русский (ru)** │
 
 **TShape** [![tshape.png](https://wiki.freepascal.org/images/0/0e/tshape.png)](</File:tshape.png>) \- это компонент для создания фигур (треугольников, кругов или квадратов) на поверхности родительского компонента (например на [форме](<TForm.md> "TForm/ru")). Данный компонент является потомком [TGraphicControl](<TGraphicControl.md> "TGraphicControl/ru") и доступен на вкладке [Additional](<Additional_tab.md> "Additional tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

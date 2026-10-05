@@ -1,7 +1,6 @@
 # Profiling
 
-│ **English (en)** │  **[français (fr)](</Profiling/fr> "Profiling/fr")** │  **[русский (ru)](<../ru/Profiling.md> "Profiling/ru")** │    
-****
+│ **English (en)** │
 
 **Profiling** is a performance analysis technique that can be used to find bottlenecks in your application. In particular it encompasses measuring the frequency and duration of function calls. 
 

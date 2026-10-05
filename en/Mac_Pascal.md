@@ -6,8 +6,7 @@ This article applies to [Mac OS Classic](</Category:Mac_OS_Classic> "Category:Ma
 
 See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **English (en)** │  **[français (fr)](</Mac_Pascal/fr> "Mac Pascal/fr")** │    
-****
+│ **English (en)** │
 
 **Mac Pascal** is a designation that was retrospectively assigned to Apple's [Object Pascal](<Object_Pascal.md> "Object Pascal"). 
 

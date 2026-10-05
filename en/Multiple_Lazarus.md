@@ -1,7 +1,6 @@
 # Multiple Lazarus
 
-│ **[Deutsch (de)](</Multiple_Lazarus/de> "Multiple Lazarus/de")** │  **English (en)** │  **[español (es)](</Multiple_Lazarus/es> "Multiple Lazarus/es")** │  **[français (fr)](</Multiple_Lazarus/fr> "Multiple Lazarus/fr")** │  **[polski (pl)](</Multiple_Lazarus/pl> "Multiple Lazarus/pl")** │  **[português (pt)](</Multiple_Lazarus/pt> "Multiple Lazarus/pt")** │  **[русский (ru)](<../ru/Multiple_Lazarus.md> "Multiple Lazarus/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Multiple_Lazarus.md>)** │
 
 ## Contents
 

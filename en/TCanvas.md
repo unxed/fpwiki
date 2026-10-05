@@ -1,7 +1,6 @@
 # TCanvas
 
-│ **English (en)** │  **[русский (ru)](<../ru/TCanvas.md> "TCanvas/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TCanvas.md>)** │
 
 A **TCanvas** is the primary tool to draw graphics. 
 

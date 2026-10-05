@@ -1,7 +1,6 @@
 # End of Line
 
-│ **[English (en)](<../en/End_of_Line.md> "End of Line")** │  **[suomi (fi)](</End_of_Line/fi> "End of Line/fi")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/End_of_Line.md>)** │  **русский (ru)** │
 
 ` LineEnding` представляет собой маркер окончания строки. Он используется для обозначения окончания строк в текстовых файлах. 
 

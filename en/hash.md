@@ -1,7 +1,6 @@
 # hash
 
-│ **English (en)** │  **[français (fr)](</hash/fr> "hash/fr")** │  **[русский (ru)](<../ru/hash.md> "hash/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/hash.md>)** │
 
 The package **hash** contains implementations for CRC, MD5, NTLM (1?) and, under Linux, crypt. Crypt might be better used from pkg "user". 
 

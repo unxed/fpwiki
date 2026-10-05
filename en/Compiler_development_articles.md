@@ -1,7 +1,6 @@
 # Compiler development articles
 
-│ **English (en)** │  **[Bahasa Indonesia (id)](</Compiler_development_articles/id> "Compiler development articles/id")** │    
-****
+│ **English (en)** │
 
 [![Warning-icon.png](https://wiki.freepascal.org/images/b/b2/Warning-icon.png)](</File:Warning-icon.png>)
 

@@ -1,7 +1,6 @@
 # GUI design
 
-│ **[Deutsch (de)](</GUI_design/de> "GUI design/de")** │  **English (en)** │  **[français (fr)](</GUI_design/fr> "GUI design/fr")** │  **[日本語 (ja)](</GUI_design/ja> "GUI design/ja")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

@@ -1,7 +1,6 @@
 # expression
 
-│ **English (en)** │  **[suomi (fi)](</expression/fi> "expression/fi")** │    
-****
+│ **English (en)** │
 
 An **expression** is a non-productive rule that resolves by calculation into a value. They consist of at least one operand, and additional operands may be linked via non-unary [operators](<Operator.md> "Operator"). An operand may be 
 

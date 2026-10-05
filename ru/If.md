@@ -1,7 +1,6 @@
 # If
 
-│ **[Deutsch (de)](</If/de> "If/de")** │  **[English (en)](<../en/If.md> "If")** │  **[suomi (fi)](</If/fi> "If/fi")** │  **[français (fr)](</If/fr> "If/fr")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</If/zh_CN> "If/zh CN")** │    
-****
+│ **[English (en)](<../en/If.md>)** │  **русский (ru)** │
 
 [Ключевое слово](<Keyword.md> "Keyword/ru") **If** предшествует условию, за которым должно следовать слово [Then](<Then.md> "Then/ru") и необходимый оператор. За оператором может следовать необязательное слово [Else](<Else.md> "Else/ru") или другие операторы. 
 

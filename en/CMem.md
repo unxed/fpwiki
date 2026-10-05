@@ -1,7 +1,6 @@
 # CMem
 
-│ **[Deutsch (de)](</CMem/de> "CMem/de")** │  **English (en)** │  **[русский (ru)](<../ru/CMem.md> "CMem/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/CMem.md>)** │
 
 If you include the **cmem** unit in your uses clause of your program, it will replace the native Free Pascal memory manager with the C library memory manager. All memory management is then done by the C memory manager. 
 

@@ -1,7 +1,6 @@
 # Routine
 
-│ **English (en)** │  **[suomi (fi)](</Routine/fi> "Routine/fi")** │  **[français (fr)](</Routine/fr> "Routine/fr")** │  **[русский (ru)](<../ru/Routine.md> "Routine/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Routine.md>)** │
 
 A routine is a re-usable piece of [source code](<Source_code.md> "Source code") having a name (called an [identifier](<Identifier.md> "Identifier")) that performs some functionality. Pascal distinguishes between two kinds of routines: [procedures](<Procedure.md> "Procedure") and [functions](<Function.md> "Function"). Functions are capable of returning a result value, while procedures do not. In consequence functions can appear in expressions, but procedures cannot. 
 

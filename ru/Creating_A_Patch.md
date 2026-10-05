@@ -1,7 +1,6 @@
 # Creating A Patch
 
-│ **[Deutsch (de)](</Creating_A_Patch/de> "Creating A Patch/de")** │  **[English (en)](<../en/Creating_A_Patch.md> "Creating A Patch")** │  **[español (es)](</Creating_A_Patch/es> "Creating A Patch/es")** │  **[français (fr)](</Creating_A_Patch/fr> "Creating A Patch/fr")** │  **[日本語 (ja)](</Creating_A_Patch/ja> "Creating A Patch/ja")** │  **[português (pt)](</Creating_A_Patch/pt> "Creating A Patch/pt")** │  **русский (ru)** │  **[slovenčina (sk)](</Creating_A_Patch/sk> "Creating A Patch/sk")** │    
-****
+│ **[English (en)](<../en/Creating_A_Patch.md>)** │  **русский (ru)** │
 
 Если вы хотите отправить улучшения в код FPC или Lazarus, вам нужно отправить патч, который разработчики могут легко слить с исходным кодом. 
 

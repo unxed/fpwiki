@@ -1,7 +1,6 @@
 # Try
 
-│ **[Deutsch (de)](</Try/de> "Try/de")** │  **[English (en)](<../en/Try.md> "Try")** │  **[español (es)](</Try/es> "Try/es")** │  **[suomi (fi)](</Try/fi> "Try/fi")** │  **русский (ru)** │    
-****
+│ **русский (ru)** │
 
 **try** является частью либо блока try..[finally](</index.php?title=Finally/ru&action=edit&redlink=1> "Finally/ru \(page does not exist\)"), либо блока try..[except](</index.php?title=Except/ru&action=edit&redlink=1> "Except/ru \(page does not exist\)"). 
 

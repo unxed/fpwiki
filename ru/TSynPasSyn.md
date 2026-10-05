@@ -1,7 +1,6 @@
 # TSynPasSyn
 
-│ **[English (en)](<../en/TSynPasSyn.md> "TSynPasSyn")** │  **[français (fr)](</TSynPasSyn/fr> "TSynPasSyn/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TSynPasSyn.md>)** │  **русский (ru)** │
 
 **TSynPasSyn** [![tsynpassyn.png](https://wiki.freepascal.org/images/f/f9/tsynpassyn.png)](</File:tsynpassyn.png>) \- компонент, представляющий подсветку корректного синтаксиса файлов исходного кода языка Pascal при их редактировании. Данный компонент является частью пакета [SynEdit](<SynEdit.md> "SynEdit/ru") и доступен на вкладке [SynEdit](<SynEdit_tab.md> "SynEdit tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

@@ -1,7 +1,6 @@
 # IDE Window: Unit dependencies
 
-│ **[Deutsch (de)](</IDE_Window:_Unit_dependencies/de> "IDE Window: Unit dependencies/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
 This window shows the unit dependencies implied by the uses sections. You can access it via _View / Unit Dependencies_. 
 

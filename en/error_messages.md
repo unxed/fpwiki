@@ -1,7 +1,6 @@
 # error messages
 
-│ **English (en)** │  [**русский (ru)**](<../ru/error_messages.md> "error messages/ru") │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/error_messages.md>)** │
 
 ## Contents
 

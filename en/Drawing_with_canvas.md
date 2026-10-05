@@ -1,7 +1,6 @@
 # Drawing with canvas
 
-│ **[Deutsch (de)](</Drawing_with_canvas/de> "Drawing with canvas/de")** │  **English (en)** │  **[français (fr)](</Drawing_with_canvas/fr> "Drawing with canvas/fr")** │  **[中文（中国大陆） (zh_CN)](</Drawing_with_canvas/zh_CN> "Drawing with canvas/zh CN")** │    
-****
+│ **English (en)** │
 
 **Drawing with canvas** can be done using several procedures e.g. 
 

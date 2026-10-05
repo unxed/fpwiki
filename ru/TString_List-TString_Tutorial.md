@@ -1,8 +1,9 @@
 # TString List-TString Tutorial
 
+│ **[English (en)](<../en/TString_List-TString_Tutorial.md>)** │  **русский (ru)** │
+
 From Free Pascal wiki
 
-[**English (en)**](<../en/TString_List-TString_Tutorial.md> "TString List-TString Tutorial") | [**Español (es)**](</TString_List-TString_Tutorial/es> "TString List-TString Tutorial/es") | ****Русский (ru)****
 
 ## Contents
 

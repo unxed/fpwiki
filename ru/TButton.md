@@ -1,7 +1,6 @@
 # TButton
 
-│ **[Deutsch (de)](</TButton/de> "TButton/de")** │  **[English (en)](<../en/TButton.md> "TButton")** │  **[español (es)](</TButton/es> "TButton/es")** │  **[suomi (fi)](</TButton/fi> "TButton/fi")** │  **[français (fr)](</TButton/fr> "TButton/fr")** │  **[日本語 (ja)](</TButton/ja> "TButton/ja")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TButton.md>)** │  **русский (ru)** │
 
 **TButton** [![tbutton.png](https://wiki.freepascal.org/images/b/b2/tbutton.png)](</File:tbutton.png>) является компонентом, представляющим собой базовый элемент управления в виде кнопки. Данный компонент доступен на вкладке [Standard](<Standard_tab.md> "Standard tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

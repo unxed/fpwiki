@@ -6,8 +6,7 @@ This article applies to [Windows](</Category:Windows> "Category:Windows") only.
 
 See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **[Deutsch (de)](</Filelink/de> "Filelink/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
 This tutorial is about Windows programming. This tutorial shows how to create a file link (shortcut) under Windows. 
 

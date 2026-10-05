@@ -1,7 +1,6 @@
 # Cross compiling for Windows under Linux
 
-│ **English (en)** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Cross_compiling_for_Win32_under_Linux.md>)** │
 
 ## Contents
 

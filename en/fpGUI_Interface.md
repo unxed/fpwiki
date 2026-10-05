@@ -1,7 +1,6 @@
 # fpGUI Interface
 
-│ **[Deutsch (de)](</fpGUI_Interface/de> "fpGUI Interface/de")** │  **English (en)** │  **[español (es)](</fpGUI_Interface/es> "fpGUI Interface/es")** │  **[français (fr)](</fpGUI_Interface/fr> "fpGUI Interface/fr")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

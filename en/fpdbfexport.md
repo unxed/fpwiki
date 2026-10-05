@@ -1,7 +1,6 @@
 # fpdbfexport
 
-│ **English (en)** │  **[français (fr)](</fpdbfexport/fr> "fpdbfexport/fr")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

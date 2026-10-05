@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial
 
-│ **[العربية (ar)](</Basic_Pascal_Tutorial/ar> "Basic Pascal Tutorial/ar")** │  **[български (bg)](</Basic_Pascal_Tutorial/bg> "Basic Pascal Tutorial/bg")** │  **[Deutsch (de)](</Basic_Pascal_Tutorial/de> "Basic Pascal Tutorial/de")** │  **English (en)** │  **[español (es)](</Basic_Pascal_Tutorial/es> "Basic Pascal Tutorial/es")** │  **[français (fr)](</Basic_Pascal_Tutorial/fr> "Basic Pascal Tutorial/fr")** │  **[italiano (it)](</Basic_Pascal_Tutorial/it> "Basic Pascal Tutorial/it")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/ja> "Basic Pascal Tutorial/ja")** │  **[한국어 (ko)](</Basic_Pascal_Tutorial/ko> "Basic Pascal Tutorial/ko")** │  **[русский (ru)](<../ru/Basic_Pascal_Tutorial.md> "Basic Pascal Tutorial/ru")** │  **[slovenčina (sk)](</Basic_Pascal_Tutorial/sk> "Basic Pascal Tutorial/sk")** │  **[中文（中国大陆） (zh_CN)](</Basic_Pascal_Tutorial/zh_CN> "Basic Pascal Tutorial/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Basic_Pascal_Tutorial.md>)** │
 
 ## Contents
 

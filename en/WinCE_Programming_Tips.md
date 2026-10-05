@@ -6,8 +6,7 @@ This article applies to [WinCE](</Category:WinCE> "Category:WinCE") only.
 
 See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **English (en)** │  **[русский (ru)](<../ru/WinCE_Programming_Tips.md> "WinCE Programming Tips/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/WinCE_Programming_Tips.md>)** │
 
 ## Contents
 

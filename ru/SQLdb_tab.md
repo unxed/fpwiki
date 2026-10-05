@@ -1,8 +1,7 @@
 # SQLdb tab
 
-│ **[English (en)](<../en/SQLdb_tab.md> "SQLdb tab")** │  **[français (fr)](</SQLdb_tab/fr> "SQLdb tab/fr")** │  **русский (ru)** │    
-****  
-  
+│ **[English (en)](<../en/SQLdb_tab.md>)** │  **русский (ru)** │
+
 ---  
 [**Databases portal**](<../en/Portal_Databases.md> "Portal:Databases")  
 References: 

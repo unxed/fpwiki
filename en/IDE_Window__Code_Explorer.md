@@ -1,8 +1,6 @@
 # IDE Window: Code Explorer
 
-│ **[Deutsch (de)](</IDE_Window:_Code_Explorer/de> "IDE Window: Code Explorer/de")** │  **English (en)** │  **[français (fr)](</IDE_Window:_Code_Explorer/fr> "IDE Window: Code Explorer/fr")** │  **[português (pt)](</IDE_Window:_Code_Explorer/pt> "IDE Window: Code Explorer/pt")** │    
-****  
-****
+│ **English (en)** │
 
 ## Navigation
 

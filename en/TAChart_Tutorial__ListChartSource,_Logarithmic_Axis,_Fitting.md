@@ -1,7 +1,6 @@
 # TAChart Tutorial: ListChartSource, Logarithmic Axis, Fitting
 
-│ **English (en)** │  **[suomi (fi)](</TAChart_Tutorial:_ListChartSource,_Logarithmic_Axis,_Fitting/fi> "TAChart Tutorial: ListChartSource, Logarithmic Axis, Fitting/fi")** │  **[русский (ru)](<../ru/TAChart_Tutorial__ListChartSource,_Logarithmic_Axis,_Fitting.md> "TAChart Tutorial: ListChartSource, Logarithmic Axis, Fitting/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TAChart_Tutorial__ListChartSource,_Logarithmic_Axis,_Fitting.md>)** │
 
 ## Contents
 

@@ -6,8 +6,7 @@ This article applies to [iOS](</Category:iOS> "Category:iOS") only.
 
 See also: [Multiplatform Programming Guide](<../Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-**English (en)** | [**한국어 (ko)**](</iPhone/iPod_development/ko> "iPhone/iPod development/ko") | [**中文（中国大陆） (zh_CN)**](</iPhone/iPod_development/zh_CN> "iPhone/iPod development/zh CN") | [**中文（臺灣） (zh_TW)**](</iPhone/iPod_development/zh_TW> "iPhone/iPod development/zh TW")   
-****
+│ **English (en)** │
 
 ## Contents
 

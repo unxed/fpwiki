@@ -1,7 +1,6 @@
 # Getting Lazarus
 
-│ **[Deutsch (de)](</Getting_Lazarus/de> "Getting Lazarus/de")** │  **English (en)** │  **[español (es)](</Getting_Lazarus/es> "Getting Lazarus/es")** │  **[français (fr)](</Getting_Lazarus/fr> "Getting Lazarus/fr")** │  **[日本語 (ja)](</Getting_Lazarus/ja> "Getting Lazarus/ja")** │  **[polski (pl)](</Getting_Lazarus/pl> "Getting Lazarus/pl")** │  **[português (pt)](</Getting_Lazarus/pt> "Getting Lazarus/pt")** │  **[русский (ru)](<../ru/Getting_Lazarus.md> "Getting Lazarus/ru")** │  **[slovenčina (sk)](</Getting_Lazarus/sk> "Getting Lazarus/sk")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

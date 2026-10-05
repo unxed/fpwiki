@@ -1,7 +1,6 @@
 # Howdy World (Hello World on steroids)
 
-│ **English (en)** │  **[suomi (fi)](</Howdy_World_\(Hello_World_on_steroids\)/fi> "Howdy World \(Hello World on steroids\)/fi")** │  **[português (pt)](</Howdy_World_\(Hello_World_on_steroids\)/pt> "Howdy World \(Hello World on steroids\)/pt")** │    
-****
+│ **English (en)** │
 
 This Wiki article is a tutorial for [Lazarus](<Lazarus.md> "Lazarus"). It explains the first steps to get a working piece of software and explains some best practices along the way. The end result is twofold (hopefully): the reader understands the basic concepts of how to build software with Lazarus and she has an actual piece of working software that can be embedded in other [programs](<Program.md> "Program"): a calculator. A calculator is fairly easy to implement and everyone understands its concepts. So no need to describe a lengthy business case beforehand. The calculator is limited to [integer](<Integer.md> "Integer") calculations, but can easily be extended. 
 

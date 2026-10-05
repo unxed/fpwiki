@@ -1,7 +1,6 @@
 # Variable
 
-│ **[English (en)](<../en/Variable.md> "Variable")** │  **[suomi (fi)](</Variable/fi> "Variable/fi")** │  **[français (fr)](</Variable/fr> "Variable/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Variable.md>)** │  **русский (ru)** │
 
 **Переменные** \- это символьные последовательности, которые определяет программист и для которых выделяется память ([integer](<Integer.md> "Integer/ru"), [char](<Char.md> "Char/ru") и т.д.). Они могут находится в области видимости всей программы ([глобальные переменные](<Global_variables.md> "Global variables/ru")) или только внутри процедуры, функции, метода ([локальные переменные](<Local_variables.md> "Local variables/ru")). 
 

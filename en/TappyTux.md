@@ -1,7 +1,6 @@
 # TappyTux
 
-│ **English (en)** │  **[français (fr)](</TappyTux/fr> "TappyTux/fr")** │    
-****
+│ **English (en)** │
 
 TappyTux is a children's educational games suite. 
 

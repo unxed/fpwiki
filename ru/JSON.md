@@ -1,7 +1,6 @@
 # JSON
 
-│ **[English (en)](<../en/JSON.md> "JSON")** │  **[suomi (fi)](</JSON/fi> "JSON/fi")** │  **[日本語 (ja)](</JSON/ja> "JSON/ja")** │  **[한국어 (ko)](</JSON/ko> "JSON/ko")** │  **[polski (pl)](</JSON/pl> "JSON/pl")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</JSON/zh_CN> "JSON/zh CN")** │    
-****
+│ **[English (en)](<../en/JSON.md>)** │  **русский (ru)** │
 
 ## Contents
 
@@ -139,7 +138,7 @@
 
   * [fcl-json](<../en/fcl-json.md> "fcl-json") пакет, который реализует JSON для Free Pascal и Lazarus
   * [Официальный сайт JSON](<http://www.json.org>)
-  * [Streaming JSON/de](</Streaming_JSON/de> "Streaming JSON/de") \- (Оригинальная немецкая статья)
+  * Streaming JSON/de \- (Оригинальная немецкая статья)
   * [Streaming JSON/ru](<Streaming_JSON.md> "Streaming JSON/ru") \- (Русский перевод с английского)
   * [Streaming JSON](<../en/Streaming_JSON.md> "Streaming JSON") \- (английский перевод с оригинала на немецком)
 

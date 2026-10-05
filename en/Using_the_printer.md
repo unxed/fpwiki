@@ -1,7 +1,6 @@
 # Using the printer
 
-│ **[Deutsch (de)](</Using_the_printer/de> "Using the printer/de")** │  **English (en)** │  **[español (es)](</Using_the_printer/es> "Using the printer/es")** │  **[日本語 (ja)](</Using_the_printer/ja> "Using the printer/ja")** │  **[polski (pl)](</Using_the_printer/pl> "Using the printer/pl")** │  **[中文（中国大陆） (zh_CN)](</Using_the_printer/zh_CN> "Using the printer/zh CN")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

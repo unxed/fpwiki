@@ -1,7 +1,6 @@
 # TCheckGroup
 
-│ **[Deutsch (de)](</TCheckGroup/de> "TCheckGroup/de")** │  **English (en)** │  **[suomi (fi)](</TCheckGroup/fi> "TCheckGroup/fi")** │  **[français (fr)](</TCheckGroup/fr> "TCheckGroup/fr")** │  **[русский (ru)](<../ru/TCheckGroup.md> "TCheckGroup/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TCheckGroup.md>)** │
 
 A **TCheckGroup** [![tcheckgroup.png](https://wiki.freepascal.org/images/0/0b/tcheckgroup.png)](</File:tcheckgroup.png>) is a control that comprises a group of [TCheckBox](<TCheckBox.md> "TCheckBox") items physically and logically grouped together on a container component. 
 

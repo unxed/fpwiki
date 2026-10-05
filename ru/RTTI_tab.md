@@ -1,7 +1,6 @@
 # RTTI tab
 
-│ **[English (en)](<../en/RTTI_tab.md> "RTTI tab")** │  **[français (fr)](</RTTI_tab/fr> "RTTI tab/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/RTTI_tab.md>)** │  **русский (ru)** │
 
 Вкладка **RTTI** [палитры компонентов](<Component_Palette.md> "Component Palette/ru") содержит список компонентов для работы с компонентами [RTTI](<RTTI_controls.md> "RTTI controls/ru"). 
 

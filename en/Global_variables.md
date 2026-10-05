@@ -1,7 +1,6 @@
 # Global variables
 
-│ **English (en)** │  **[suomi (fi)](</Global_variables/fi> "Global variables/fi")** │  **[русский (ru)](<../ru/Global_variables.md> "Global variables/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Global_variables.md>)** │
 
 A [variable](<Variable.md> "Variable") is global if it is exported from a module. This usually refers to variables declared in a [`var` section](<Var.md> "Var")
 

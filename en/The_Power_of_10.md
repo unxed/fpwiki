@@ -1,6 +1,6 @@
 # The Power of 10
 
-│ **English (en)** │  **[polski (pl)](</The_Power_of_10/pl> "The Power of 10/pl")** │ 
+│ **English (en)** │
 
 _Infinite loops or memory leaks in the software of a launch rocket or unmanned space probe may cause the mission to be lost. The controller of a ventilator assuming a default value for a missing read-out of a measurement may lead to the death of a critically ill patient. Two crashes of the Boeing 737 MAX with a high number of fatalities ensued from a piece of software blindly trusting the results of a single sensor that delivered invalid data._
 

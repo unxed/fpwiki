@@ -1,7 +1,6 @@
 # Text
 
-│ **English (en)** │  [**日本語 (ja)**](</Text/ja> "Text/ja") │  [**русский (ru)**](<../ru/Text.md> "Text/ru") │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Text.md>)** │
 
 The type **TextFile** (or, equivalent and older, just **Text**) is used in a Pascal program to read from and write to a text file. 
     

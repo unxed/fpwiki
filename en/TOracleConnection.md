@@ -1,7 +1,6 @@
 # TOracleConnection
 
-│ **English (en)** │  **[français (fr)](</TOracleConnection/fr> "TOracleConnection/fr")** │  **[русский (ru)](<../ru/TOracleConnection.md> "TOracleConnection/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TOracleConnection.md>)** │
 
 [![Note-icon.png](https://wiki.freepascal.org/images/b/be/Note-icon.png)](</File:Note-icon.png>)
 

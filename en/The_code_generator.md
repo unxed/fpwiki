@@ -1,7 +1,6 @@
 # The code generator
 
-│ **English (en)** │  **[français (fr)](</The_code_generator/fr> "The code generator/fr")** │    
-****
+│ **English (en)** │
 
 back to contents [FPC internals](<FPC_internals.md> "FPC internals")
 

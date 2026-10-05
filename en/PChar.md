@@ -1,7 +1,6 @@
 # PChar
 
-│ **[Deutsch (de)](</PChar/de> "PChar/de")** │  **English (en)** │  **[español (es)](</PChar/es> "PChar/es")** │  **[français (fr)](</PChar/fr> "PChar/fr")** │  **[русский (ru)](<../ru/PChar.md> "PChar/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/PChar.md>)** │
 
 The data type [`PChar`](<https://www.freepascal.org/docs-html/rtl/system/pchar.html>) is a [pointer](<Pointer.md> "Pointer") to a single [`char`](<Char.md> "Char"). [`PAnsiChar`](<https://www.freepascal.org/docs-html/rtl/system/pansichar.html>) is an alias for `PChar`. 
     

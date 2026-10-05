@@ -1,7 +1,6 @@
 # TSynCppSyn
 
-│ **[English (en)](<../en/TSynCppSyn.md> "TSynCppSyn")** │  **[français (fr)](</TSynCppSyn/fr> "TSynCppSyn/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TSynCppSyn.md>)** │  **русский (ru)** │
 
 **TSynCppSyn** [![tsyncppsyn.png](https://wiki.freepascal.org/images/4/4d/tsyncppsyn.png)](</File:tsyncppsyn.png>) \- компонент, представляющий подсветку корректного синтаксиса кода на языке C++ при его редактировании. Данный компонент является частью пакета [SynEdit](<SynEdit.md> "SynEdit/ru") и доступен на вкладке [SynEdit](<SynEdit_tab.md> "SynEdit tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

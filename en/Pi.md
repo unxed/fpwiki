@@ -1,7 +1,6 @@
 # Pi
 
-│ **[Deutsch (de)](</Pi/de> "Pi/de")** │  **English (en)** │  **[suomi (fi)](</Pi/fi> "Pi/fi")** │  **[français (fr)](</Pi/fr> "Pi/fr")** │  **[русский (ru)](<../ru/Pi.md> "Pi/ru")** │  **[中文（中国大陆） (zh_CN)](</Pi/zh_CN> "Pi/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Pi.md>)** │
 
 π (greek letter pi) is the ratio of the circumference of a circle to its diameter. π is about `3.14159265358979`. A full circle has `2*pi()` [radians](<Radian.md> "Radian"). 
 

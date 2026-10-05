@@ -1,8 +1,7 @@
 # TSQLite3Connection
 
-│ **English (en)** │  **[español (es)](</TSQLite3Connection/es> "TSQLite3Connection/es")** │  **[français (fr)](</TSQLite3Connection/fr> "TSQLite3Connection/fr")** │  **[日本語 (ja)](</TSQLite3Connection/ja> "TSQLite3Connection/ja")** │  **[polski (pl)](</TSQLite3Connection/pl> "TSQLite3Connection/pl")** │    
-****  
-  
+│ **English (en)** │
+
 ---  
 [**Databases portal**](<Portal_Databases.md> "Portal:Databases")  
 References: 

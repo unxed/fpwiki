@@ -1,7 +1,6 @@
 # BGRABitmap tutorial TAChart
 
-│ **English (en)** │  [**français (fr)**](</BGRABitmap_tutorial_TAChart/fr> "BGRABitmap tutorial TAChart/fr") │    
-****
+│ **English (en)** │
 
 You can make beautiful charts using [BGRABitmap](<BGRABitmap.md> "BGRABitmap"). Add TAChartBGRA package with the project inspector. 
 

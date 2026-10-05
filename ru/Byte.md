@@ -1,7 +1,6 @@
 # Byte
 
-│ **[Deutsch (de)](</Byte/de> "Byte/de")** │  **[English (en)](<../en/Byte.md> "Byte")** │  **[español (es)](</Byte/es> "Byte/es")** │  **[suomi (fi)](</Byte/fi> "Byte/fi")** │  **[français (fr)](</Byte/fr> "Byte/fr")** │  **[italiano (it)](</Byte/it> "Byte/it")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</Byte/zh_CN> "Byte/zh CN")** │    
-****
+│ **[English (en)](<../en/Byte.md>)** │  **русский (ru)** │
 
 Тип `byte` (байт) является беззнаковым [`integer`](<Integer.md> "Integer/ru") (целым) типом, представляющим значения в диапазоне `0..255` и занимающим **8 бит**. Типы `byte` и [`char`](<Char.md> "Char/ru") являются одним и тем же в [FPC](<../en/FPC.md> "FPC") версии 3. 
 

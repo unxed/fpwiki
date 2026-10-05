@@ -1,7 +1,6 @@
 # Indy with Lazarus
 
-│ **[Deutsch (de)](</Indy_with_Lazarus/de> "Indy with Lazarus/de")** │  **English (en)** │  **[español (es)](</Indy_with_Lazarus/es> "Indy with Lazarus/es")** │  **[français (fr)](</Indy_with_Lazarus/fr> "Indy with Lazarus/fr")** │  **[日本語 (ja)](</Indy_with_Lazarus/ja> "Indy with Lazarus/ja")** │  **[한국어 (ko)](</Indy_with_Lazarus/ko> "Indy with Lazarus/ko")** │    
-****
+│ **English (en)** │
 
 Indy is an open source client/server communications library that supports TCP/UDP/RAW sockets, as well as over 100 higher level protocols including SMTP, POP3, IMAP, NNTP, HTTP, FTP, and many more 
 

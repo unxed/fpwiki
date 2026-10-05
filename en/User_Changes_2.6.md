@@ -1,5 +1,7 @@
 # User Changes 2.6.2
 
+│ **English (en)** │  **[русский (ru)](<../ru/User_Changes_2.6.md>)** │
+
 ## Contents
 
   * 1 About this page

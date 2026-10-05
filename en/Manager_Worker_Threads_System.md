@@ -1,7 +1,6 @@
 # Manager Worker Threads System
 
-│ **English (en)** │  **[français (fr)](</Manager_Worker_Threads_System/fr> "Manager Worker Threads System/fr")** │    
-****
+│ **English (en)** │
 
 Lazarus offers access to FPC's multi-threaded environment libraries under Linux and Windows. If you are looking to develop lightning fast native engines specific to Linux or even Windows 64 this system is a great start to helping you understand how best to leverage multiple cores that modern scientific applications require to process vast amounts of data in real-time. 
 

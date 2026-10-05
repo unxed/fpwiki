@@ -1,7 +1,6 @@
 # FpDebug
 
-│ **[English (en)](<../en/FpDebug.md> "FpDebug")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/FpDebug.md>)** │  **русский (ru)** │
 
 ## Contents
 

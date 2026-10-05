@@ -1,6 +1,6 @@
 # Addr
 
-│ **[Deutsch (de)](</Addr/de> "Addr/de")** │  **English (en)** │ 
+│ **English (en)** │
 
 [`Addr`](<https://www.freepascal.org/docs-html/rtl/system/addr.html>) is a compiler intrinsic behaving like a unary [function](<Function.md> "Function") returning the address of an object (if such exits). It is equivalent to the [`@` address operator](<@.md> "@"), however, `addr` always returns an _untyped_ [pointer](<Pointer.md> "Pointer") ([since FPC 2.6.0](<User_Changes_2.6.md> "User Changes 2.6.0")). This behavior is compliant to [Borland Pascal’s](<Borland_Pascal.md> "Borland Pascal") definition of the `addr` function, where this function originally comes from. 
 

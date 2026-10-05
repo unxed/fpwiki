@@ -1,7 +1,6 @@
 # TSimpleIPCServer
 
-│ [**English (en)**](<../en/TSimpleIPCServer.md> "TSimpleIPCServer") │  [**français (fr)**](</TSimpleIPCServer/fr> "TSimpleIPCServer/fr") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TSimpleIPCServer.md>)** │  **русский (ru)** │
 
 **TSimpleIPCServer** [![tsimpleipcserver.png](https://wiki.freepascal.org/images/3/3c/tsimpleipcserver.png)](</File:tsimpleipcserver.png>) является компонентом сетевого подключения и представляет собой серверную часть протокола IPC. Данный компонент доступен на вкладке [System](<System_tab.md> "System tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

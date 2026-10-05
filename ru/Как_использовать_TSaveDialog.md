@@ -2,7 +2,7 @@
 
 From Free Pascal wiki
 
-[**Deutsch (de)**](</Howto_Use_TSaveDialog/de> "Howto Use TSaveDialog/de") | [**English (en)**](<../en/Howto_Use_TSaveDialog.md> "Howto Use TSaveDialog") | [**Español (es)**](</Howto_Use_TSaveDialog/es> "Howto Use TSaveDialog/es") | [**Suomi (fi)**](</Howto_Use_TSaveDialog/fi> "Howto Use TSaveDialog/fi") | [**日本語 (ja)**](</Howto_Use_TSaveDialog/ja> "Howto Use TSaveDialog/ja") | [**Polski (pl)**](</Howto_Use_TSaveDialog/pl> "Howto Use TSaveDialog/pl") | [**Slovenčina (sk)**](</Howto_Use_TSaveDialog/sk> "Howto Use TSaveDialog/sk") | ****Русский (ru)****
+│ **русский (ru)** │
 
 ##  Как использовать TSaveDialog 
 

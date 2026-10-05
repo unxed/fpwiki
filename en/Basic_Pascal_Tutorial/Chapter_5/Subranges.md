@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Chapter 5/Subranges
 
-│ **[български (bg)](</Basic_Pascal_Tutorial/Chapter_5/Subranges/bg> "Basic Pascal Tutorial/Chapter 5/Subranges/bg")** │  **English (en)** │  **[français (fr)](</Basic_Pascal_Tutorial/Chapter_5/Subranges/fr> "Basic Pascal Tutorial/Chapter 5/Subranges/fr")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Chapter_5/Subranges/ja> "Basic Pascal Tutorial/Chapter 5/Subranges/ja")** │  **[中文（中国大陆） (zh_CN)](</Basic_Pascal_Tutorial/Chapter_5/Subranges/zh_CN> "Basic Pascal Tutorial/Chapter 5/Subranges/zh CN")** │    
-****
+│ **English (en)** │
 
 [ ◄ ](<Enumerated_types.md> "Basic Pascal Tutorial/Chapter 5/Enumerated types") | [ ▲ ](<../Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<1-dimensional_arrays.md> "Basic Pascal Tutorial/Chapter 5/1-dimensional arrays")  
 ---|---|---  

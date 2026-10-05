@@ -1,8 +1,7 @@
 # TSQLQuery
 
-│ **English (en)** │  **[français (fr)](</TSQLQuery/fr> "TSQLQuery/fr")** │  **[日本語 (ja)](</TSQLQuery/ja> "TSQLQuery/ja")** │  **[русский (ru)](<../ru/TSQLQuery.md> "TSQLQuery/ru")** │    
-****  
-  
+│ **English (en)** │  **[русский (ru)](<../ru/TSQLQuery.md>)** │
+
 ---  
 [**Databases portal**](<Portal_Databases.md> "Portal:Databases")  
 References: 

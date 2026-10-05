@@ -1,7 +1,6 @@
 # TXMLDocument
 
-│ **English (en)** │  **[español (es)](</TXMLDocument/es> "TXMLDocument/es")** │    
-****
+│ **English (en)** │
 
 The TXMLDocument class holds XML data, e.g. from a file. It is a child of [TDOMDocument](<TDOMDocument.md> "TDOMDocument"). 
 

@@ -1,7 +1,6 @@
 # TODBCConnection
 
-│ **[English (en)](<../en/TODBCConnection.md> "TODBCConnection")** │  **[français (fr)](</TODBCConnection/fr> "TODBCConnection/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TODBCConnection.md>)** │  **русский (ru)** │
 
 ![Light bulb](https://upload.wikimedia.org/wikipedia/commons/d/d8/Nuvola_apps_ktip.png) **Примечание:** Для создания приложений при работе с любыми базами данных вместо TODBCConnection может использоваться [TSQLConnector](<TSQLConnector.md> "TSQLConnector/ru")
 

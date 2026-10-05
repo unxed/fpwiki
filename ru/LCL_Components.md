@@ -1,7 +1,6 @@
 # LCL Components
 
-│ **[English (en)](<../en/LCL_Components.md> "LCL Components")** │  **[日本語 (ja)](</LCL_Components/ja> "LCL Components/ja")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</LCL_Components/zh_CN> "LCL Components/zh CN")** │    
-****
+│ **[English (en)](<../en/LCL_Components.md>)** │  **русский (ru)** │
 
 ## Contents
 

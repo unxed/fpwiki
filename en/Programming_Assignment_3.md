@@ -1,7 +1,6 @@
 # Programming Assignment 3
 
-│ [**български (bg)**](</Programming_Assignment_3/bg> "Programming Assignment 3/bg") │  **English (en)** │  [**français (fr)**](</Programming_Assignment_3/fr> "Programming Assignment 3/fr") │  [**日本語 (ja)**](</Programming_Assignment_3/ja> "Programming Assignment 3/ja") │  [**中文（中国大陆）‎ (zh_CN)**](</Programming_Assignment_3/zh_CN> "Programming Assignment 3/zh CN") │    
-****
+│ **English (en)** │
 
 [ ◄ ](<FOR..md> "FOR..IN") | [ ▲ ](<Contents.md> "Contents") | [ ► ](<Solution_3.md> "Solution 3")  
 ---|---|---  

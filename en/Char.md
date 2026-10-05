@@ -1,7 +1,6 @@
 # Char
 
-│ **[Deutsch (de)](</Char/de> "Char/de")** │  **English (en)** │  **[español (es)](</Char/es> "Char/es")** │  **[français (fr)](</Char/fr> "Char/fr")** │  **[italiano (it)](</Char/it> "Char/it")** │  **[русский (ru)](<../ru/Char.md> "Char/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Char.md>)** │
 
 A **char** stores a single character and is currently one byte, and [AnsiChar](<AnsiChar.md> "AnsiChar") is an alias for it. However, in the future, **char** may become the same as a [WideChar](<WideChar.md> "WideChar"). For now, [byte](<Byte.md> "Byte") and char are almost identical - one byte (8-bits) in size. However, a char can only be used as a character, or as part of a [string](<String.md> "String") type, and cannot be used in an arithmetic expression, while a byte can only be referred to as a numeric type. 
 

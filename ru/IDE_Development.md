@@ -1,7 +1,6 @@
 # IDE Development
 
-│ **[English (en)](<../en/IDE_Development.md> "IDE Development")** │  **[한국어 (ko)](</IDE_Development/ko> "IDE Development/ko")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/IDE_Development.md>)** │  **русский (ru)** │
 
 Эта страница содержит заметки для разработчиков ядра lazarus для продолжения разработки. 
 

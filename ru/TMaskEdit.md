@@ -1,7 +1,6 @@
 # TMaskEdit
 
-│ **[English (en)](<../en/TMaskEdit.md> "TMaskEdit")** │  **[français (fr)](</TMaskEdit/fr> "TMaskEdit/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TMaskEdit.md>)** │  **русский (ru)** │
 
 **TMaskEdit** [![tmaskedit.png](https://wiki.freepascal.org/images/0/06/tmaskedit.png)](</File:tmaskedit.png>) является элементом управления с однострочным полем для редактирования текста, который будет соответствовать заданной маске, определенной в свойстве _EditMask_. Данный компонент доступен на вкладке [Additional](<Additional_tab.md> "Additional tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

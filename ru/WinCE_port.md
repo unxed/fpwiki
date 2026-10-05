@@ -6,8 +6,7 @@
 
 См. также: [Multiplatform Programming Guide](<../en/Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **[English (en)](<../en/WinCE_port.md> "WinCE port")** │  **[italiano (it)](</WinCE_port/it> "WinCE port/it")** │  **[português (pt)](</WinCE_port/pt> "WinCE port/pt")** │  **русский (ru)** │  **[中文（臺灣） (zh_TW)](</WinCE_port/zh_TW> "WinCE port/zh TW")** │    
-****
+│ **[English (en)](<../en/WinCE_port.md>)** │  **русский (ru)** │
 
 Портирование на WinCE вполне выполнимо. Начат и закреплён сей процесс был Юрием Сидоровым. Oliver (Oro06) портировал заголовочные файлы WinCE API. 
 

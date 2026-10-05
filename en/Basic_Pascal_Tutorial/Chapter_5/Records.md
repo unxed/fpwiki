@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Chapter 5/Records
 
-│ **[български (bg)](</Basic_Pascal_Tutorial/Chapter_5/Records/bg> "Basic Pascal Tutorial/Chapter 5/Records/bg")** │  **English (en)** │  **[français (fr)](</Basic_Pascal_Tutorial/Chapter_5/Records/fr> "Basic Pascal Tutorial/Chapter 5/Records/fr")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Chapter_5/Records/ja> "Basic Pascal Tutorial/Chapter 5/Records/ja")** │  **[中文（中国大陆） (zh_CN)](</Basic_Pascal_Tutorial/Chapter_5/Records/zh_CN> "Basic Pascal Tutorial/Chapter 5/Records/zh CN")** │    
-****
+│ **English (en)** │
 
 [ ◄ ](<Multidimensional_arrays.md> "Basic Pascal Tutorial/Chapter 5/Multidimensional arrays") | [ ▲ ](<../Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Pointers.md> "Basic Pascal Tutorial/Chapter 5/Pointers")  
 ---|---|---  

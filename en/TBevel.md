@@ -1,7 +1,6 @@
 # TBevel
 
-│ **English (en)** │  [**français (fr)**](</TBevel/fr> "TBevel/fr") │  [**русский (ru)**](<../ru/TBevel.md> "TBevel/ru") │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TBevel.md>)** │
 
 **TBevel** [![tbevel.png](https://wiki.freepascal.org/images/f/ff/tbevel.png)](</File:tbevel.png>) is a component that creates a bevel on a form. A TBevel is a descendant of [TGraphicControl](<TGraphicControl.md> "TGraphicControl") and is available under the [Additional tab](<Additional_tab.md> "Additional tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

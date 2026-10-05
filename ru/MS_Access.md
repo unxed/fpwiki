@@ -1,6 +1,7 @@
 # MS Access
 
-│ **[English (en)](<../en/MS_Access.md> "MS Access")** │  **[español (es)](</MS_Access/es> "MS Access/es")** │  **[français (fr)](</MS_Access/fr> "MS Access/fr")** │  **русский (ru)** │    
+│ **[English (en)](<../en/MS_Access.md>)** │  **русский (ru)** │
+
 ******Этот перевод скопирован со страницы[User:QLKforges/ru](</User:QLKforges/ru> "User:QLKforges/ru")**
 
 Эта страница объясняет, как использовать базу данных Microsoft Access с использованием [ODBC](<../en/ODBCConn.md> "ODBCConn") и FPC в SQLdb. 

@@ -1,7 +1,6 @@
 # Virtual
 
-│ **[Deutsch (de)](</Virtual/de> "Virtual/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
   
 Back to [Reserved words](<Reserved_words.md> "Reserved words"). 

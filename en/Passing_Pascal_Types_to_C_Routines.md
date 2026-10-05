@@ -1,7 +1,6 @@
 # Passing Pascal Types to C Routines
 
-│ **English (en)** │  **[français (fr)](</Passing_Pascal_Types_to_C_Routines/fr> "Passing Pascal Types to C Routines/fr")** │    
-****
+│ **English (en)** │
 
 ## Issue
 

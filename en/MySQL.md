@@ -1,8 +1,7 @@
 # mysql
 
-│ **English (en)** │  [**español (es)**](</mysql/es> "mysql/es") │  [**français (fr)**](</mysql/fr> "mysql/fr") │  [**polski (pl)**](</mysql/pl> "mysql/pl") │    
-****  
-  
+│ **English (en)** │
+
 ---  
 [**Databases portal**](<Portal_Databases.md> "Portal:Databases")  
 References: 

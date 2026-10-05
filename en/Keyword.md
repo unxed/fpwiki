@@ -1,7 +1,6 @@
 # Keyword
 
-│ **[Deutsch (de)](</Keyword/de> "Keyword/de")** │  **English (en)** │  **[Esperanto (eo)](</Keyword/eo> "Keyword/eo")** │  **[suomi (fi)](</Keyword/fi> "Keyword/fi")** │  **[français (fr)](</Keyword/fr> "Keyword/fr")** │  **[русский (ru)](<../ru/Keyword.md> "Keyword/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Keyword.md>)** │
 
 A keyword is an [identifier](<Identifier.md> "Identifier") with a special meaning and function in a programming language. Keywords include [reserved words](<Reserved_word.md> "Reserved word") (such as [`begin`](<Begin.md> "Begin") or [`while`](<While.md> "While")) and [modifiers](<modifier.md> "modifier") (such as [`reintroduce`](<Reintroduce.md> "Reintroduce") or [`absolute`](<Absolute.md> "Absolute")) (see also [Free Pascal](<FPC.md> "FPC") [reserved words](<Reserved_words.md> "Reserved words")). 
 

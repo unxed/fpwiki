@@ -1,6 +1,6 @@
 # LazDebuggerFp
 
-│ **English (en)** │ 
+│ **English (en)** │
 
 ![Light bulb](https://upload.wikimedia.org/wikipedia/commons/d/d8/Nuvola_apps_ktip.png) **Note:** For more information about the Free Pascal debugger see   
   

@@ -1,7 +1,6 @@
 # Generating Random Numbers
 
-│ **[Deutsch (de)](</Generating_Random_Numbers/de> "Generating Random Numbers/de")** │  **[English (en)](<../en/Generating_Random_Numbers.md> "Generating Random Numbers")** │  **[suomi (fi)](</Generating_Random_Numbers/fi> "Generating Random Numbers/fi")** │  **[français (fr)](</Generating_Random_Numbers/fr> "Generating Random Numbers/fr")** │  **[polski (pl)](</Generating_Random_Numbers/pl> "Generating Random Numbers/pl")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Generating_Random_Numbers.md>)** │  **русский (ru)** │
 
 [![fpc source logo.png](https://wiki.freepascal.org/images/e/e1/fpc_source_logo.png)](</File:fpc_source_logo.png>)
 

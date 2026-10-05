@@ -1,7 +1,6 @@
 # TSynPasSyn
 
-│ **English (en)** │  **[français (fr)](</TSynPasSyn/fr> "TSynPasSyn/fr")** │  **[русский (ru)](<../ru/TSynPasSyn.md> "TSynPasSyn/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TSynPasSyn.md>)** │
 
 **TSynPasSyn** [![tsynpassyn.png](https://wiki.freepascal.org/images/f/f9/tsynpassyn.png)](</File:tsynpassyn.png>) is a component that provides the [Pascal](<Pascal.md> "Pascal")-language syntaxchecking-part of [syntax-highlighting](<Syntax_highlighting.md> "Syntax highlighting") editing. It is part of the [SynEdit](<SynEdit.md> "SynEdit") package and is available under the [SynEdit tab](<SynEdit_tab.md> "SynEdit tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

@@ -1,7 +1,6 @@
 # Writing portable code regarding the processor architecture
 
-│ **[English (en)](<../en/Writing_portable_code_regarding_the_processor_architecture.md> "Writing portable code regarding the processor architecture")** │  **[Bahasa Indonesia (id)](</Writing_portable_code_regarding_the_processor_architecture/id> "Writing portable code regarding the processor architecture/id")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Writing_portable_code_regarding_the_processor_architecture.md>)** │  **русский (ru)** │
 
 Существует ряд проблем, связанных с написанием кода, являющегося независимым от процессорной архитектуры. Одна из них - это порядок следования байтов, другая – разрядность процессора ([32](<../en/32_bit.md> "32 bit") или [64-битные](<../en/64_bit.md> "64 bit") ЦП). 
 

@@ -1,7 +1,6 @@
 # Application full screen mode
 
-│ **English (en)** │  **[français (fr)](</Application_full_screen_mode/fr> "Application full screen mode/fr")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

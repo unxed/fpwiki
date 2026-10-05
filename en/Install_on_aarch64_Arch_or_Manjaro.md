@@ -1,6 +1,6 @@
 # Install on aarch64 Arch or Manjaro
 
-│ **English (en)** │ 
+│ **English (en)** │
 
 [![Stock-dialog-warning.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Stock-dialog-warning.svg/50px-Stock-dialog-warning.svg.png)](</File:Stock-dialog-warning.svg>)
 

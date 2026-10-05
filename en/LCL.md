@@ -1,7 +1,6 @@
 # LCL
 
-│ **[Deutsch (de)](</LCL/de> "LCL/de")** │  **English (en)** │  **[suomi (fi)](</LCL/fi> "LCL/fi")** │  **[français (fr)](</LCL/fr> "LCL/fr")** │  **[русский (ru)](<../ru/LCL.md> "LCL/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/LCL.md>)** │
 
 The **Lazarus component library** or **LCL** is very similar to [Delphi](<Delphi.md> "Delphi")'s [VCL](<VCL.md> "VCL") (Visual Component Library). Most Lazarus [units](<Unit.md> "Unit"), [classes](<Class.md> "Class") and [properties](</Property> "Property") have the same name and functionality as their equivalents in Delphi. This makes [porting Delphi applications to Lazarus](<Lazarus_For_Delphi_Users.md> "Lazarus For Delphi Users") relatively easy. 
 

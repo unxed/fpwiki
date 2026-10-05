@@ -1,6 +1,6 @@
 # Object Pascal Introduction
 
-│ [**Deutsch (de)**](</Object_Pascal_Introduction/de> "Object Pascal Introduction/de") │  **English (en)** │  [**español (es)**](</Object_Pascal_Introduction/es> "Object Pascal Introduction/es") │  [**français (fr)**](</Object_Pascal_Introduction/fr> "Object Pascal Introduction/fr") │  [**italiano (it)**](</Object_Pascal_Introduction/it> "Object Pascal Introduction/it") │  [**日本語 (ja)**](</Object_Pascal_Introduction/ja> "Object Pascal Introduction/ja") │  [**한국어 (ko)**](</Object_Pascal_Introduction/ko> "Object Pascal Introduction/ko") │  [**русский (ru)**](<../ru/Object_Pascal_Introduction.md> "Object Pascal Introduction/ru") │  [**svenska (sv)**](</Object_Pascal_Introduction/sv> "Object Pascal Introduction/sv") │  [**中文（中国大陆）‎ (zh_CN)**](</Object_Pascal_Introduction/zh_CN> "Object Pascal Introduction/zh CN") │    
+│ **English (en)** │  **[русский (ru)](<../ru/Object_Pascal_Introduction.md>)** │
 
 
 [ ◄ ](<Object_Pascal_Tutorial.md> "Object Pascal Tutorial") |  [ ▲ ](<Contents.md> "Contents") |  [ ► ](<Object_Pascal_History.md> "Object Pascal History")  

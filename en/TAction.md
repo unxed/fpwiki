@@ -1,7 +1,6 @@
 # TAction
 
-│ **English (en)** │  **[español (es)](</TAction/es> "TAction/es")** │    
-****
+│ **English (en)** │
 
 A **TAction** object is a container for specific action-related topics like events, description, help-topic, icon, shortcut(s). When using TActions in the Action-property of buttons, menus, dialogs, controls it is possible to centralize the effects of mouse-clicks, menu-choices, dialog-selections, shortcuts etc. in a single event handler. 
 

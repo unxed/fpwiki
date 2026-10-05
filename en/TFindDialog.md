@@ -1,7 +1,6 @@
 # TFindDialog
 
-│ **English (en)** │  **[suomi (fi)](</TFindDialog/fi> "TFindDialog/fi")** │  **[français (fr)](</TFindDialog/fr> "TFindDialog/fr")** │  **[русский (ru)](<../ru/TFindDialog.md> "TFindDialog/ru")** │  **[中文（中国大陆）‎ (zh_CN)](</TFindDialog/zh_CN> "TFindDialog/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TFindDialog.md>)** │
 
 **TFindDialog** [![tfinddialog.png](https://wiki.freepascal.org/images/8/87/tfinddialog.png)](</File:tfinddialog.png>) is a component that aids in searching information. It can be found on the [Dialogs tab](<Dialogs_tab.md> "Dialogs tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

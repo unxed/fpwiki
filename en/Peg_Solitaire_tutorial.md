@@ -1,7 +1,6 @@
 # Peg Solitaire tutorial
 
-│ **English (en)** │  **[suomi (fi)](</Peg_Solitaire_tutorial/fi> "Peg Solitaire tutorial/fi")** │    
-****
+│ **English (en)** │
 
 This tutorial is the second Lazarus tutorial that aims at introducing the basics of Lazarus application development. It's best to start this tutorial after having finished the first one ([Howdy World (Hello World on steroids)](<Howdy_World_\(Hello_World_on_steroids\).md> "Howdy World \(Hello World on steroids\)")). This tutorial exlpains a bit about how to work with graphics and how to make a program modular. The final product of this tutorial is a basic but working version of the Peg Solitaire game ([[1]](<http://en.wikipedia.org/wiki/Peg_solitaire>)). If all goes well in the end it will look something like this: 
 

@@ -1,7 +1,6 @@
 # FPDoc Updater
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 ## Contents
 

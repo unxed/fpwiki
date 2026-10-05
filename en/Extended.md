@@ -1,6 +1,6 @@
 # Extended
 
-│ [**Deutsch (de)**](</Extended/de> "Extended/de") │  **English (en)** │  [**français (fr)**](</Extended/fr> "Extended/fr") │    
+│ **English (en)** │  **[русский (ru)](<../ru/Extended.md>)** │
 
 
 **Extended** is a Pascal type that will hold an extended floating point value. 

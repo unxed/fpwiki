@@ -1,6 +1,6 @@
 # Free Pascal
 
-│ [**Deutsch (de)**](</Free_Pascal/de> "Free Pascal/de") │  **English (en)** │  [**français (fr)**](</Free_Pascal/fr> "Free Pascal/fr") │  [**日本語 (ja)**](</Free_Pascal/ja> "Free Pascal/ja") │  [**slovenčina (sk)**](</Free_Pascal/sk> "Free Pascal/sk") │    
+│ **English (en)** │
 
 
 ## Contents

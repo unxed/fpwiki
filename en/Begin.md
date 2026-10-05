@@ -1,7 +1,6 @@
 # Begin
 
-│ **[Deutsch (de)](</Begin/de> "Begin/de")** │  **English (en)** │  **[español (es)](</Begin/es> "Begin/es")** │  **[suomi (fi)](</Begin/fi> "Begin/fi")** │  **[français (fr)](</Begin/fr> "Begin/fr")** │  **[русский (ru)](<../ru/Begin.md> "Begin/ru")** │  **[中文（中国大陆）‎ (zh_CN)](</Begin/zh_CN> "Begin/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Begin.md>)** │
 
 The [reserved word](<Reserved_word.md> "Reserved word") `begin` marks the start of the definition of the executable portion of a [block](<Block.md> "Block"). In conjunction with [`end`](<End.md> "End") it is also used to group [statements](<statement.md> "statement") into a so-called “compound statement”. 
 

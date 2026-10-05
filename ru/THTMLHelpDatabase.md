@@ -1,7 +1,6 @@
 # THTMLHelpDatabase
 
-│ **[English (en)](<../en/THTMLHelpDatabase.md> "THTMLHelpDatabase")** │  **[français (fr)](</THTMLHelpDatabase/fr> "THTMLHelpDatabase/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/THTMLHelpDatabase.md>)** │  **русский (ru)** │
 
 **THTMLHelpDatabase** [![thtmlhelpdatabase.png](https://wiki.freepascal.org/images/3/30/thtmlhelpdatabase.png)](</File:thtmlhelpdatabase.png>) является невизуальным компонентом, который предоставляет контекстную справку для приложения из HTML-файлов. Данный компонент доступен на вкладке [System](<System_tab.md> "System tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

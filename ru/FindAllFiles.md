@@ -1,7 +1,6 @@
 # FindAllFiles
 
-│ **[English (en)](<../en/FindAllFiles.md> "FindAllFiles")** │  **[español (es)](</FindAllFiles/es> "FindAllFiles/es")** │  **[suomi (fi)](</FindAllFiles/fi> "FindAllFiles/fi")** │  **[français (fr)](</FindAllFiles/fr> "FindAllFiles/fr")** │  **[polski (pl)](</FindAllFiles/pl> "FindAllFiles/pl")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/FindAllFiles.md>)** │  **русский (ru)** │
 
 [Unit](<../en/Unit.md> "Unit"): Lazarus [fileutil](<../en/fileutil.md> "fileutil")
 

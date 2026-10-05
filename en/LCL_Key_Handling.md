@@ -1,7 +1,6 @@
 # LCL Key Handling
 
-│ **English (en)** │  **[日本語 (ja)](</LCL_Key_Handling/ja> "LCL Key Handling/ja")** │  **[português (pt)](</LCL_Key_Handling/pt> "LCL Key Handling/pt")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

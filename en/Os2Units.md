@@ -1,7 +1,6 @@
 # Os2Units
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 Interfaces for various libraries provided as part of the OS/2 and eComStation operating systems and extension libraries for these platforms. The following packages are provided: 
 

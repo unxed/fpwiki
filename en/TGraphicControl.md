@@ -1,6 +1,6 @@
 # TGraphicControl
 
-│ **English (en)** │  **[suomi (fi)](</TGraphicControl/fi> "TGraphicControl/fi")** │  **[русский (ru)](<../ru/TGraphicControl.md> "TGraphicControl/ru")** │ 
+│ **English (en)** │  **[русский (ru)](<../ru/TGraphicControl.md>)** │
 
 **TGraphicControl** is a base class for lightweight components like [TBevel](<TBevel.md> "TBevel"). 
 

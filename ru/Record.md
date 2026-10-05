@@ -1,7 +1,6 @@
 # Record
 
-│ **[Deutsch (de)](</Record/de> "Record/de")** │  **[English (en)](<../en/Record.md> "Record")** │  **[español (es)](</Record/es> "Record/es")** │  **[suomi (fi)](</Record/fi> "Record/fi")** │  **[français (fr)](</Record/fr> "Record/fr")** │  **[magyar (hu)](</Record/hu> "Record/hu")** │  **[polski (pl)](</Record/pl> "Record/pl")** │  **[português (pt)](</Record/pt> "Record/pt")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Record.md>)** │  **русский (ru)** │
 
 Структурный [тип](<Type.md> "Type/ru") данных в [Pascal](<../en/Pascal.md> "Pascal") . 
 

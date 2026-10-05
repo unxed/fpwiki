@@ -1,7 +1,6 @@
 # TSaveDialog
 
-│ **English (en)** │  **[français (fr)](</TSaveDialog/fr> "TSaveDialog/fr")** │  **[русский (ru)](<../ru/TSaveDialog.md> "TSaveDialog/ru")** │  **[中文（中国大陆） (zh_CN)](</TSaveDialog/zh_CN> "TSaveDialog/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TSaveDialog.md>)** │
 
 **TSaveDialog** [![tsavedialog.png](https://wiki.freepascal.org/images/4/4a/tsavedialog.png)](</File:tsavedialog.png>) is a dialog that aids in saving files. It can be found on the [Dialogs tab](<Dialogs_tab.md> "Dialogs tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

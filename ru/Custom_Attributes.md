@@ -1,6 +1,6 @@
 # Custom Attributes
 
-│ **[English (en)](<../en/Custom_Attributes.md> "Custom Attributes")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</Custom_Attributes/zh_CN> "Custom Attributes/zh CN")** │ 
+│ **[English (en)](<../en/Custom_Attributes.md>)** │  **русский (ru)** │
 
   
 Пользовательские атрибуты в настоящее время позволяют украшать определения типов и published свойства классов дополнительными метаданными, которые можно запрашивать с помощью RTTI (информация о типе времени выполнения). 

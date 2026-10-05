@@ -1,7 +1,6 @@
 # TDrawGrid
 
-│ **English (en)** │  **[français (fr)](</TDrawGrid/fr> "TDrawGrid/fr")** │  **[русский (ru)](<../ru/TDrawGrid.md> "TDrawGrid/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TDrawGrid.md>)** │
 
 **TDrawGrid** [![tdrawgrid.png](https://wiki.freepascal.org/images/2/2b/tdrawgrid.png)](</File:tdrawgrid.png>) is a component on the [Additional tab](<Additional_tab.md> "Additional tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). A DrawGrid provides a tabular display of graphical information. The developer is responsible for providing the code for drawing. 
 

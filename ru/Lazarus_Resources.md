@@ -1,7 +1,6 @@
 # Lazarus Resources
 
-│ **[Deutsch (de)](</Lazarus_Resources/de> "Lazarus Resources/de")** │  **[English (en)](<../en/Lazarus_Resources.md> "Lazarus Resources")** │  **[español (es)](</Lazarus_Resources/es> "Lazarus Resources/es")** │  **[français (fr)](</Lazarus_Resources/fr> "Lazarus Resources/fr")** │  **[한국어 (ko)](</Lazarus_Resources/ko> "Lazarus Resources/ko")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Lazarus_Resources.md>)** │  **русский (ru)** │
 
 ## Contents
 

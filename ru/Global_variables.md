@@ -1,7 +1,6 @@
 # Global variables
 
-│ **[English (en)](<../en/Global_variables.md> "Global variables")** │  **[suomi (fi)](</Global_variables/fi> "Global variables/fi")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Global_variables.md>)** │  **русский (ru)** │
 
 Глобальная [переменная](<Variable.md> "Variable/ru") \- это переменная, которая объявляется в главной секции программы или в разделе interface [модуля](<Unit.md> "Unit/ru"). Глобальные переменные, объявленные в программе, не могут быть доступны внутри [модуля](<Unit.md> "Unit/ru"). Глобальные переменные, объявленные в [модуле](<Unit.md> "Unit/ru"), могут быть доступны в программе и в других модулях. 
     

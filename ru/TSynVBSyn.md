@@ -1,7 +1,6 @@
 # TSynVBSyn
 
-│ **[English (en)](<../en/TSynVBSyn.md> "TSynVBSyn")** │  **[français (fr)](</TSynVBSyn/fr> "TSynVBSyn/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TSynVBSyn.md>)** │  **русский (ru)** │
 
 **TSynVBSyn** [![tsynvbsyn.png](https://wiki.freepascal.org/images/e/ed/tsynvbsyn.png)](</File:tsynvbsyn.png>) \- компонент, представляющий подсветку корректного синтаксиса кода на языке Visual Basic при его редактировании. Данный компонент является частью пакета [SynEdit](<SynEdit.md> "SynEdit/ru") и доступен на вкладке [SynEdit](<SynEdit_tab.md> "SynEdit tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

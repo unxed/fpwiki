@@ -2,7 +2,7 @@
 
 From Lazarus wiki
 
-[**English (en)**](<Object_Oriented_Programming_with_FreePascal_and_Lazarus.md> "Object Oriented Programming with FreePascal and Lazarus") | [ **Español (es)**](</Object_Oriented_Programming_with_FreePascal_and_Lazarus/es> "Object Oriented Programming with FreePascal and Lazarus/es") | [ **Français (fr)**](</Object_Oriented_Programming_with_FreePascal_and_Lazarus/fr> "Object Oriented Programming with FreePascal and Lazarus/fr") | [ **Magyar (hu)**](</Object_Oriented_Programming_with_FreePascal_and_Lazarus/hu> "Object Oriented Programming with FreePascal and Lazarus/hu") | [ **Italiano (it)**](</Object_Oriented_Programming_with_FreePascal_and_Lazarus/it> "Object Oriented Programming with FreePascal and Lazarus/it") | [ **Македонски (mk)**](</Object_Oriented_Programming_with_FreePascal_and_Lazarus/mk> "Object Oriented Programming with FreePascal and Lazarus/mk") | [ **Русский (ru)**](<../ru/Object_Oriented_Programming_with_FreePascal_and_Lazarus.md> "Object Oriented Programming with FreePascal and Lazarus/ru") | [ **Shqip (sq)**](</Object_Oriented_Programming_with_FreePascal_and_Lazarus/sq> "Object Oriented Programming with FreePascal and Lazarus/sq") | [**‪中文(中国大陆)‬ (zh_CN)**](</Object_Oriented_Programming_with_FreePascal_and_Lazarus/zh_CN> "Object Oriented Programming with FreePascal and Lazarus/zh CN") | [**‪中文(台灣)‬ (zh_TW)**](</Object_Oriented_Programming_with_FreePascal_and_Lazarus/zh_TW> "Object Oriented Programming with FreePascal and Lazarus/zh TW")
+│ **English (en)** │
 
 ## Contents
 

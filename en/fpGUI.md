@@ -1,7 +1,6 @@
 # fpGUI
 
-│ **English (en)** │  [**español (es)**](</fpGUI/es> "fpGUI/es") │    
-****
+│ **English (en)** │
 
 fpGUI is a Object Pascal toolkit for cross-platform application development. It provides single-source portability across Linux, MS Windows, *BSD, Solaris/OpenSolaris, [ReactOS](<ReactOS.md> "ReactOS") and embedded devices like Embedded Linux and Windows CE. fpGUI Toolkit can be used for Open Source and Commercial applications. 
 

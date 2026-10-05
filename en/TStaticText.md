@@ -1,7 +1,6 @@
 # TStaticText
 
-│ **[Deutsch (de)](</TStaticText/de> "TStaticText/de")** │  **English (en)** │  **[français (fr)](</TStaticText/fr> "TStaticText/fr")** │  **[русский (ru)](<../ru/TStaticText.md> "TStaticText/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TStaticText.md>)** │
 
 **TStaticText** [![tstatictext.png](https://wiki.freepascal.org/images/7/72/tstatictext.png)](</File:tstatictext.png>) is a component that creates a text-item on another component. A TStaticText is a descendant of [TWinControl](</index.php?title=TWinControl&action=edit&redlink=1> "TWinControl \(page does not exist\)") and is available under the [Additional tab](<Additional_tab.md> "Additional tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). It is one of the few LCL components which supports the [Transparent](<Transparent.md> "Transparent") property by default. 
 

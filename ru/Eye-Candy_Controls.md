@@ -1,7 +1,6 @@
 # Eye-Candy Controls
 
-│ **[English (en)](<../en/Eye-Candy_Controls.md> "Eye-Candy Controls")** │  **[español (es)](</Eye-Candy_Controls/es> "Eye-Candy Controls/es")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Eye-Candy_Controls.md>)** │  **русский (ru)** │
 
 **Eye Candy Controls** (сокращенно ECControls или EC-Controls) - набор визуальных элементов управления, написанных для Lazarus. Их дизайн основан на Themes, поэтому они выглядят очень нативными везде, независимо от того, какой виджет вы используете. 
 

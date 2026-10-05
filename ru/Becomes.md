@@ -1,7 +1,6 @@
 # Becomes
 
-│ **[English (en)](<../en/Becomes.md> "Becomes")** │  **[suomi (fi)](</Becomes/fi> "Becomes/fi")** │  **[français (fr)](</Becomes/fr> "Becomes/fr")** │  **русский (ru)** │  **[中文（中国大陆）‎ (zh_CN)](</Becomes/zh_CN> "Becomes/zh CN")** │    
-****
+│ **[English (en)](<../en/Becomes.md>)** │  **русский (ru)** │
 
 :=
 

@@ -1,7 +1,6 @@
 # Dispose
 
-│ **[Deutsch (de)](</Dispose/de> "Dispose/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
 Back to [Reserved words](<Reserved_words.md> "Reserved words"). 
 

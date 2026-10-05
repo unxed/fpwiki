@@ -1,7 +1,6 @@
 # Area Calculations Library
 
-│ **[Deutsch (de)](</Area_Calculations_Library/de> "Area Calculations Library/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
 A library for area calculation. 
     

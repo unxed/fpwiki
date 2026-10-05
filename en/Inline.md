@@ -1,7 +1,6 @@
 # Inline
 
-│ **[Deutsch (de)](</Inline/de> "Inline/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
 The [modifier](<modifier.md> "modifier") `inline` requests the [FPC](<FPC.md> "FPC") to consider copying the definition of a [routine](<Routine.md> "Routine") to the call site (“inlining”). The modifier `noinline` prevents the FPC from ever inlining a routine, even automatically (since [SVN revision 41198](<https://gitlab.com/freepascal.org/fpc/source/commit/503ea604f33b5a7dd72d7a6417f9a38774f19263>), as of 2022 only available in Trunk). 
 

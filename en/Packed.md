@@ -1,7 +1,6 @@
 # Packed
 
-│ **[Deutsch (de)](</Packed/de> "Packed/de")** │  **English (en)** │  **[русский (ru)](<../ru/Packed.md> "Packed/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Packed.md>)** │
 
 The [reserved word](<Reserved_word.md> "Reserved word") `packed` tells the compiler to use as little memory as possible for a particular complex data type. Without specifying `packed`, the compiler may insert extra unused bytes between members in order to align the data on full word boundaries for faster access by the CPU. 
     

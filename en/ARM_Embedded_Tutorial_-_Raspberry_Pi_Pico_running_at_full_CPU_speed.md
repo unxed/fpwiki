@@ -1,7 +1,6 @@
 # ARM Embedded Tutorial - Raspberry Pi Pico running at full CPU speed
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
   
 This tutorial is not needed anymore, now Pico is enabled to run at full speed in Initialization Code. 

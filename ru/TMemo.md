@@ -1,7 +1,6 @@
 # TMemo
 
-│ **[Deutsch (de)](</TMemo/de> "TMemo/de")** │  **[English (en)](<../en/TMemo.md> "TMemo")** │  **[suomi (fi)](</TMemo/fi> "TMemo/fi")** │  **[français (fr)](</TMemo/fr> "TMemo/fr")** │  **[日本語 (ja)](</TMemo/ja> "TMemo/ja")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TMemo.md>)** │  **русский (ru)** │
 
 **TMemo** [![tmemo.png](https://wiki.freepascal.org/images/f/f3/tmemo.png)](</File:tmemo.png>) является элементом управления с многострочным полем для редактирования текста. Данный компонент доступен на вкладке [Standard](<Standard_tab.md> "Standard tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

@@ -1,7 +1,6 @@
 # TStatusBar
 
-│ **English (en)** │  **[français (fr)](</TStatusBar/fr> "TStatusBar/fr")** │  **[русский (ru)](<../ru/TStatusBar.md> "TStatusBar/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TStatusBar.md>)** │
 
 **TStatusBar** [![tstatusbar.png](https://wiki.freepascal.org/images/4/42/tstatusbar.png)](</File:tstatusbar.png>) is a visible component on the [Common Controls tab](<Common_Controls_tab.md> "Common Controls tab") of the [Component Palette](<Component_Palette.md> "Component Palette") that provides a status bar consisting of a single area `SimpleText` or a list of text-strings in its property `Panels` that will divide the status bar in two or more separate panels with own contents (text or owner-drawn). 
 

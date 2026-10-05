@@ -1,7 +1,6 @@
 # TPopupMenu
 
-│ **[Deutsch (de)](</TPopupMenu/de> "TPopupMenu/de")** │  **English (en)** │  **[suomi (fi)](</TPopupMenu/fi> "TPopupMenu/fi")** │  **[français (fr)](</TPopupMenu/fr> "TPopupMenu/fr")** │  **[русский (ru)](<../ru/TPopupMenu.md> "TPopupMenu/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TPopupMenu.md>)** │
 
 A **TPopupMenu** [![tpopupmenu.png](https://wiki.freepascal.org/images/5/5d/tpopupmenu.png)](</File:tpopupmenu.png>) is a menu panel that pops up on the desktop when the right mouse button is clicked. 
 

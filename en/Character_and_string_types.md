@@ -1,7 +1,6 @@
 # Character and string types
 
-│ **[Deutsch (de)](</Character_and_string_types/de> "Character and string types/de")** │  **English (en)** │  **[español (es)](</Character_and_string_types/es> "Character and string types/es")** │  **[français (fr)](</Character_and_string_types/fr> "Character and string types/fr")** │  **[русский (ru)](<../ru/Character_and_string_types.md> "Character and string types/ru")** │  **[中文（中国大陆） (zh_CN)](</Character_and_string_types/zh_CN> "Character and string types/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Character_and_string_types.md>)** │
 
 Free Pascal supports several **[character](<Char.md> "Char") and [string](<String.md> "String") types**. They range from single ANSI characters to unicode strings and also include pointer types. Differences also apply to encodings and reference counting. 
 

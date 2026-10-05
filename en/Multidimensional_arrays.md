@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Chapter 5/Multidimensional arrays
 
-│ **[български (bg)](</Basic_Pascal_Tutorial/Chapter_5/Multidimensional_arrays/bg> "Basic Pascal Tutorial/Chapter 5/Multidimensional arrays/bg")** │  **English (en)** │  **[français (fr)](</Basic_Pascal_Tutorial/Chapter_5/Multidimensional_arrays/fr> "Basic Pascal Tutorial/Chapter 5/Multidimensional arrays/fr")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Chapter_5/Multidimensional_arrays/ja> "Basic Pascal Tutorial/Chapter 5/Multidimensional arrays/ja")** │  **[中文（中国大陆） (zh_CN)](</Basic_Pascal_Tutorial/Chapter_5/Multidimensional_arrays/zh_CN> "Basic Pascal Tutorial/Chapter 5/Multidimensional arrays/zh CN")** │    
-****
+│ **English (en)** │
 
 [ ◄ ](<Basic_Pascal_Tutorial/Chapter_5/1-dimensional_arrays.md> "Basic Pascal Tutorial/Chapter 5/1-dimensional arrays") | [ ▲ ](<Basic_Pascal_Tutorial/Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Basic_Pascal_Tutorial/Chapter_5/Records.md> "Basic Pascal Tutorial/Chapter 5/Records")  
 ---|---|---  

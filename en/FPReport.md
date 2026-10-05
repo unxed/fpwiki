@@ -1,7 +1,6 @@
 # FPReport
 
-│ **English (en)** │  **[русский (ru)](<../ru/FPReport.md> "FPReport/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/FPReport.md>)** │
 
 ## Contents
 

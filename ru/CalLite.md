@@ -1,7 +1,6 @@
 # CalLite
 
-│ **[English (en)](<../en/CalLite.md> "CalLite")** │  **[suomi (fi)](</CalLite/fi> "CalLite/fi")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/CalLite.md>)** │  **русский (ru)** │
 
 ## Contents
 

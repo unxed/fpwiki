@@ -1,7 +1,6 @@
 # How To Make Lazarus Docs
 
-│ **[Deutsch (de)](</How_To_Make_Lazarus_Docs/de> "How To Make Lazarus Docs/de")** │  **English (en)** │  **[slovenčina (sk)](</How_To_Make_Lazarus_Docs/sk> "How To Make Lazarus Docs/sk")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

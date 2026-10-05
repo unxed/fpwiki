@@ -1,7 +1,6 @@
 # Code Conversion Guide
 
-│ **[Deutsch (de)](</Code_Conversion_Guide/de> "Code Conversion Guide/de")** │  **English (en)** │  **[español (es)](</Code_Conversion_Guide/es> "Code Conversion Guide/es")** │  **[français (fr)](</Code_Conversion_Guide/fr> "Code Conversion Guide/fr")** │  **[日本語 (ja)](</Code_Conversion_Guide/ja> "Code Conversion Guide/ja")** │  **[português (pt)](</Code_Conversion_Guide/pt> "Code Conversion Guide/pt")** │  **[русский (ru)](<../ru/Code_Conversion_Guide.md> "Code Conversion Guide/ru")** │  **[slovenčina (sk)](</Code_Conversion_Guide/sk> "Code Conversion Guide/sk")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Code_Conversion_Guide.md>)** │
 
 This page is about how to port or convert existing Delphi or Kylix code to work with the [Free Pascal](<Free_Pascal.md> "Free Pascal") Compiler and Lazarus IDE. While Lazarus and the Free Pascal Compiler have aspects in common with Delphi and Kylix, they are not clones. There are a number of library call and convention differences... and in some areas, FPC is enhanced and can be more demanding about correct syntax. Please see the [Lazarus For Delphi Users](<Lazarus_For_Delphi_Users.md> "Lazarus For Delphi Users") guide for a description of some of the functional differences. 
 

@@ -1,7 +1,6 @@
 # unicode use cases
 
-**English (en)** | [**français (fr)**](</unicode_use_cases/fr> "unicode use cases/fr")   
-****
+│ **English (en)** │
 
 ## Contents
 

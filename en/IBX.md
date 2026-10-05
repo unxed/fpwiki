@@ -1,6 +1,6 @@
 # IBX
 
-│ **English (en)** │  [**français (fr)**](</IBX/fr> "IBX/fr") │    
+│ **English (en)** │
 
 
 ## IBX For Lazarus (Firebird Express)

@@ -1,7 +1,6 @@
 # Sample Graphics
 
-│ **English (en)** │  **[español (es)](</Sample_Graphics/es> "Sample Graphics/es")** │    
-****
+│ **English (en)** │
 
 This gallery is to show the designs can be created from Lazarus and drawing tools, like BGRABitmap. 
 

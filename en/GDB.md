@@ -1,7 +1,6 @@
 # GDB
 
-│ **English (en)** │  **[français (fr)](</GDB/fr> "GDB/fr")** │  **[polski (pl)](</GDB/pl> "GDB/pl")** │    
-****
+│ **English (en)** │
 
 [![archer.jpg](https://wiki.freepascal.org/images/2/24/archer.jpg)](</File:archer.jpg>)
 

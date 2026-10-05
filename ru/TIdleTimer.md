@@ -1,7 +1,6 @@
 # TIdleTimer
 
-│ [**English (en)**](<../en/TIdleTimer.md> "TIdleTimer") │  [**français (fr)**](</TIdleTimer/fr> "TIdleTimer/fr") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TIdleTimer.md>)** │  **русский (ru)** │
 
 **TIdleTimer** [![tidletimer.png](https://wiki.freepascal.org/images/0/0e/tidletimer.png)](</File:tidletimer.png>) является компонентом, расположенным на вкладке [System](<System_tab.md> "System tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru") и представляющим собой таймер для измерения времени простоя между процессами. Данный компонент наследует большинство свойств от [TCustomTimer](<http://lazarus-ccr.sourceforge.net/docs/lcl/customtimer/tcustomtimer.html> "doc:lcl/customtimer/tcustomtimer.html"). 
 

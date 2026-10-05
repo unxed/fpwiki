@@ -1,7 +1,6 @@
 # xmlconf
 
-│ **[English (en)](<../en/xmlconf.md> "xmlconf")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/xmlconf.md>)** │  **русский (ru)** │
 
 Модуль XMLConf предоставляет компонент TXMLConfig. Он использует объект TXMLDocument для чтения и записи XML-файла, но происходит непосредственно от TComponent. 
 

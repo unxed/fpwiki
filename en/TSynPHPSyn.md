@@ -1,7 +1,6 @@
 # TSynPHPSyn
 
-│ **English (en)** │  **[français (fr)](</TSynPHPSyn/fr> "TSynPHPSyn/fr")** │  **[русский (ru)](<../ru/TSynPHPSyn.md> "TSynPHPSyn/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TSynPHPSyn.md>)** │
 
 **TSynPHPSyn** [![tsynphpsyn.png](https://wiki.freepascal.org/images/2/22/tsynphpsyn.png)](</File:tsynphpsyn.png>) is a component that provides the PHP-language syntaxchecking-part of syntax-highlighting editing. It is part of the [SynEdit](<SynEdit.md> "SynEdit") package and is available under the [SynEdit tab](<SynEdit_tab.md> "SynEdit tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

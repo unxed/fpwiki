@@ -1,7 +1,7 @@
 # IDE Window: MultiPaste
 
-│ **English (en)** │    
-****  
+│ **English (en)** │
+
 ****This dialog is invoked from the[Main Menu](<Main_menu.md> "Main menu") > [Edit](<Main_menu.md> "Main menu") > MultiPaste... 
 
   

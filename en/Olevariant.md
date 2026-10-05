@@ -6,8 +6,7 @@ This article applies to [Windows](</Category:Windows> "Category:Windows") only.
 
 See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ [**Deutsch (de)**](</Olevariant/de> "Olevariant/de") │  **English (en)** │  [**français (fr)**](</Olevariant/fr> "Olevariant/fr") │    
-****
+│ **English (en)** │
 
   
 Back to [data types](<Data_type.md> "Data type"). 

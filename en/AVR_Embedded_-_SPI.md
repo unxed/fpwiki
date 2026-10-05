@@ -2,7 +2,7 @@
 
 Redirect to:
 
-  * [AVR Embedded Tutorial - SPI/de](</AVR_Embedded_Tutorial_-_SPI/de> "AVR Embedded Tutorial - SPI/de")
+  * AVR Embedded Tutorial - SPI/de
 
 ---
 

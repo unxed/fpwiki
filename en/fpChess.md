@@ -1,7 +1,6 @@
 # fpChess
 
-│ **[Deutsch (de)](</fpChess/de> "fpChess/de")** │  **English (en)** │  **[français (fr)](</fpChess/fr> "fpChess/fr")** │    
-****
+│ **English (en)** │
 
 fpChess is still under construction. It should support playing via the internet as well as against a computer AI. 
 

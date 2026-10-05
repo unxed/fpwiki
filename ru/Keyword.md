@@ -1,7 +1,6 @@
 # Keyword
 
-│ **[Deutsch (de)](</Keyword/de> "Keyword/de")** │  **[English (en)](<../en/Keyword.md> "Keyword")** │  **[Esperanto (eo)](</Keyword/eo> "Keyword/eo")** │  **[suomi (fi)](</Keyword/fi> "Keyword/fi")** │  **[français (fr)](</Keyword/fr> "Keyword/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Keyword.md>)** │  **русский (ru)** │
 
 Ключевое слово - это слово со специальным значением и функцией в языке программирования (см. [зарезервированные слова](<Reserved_words.md> "Reserved words/ru")). 
 

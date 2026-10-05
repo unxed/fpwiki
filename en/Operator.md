@@ -1,6 +1,7 @@
 # Operator
 
-│ **[Deutsch (de)](</Operator/de> "Operator/de")** │  **English (en)** │  **[suomi (fi)](</Operator/fi> "Operator/fi")** │    
+│ **English (en)** │
+
 ****An**operator** is a special kind of [function](<Function.md> "Function"). It can be invoked by placing keywords adjacent to suitable operands. 
 
 The word _operator_ colloquially refers to the symbol or [keyword](<Keyword.md> "Keyword") identifying the function that implements the actual operation. `operator` is also a [reserved word](<Reserved_word.md> "Reserved word") that appears in the course of [operator overloading](<Operator_overloading.md> "Operator overloading"). 

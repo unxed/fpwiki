@@ -1,7 +1,6 @@
 # 15-puzzle
 
-│ **English (en)** │  **[suomi (fi)](</15-puzzle/fi> "15-puzzle/fi")** │  **[français (fr)](</15-puzzle/fr> "15-puzzle/fr")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

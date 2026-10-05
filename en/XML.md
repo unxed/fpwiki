@@ -1,7 +1,6 @@
 # XML
 
-│ **English (en)** │  **[中文（中国大陆） (zh_CN)](</XML/zh_CN> "XML/zh CN")** │    
-****
+│ **English (en)** │
 
 The E**x** tensible **M** arkup **L** anguage (XML) is a W3C recommended language created to interchange information between different systems. It is a text based way to store information. 
 

@@ -1,7 +1,6 @@
 # Multiplatform Programming Guide
 
-│ **[Deutsch (de)](</Multiplatform_Programming_Guide/de> "Multiplatform Programming Guide/de")** │  **English (en)** │  **[español (es)](</Multiplatform_Programming_Guide/es> "Multiplatform Programming Guide/es")** │  **[français (fr)](</Multiplatform_Programming_Guide/fr> "Multiplatform Programming Guide/fr")** │  **[日本語 (ja)](</Multiplatform_Programming_Guide/ja> "Multiplatform Programming Guide/ja")** │  **[polski (pl)](</Multiplatform_Programming_Guide/pl> "Multiplatform Programming Guide/pl")** │  **[русский (ru)](<../ru/Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide/ru")** │  **[中文（中国大陆） (zh_CN)](</Multiplatform_Programming_Guide/zh_CN> "Multiplatform Programming Guide/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Multiplatform_Programming_Guide.md>)** │
 
 This is a tutorial on writing cross-platform applications with Lazarus and Free Pascal. It will cover the necessary precautions to aid in creating a cross-platform ready program that is ready to [deploy](<Deploying_Your_Application.md> "Deploying Your Application"). 
 

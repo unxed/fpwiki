@@ -1,7 +1,6 @@
 # IDE Window: JCF Format Settings Options
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 [![](https://wiki.freepascal.org/images/f/f8/IDE-options-JCF-Format-Settings.JPG)](</File:IDE-options-JCF-Format-Settings.JPG>)
 

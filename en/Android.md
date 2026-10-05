@@ -1,7 +1,6 @@
 # Android
 
-│ **English (en)** │  **[español (es)](</Android/es> "Android/es")** │  **[français (fr)](</Android/fr> "Android/fr")** │  **[polski (pl)](</Android/pl> "Android/pl")** │  **[русский (ru)](<../ru/Android.md> "Android/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Android.md>)** │
 
 All Articles about Android are listed in [Portal:Android](<Portal_Android.md> "Portal:Android"). 
 

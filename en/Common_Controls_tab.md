@@ -1,7 +1,6 @@
 # Common Controls tab
 
-│ **English (en)** │  **[español (es)](</Common_Controls_tab/es> "Common Controls tab/es")** │  **[suomi (fi)](</Common_Controls_tab/fi> "Common Controls tab/fi")** │  **[français (fr)](</Common_Controls_tab/fr> "Common Controls tab/fr")** │  **[polski (pl)](</Common_Controls_tab/pl> "Common Controls tab/pl")** │  **[русский (ru)](<../ru/Common_Controls_tab.md> "Common Controls tab/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Common_Controls_tab.md>)** │
 
 The **Common Controls tab** of the [Component Palette](<Component_Palette.md> "Component Palette") contains visible components like progress bars and viewers. 
 

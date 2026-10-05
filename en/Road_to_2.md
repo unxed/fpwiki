@@ -1,7 +1,6 @@
 # Road to 2.0
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 This document describes the planned road to FPC 2.0.0 which will be the next stable version of FPC. It contains information how things are planned, however this might change from time to time. 
 

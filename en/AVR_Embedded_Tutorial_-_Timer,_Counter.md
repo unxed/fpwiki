@@ -1,6 +1,6 @@
 # AVR Embedded Tutorial - Timer, Counter
 
-│ [**Deutsch (de)**](</AVR_Embedded_Tutorial_-_Timer,_Counter/de> "AVR Embedded Tutorial - Timer, Counter/de") │  **English (en)** │ 
+│ **English (en)** │
 
 ## Contents
 

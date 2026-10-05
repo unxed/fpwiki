@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Contents
 
-│ **[العربية (ar)](</Basic_Pascal_Tutorial/Contents/ar> "Basic Pascal Tutorial/Contents/ar")** │  **[български (bg)](</Basic_Pascal_Tutorial/Contents/bg> "Basic Pascal Tutorial/Contents/bg")** │  **[Deutsch (de)](</Basic_Pascal_Tutorial/Contents/de> "Basic Pascal Tutorial/Contents/de")** │  **English (en)** │  **[español (es)](</Basic_Pascal_Tutorial/Contents/es> "Basic Pascal Tutorial/Contents/es")** │  **[français (fr)](</Basic_Pascal_Tutorial/Contents/fr> "Basic Pascal Tutorial/Contents/fr")** │  **[italiano (it)](</Basic_Pascal_Tutorial/Contents/it> "Basic Pascal Tutorial/Contents/it")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Contents/ja> "Basic Pascal Tutorial/Contents/ja")** │  **[한국어 (ko)](</Basic_Pascal_Tutorial/Contents/ko> "Basic Pascal Tutorial/Contents/ko")** │  **[русский (ru)](<../../ru/Basic_Pascal_Tutorial/Contents.md> "Basic Pascal Tutorial/Contents/ru")** │  **[中文（中国大陆） (zh_CN)](</Basic_Pascal_Tutorial/Contents/zh_CN> "Basic Pascal Tutorial/Contents/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../../ru/Basic_Pascal_Tutorial/Contents.md>)** │
 
   * [Introduction](<Introduction.md> "Basic Pascal Tutorial/Introduction")
   * [History of Pascal](<History.md> "Basic Pascal Tutorial/History")

@@ -1,8 +1,6 @@
 # IDE Window: Object Inspector
 
-│ **[Deutsch (de)](</IDE_Window:_Object_Inspector/de> "IDE Window: Object Inspector/de")** │  **English (en)** │  **[suomi (fi)](</IDE_Window:_Object_Inspector/fi> "IDE Window: Object Inspector/fi")** │  **[日本語 (ja)](</IDE_Window:_Object_Inspector/ja> "IDE Window: Object Inspector/ja")** │    
-****  
-****
+│ **English (en)** │
 
 ## Contents
 

@@ -1,7 +1,6 @@
 # TDBText
 
-│ [**English (en)**](<../en/TDBText.md> "TDBText") │  [**français (fr)**](</TDBText/fr> "TDBText/fr") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TDBText.md>)** │  **русский (ru)** │
 
 **TDBText** [![tdbtext.png](https://wiki.freepascal.org/images/9/9d/tdbtext.png)](</File:tdbtext.png>) является элементом управления для представления статической текстовой информации при использовании с подключенной базой данных. Компонент TDBText доступен на вкладке [Data Controls](<Data_Controls_tab.md> "Data Controls tab/ru") [панели управления](<Component_Palette.md> "Component Palette/ru"). 
 

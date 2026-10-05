@@ -1,8 +1,6 @@
 # IDE Window: Run parameters
 
-│ **[Deutsch (de)](</IDE_Window:_Run_parameters/de> "IDE Window: Run parameters/de")** │  **English (en)** │  **[français (fr)](</IDE_Window:_Run_parameters/fr> "IDE Window: Run parameters/fr")** │  **[日本語 (ja)](</IDE_Window:_Run_parameters/ja> "IDE Window: Run parameters/ja")** │    
-****  
-****
+│ **English (en)** │
 
 ## Contents
 

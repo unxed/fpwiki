@@ -1,7 +1,6 @@
 # GUI design guidelines
 
-│ **[Deutsch (de)](</GUI_design_guidelines/de> "GUI design guidelines/de")** │  **English (en)** │  **[français (fr)](</GUI_design_guidelines/fr> "GUI design guidelines/fr")** │  **[日本語 (ja)](</GUI_design_guidelines/ja> "GUI design guidelines/ja")** │  **[русский (ru)](<../ru/GUI_design_guidelines.md> "GUI design guidelines/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/GUI_design_guidelines.md>)** │
 
 These guidelines apply to the Lazarus IDE but may be used for other projects as well. 
 

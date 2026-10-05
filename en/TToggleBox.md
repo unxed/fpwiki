@@ -1,7 +1,6 @@
 # TToggleBox
 
-│ **[Deutsch (de)](</TToggleBox/de> "TToggleBox/de")** │  **English (en)** │  **[suomi (fi)](</TToggleBox/fi> "TToggleBox/fi")** │  **[français (fr)](</TToggleBox/fr> "TToggleBox/fr")** │  **[русский (ru)](<../ru/TToggleBox.md> "TToggleBox/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TToggleBox.md>)** │
 
 A **TToggleBox** [![ttogglebox.png](https://wiki.freepascal.org/images/5/5e/ttogglebox.png)](</File:ttogglebox.png>) is a two state labeled button that is enabled or disabled with a single click. It is available on the [Standard tab](<Standard_tab.md> "Standard tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

@@ -12,8 +12,7 @@ This article applies to [Windows CE](</Category:WinCE> "Category:WinCE") only.
 
 See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **English (en)** │  **[français (fr)](</KOL-CE/fr> "KOL-CE/fr")** │  **[한국어 (ko)](</KOL-CE/ko> "KOL-CE/ko")** │  **[русский (ru)](<../ru/KOL-CE.md> "KOL-CE/ru")** │  **[中文（中国大陆） (zh_CN)](</KOL-CE/zh_CN> "KOL-CE/zh CN")** │  **[中文（臺灣） (zh_TW)](</KOL-CE/zh_TW> "KOL-CE/zh TW")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/KOL-CE.md>)** │
 
 ## Contents
 

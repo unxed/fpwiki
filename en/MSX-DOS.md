@@ -1,7 +1,6 @@
 # MSX-DOS
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 MSX-DOS is a CP/M-DOS-like operating system developed by Microsoft for the Z80 based MSX computer. 
 

@@ -1,7 +1,6 @@
 # Basic Pascal Tutorial/Chapter 4/Procedures
 
-│ **[български (bg)](</Basic_Pascal_Tutorial/Chapter_4/Procedures/bg> "Basic Pascal Tutorial/Chapter 4/Procedures/bg")** │  **English (en)** │  **[français (fr)](</Basic_Pascal_Tutorial/Chapter_4/Procedures/fr> "Basic Pascal Tutorial/Chapter 4/Procedures/fr")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Chapter_4/Procedures/ja> "Basic Pascal Tutorial/Chapter 4/Procedures/ja")** │  **[中文（中国大陆） (zh_CN)](</Basic_Pascal_Tutorial/Chapter_4/Procedures/zh_CN> "Basic Pascal Tutorial/Chapter 4/Procedures/zh CN")** │    
-****
+│ **English (en)** │
 
 [ ◄ ](<../Chapter_3/Solution.md> "Basic Pascal Tutorial/Chapter 3/Solution") | [ ▲ ](<../Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Parameters.md> "Basic Pascal Tutorial/Chapter 4/Parameters")  
 ---|---|---  

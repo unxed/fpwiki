@@ -1,7 +1,6 @@
 # IDE Window: Find in files
 
-│ [**Deutsch (de)**](</IDE_Window:_Find_in_files/de> "IDE Window: Find in files/de") │  **English (en)** │  [**suomi (fi)**](</IDE_Window:_Find_in_files/fi> "IDE Window: Find in files/fi") │  [**français (fr)**](</IDE_Window:_Find_in_files/fr> "IDE Window: Find in files/fr") │    
-****
+│ **English (en)** │
 
 This dialog allows to setup search and replace patterns for searching in multiple files. 
 

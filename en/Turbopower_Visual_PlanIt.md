@@ -1,7 +1,6 @@
 # Turbopower Visual PlanIt
 
-│ **English (en)** │  **[português (pt)](</Turbopower_Visual_PlanIt/pt> "Turbopower Visual PlanIt/pt")** │  **[русский (ru)](<../ru/Turbopower_Visual_PlanIt.md> "Turbopower Visual PlanIt/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Turbopower_Visual_PlanIt.md>)** │
 
 ## Contents
 

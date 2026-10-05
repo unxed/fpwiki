@@ -1,7 +1,6 @@
 # Shortint
 
-│ **[Deutsch (de)](</Shortint/de> "Shortint/de")** │  **[English (en)](<../en/Shortint.md> "Shortint")** │  **[suomi (fi)](</Shortint/fi> "Shortint/fi")** │  **[français (fr)](</Shortint/fr> "Shortint/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Shortint.md>)** │  **русский (ru)** │
 
 Тип **shortint** является знаковым целым типом, поддерживающим значения в диапазоне от -128 до 127. Переменная типа **shortint** занимает 8 бит. 
 

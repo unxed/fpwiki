@@ -1,6 +1,6 @@
 # BitSizeOf
 
-│ **[Deutsch (de)](</BitSizeOf/de> "BitSizeOf/de")** │  **English (en)** │ 
+│ **English (en)** │
 
 The compiler intrinsic function **`bitSizeOf`** returns the size of a datum in bits. 
 

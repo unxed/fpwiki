@@ -1,7 +1,6 @@
 # TCoolBar
 
-│ **[English (en)](<../en/TCoolBar.md> "TCoolBar")** │  **[français (fr)](</TCoolBar/fr> "TCoolBar/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TCoolBar.md>)** │  **русский (ru)** │
 
 **TCoolBar** [![tcoolbar.png](https://wiki.freepascal.org/images/c/cf/tcoolbar.png)](</File:tcoolbar.png>) является визуальным компонентом, расположенным на вкладке [Common Controls](<Common_Controls_tab.md> "Common Controls tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru") и представляющим собой панель(-и) инструментов с [кнопками TSpeedButton](<TSpeedButton.md> "TSpeedButton/ru"), который по умолчанию выравнивается в верхней части формы. 
 

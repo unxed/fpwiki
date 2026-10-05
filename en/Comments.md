@@ -1,6 +1,7 @@
 # Comments
 
-│ **[Deutsch (de)](</Comments/de> "Comments/de")** │  **English (en)** │  **[suomi (fi)](</Comments/fi> "Comments/fi")** │  **[français (fr)](</Comments/fr> "Comments/fr")** │  **[italiano (it)](</Comments/it> "Comments/it")** │  **[русский (ru)](<../ru/Comments.md> "Comments/ru")** │    
+│ **English (en)** │  **[русский (ru)](<../ru/Comments.md>)** │
+
 ****Go to:[Reserved words](<Reserved_words.md> "Reserved words") | [Operators](<Operators.md> "Operators")
 
 Comments are human-readable notes or other kinds of annotations to support understanding of code. They are not interpreted by the compiler and ignored when building your program. 

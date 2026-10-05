@@ -1,7 +1,6 @@
 # Android Programming
 
-│ **[English (en)](<../en/Android_Programming.md> "Android Programming")** │  **[日本語 (ja)](</Android_Programming/ja> "Android Programming/ja")** │  **[한국어 (ko)](</Android_Programming/ko> "Android Programming/ko")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</Android_Programming/zh_CN> "Android Programming/zh CN")** │    
-****
+│ **[English (en)](<../en/Android_Programming.md>)** │  **русский (ru)** │
 
 Смотрите также [Custom Drawn Interface/Android](<../en/Custom_Drawn_Interface/Android.md> "Custom Drawn Interface/Android")
 

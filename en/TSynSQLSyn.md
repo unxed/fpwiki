@@ -1,7 +1,6 @@
 # TSynSQLSyn
 
-│ **English (en)** │  **[français (fr)](</TSynSQLSyn/fr> "TSynSQLSyn/fr")** │  **[русский (ru)](<../ru/TSynSQLSyn.md> "TSynSQLSyn/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TSynSQLSyn.md>)** │
 
 **TSynSQLSyn** [![tsynsqlsyn.png](https://wiki.freepascal.org/images/f/fc/tsynsqlsyn.png)](</File:tsynsqlsyn.png>) is a component that provides the SQL-query-language syntaxchecking-part of syntax-highlighting editing. It is part of the [SynEdit](<SynEdit.md> "SynEdit") package and is available under the [SynEdit tab](<SynEdit_tab.md> "SynEdit tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

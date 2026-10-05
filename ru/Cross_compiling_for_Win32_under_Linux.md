@@ -1,7 +1,6 @@
 # Cross compiling for Win32 under Linux
 
-│ **[English (en)](<../en/Cross_compiling_for_Win32_under_Linux.md> "Cross compiling for Win32 under Linux")** │  **[français (fr)](</Cross_compiling_for_Win32_under_Linux/fr> "Cross compiling for Win32 under Linux/fr")** │  **[magyar (hu)](</Cross_compiling_for_Win32_under_Linux/hu> "Cross compiling for Win32 under Linux/hu")** │  **[italiano (it)](</Cross_compiling_for_Win32_under_Linux/it> "Cross compiling for Win32 under Linux/it")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</Cross_compiling_for_Win32_under_Linux/zh_CN> "Cross compiling for Win32 under Linux/zh CN")** │    
-****
+│ **[English (en)](<../en/Cross_compiling_for_Win32_under_Linux.md>)** │  **русский (ru)** │
 
 ## Contents
 

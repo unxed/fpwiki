@@ -1,7 +1,6 @@
 # IDE Window: External Tools
 
-│ **[Deutsch (de)](</IDE_Window:_External_Tools/de> "IDE Window: External Tools/de")** │  **English (en)** │  **[français (fr)](</IDE_Window:_External_Tools/fr> "IDE Window: External Tools/fr")** │  **[português (pt)](</IDE_Window:_External_Tools/pt> "IDE Window: External Tools/pt")** │    
-****
+│ **English (en)** │
 
 [![IDE Window - External Tools.png](https://wiki.freepascal.org/images/f/f5/IDE_Window_-_External_Tools.png)](</File:IDE_Window_-_External_Tools.png>)
 

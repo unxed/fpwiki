@@ -1,7 +1,6 @@
 # LazToApk
 
-│ **English (en)** │  **[русский (ru)](<../ru/LazToApk.md> "LazToApk/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/LazToApk.md>)** │
 
 # About
 

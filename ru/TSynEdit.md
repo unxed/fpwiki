@@ -1,7 +1,6 @@
 # TSynEdit
 
-│ [**English (en)**](<../en/TSynEdit.md> "TSynEdit") │  [**suomi (fi)**](</TSynEdit/fi> "TSynEdit/fi") │  [**français (fr)**](</TSynEdit/fr> "TSynEdit/fr") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TSynEdit.md>)** │  **русский (ru)** │
 
 **TSynEdit** [![tsynedit.png](https://wiki.freepascal.org/images/8/82/tsynedit.png)](</File:tsynedit.png>) \- это компонент, представляющий собой элемент отображения редактируемого текста с подсветкой синтаксиса. Данный компонент является частью пакета [SynEdit](<SynEdit.md> "SynEdit/ru") и доступен на вкладке [SynEdit](<SynEdit_tab.md> "SynEdit tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

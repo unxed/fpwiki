@@ -1,7 +1,6 @@
 # IDE Window: Menu Editor
 
-│ **English (en)** │  **[suomi (fi)](</IDE_Window:_Menu_Editor/fi> "IDE Window: Menu Editor/fi")** │    
-****
+│ **English (en)** │
 
 ![Light bulb](https://upload.wikimedia.org/wikipedia/commons/d/d8/Nuvola_apps_ktip.png) **Note:** Description of old version Menu Editor you can see (and edit) at [discussion page](</Talk:IDE_Window:_Menu_Editor> "Talk:IDE Window: Menu Editor")
 

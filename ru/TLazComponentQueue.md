@@ -1,7 +1,6 @@
 # TLazComponentQueue
 
-│ **[English (en)](<../en/TLazComponentQueue.md> "TLazComponentQueue")** │  **[français (fr)](</TLazComponentQueue/fr> "TLazComponentQueue/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TLazComponentQueue.md>)** │  **русский (ru)** │
 
 **TLazComponentQueue** [![tlazcomponentqueue.png](https://wiki.freepascal.org/images/d/d1/tlazcomponentqueue.png)](</File:tlazcomponentqueue.png>) является невизуальным компонентом, который помогает при работе с потоковыми компонентами при многопоточности или сетевой передаче данных. Данный компонент доступен на вкладке [System tab](<System_tab.md> "System tab/ru") [палитры компонентов](<../en/Component_Palette.md> "Component Palette"). 
 

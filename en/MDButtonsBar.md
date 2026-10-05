@@ -1,7 +1,6 @@
 # MDButtonsBar
 
-│ **[Deutsch (de)](</MDButtonsBar/de> "MDButtonsBar/de")** │  **English (en)** │  **[español (es)](</MDButtonsBar/es> "MDButtonsBar/es")** │  **[português (pt)](</MDButtonsBar/pt> "MDButtonsBar/pt")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

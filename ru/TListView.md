@@ -1,7 +1,6 @@
 # TListView
 
-│ **[English (en)](<../en/TListView.md> "TListView")** │  **[français (fr)](</TListView/fr> "TListView/fr")** │  **[polski (pl)](</TListView/pl> "TListView/pl")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TListView.md>)** │  **русский (ru)** │
 
 **TListView** [![tlistview.png](https://wiki.freepascal.org/images/c/c8/tlistview.png)](</File:tlistview.png>) является визуальным компонентом, расположенным на вкладке [Common Controls](<Common_Controls_tab.md> "Common Controls tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru") и предоставляющим отображение элементов в виде списка. Элементы списка могут быть представлены в виде значков из связанного компонента [TImageList](<TImageList.md> "TImageList/ru") \- за это отвечают свойства _SmallImages_ , _LargeImages_ и _StateImages_. 
 

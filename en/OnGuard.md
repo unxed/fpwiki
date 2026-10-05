@@ -1,7 +1,6 @@
 # OnGuard
 
-│ **English (en)** │  **[português (pt)](</OnGuard/pt> "OnGuard/pt")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

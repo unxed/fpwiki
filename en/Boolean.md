@@ -1,7 +1,6 @@
 # Boolean
 
-│ **[Deutsch (de)](</Boolean/de> "Boolean/de")** │  **English (en)** │  **[suomi (fi)](</Boolean/fi> "Boolean/fi")** │  **[français (fr)](</Boolean/fr> "Boolean/fr")** │  **[русский (ru)](<../ru/Boolean.md> "Boolean/ru")** │  **[中文（中国大陆） (zh_CN)](</Boolean/zh_CN> "Boolean/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Boolean.md>)** │
 
 ## Overview
 

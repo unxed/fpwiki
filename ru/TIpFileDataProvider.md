@@ -1,7 +1,6 @@
 # TIpFileDataProvider
 
-│ **[English (en)](<../en/TIpFileDataProvider.md> "TIpFileDataProvider")** │  **[français (fr)](</TIpFileDataProvider/fr> "TIpFileDataProvider/fr")** │  **[polski (pl)](</TIpFileDataProvider/pl> "TIpFileDataProvider/pl")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TIpFileDataProvider.md>)** │  **русский (ru)** │
 
 Компонент **TIpFileDataProvider** [![tipfiledataprovider.png](https://wiki.freepascal.org/images/4/4e/tipfiledataprovider.png)](</File:tipfiledataprovider.png>) является интерфейсом между [TIpHtmlPanel](<TIpHtmlPanel.md> "TIpHtmlPanel/ru") и файловой системой. Он является частью пакета Turbopower Internet Pro, обеспечивающий собственный доступ к HTML. Данный компонент доступен на вкладке [IPro](<IPro_tab.md> "IPro tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). 
 

@@ -1,6 +1,6 @@
 # BGRABitmap Pixel types
 
-│ **[English (en)](<../en/BGRABitmap_Pixel_types.md> "BGRABitmap Pixel types")** │  **русский (ru)** │ 
+│ **[English (en)](<../en/BGRABitmap_Pixel_types.md>)** │  **русский (ru)** │
 
 Список типов пикселей и функций библиотеки [BGRABitmap](<../en/BGRABitmap.md> "BGRABitmap"). Они предоставляются модулем _BGRABitmapTypes_. 
 

@@ -1,7 +1,6 @@
 # TCalendar
 
-│ **English (en)** │  **[français (fr)](</TCalendar/fr> "TCalendar/fr")** │  **[русский (ru)](<../ru/TCalendar.md> "TCalendar/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TCalendar.md>)** │
 
 [![component-TDBCalendar.png](https://wiki.freepascal.org/images/9/9e/component-TDBCalendar.png)](</File:component-TDBCalendar.png>)
 

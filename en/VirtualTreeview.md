@@ -1,7 +1,6 @@
 # VirtualTreeview
 
-│ **[Deutsch (de)](</VirtualTreeview/de> "VirtualTreeview/de")** │  **English (en)** │  **[español (es)](</VirtualTreeview/es> "VirtualTreeview/es")** │  **[français (fr)](</VirtualTreeview/fr> "VirtualTreeview/fr")** │  **[polski (pl)](</VirtualTreeview/pl> "VirtualTreeview/pl")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

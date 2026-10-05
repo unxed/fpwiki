@@ -1,7 +1,6 @@
 # Str
 
-│ **[Deutsch (de)](</Str/de> "Str/de")** │  **English (en)** │  **[русский (ru)](<../ru/Str.md> "Str/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Str.md>)** │
 
 The [`procedure`](<Procedure.md> "Procedure") [`str`](<https://www.freepascal.org/docs-html/rtl/system/str.html>) converts an ordinal or [`real`](<Real.md> "Real") type value to a string representation thereof. It is a [UCSD Pascal](<UCSD_Pascal.md> "UCSD Pascal") extension that was picked up and generalized by [Borland Pascal](<Borland_Pascal.md> "Borland Pascal"). The [FreePascal compiler](<FPC.md> "FPC") supports it, too, as described here. 
 

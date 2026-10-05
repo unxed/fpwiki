@@ -1,7 +1,6 @@
 # Console projects
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 ## Contents
 

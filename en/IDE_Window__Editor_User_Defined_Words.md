@@ -1,7 +1,6 @@
 # IDE Window: Editor User Defined Words
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 _**This is part of the online help for the IDE.**_  
 It describes the section: "Editor" / "User defined markup". You can open the described dialog in IDE via:  

@@ -6,8 +6,7 @@
 
 См. также: [Multiplatform Programming Guide](<../en/Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **[English (en)](<../en/How_to_setup_a_FPC_and_Lazarus_Ubuntu_repository.md> "How to setup a FPC and Lazarus Ubuntu repository")** │  **[français (fr)](</How_to_setup_a_FPC_and_Lazarus_Ubuntu_repository/fr> "How to setup a FPC and Lazarus Ubuntu repository/fr")** │  **[日本語 (ja)](</How_to_setup_a_FPC_and_Lazarus_Ubuntu_repository/ja> "How to setup a FPC and Lazarus Ubuntu repository/ja")** │  **[português (pt)](</How_to_setup_a_FPC_and_Lazarus_Ubuntu_repository/pt> "How to setup a FPC and Lazarus Ubuntu repository/pt")** │  **русский (ru)** │  **[slovenčina (sk)](</How_to_setup_a_FPC_and_Lazarus_Ubuntu_repository/sk> "How to setup a FPC and Lazarus Ubuntu repository/sk")** │    
-****
+│ **[English (en)](<../en/How_to_setup_a_FPC_and_Lazarus_Ubuntu_repository.md>)** │  **русский (ru)** │
 
 ## Contents
 

@@ -1,7 +1,6 @@
 # period
 
-│ **English (en)** │  **[suomi (fi)](</period/fi> "period/fi")** │  **[français (fr)](</period/fr> "period/fr")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

@@ -1,7 +1,6 @@
 # Setup Cross Compile For ARM
 
-│ **[English (en)](<../en/Setup_Cross_Compile_For_ARM.md> "Setup Cross Compile For ARM")** │  **[español (es)](</Setup_Cross_Compile_For_ARM/es> "Setup Cross Compile For ARM/es")** │  **[magyar (hu)](</Setup_Cross_Compile_For_ARM/hu> "Setup Cross Compile For ARM/hu")** │  **[Bahasa Indonesia (id)](</Setup_Cross_Compile_For_ARM/id> "Setup Cross Compile For ARM/id")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Setup_Cross_Compile_For_ARM.md>)** │  **русский (ru)** │
 
 # Ubuntu 12.04.4 LTS
 

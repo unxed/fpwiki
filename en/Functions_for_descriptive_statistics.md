@@ -2,7 +2,7 @@
 
 [![fpc source logo.png](https://wiki.freepascal.org/images/e/e1/fpc_source_logo.png)](</File:fpc_source_logo.png>)
 
-│ **English (en)** │  [**français (fr)**](</Functions_for_descriptive_statistics/fr> "Functions for descriptive statistics/fr") │    
+│ **English (en)** │
 
 
 Descriptive statistics aim at characterising empirical data by summative parameters (and also by tables and plots}. 

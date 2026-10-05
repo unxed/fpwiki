@@ -1,7 +1,6 @@
 # Pascal Script
 
-│ **[Deutsch (de)](</Pascal_Script/de> "Pascal Script/de")** │  **[English (en)](<../en/Pascal_Script.md> "Pascal Script")** │  **[español (es)](</Pascal_Script/es> "Pascal Script/es")** │  **[日本語 (ja)](</Pascal_Script/ja> "Pascal Script/ja")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Pascal_Script.md>)** │  **русский (ru)** │
 
   
 **Pascal Script** \- это [Object Pascal](<../en/Object_Pascal.md> "Object Pascal")/[Delphi](<../en/Delphi.md> "Delphi")/[Lazarus](<../en/Lazarus.md> "Lazarus")-совместимый интерпретатор с компилятором байт-кода, который предоставляет среду [scripting](<../en/PascalScript.md> "PascalScript") для прикладных программ. В настоящее время он работает в Windows и Linux на 32-битном и 64-битном процессорах Intel. Он был создан и поддерживается Carlo Kok, защищен авторским правом [RemObjects software](<http://www.remobjects.com>) как бесплатное ПО с полным исходным кодом. Исправление нескольких несовместимостей между ROPS (RemObjects Pascal Script) и FreePascal 2.0.1 было сделано Bogusław Brandys с большой помощью многих разработчиков из IRC-каналов #fpc и # lazarus-ide. Благодарю вас. 

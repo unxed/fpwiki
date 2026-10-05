@@ -1,7 +1,6 @@
 # SMNetGradient
 
-│ **English (en)** │  **[español (es)](</SMNetGradient/es> "SMNetGradient/es")** │  **[français (fr)](</SMNetGradient/fr> "SMNetGradient/fr")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

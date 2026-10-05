@@ -1,7 +1,6 @@
 # Multimedia Programming
 
-│ **[Deutsch (de)](</Multimedia_Programming/de> "Multimedia Programming/de")** │  **English (en)** │  **[日本語 (ja)](</Multimedia_Programming/ja> "Multimedia Programming/ja")** │  **[한국어 (ko)](</Multimedia_Programming/ko> "Multimedia Programming/ko")** │  **[русский (ru)](<../ru/Multimedia_Programming.md> "Multimedia Programming/ru")** │  **[中文（中国大陆）‎ (zh_CN)](</Multimedia_Programming/zh_CN> "Multimedia Programming/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Multimedia_Programming.md>)** │
 
 ## Contents
 

@@ -1,7 +1,6 @@
 # FPC documentation
 
-│ **[العربية (ar)](</FPC_documentation/ar> "FPC documentation/ar")** │  **[Deutsch (de)](</FPC_documentation/de> "FPC documentation/de")** │  **English (en)** │  **[español (es)](</FPC_documentation/es> "FPC documentation/es")** │  **[français (fr)](</FPC_documentation/fr> "FPC documentation/fr")** │  **[magyar (hu)](</FPC_documentation/hu> "FPC documentation/hu")** │  **[Bahasa Indonesia (id)](</FPC_documentation/id> "FPC documentation/id")** │  **[日本語 (ja)](</FPC_documentation/ja> "FPC documentation/ja")** │  **[한국어 (ko)](</FPC_documentation/ko> "FPC documentation/ko")** │  **[português (pt)](</FPC_documentation/pt> "FPC documentation/pt")** │  **[русский (ru)](<../ru/FPC_documentation.md> "FPC documentation/ru")** │  **[Türkçe (tr)](</FPC_documentation/tr> "FPC documentation/tr")** │  **[中文（中国大陆） (zh_CN)](</FPC_documentation/zh_CN> "FPC documentation/zh CN")** │  **[中文（臺灣） (zh_TW)](</FPC_documentation/zh_TW> "FPC documentation/zh TW")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/FPC_documentation.md>)** │
 
 This page collects **FPC documentation** related articles which do not fit into the official documentation or which aren't ready for the official documentation yet. 
 

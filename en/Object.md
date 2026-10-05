@@ -1,6 +1,7 @@
 # Object
 
-│ **[Deutsch (de)](</Object/de> "Object/de")** │  **English (en)** │  **[français (fr)](</Object/fr> "Object/fr")** │    
+│ **English (en)** │
+
 ****Back to:[data types](<Data_type.md> "Data type") | [reserved words](<Reserved_words.md> "Reserved words"). 
 
 The reserved word **object** is used to construct complex data types that contain both functions, procedures and data. Object allows the user to perform Object-Oriented Programming (OOP). It is similar to [class](<Class.md> "Class") in the types it can create, but by default objects are created on the [stack](</index.php?title=Stack&action=edit&redlink=1> "Stack \(page does not exist\)"), while class data is created on the [heap](</index.php?title=Heap&action=edit&redlink=1> "Heap \(page does not exist\)"). However, object created types can be created on the heap by using the [new](<New.md> "New") procedure. Object was introduced in [Turbo Pascal](<Turbo_Pascal.md> "Turbo Pascal"), while [class](<Class.md> "Class") was introduced in [Delphi](<Delphi.md> "Delphi"). Object is maintained for backward compatibility with Turbo Pascal and has largely been superseded by [class](<Class.md> "Class"). 

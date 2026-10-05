@@ -1,7 +1,6 @@
 # TStandardAction
 
-│ **[English (en)](<../en/TStandardAction.md> "TStandardAction")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TStandardAction.md>)** │  **русский (ru)** │
 
 **TStandardAction** являются предопределенными действиями [TAction](</index.php?title=TAction/ru&action=edit&redlink=1> "TAction/ru \(page does not exist\)") для использования в элементе [TActionList](<TActionList.md> "TActionList/ru"). 
 

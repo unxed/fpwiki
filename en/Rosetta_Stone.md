@@ -59,7 +59,7 @@ sc query <servicename> | service --status-all | Show status for service | See [S
 shutdown | shutdown | Shut down computer | Windows: see [forum post](<http://forum.lazarus.freepascal.org/index.php/topic,16258.msg87992.html#msg87992>)  
 tasklist | ps | List or find processes | Windows: [Windows_Programming_Tips#Showing.2Ffinding_processes](<Windows_Programming_Tips.md> "Windows Programming Tips")  
 ? | touch | Create a new empty file | sysutils.filecreate(filename)   
-? | touch | Modify file time | See [Create a new file date/de](</Create_a_new_file_date/de> "Create a new file date/de")  
+? | touch | Modify file time | See Create a new file date/de  
 ? | uname | Get kernel/system info | See uname function below.   
 wget, curl | wget, curl | Download file from HTTP/FTP | Multiple options, e.g. use synapse httpsend or ftpsend units: [Synapse#Downloading_files](<Synapse.md> "Synapse")  
 ? | which | Search for executable in path | Lazarus fileutil.FindDefaultExecutablePath; see also the example below.   

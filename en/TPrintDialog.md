@@ -1,7 +1,6 @@
 # TPrintDialog
 
-│ **English (en)** │  **[français (fr)](</TPrintDialog/fr> "TPrintDialog/fr")** │  **[русский (ru)](<../ru/TPrintDialog.md> "TPrintDialog/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/TPrintDialog.md>)** │
 
 **TPrinterDialog** [![tprintdialog.png](https://wiki.freepascal.org/images/e/e7/tprintdialog.png)](</File:tprintdialog.png>) is a dialog that aids selecting a printer and the desired pages. It can be found on the [Dialogs tab](<Dialogs_tab.md> "Dialogs tab") of the [Component Palette](<Component_Palette.md> "Component Palette"). 
 

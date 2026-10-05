@@ -6,8 +6,7 @@ This article applies to [GTK+ Widgetsets](</Category:GTK_Widgetsets> "Category:G
 
 See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 ## Contents
 

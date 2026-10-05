@@ -1,7 +1,6 @@
 # TLHelpConnector
 
-│ [**English (en)**](<../en/TLHelpConnector.md> "TLHelpConnector") │  [**français (fr)**](</TLHelpConnector/fr> "TLHelpConnector/fr") │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TLHelpConnector.md>)** │  **русский (ru)** │
 
 **TLHelpConnector** [![tlhelpconnector.png](https://wiki.freepascal.org/images/b/bf/tlhelpconnector.png)](</File:tlhelpconnector.png>) является компонентом, который предоставляет контекстную справку для приложения. Данный компонент находится на вкладке [System](<System_tab.md> "System tab/ru") [палитры компонентов](<Component_Palette.md> "Component Palette/ru"). LHelp предоставляет доступ к справочным файлам Lazarus (CHM). 
 

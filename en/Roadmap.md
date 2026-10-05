@@ -1,7 +1,6 @@
 # Roadmap
 
-│ **English (en)** │  **[русский (ru)](<../ru/Roadmap.md> "Roadmap/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Roadmap.md>)** │
 
 This document gives an idea of the current status of the various parts of Lazarus and also helps new contributors to find a suitable place where they can help. It also shows the people implementing the various parts and the targets. 
 

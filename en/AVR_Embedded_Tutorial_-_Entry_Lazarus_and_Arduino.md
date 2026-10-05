@@ -1,6 +1,6 @@
 # AVR Embedded Tutorial - Entry Lazarus and Arduino
 
-│ **[Deutsch (de)](</AVR_Embedded_Tutorial_-_Entry_Lazarus_and_Arduino/de> "AVR Embedded Tutorial - Entry Lazarus and Arduino/de")** │  **English (en)** │ 
+│ **English (en)** │
 
 ## Contents
 

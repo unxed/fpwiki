@@ -1,7 +1,6 @@
 # CGI Web Programming
 
-│ **English (en)** │  **[español (es)](</CGI_Web_Programming/es> "CGI Web Programming/es")** │  **[français (fr)](</CGI_Web_Programming/fr> "CGI Web Programming/fr")** │  **[Bahasa Indonesia (id)](</CGI_Web_Programming/id> "CGI Web Programming/id")** │  **[русский (ru)](<../ru/CGI_Web_Programming.md> "CGI Web Programming/ru")** │  **[中文（中国大陆） (zh_CN)](</CGI_Web_Programming/zh_CN> "CGI Web Programming/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/CGI_Web_Programming.md>)** │
 
 This article contains some information about basic CGI programs. Note that using one of the frameworks will probably be much more productive. 
 

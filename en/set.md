@@ -1,7 +1,6 @@
 # Set
 
-│ **[Deutsch (de)](</Set/de> "Set/de")** │  **English (en)** │  **[suomi (fi)](</Set/fi> "Set/fi")** │  **[français (fr)](</Set/fr> "Set/fr")** │  **[русский (ru)](<../ru/Set.md> "Set/ru")** │    
-****
+│ **English (en)** │
 
   
 Back to [data types](<Data_type.md> "Data type"). 

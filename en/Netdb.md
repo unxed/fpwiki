@@ -1,7 +1,6 @@
 # Netdb
 
-│ **English (en)** │  **[Bahasa Indonesia (id)](</Netdb/id> "Netdb/id")** │    
-****
+│ **English (en)** │
 
 ## Overview
 

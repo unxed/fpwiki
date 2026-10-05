@@ -6,8 +6,7 @@
 
 См. также: [Multiplatform Programming Guide](<../en/Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **[English (en)](<../en/Link_on_target.md> "Link on target")** │  **[Bahasa Indonesia (id)](</Link_on_target/id> "Link on target/id")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Link_on_target.md>)** │  **русский (ru)** │
 
 Целевое связывание представляет собой процесс сборки программы под ОС, отличной от текущей. Например, написав программу в Windows, вы можете откомпилировать её для запуска в Linux. В данном случаи Linux будет целевой ОС (т.е. ОС, в которой предполагается дальнейшая работа программы), а Windows хост системой (т.е. ОС в которой произойдёт только компиляция, но программа не будет рассчитана для работы ней). 
 

@@ -1,6 +1,6 @@
 # LCL Documentation Roadmap
 
-│ **English (en)** │  **[polski (pl)](</LCL_Documentation_Roadmap/pl> "LCL Documentation Roadmap/pl")** │ 
+│ **English (en)** │
 
 ## Introduction
 

@@ -1,7 +1,6 @@
 # GeckoPort version2
 
-│ **English (en)** │  **[español (es)](</GeckoPort_version2/es> "GeckoPort version2/es")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

@@ -1,7 +1,6 @@
 # Open tasks
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 Here is a list of open tasks in FPC. 
 

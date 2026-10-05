@@ -1,7 +1,6 @@
 # FpSystools
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 ## Contents
 

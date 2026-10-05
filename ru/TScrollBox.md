@@ -1,6 +1,6 @@
 # TScrollBox
 
-│ **[English (en)](<../en/TScrollBox.md> "TScrollBox")** │  **[suomi (fi)](</TScrollBox/fi> "TScrollBox/fi")** │  **[français (fr)](</TScrollBox/fr> "TScrollBox/fr")** │  **[日本語 (ja)](</TScrollBox/ja> "TScrollBox/ja")** │  **русский (ru)** │ 
+│ **[English (en)](<../en/TScrollBox.md>)** │  **русский (ru)** │
 
   
 ****

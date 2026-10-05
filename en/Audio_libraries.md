@@ -1,7 +1,6 @@
 # Audio libraries
 
-│ **[Deutsch (de)](</Audio_libraries/de> "Audio libraries/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
 Name  | Developers  | Platforms  | License  | Supported File Formats  | Backends   
 ---|---|---|---|---|---  

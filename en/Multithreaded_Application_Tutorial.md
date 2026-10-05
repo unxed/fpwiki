@@ -1,7 +1,6 @@
 # Multithreaded Application Tutorial
 
-│ **[Deutsch (de)](</Multithreaded_Application_Tutorial/de> "Multithreaded Application Tutorial/de")** │  **English (en)** │  **[español (es)](</Multithreaded_Application_Tutorial/es> "Multithreaded Application Tutorial/es")** │  **[français (fr)](</Multithreaded_Application_Tutorial/fr> "Multithreaded Application Tutorial/fr")** │  **[日本語 (ja)](</Multithreaded_Application_Tutorial/ja> "Multithreaded Application Tutorial/ja")** │  **[polski (pl)](</Multithreaded_Application_Tutorial/pl> "Multithreaded Application Tutorial/pl")** │  **[português (pt)](</Multithreaded_Application_Tutorial/pt> "Multithreaded Application Tutorial/pt")** │  **[русский (ru)](<../ru/Multithreaded_Application_Tutorial.md> "Multithreaded Application Tutorial/ru")** │  **[slovenčina (sk)](</Multithreaded_Application_Tutorial/sk> "Multithreaded Application Tutorial/sk")** │  **[中文（中国大陆） (zh_CN)](</Multithreaded_Application_Tutorial/zh_CN> "Multithreaded Application Tutorial/zh CN")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Multithreaded_Application_Tutorial.md>)** │
 
 ## Contents
 

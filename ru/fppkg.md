@@ -1,6 +1,6 @@
 # fppkg
 
-│ **[English (en)](<../en/fppkg.md> "fppkg")** │  **русский (ru)** │ 
+│ **[English (en)](<../en/fppkg.md>)** │  **русский (ru)** │
 
 ## Contents
 

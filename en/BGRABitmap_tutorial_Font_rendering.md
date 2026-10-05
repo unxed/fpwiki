@@ -1,7 +1,6 @@
 # BGRABitmap tutorial Font rendering
 
-│ **English (en)** │  **[français (fr)](</BGRABitmap_tutorial_Font_rendering/fr> "BGRABitmap tutorial Font rendering/fr")** │    
-****
+│ **English (en)** │
 
 Basic text functions are available in [TBGRABitmap](<TBGRABitmap_class.md> "TBGRABitmap class") objects. You can find explanations about this in [tutorial 12](<BGRABitmap_tutorial_12.md> "BGRABitmap tutorial 12"). 
 

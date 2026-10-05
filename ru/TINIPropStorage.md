@@ -1,7 +1,6 @@
 # TINIPropStorage
 
-│ **[Deutsch (de)](</TINIPropStorage/de> "TINIPropStorage/de")** │  **[English (en)](<../en/TINIPropStorage.md> "TINIPropStorage")** │  **[français (fr)](</TINIPropStorage/fr> "TINIPropStorage/fr")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/TINIPropStorage.md>)** │  **русский (ru)** │
 
 TINIPropStorage является компонентом, нужен он для того, чтобы сохранить выбранные свойства или восстановить их (либо TForm или любого элемента управления на нем). Он работает со свойством TForm.SessionProperties. Вы можете найти его на вкладке **Misc** на панели компонентов. 
 

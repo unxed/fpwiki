@@ -1,6 +1,6 @@
 # Quick Links
 
-│ **English (en)** │ 
+│ **English (en)** │
 
 ## Welcome
 

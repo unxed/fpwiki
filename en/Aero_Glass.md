@@ -6,8 +6,7 @@ This article applies to [Windows](</Category:Windows> "Category:Windows") only.
 
 See also: [Multiplatform Programming Guide](<Multiplatform_Programming_Guide.md> "Multiplatform Programming Guide")
 
-│ **[Deutsch (de)](</Aero_Glass/de> "Aero Glass/de")** │  **English (en)** │  **[español (es)](</Aero_Glass/es> "Aero Glass/es")** │  **[polski (pl)](</Aero_Glass/pl> "Aero Glass/pl")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

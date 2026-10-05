@@ -1,7 +1,6 @@
 # IDE Window: Create new package component
 
-│ **English (en)** │    
-****
+│ **English (en)** │
 
 This IDE dialog allows to select a design time package where to add a new component. 
 

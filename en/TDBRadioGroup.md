@@ -1,7 +1,6 @@
 # TDBRadioGroup
 
-│ **English (en)** │  **[français (fr)](</TDBRadioGroup/fr> "TDBRadioGroup/fr")** │    
-****
+│ **English (en)** │
 
 A **TDBRadioGroup** [![tdbradiogroup.png](https://wiki.freepascal.org/images/3/3d/tdbradiogroup.png)](</File:tdbradiogroup.png>) is a group of related but mutually exclusive [TRadioButtons](<TRadioButton.md> "TRadioButton"), requiring the user to select one of a set of alternatives. It's like a [TDBGroupBox](<TDBGroupBox.md> "TDBGroupBox") with integrated [TRadioButtons](<TRadioButton.md> "TRadioButton"). 
 

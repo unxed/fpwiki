@@ -1,7 +1,6 @@
 # Custom Drawn Interface/Using the Android SDK, Emulator and Phones
 
-│ **[English (en)](<../../en/Custom_Drawn_Interface/Using_the_Android_SDK,_Emulator_and_Phones.md> "Custom Drawn Interface/Using the Android SDK, Emulator and Phones")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../../en/Custom_Drawn_Interface/Using_the_Android_SDK,_Emulator_and_Phones.md>)** │  **русский (ru)** │
 
   
 Go back to [Custom Drawn Interface/Android](<../../en/Custom_Drawn_Interface/Android.md> "Custom Drawn Interface/Android")

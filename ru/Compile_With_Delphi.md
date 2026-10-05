@@ -1,7 +1,6 @@
 # Compile With Delphi
 
-│ **[English (en)](<../en/Compile_With_Delphi.md> "Compile With Delphi")** │  **[español (es)](</Compile_With_Delphi/es> "Compile With Delphi/es")** │  **[Bahasa Indonesia (id)](</Compile_With_Delphi/id> "Compile With Delphi/id")** │  **русский (ru)** │    
-****
+│ **[English (en)](<../en/Compile_With_Delphi.md>)** │  **русский (ru)** │
 
 ## Почему FreePascal не компилирует проекты Delphi?
 

@@ -1,7 +1,6 @@
 # LMDI
 
-│ **English (en)** │  **[português (pt)](</LMDI/pt> "LMDI/pt")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

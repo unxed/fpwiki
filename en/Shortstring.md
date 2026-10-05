@@ -1,6 +1,6 @@
 # ShortString
 
-│ **English (en)** │ 
+│ **English (en)** │
 
 **Memory requirement:** 256 bytes (1 byte for the length specification and 255 bytes for the characters). 
 

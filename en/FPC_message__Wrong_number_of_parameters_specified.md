@@ -1,7 +1,6 @@
 # FPC message: Wrong number of parameters specified
 
-│ [**Deutsch (de)**](</FPC_message:_Wrong_number_of_parameters_specified/de> "FPC message: Wrong number of parameters specified/de") │  **English (en)** │    
-****
+│ **English (en)** │
 
 ## Missing parameter or too many parameters
 

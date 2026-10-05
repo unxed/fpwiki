@@ -1,7 +1,6 @@
 # Radian
 
-│ **English (en)** │  **[suomi (fi)](</Radian/fi> "Radian/fi")** │  **[français (fr)](</Radian/fr> "Radian/fr")** │  **[中文（中国大陆） (zh_CN)](</Radian/zh_CN> "Radian/zh CN")** │    
-****
+│ **English (en)** │
 
 Radian is the standard unit of angular measurement. A straight angle is [Pi](<Pi.md> "Pi") radians (1/2 cycles or turns). This means that 1 radian = 180/pi degrees. A full circle (One cycle or turn) has 2*Pi radians (360 degrees). 
 

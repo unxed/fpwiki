@@ -1,7 +1,6 @@
 # Releasing units without source code
 
-│ **English (en)** │  **[español (es)](</Releasing_units_without_source_code/es> "Releasing units without source code/es")** │  **[Bahasa Indonesia (id)](</Releasing_units_without_source_code/id> "Releasing units without source code/id")** │  **[русский (ru)](<../ru/Releasing_units_without_source_code.md> "Releasing units without source code/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Releasing_units_without_source_code.md>)** │
 
 It can be useful to release a FreePascal unit without publishing its source code: 
 

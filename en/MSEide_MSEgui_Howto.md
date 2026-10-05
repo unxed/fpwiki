@@ -1,5 +1,7 @@
 # MSEide MSEgui Howto
 
+│ **English (en)** │  **[русский (ru)](<../ru/MSEide_MSEgui_Howto.md>)** │
+
 ## Win32 Application Icon and Properties
 
 1) Prepare the resource source files in the directory of your program: 

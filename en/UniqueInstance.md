@@ -1,7 +1,6 @@
 # UniqueInstance
 
-│ **[Deutsch (de)](</UniqueInstance/de> "UniqueInstance/de")** │  **English (en)** │  **[español (es)](</UniqueInstance/es> "UniqueInstance/es")** │  **[français (fr)](</UniqueInstance/fr> "UniqueInstance/fr")** │  **[polski (pl)](</UniqueInstance/pl> "UniqueInstance/pl")** │    
-****
+│ **English (en)** │
 
 ## Contents
 

@@ -1,6 +1,6 @@
 # lNet
 
-│ **English (en)** │  **[русский (ru)](<../ru/lNet.md> "lNet/ru")** │ 
+│ **English (en)** │  **[русский (ru)](<../ru/lNet.md>)** │
 
 ## Contents
 

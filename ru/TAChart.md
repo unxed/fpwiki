@@ -1,7 +1,6 @@
 # TAChart
 
-│ **[Deutsch (de)](</TAChart/de> "TAChart/de")** │  **[English (en)](<../en/TAChart.md> "TAChart")** │  **[español (es)](</TAChart/es> "TAChart/es")** │  **[français (fr)](</TAChart/fr> "TAChart/fr")** │  **[português (pt)](</TAChart/pt> "TAChart/pt")** │  **русский (ru)** │  **[українська (uk)](</TAChart/uk> "TAChart/uk")** │  **[中文（中国大陆）‎ (zh_CN)](</TAChart/zh_CN> "TAChart/zh CN")** │    
-****
+│ **[English (en)](<../en/TAChart.md>)** │  **русский (ru)** │
 
 ## Contents
 

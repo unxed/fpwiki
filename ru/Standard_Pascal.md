@@ -1,7 +1,6 @@
 # Standard Pascal
 
-│ **[العربية (ar)](</Standard_Pascal/ar> "Standard Pascal/ar")** │  **[Deutsch (de)](</Standard_Pascal/de> "Standard Pascal/de")** │  **[English (en)](<../en/Standard_Pascal.md> "Standard Pascal")** │  **[español (es)](</Standard_Pascal/es> "Standard Pascal/es")** │  **[suomi (fi)](</Standard_Pascal/fi> "Standard Pascal/fi")** │  **[français (fr)](</Standard_Pascal/fr> "Standard Pascal/fr")** │  **[Bahasa Indonesia (id)](</Standard_Pascal/id> "Standard Pascal/id")** │  **[日本語 (ja)](</Standard_Pascal/ja> "Standard Pascal/ja")** │  **[português (pt)](</Standard_Pascal/pt> "Standard Pascal/pt")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</Standard_Pascal/zh_CN> "Standard Pascal/zh CN")** │    
-****
+│ **[English (en)](<../en/Standard_Pascal.md>)** │  **русский (ru)** │
 
 _Стандартный Pascal_ \- это спецификация языка Паскаль, определяющая минимальный уровень возможностей компилятора данного языка. Ниже приведены стандартные ключевые слова, которые должны поддерживаться всеми компиляторами языка: 
 

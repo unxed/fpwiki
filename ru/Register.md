@@ -1,7 +1,7 @@
 # Register
 
-│ **[Deutsch (de)](</Register/de> "Register/de")** │  **[English (en)](<../en/Register.md> "Register")** │  **русский (ru)** │    
-****  
+│ **[English (en)](<../en/Register.md>)** │  **русский (ru)** │
+
 Вернуться к списку [ зарезервированных слов](<Reserved_words.md> "Reserved words/ru")   
   
 Модификатор **register** относится к соглашениям о вызове внутренних и внешних подпрограмм.   

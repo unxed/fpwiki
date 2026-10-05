@@ -1,7 +1,6 @@
 # Mode TP
 
-│ **[Deutsch (de)](</Mode_TP/de> "Mode TP/de")** │  **English (en)** │  **[español (es)](</Mode_TP/es> "Mode TP/es")** │  **[français (fr)](</Mode_TP/fr> "Mode TP/fr")** │  **[Bahasa Indonesia (id)](</Mode_TP/id> "Mode TP/id")** │  **[русский (ru)](<../ru/Mode_TP.md> "Mode TP/ru")** │    
-****
+│ **English (en)** │  **[русский (ru)](<../ru/Mode_TP.md>)** │
 
 This mode is provided for highest level of compatibility with [Turbo Pascal](<Turbo_Pascal.md> "Turbo Pascal")/[Borland Pascal](<Borland_Pascal.md> "Borland Pascal") compilers in order to simplify porting of existing code to FPC. It turns on some features which are not considered as recommended to use in general (e.g. because of their ambiguity or potential side-effects), slightly modifies syntax rules where necessary, changes the default assembler mode to $ASMMODE INTEL, etc. You enable it with mode switch **${mode TP}** in source code or with the compiler command line option **-Mtp**. 
 

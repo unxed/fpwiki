@@ -1,8 +1,6 @@
 # IDE Window: Debug Output
 
-│ **[Deutsch (de)](</IDE_Window:_Debug_Output/de> "IDE Window: Debug Output/de")** │  **[English (en)](<../en/IDE_Window__Debug_Output.md> "IDE Window: Debug Output")** │  **[español (es)](</IDE_Window:_Debug_Output/es> "IDE Window: Debug Output/es")** │  **русский (ru)** │    
-****  
-****
+│ **[English (en)](<../en/IDE_Window__Debug_Output.md>)** │  **русский (ru)** │
 
 ## Contents
 

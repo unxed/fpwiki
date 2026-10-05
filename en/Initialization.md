@@ -1,7 +1,6 @@
 # Initialization
 
-│ **[Deutsch (de)](</Initialization/de> "Initialization/de")** │  **English (en)** │    
-****
+│ **English (en)** │
 
 ## Contents
 
