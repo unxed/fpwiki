@@ -1,0 +1,257 @@
+# Hardware Access
+
+│ **[Deutsch (de)](</Hardware_Access/de> "Hardware Access/de")** │  **[English (en)](<../en/Hardware_Access.md> "Hardware Access")** │  **[español (es)](</Hardware_Access/es> "Hardware Access/es")** │  **[français (fr)](</Hardware_Access/fr> "Hardware Access/fr")** │  **[magyar (hu)](</Hardware_Access/hu> "Hardware Access/hu")** │  **[日本語 (ja)](</Hardware_Access/ja> "Hardware Access/ja")** │  **[한국어 (ko)](</Hardware_Access/ko> "Hardware Access/ko")** │  **[polski (pl)](</Hardware_Access/pl> "Hardware Access/pl")** │  **[português (pt)](</Hardware_Access/pt> "Hardware Access/pt")** │  **русский (ru)** │  **[slovenčina (sk)](</Hardware_Access/sk> "Hardware Access/sk")** │  **[中文（中国大陆） (zh_CN)](</Hardware_Access/zh_CN> "Hardware Access/zh CN")** │    
+****
+
+## Contents
+
+  * 1 Обзор
+  * 2 Сравнение параллельного и последовательного протоколов
+  * 3 Параллельное соединение
+    * 3.1 Использование inpout32.dll в ОС Windows
+    * 3.2 Использование ассемблера в ОС Windows 9x
+    * 3.3 Проблемы в ОС Windows
+    * 3.4 Использование ioperm для доступа к портам в Linux
+    * 3.5 Общий аппаратный доступ в ОС UNIX
+  * 4 Последовательное соединение
+  * 5 USB
+    * 5.1 libusb
+    * 5.2 FTDI
+  * 6 Внешние ссылки
+
+
+
+## Обзор
+
+Данная страница является началом руководства по доступу к аппаратным устройствам в Lazarus. Эти устройства включают в себя: ISA, PCI, USB, параллельный порт, последовательный порт. 
+
+Мультиплатформенный подход для доступ к устройствам не реализован в Free Pascal Runtime Library или через LCL, поэтому это руководство кратко описывает способы доступа к аппаратным устройствам для различных платформ. Код может быть откомпилирован для различных сред при помощи директив компилятора, например: 
+    
+    
+     uses
+      Classes, SysUtils, LResources, Forms, Controls, Graphics, Dialogs, ExtCtrls,
+     {$IFDEF WIN32}
+       Windows;
+     {$ENDIF}
+     {$IFDEF Unix}
+       ports;
+     {$ENDIF}
+    
+
+В настоящее время неизвестно, допустим ли доступ к аппаратным устройствам в macOS/x86. Эта система может не допускать такого доступа. В таком случае, со временем должен появится драйвер наподобие io.dll. 
+
+## Сравнение параллельного и последовательного протоколов
+
+Устройства ISA, PCI и Параллельный Порт взаимодействуют с компьютером посредством **параллельного** протокола. Последовательный порт и устройства USB используют **последовательный** протокол. Поскольку процессор и, соответственно, языки програмирования работают с параллельным доступом к данным, работу с таким протоколом легче реализовать на стороне программного обеспечения. Например, когда Вы обращаетесь к целочисленной переменной, Вы можете получить ее значение при помощи одной комманды. В то же время, при использовании последовательного протокола, Вы можете узнать только один бит в каждый момент времени, и Вам будет необходимо соединить все биты вместе для получения значения. 
+
+Последовательное соединение тяжело реализовать напрямую, но может быть реализовано посредством специальных компонент. Реализация последовательного протокола также сложна и на стороне аппаратного обеспечения - для этой цели используются специализированные интегральные схемы и микроконтроллеры. 
+
+Краткое сравнение протоколов: 
+
+| Скорость  | Сложность аппаратной реализации   
+---|---|---  
+Последовательный порт  | Очень низкая (< E5 бит/с)  | Средняя   
+Параллельный порт  | Низкая (~ E6 бит/с)  | Низкая   
+Устройство ISA  | Средняя (~ E7 бит/с)  | Средняя   
+USB  | Средняя (~ E7 бит/с)  | Высокая   
+Устройство PCI  | Очень высокая (> E9 бит/с)  | Очень высокая   
+  
+## Параллельное соединение
+
+### Использование inpout32.dll в ОС Windows
+
+Существуют различные пути доступа к аппаратному обеспечению в Windows 9x и NT. В 9x (95, 98, Me) программа может обращаться к аппаратному обеспечению напрямую, как и в DOS. В NT (Windows NT и XP) такой доступ невозможен. Архитектурой NT подразумевается что взаимодействие с аппаратными портами должно производиться через драйвер устройстав. Этот подход реализован из соображений безопасности, однако разработка драйвера может стоить слишком больших денег и времени для небольших проектов. 
+
+К счастью, существует библиотека, решающую данную проблему. В случае, если обнаружена Windows NT, она извлекает и устанавливает в систему драйвер устройства HWInterface.sys. В случае Windows 9x она просто использует ассемблер для доступа к оборудованию. 
+
+Но как использовать эту библиотеку? Очень просто! Она содержит только двее функции: Inp32 и Out32, назначение которых интуитивно понятно. 
+
+Мы загрузим библиотеку динамически, поэтому сначала определим обе функции: 
+    
+    
+     type
+       TInp32 = function(Address: SmallInt): SmallInt; stdcall;
+       TOut32 = procedure(Address: SmallInt; Data: SmallInt); stdcall;
+    
+
+  * Address является адресом порта, к которому необходимо получить доступ
+  * Out32 отправляет данные **Data** в порту, указанный параметром **Address**
+  * Inp32 возвращает байт из порта, указанного параметром **Address**
+
+
+
+Теперь можно загружать библиотеку. Это можно реализовать, например в методе OnCreate главной формы программы: 
+    
+    
+     type
+       TMyForm = class(TForm)
+       .........
+       private
+         { private declarations }
+         Inpout32: THandle;
+         Inp32: TInp32;
+         Out32: TOut32;
+       .........
+     implementation
+       .........
+     procedure TMyForm.FormCreate(Sender: TObject);
+     begin
+     {$IFDEF WIN32}
+       Inpout32 := LoadLibrary('inpout32.dll');
+       if (Inpout32 <> 0) then
+       begin
+         // обычное @Inp32 = GetProc... как в Delphi приводит к ошибкам компиляции
+         Inp32 := TInp32(GetProcAddress(Inpout32, 'Inp32'));
+         if (@Inp32 = nil) then Caption := 'Error';
+         Out32 := TOut32(GetProcAddress(Inpout32, 'Out32'));
+         if (@Out32 = nil) then Caption := 'Error';
+       end
+       else Caption := 'Error';
+     {$ENDIF}
+     end;
+    
+
+Если Вы загрузили библиотеку в методе OnCreate, не забудьте выгрузить ее в методе OnDestroy: 
+    
+    
+     procedure TMyForm.FormDestroy(Sender: TObject);
+     begin
+     {$IFDEF WIN32}
+       FreeLibrary(Inpout32);
+     {$ENDIF}
+     end;
+    
+
+Пример использования функции Inp32: 
+    
+    
+     {$IFDEF WIN32}
+       myLabel.Caption := IntToStr(Inp32($0220));
+     {$ENDIF}
+    
+
+Код был проверен с собственным устройством ISA на порте $0220, используя Lazarus 0.9.10 в ОС Windows XP. Вам потребуется подключить модуль Windows в разделе uses для запуска приложения. Для развертывания Вам потребуется библиотека "inpout32.dll" в одном каталоге с приложением. 
+
+Домашняя страница приложения: [www.logix4u.net/inpout32.htm](<http://www.logix4u.net/inpout32.htm>) *См. обсуждение* 
+
+### Использование ассемблера в ОС Windows 9x
+
+В Windows 9x Вы также можете использовать код на ассемблере. Например, Вы хотите записать значение $CC в порт $320. Вот как будет выглядеть код: 
+    
+    
+     {$ASMMODE ATT}
+     ...
+        asm
+            movl $0x320, %edx
+            movb $0xCC, %al
+            outb %al, %dx
+        end ['EAX','EDX'];
+    
+
+### Проблемы в ОС Windows
+
+Одна из возможных проблем, возникающих при использовании доступа к параллельным устройствам не поддерживающим Plug And Play, заключается в том, что Windows может присвоить порт, используемый Вашим оборудованием другому устройству. Инструкции, как заставить Windows не присваивать адрес вашего устройства устройствам Plug And Play можно найти по ссылке ниже: 
+
+<http://support.microsoft.com/kb/135168>
+
+### Использование ioperm для доступа к портам в Linux
+
+Наилучшим способом доступа к аппаратуре в Linux является использование драйверов устройств, но, всвязи со сложностью создания драйвера, иногда может быть полезен быстрый способ. 
+
+Для использования модуля "[ports](<http://lazarus-ccr.sourceforge.net/docs/rtl/ports> "doc:rtl/ports")" в Linux, программа должна быть запущена от имени пользователя root и должен быть вызван IOPerm для установки разрешений для доступа к порту. Вы можете найти документацию по модулю "[ports](<http://lazarus-ccr.sourceforge.net/docs/rtl/ports> "doc:rtl/ports")" [здесь](<http://www.freepascal.org/docs-html/rtl/ports/index.html>). 
+
+Первое, что необходимо сделать, это соединиться с (g)libc и вызвать IOPerm. Модуль, позволяющий соединиться с (g)libc существует в free pascal, но этот модуль создает проблемы при использовании напрямую из приложения и статическом подключении библиотеки (g)libc. Это не очень хорошее решение, поскольку она часто изменяется от версии к версии несовместимым образом. Однако такие функции как ioperm, вряд ли будут изменяться. 
+    
+    
+     {$IFDEF Linux}
+     function ioperm(from: Cardinal; num: Cardinal; turn_on: Integer): Integer; cdecl; external 'libc';
+     {$ENDIF}
+    
+
+  * "from" обозначает первый порт, к которому будет осуществлен доступ.
+  * "num" означает количество портов, идущих после первого, к которым будет осуществлен доступ; таким образом ioperm($220, 8, 1) разрешает доступ из программы ко всем портам в диапазоне от $220 до $227.
+
+
+
+После вызова IOPerm Вы можете использовать port[<Адрес>] для доступа к портам. 
+    
+    
+     {$IFDEF Linux}
+       i := ioperm($220, 8, 1);
+       port[$220] := $00;
+       myLabel.Caption := 'ioperm: ' + IntToStr(i);
+       i := Integer(port[$220]);
+       myOtherLabel.Caption := 'response: ' + IntToStr(i);
+     {$ENDIF}
+    
+
+Этот код был тестирован на собственном устройстве ISA на порте $0220, используя Lazarus 0.9.10 на Mandriva Linux 2005 и Damn Small Linux 1.5 
+
+### Общий аппаратный доступ в ОС UNIX
+    
+    
+    {$IFDEF Unix}
+    Uses Clib;   // retrieve libc library name.
+    {$ENDIF}
+    
+    {$IFDEF Unix}
+    function ioperm(from: Cardinal; num: Cardinal; turn_on: Integer): Integer; cdecl; external clib;
+    {$ENDIF}
+    
+
+  
+**Замечание** FPC предоставляет абстракцию ioperm, названную "fpioperm" в [модуле x86](<http://lazarus-ccr.sourceforge.net/docs/rtl/x86/index.html> "doc:rtl/x86/index.html"), и также определяет функции out и inport. Эти функции в настоящее время реализованы для ОС Linux/x86 и FreeBSD/x86. 
+
+Не рекомендуется подключение к libc кроме крайней необходимости всвязи с функциями развертывания и совместимости. Также, ручное подключение libc (объявляя специальные функции libc, доступные в других местах), как сделано выше не рекомендуется (например в ОС, где стандартная библиотека C назывется не libc, как, например, libroot в BeOS). 
+
+**Замечание 2** Использование _модуля_ libc не рекомендуется ни при каких обстоятельствах, кроме как для совместимости с Kylix. Это вызвано тем, что модуль относительно непереносимый и должен быть модифицирован как можно меньше в связи с вопросам совместимости с Kylix. 
+
+## Последовательное соединение
+
+Раздел [ Внешние ссылки](<../en/Hardware_Access.md> "Hardware Access") содержит руководства по последовательным портам для UNIX и Windows. 
+
+## USB
+
+### libusb
+
+Кросплатформенная реализация для Linux, BSDs и macOS: [libusb](<http://libusb.sourceforge.net/>). 
+
+Заголовки перечислены на <http://www.freepascal.org/contrib/db.php3?category=Miscellaneous>: 
+
+название | автор | версия | дата | ссылка | отметки   
+---|---|---|---|---|---  
+libusb.pp | Uwe Zimmermann | 0.1.12 | 2006-06-29 | <http://www.sciencetronics.com/download/fpc_libusb.tgz> |   
+libusb.pas | Johann Glaser |  | 2005-01-14 | <http://www.johann-glaser.at/projects/libusb.pas> |   
+fpcusb | Joe Jared | 0.11-14 | 2006-02-02 | <http://relays.osirusoft.com/fpcusb.tgz> | ссылка для загрузки не работает   
+  
+### FTDI
+
+Если вы используете микросехему от [FTDI](<http://www.ftdichip.com/>), Вы можете использовать паскалевские заголовки для их интерфейсной dll. 
+
+## Внешние ссылки
+
+Сравнение скорости коммуникационных протоколов: 
+
+  1. <http://en.wikipedia.org/wiki/Serial_port#Speed>
+  2. <http://www.lvr.com/jansfaq.htm> \- Jan Axelson's Parallel Port FAQ
+  3. <http://en.wikipedia.org/wiki/USB#Transfer_Speed>
+  4. <http://en.wikipedia.org/wiki/PCI#Conventional_PCI_bus_specifications>
+
+
+
+Ссылки по последовательному протоколу: 
+
+  1. On UNIX: [[1]](<http://www.easysw.com/~mike/serial/serial.html>)
+  2. On Windows: <http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnfiles/html/msdn_serial.asp>
+  3. Synaser component: <http://synapse.ararat.cz/>
+  4. Comport Delphi package: <http://sourceforge.net/projects/comport/>
+
+
+
+Цифровой осцилоскоп ISA - Пример аппаратного доступа с исходными текстами: 
+
+[[2]](<http://eletronicalivre.incubadora.fapesp.br/portal/english/oscilloscope/>)
+
+---
+
+_Source: [https://wiki.freepascal.org/Hardware_Access/ru](https://web.archive.org/web/20250117044101/https://wiki.freepascal.org/Hardware_Access/ru)_

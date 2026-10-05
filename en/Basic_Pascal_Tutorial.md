@@ -1,0 +1,94 @@
+# Basic Pascal Tutorial
+
+│ **[العربية (ar)](</Basic_Pascal_Tutorial/ar> "Basic Pascal Tutorial/ar")** │  **[български (bg)](</Basic_Pascal_Tutorial/bg> "Basic Pascal Tutorial/bg")** │  **[Deutsch (de)](</Basic_Pascal_Tutorial/de> "Basic Pascal Tutorial/de")** │  **English (en)** │  **[español (es)](</Basic_Pascal_Tutorial/es> "Basic Pascal Tutorial/es")** │  **[français (fr)](</Basic_Pascal_Tutorial/fr> "Basic Pascal Tutorial/fr")** │  **[italiano (it)](</Basic_Pascal_Tutorial/it> "Basic Pascal Tutorial/it")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/ja> "Basic Pascal Tutorial/ja")** │  **[한국어 (ko)](</Basic_Pascal_Tutorial/ko> "Basic Pascal Tutorial/ko")** │  **[русский (ru)](<../ru/Basic_Pascal_Tutorial.md> "Basic Pascal Tutorial/ru")** │  **[slovenčina (sk)](</Basic_Pascal_Tutorial/sk> "Basic Pascal Tutorial/sk")** │  **[中文（中国大陆） (zh_CN)](</Basic_Pascal_Tutorial/zh_CN> "Basic Pascal Tutorial/zh CN")** │    
+****
+
+## Contents
+
+  * 1 Overview
+  * 2 Contents
+  * 3 See also
+
+
+
+## Overview
+
+[Tao Yue](<http://www.taoyue.com/>) has written an excellent Pascal overview and tutorial and generously agreed to let it be wiki'ized and posted on the Lazarus-ccr provided that: 
+
+  * Our posting is linked to the original tutorial at: <http://www.taoyue.com/tutorials/pascal/>
+  * It's made clear that the pages may have been modified from the originals.
+
+
+
+Please contact the author and obtain permission before reposting the parts written by Tao Yue in other places than this wiki. 
+
+The tutorial can be found here: [Basic Pascal Tutorial by Tao Yue](<Basic_Pascal_Tutorial/Introduction.md> "Basic Pascal Tutorial/Introduction") or in the table of contents below 
+
+## Contents
+
+  * [Introduction](<Basic_Pascal_Tutorial/Introduction.md> "Basic Pascal Tutorial/Introduction")
+  * [History of Pascal](<Basic_Pascal_Tutorial/History.md> "Basic Pascal Tutorial/History")
+  * [Pascal Compilers](<Basic_Pascal_Tutorial/Compilers.md> "Basic Pascal Tutorial/Compilers")
+  * [Hello, world](<Basic_Pascal_Tutorial/Hello,_World.md> "Basic Pascal Tutorial/Hello, World")
+  * [1\. Basics](<Basic_Pascal_Tutorial/Chapter_1/Program_Structure.md> "Basic Pascal Tutorial/Chapter 1/Program Structure")
+    * [Program Structure](<Basic_Pascal_Tutorial/Chapter_1/Program_Structure.md> "Basic Pascal Tutorial/Chapter 1/Program Structure")
+    * [Identifiers](<Basic_Pascal_Tutorial/Chapter_1/Identifiers.md> "Basic Pascal Tutorial/Chapter 1/Identifiers")
+    * [Constants](<Basic_Pascal_Tutorial/Chapter_1/Constants.md> "Basic Pascal Tutorial/Chapter 1/Constants")
+    * [Variables and Data Types](<Basic_Pascal_Tutorial/Chapter_1/Variables_and_Data_Types.md> "Basic Pascal Tutorial/Chapter 1/Variables and Data Types")
+    * [Assignment and Operations](<Basic_Pascal_Tutorial/Chapter_1/Assignment_and_Operations.md> "Basic Pascal Tutorial/Chapter 1/Assignment and Operations")
+    * [Standard Functions](<Basic_Pascal_Tutorial/Chapter_1/Standard_Functions.md> "Basic Pascal Tutorial/Chapter 1/Standard Functions")
+    * [Punctuation and Indentation](<Basic_Pascal_Tutorial/Chapter_1/Punctuation_and_Indentation.md> "Basic Pascal Tutorial/Chapter 1/Punctuation and Indentation")
+    * [Programming Assignment](<Basic_Pascal_Tutorial/Chapter_1/Programming_Assignment.md> "Basic Pascal Tutorial/Chapter 1/Programming Assignment")
+    * [Solution](<Basic_Pascal_Tutorial/Chapter_1/Solution.md> "Basic Pascal Tutorial/Chapter 1/Solution")
+  * [2\. Input/Output](<Basic_Pascal_Tutorial/Chapter_2/Input.md> "Basic Pascal Tutorial/Chapter 2/Input")
+    * [Input](<Basic_Pascal_Tutorial/Chapter_2/Input.md> "Basic Pascal Tutorial/Chapter 2/Input")
+    * [Output](<Basic_Pascal_Tutorial/Chapter_2/Output.md> "Basic Pascal Tutorial/Chapter 2/Output")
+    * [Formatting output](<Basic_Pascal_Tutorial/Chapter_2/Formatting_output.md> "Basic Pascal Tutorial/Chapter 2/Formatting output")
+    * [Files](<Basic_Pascal_Tutorial/Chapter_2/Files.md> "Basic Pascal Tutorial/Chapter 2/Files")
+    * [EOLN and EOF](<Basic_Pascal_Tutorial/Chapter_2/EOLN_and_EOF.md> "Basic Pascal Tutorial/Chapter 2/EOLN and EOF")
+    * [Programming Assignment](<Basic_Pascal_Tutorial/Chapter_2/Programming_Assignment.md> "Basic Pascal Tutorial/Chapter 2/Programming Assignment")
+    * [Solution](<Basic_Pascal_Tutorial/Chapter_2/Solution.md> "Basic Pascal Tutorial/Chapter 2/Solution")
+  * [3\. Program Flow](<Basic_Pascal_Tutorial/Chapter_3/Sequential_control.md> "Basic Pascal Tutorial/Chapter 3/Sequential control")
+    * [Sequential control](<Basic_Pascal_Tutorial/Chapter_3/Sequential_control.md> "Basic Pascal Tutorial/Chapter 3/Sequential control")
+    * [Boolean Expressions](<Basic_Pascal_Tutorial/Chapter_3/Boolean_Expressions.md> "Basic Pascal Tutorial/Chapter 3/Boolean Expressions")
+    * [Branching](<Basic_Pascal_Tutorial/Chapter_3/IF.md> "Basic Pascal Tutorial/Chapter 3/IF")
+      * [IF](<Basic_Pascal_Tutorial/Chapter_3/IF.md> "Basic Pascal Tutorial/Chapter 3/IF")
+      * [CASE](<Basic_Pascal_Tutorial/Chapter_3/CASE.md> "Basic Pascal Tutorial/Chapter 3/CASE")
+    * [Looping](<Basic_Pascal_Tutorial/Chapter_3/FOR..md> "Basic Pascal Tutorial/Chapter 3/FOR..DO")
+      * [FOR..DO](<Basic_Pascal_Tutorial/Chapter_3/FOR..md> "Basic Pascal Tutorial/Chapter 3/FOR..DO")
+      * [WHILE..DO](<Basic_Pascal_Tutorial/Chapter_3/WHILE..md> "Basic Pascal Tutorial/Chapter 3/WHILE..DO")
+      * [REPEAT..UNTIL](<Basic_Pascal_Tutorial/Chapter_3/REPEAT..md> "Basic Pascal Tutorial/Chapter 3/REPEAT..UNTIL")
+      * [FOR..IN](<Basic_Pascal_Tutorial/Chapter_3/FOR..md> "Basic Pascal Tutorial/Chapter 3/FOR..IN")
+    * [Programming Assignments: Fibonacci Sequence and Powers of Two](<Basic_Pascal_Tutorial/Chapter_3/Programming_Assignment.md> "Basic Pascal Tutorial/Chapter 3/Programming Assignment")
+    * [Solutions](<Basic_Pascal_Tutorial/Chapter_3/Solution.md> "Basic Pascal Tutorial/Chapter 3/Solution")
+  * [4\. Subprograms](<Basic_Pascal_Tutorial/Chapter_4/Procedures.md> "Basic Pascal Tutorial/Chapter 4/Procedures")
+    * [Procedures](<Basic_Pascal_Tutorial/Chapter_4/Procedures.md> "Basic Pascal Tutorial/Chapter 4/Procedures")
+    * [Parameters](<Basic_Pascal_Tutorial/Chapter_4/Parameters.md> "Basic Pascal Tutorial/Chapter 4/Parameters")
+    * [Functions](<Basic_Pascal_Tutorial/Chapter_4/Functions.md> "Basic Pascal Tutorial/Chapter 4/Functions")
+    * [Scope](<Basic_Pascal_Tutorial/Chapter_4/Scope.md> "Basic Pascal Tutorial/Chapter 4/Scope")
+    * [Recursion](<Basic_Pascal_Tutorial/Chapter_4/Recursion.md> "Basic Pascal Tutorial/Chapter 4/Recursion")
+    * [Forward Referencing](<Basic_Pascal_Tutorial/Chapter_4/Forward_Referencing.md> "Basic Pascal Tutorial/Chapter 4/Forward Referencing")
+    * [Programming Assignment: the Towers of Hanoi](<Basic_Pascal_Tutorial/Chapter_4/Programming_Assignment.md> "Basic Pascal Tutorial/Chapter 4/Programming Assignment")
+    * [Solution](<Basic_Pascal_Tutorial/Chapter_4/Solution.md> "Basic Pascal Tutorial/Chapter 4/Solution")
+  * [5\. Data types](<Basic_Pascal_Tutorial/Chapter_5/Enumerated_types.md> "Basic Pascal Tutorial/Chapter 5/Enumerated types")
+    * [Enumerated types](<Basic_Pascal_Tutorial/Chapter_5/Enumerated_types.md> "Basic Pascal Tutorial/Chapter 5/Enumerated types")
+    * [Subranges](<Basic_Pascal_Tutorial/Chapter_5/Subranges.md> "Basic Pascal Tutorial/Chapter 5/Subranges")
+    * [1-dimensional arrays](<Basic_Pascal_Tutorial/Chapter_5/1-dimensional_arrays.md> "Basic Pascal Tutorial/Chapter 5/1-dimensional arrays")
+    * [Multidimensional arrays](<Basic_Pascal_Tutorial/Chapter_5/Multidimensional_arrays.md> "Basic Pascal Tutorial/Chapter 5/Multidimensional arrays")
+    * [Records](<Basic_Pascal_Tutorial/Chapter_5/Records.md> "Basic Pascal Tutorial/Chapter 5/Records")
+    * [Pointers](<Basic_Pascal_Tutorial/Chapter_5/Pointers.md> "Basic Pascal Tutorial/Chapter 5/Pointers")
+  * [6\. Final words](<Basic_Pascal_Tutorial/Chapter_6/Final_words.md> "Basic Pascal Tutorial/Chapter 6/Final words")
+
+
+
+## See also
+
+  * [Error messages](<error_messages.md> "error messages")
+  * [Object Oriented Programming with Free Pascal and Lazarus](<Object_Oriented_Programming_with_Free_Pascal_and_Lazarus.md> "Object Oriented Programming with Free Pascal and Lazarus")
+  * [Free Pascal video tutorials](<Free_Pascal_videos.md> "Free Pascal videos")
+  * [Lazarus video tutorials](<Lazarus_videos.md> "Lazarus videos")
+  * [Pascal and Lazarus Books and Magazines](<Pascal_and_Lazarus_Books_and_Magazines.md> "Pascal and Lazarus Books and Magazines")
+
+---
+
+_Source: [https://wiki.freepascal.org/Basic_Pascal_Tutorial](https://web.archive.org/web/20250319091815/https://wiki.freepascal.org/Basic_Pascal_Tutorial)_

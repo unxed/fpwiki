@@ -1,0 +1,93 @@
+# Basic Pascal Tutorial/Chapter 1/Assignment and Operations
+
+│ **[български (bg)](</Basic_Pascal_Tutorial/Chapter_1/Assignment_and_Operations/bg> "Basic Pascal Tutorial/Chapter 1/Assignment and Operations/bg")** │  **[Deutsch (de)](</Basic_Pascal_Tutorial/Chapter_1/Assignment_and_Operations/de> "Basic Pascal Tutorial/Chapter 1/Assignment and Operations/de")** │  **[English (en)](<../../../en/Basic_Pascal_Tutorial/Chapter_1/Assignment_and_Operations.md> "Basic Pascal Tutorial/Chapter 1/Assignment and Operations")** │  **[español (es)](</Basic_Pascal_Tutorial/Chapter_1/Assignment_and_Operations/es> "Basic Pascal Tutorial/Chapter 1/Assignment and Operations/es")** │  **[français (fr)](</Basic_Pascal_Tutorial/Chapter_1/Assignment_and_Operations/fr> "Basic Pascal Tutorial/Chapter 1/Assignment and Operations/fr")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Chapter_1/Assignment_and_Operations/ja> "Basic Pascal Tutorial/Chapter 1/Assignment and Operations/ja")** │  **[한국어 (ko)](</Basic_Pascal_Tutorial/Chapter_1/Assignment_and_Operations/ko> "Basic Pascal Tutorial/Chapter 1/Assignment and Operations/ko")** │  **русский (ru)** │  **[中文（中国大陆） (zh_CN)](</Basic_Pascal_Tutorial/Chapter_1/Assignment_and_Operations/zh_CN> "Basic Pascal Tutorial/Chapter 1/Assignment and Operations/zh CN")** │    
+****
+
+[ ◄ ](<Variables_and_Data_Types.md> "Basic Pascal Tutorial/Chapter 1/Variables and Data Types/ru") | [ ▲ ](<../Contents.md> "Basic Pascal Tutorial/Contents/ru") | [ ► ](<Standard_Functions.md> "Basic Pascal Tutorial/Chapter 1/Standard Functions/ru")  
+---|---|---  
+  
+Присвоение и операции
+
+1E - Assignment and Operations (author: Tao Yue, state: unchanged) 
+
+  
+После того, как вы объявили переменную, вы можете хранить в ней значения. Это называется присвоением. 
+
+Для присвоения значения переменной используйте следующий синтаксис: 
+    
+    
+    имя_переменной := выражение;
+    
+
+Обратите внимание, что в отличие от других языков, в которых операция присвоения обозначается просто знаком равенства, Pascal использует двоеточие со знаком равенства, как это делается в большинстве систем компьютерной алгебры. 
+
+Выражение может быть либо единственным значением: 
+    
+    
+    some_real := 385.385837;
+    
+
+либо арифметической последовательностью: 
+    
+    
+    some_real := 37573.5 * 37593 + 385.8 / 367.1;
+    
+
+**Арифметические операции в Pascal:**
+
+Операция | Действие | Операнды | Результат   
+---|---|---|---  
++ | Сложение или унарный плюс | real или integer | real или integer   
+- | Вычитание или унарный минус | real или integer | real или integer   
+* | Умножение | real или integer | real или integer   
+/ | Вещественное деление | real или integer | real   
+div | Целочисленное деление | integer | integer   
+mod | Деление по модулю (остаток от деления) | integer | integer   
+  
+**`div`** и **`mod`** работают только с _integer_.  
+Вещественное деление **`/`** работает как с _real_ , так и с _integer_ , но результат всегда будет _real_.  
+Другие операции работают и с _real_ , и с _integer_. Когда смешиваются _integer_ и _real_ , результат всегда будет _real_ , поскольку в противном случае будет потеря данных. Именно поэтому Pascal использует две разные операции для деления и целочисленного деления. `7 / 2 = 3.5` (real), но `7 div 2 = 3` (и `7 mod 2 = 1`, поскольку это остаток). 
+
+Каждой переменной может быть присвоено значение только такого-же типа. Таким образом, вы не можете присвоить вещественное значение целочисленной переменной. Однако, некоторые типы данных могут преобразовываться к более высокому типу. Чаще всего это делается, когда присваивается целое значение вещественной переменной. Допустим, вы имеете такую секцию объявлений: 
+    
+    
+    var
+      some_int : integer;
+      some_real : real;
+    
+
+Тогда после выполнения следующего блока операторов: 
+    
+    
+    some_int := 375;
+    some_real := some_int;
+    
+
+`some_real` будет иметь значение `375.0`. 
+
+Изменение одного типа данных на другой называется приведением типа. Современные компиляторы Pascal поддерживают явное приведение типа в стиле языка C, с несколько отличающимся синтаксисом. Однако, приведение типов обычно используется в низкоуровневых ситуациях или в связи с объектно-ориентированным программированием, и студенту-новичку в программировании, нет небходимости его использовать. Здесь вы сможете найти [информацию о приведении типов в GNU Pascal manual](<http://www.gnu-pascal.de/gpc-es/Type-Casts.html>). 
+
+В Pascal знак минуса может быть использован, чтобы сделать значение отрицательным. Знак плюса также может быть использован, чтобы сделать значение положительным, но обычно он опускается, поскольку значения по умолчанию положительны. 
+
+Не пытайтесь использовать две операции одну за другой, как в следующем примере: 
+    
+    
+    some_real := 37.5 * -2;
+    
+
+Это может иметь правильный смысл для вас, поскольку вы пытаетесь выполнить умножение на отрицательное число -2. Однако, Pascal будет путаться — он не будет знать, что делать: умножать или вычитать. Вы можете избежать этого, используя для проясненя ситуации скобки: 
+    
+    
+    some_real := 37.5 * (-2);
+    
+
+Компьютер соблюдает тот-же порядок операций, который соблюдаете вы, выполняя арифметические операции. Умножение и деление (`* / div mod`) идут до сложения и вычитания (`+ -`), а скобки всегда имеют приоритет. Таким образом, например, значение выражения `3.5*(2+3)` будет `17.5.`
+
+Pascal не может выполнять стандартные арифметические операции с типом Boolean. Есть специальный набор логических операций. Вы также не должны применять арифметические операции к символам. 
+
+[ ◄ ](<Variables_and_Data_Types.md> "Basic Pascal Tutorial/Chapter 1/Variables and Data Types/ru") | [ ▲ ](<../Contents.md> "Basic Pascal Tutorial/Contents/ru") | [ ► ](<Standard_Functions.md> "Basic Pascal Tutorial/Chapter 1/Standard Functions/ru")  
+---|---|---
+
+---
+
+_Source: [https://wiki.freepascal.org/Basic_Pascal_Tutorial/Chapter_1/Assignment_and_Operations/ru](https://web.archive.org/web/20250121220613/https://wiki.freepascal.org/Basic_Pascal_Tutorial/Chapter_1/Assignment_and_Operations/ru)_

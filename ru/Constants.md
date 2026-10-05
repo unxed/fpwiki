@@ -1,0 +1,54 @@
+# Basic Pascal Tutorial/Chapter 1/Constants
+
+│ **[български (bg)](</Basic_Pascal_Tutorial/Chapter_1/Constants/bg> "Basic Pascal Tutorial/Chapter 1/Constants/bg")** │  **[Deutsch (de)](</Basic_Pascal_Tutorial/Chapter_1/Constants/de> "Basic Pascal Tutorial/Chapter 1/Constants/de")** │  **[English (en)](<../en/Basic_Pascal_Tutorial/Chapter_1/Constants.md> "Basic Pascal Tutorial/Chapter 1/Constants")** │  **[français (fr)](</Basic_Pascal_Tutorial/Chapter_1/Constants/fr> "Basic Pascal Tutorial/Chapter 1/Constants/fr")** │  **[italiano (it)](</Basic_Pascal_Tutorial/Chapter_1/Constants/it> "Basic Pascal Tutorial/Chapter 1/Constants/it")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Chapter_1/Constants/ja> "Basic Pascal Tutorial/Chapter 1/Constants/ja")** │  **[한국어 (ko)](</Basic_Pascal_Tutorial/Chapter_1/Constants/ko> "Basic Pascal Tutorial/Chapter 1/Constants/ko")** │  **русский (ru)** │  **[中文（中国大陆）‎ (zh_CN)](</Basic_Pascal_Tutorial/Chapter_1/Constants/zh_CN> "Basic Pascal Tutorial/Chapter 1/Constants/zh CN")** │    
+****
+
+[ ◄ ](<Basic_Pascal_Tutorial/Chapter_1/Identifiers.md> "Basic Pascal Tutorial/Chapter 1/Identifiers/ru") | [ ▲ ](<Basic_Pascal_Tutorial/Contents.md> "Basic Pascal Tutorial/Contents/ru") | [ ► ](<Basic_Pascal_Tutorial/Chapter_1/Variables_and_Data_Types.md> "Basic Pascal Tutorial/Chapter 1/Variables and Data Types/ru")  
+---|---|---  
+  
+Константы
+
+1C - Constants (author: Tao Yue, state: unchanged) 
+
+  
+Идентификаторам, ссылающимся на константы, может быть присвоено только одно значнение в начале программы. Значение, хранящееся в константе, не может быть изменено. 
+
+Константы объявляются в секции констант программы: 
+    
+    
+    const
+      Identifier1 = value;
+      Identifier2 = value;
+      Identifier3 = value;
+    
+
+Для примера, давайте объявим несколько констант различных типов данных: строки, символы, целые, вещественные и логические. Эти типы данных будут дополнительно объяснены в следующем разделе. 
+    
+    
+    const
+      Name = 'Tao Yue';
+      FirstLetter = 'a';
+      Year = 1997;
+      pi = 3.1415926535897932;
+      UsingNCSAMosaic = TRUE;
+    
+
+Обратите внимание, что в Pascal символы заключаются в апострофы (')! Это контрастирует с более новыми языками, которые часто используют или разрешают кавычки (") или Heredoc-нотацию. Стандартный Pascal не использует и не разрешает кавычки для обозначения символов или строк. 
+
+Константы полезны для определения значения, которое используется в разных местах вашей программы, но может измениться в будущем. Вместо изменения каждого экземпляра значения, вы можете изменить только определение константы. 
+
+Типизированные константы заставляют константу иметь конкретный тип. Например, 
+    
+    
+    const
+      a : real = 12;
+    
+
+даст идентификатор **a** , который содержит вещественное значение 12.0 вместо целого 12. 
+
+[ ◄ ](<Basic_Pascal_Tutorial/Chapter_1/Identifiers.md> "Basic Pascal Tutorial/Chapter 1/Identifiers/ru") | [ ▲ ](<Basic_Pascal_Tutorial/Contents.md> "Basic Pascal Tutorial/Contents/ru") | [ ► ](<Basic_Pascal_Tutorial/Chapter_1/Variables_and_Data_Types.md> "Basic Pascal Tutorial/Chapter 1/Variables and Data Types/ru")  
+---|---|---
+
+---
+
+_Source: [https://wiki.freepascal.org/Constants/ru](https://web.archive.org/web/20230330144526/https://wiki.freepascal.org/Constants/ru)_

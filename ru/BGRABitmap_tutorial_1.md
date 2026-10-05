@@ -1,0 +1,179 @@
+# BGRABitmap tutorial 1
+
+│ **[Deutsch (de)](</BGRABitmap_tutorial_1/de> "BGRABitmap tutorial 1/de")** │  **[English (en)](<../en/BGRABitmap_tutorial_1.md> "BGRABitmap tutorial 1")** │  **[español (es)](</BGRABitmap_tutorial_1/es> "BGRABitmap tutorial 1/es")** │  **[français (fr)](</BGRABitmap_tutorial_1/fr> "BGRABitmap tutorial 1/fr")** │  **русский (ru)** │ 
+
+  
+****
+
+[ **Home**](<../en/BGRABitmap_tutorial.md> "BGRABitmap tutorial") | [ **Tutorial 1**](<../en/BGRABitmap_tutorial_1.md> "BGRABitmap tutorial 1") | [ **Tutorial 2**](<../en/BGRABitmap_tutorial_2.md> "BGRABitmap tutorial 2") | [ **Tutorial 3**](<../en/BGRABitmap_tutorial_3.md> "BGRABitmap tutorial 3") | [ **Tutorial 4**](<../en/BGRABitmap_tutorial_4.md> "BGRABitmap tutorial 4") | [ **Tutorial 5**](<../en/BGRABitmap_tutorial_5.md> "BGRABitmap tutorial 5") | [ **Tutorial 6**](<../en/BGRABitmap_tutorial_6.md> "BGRABitmap tutorial 6") | [ **Tutorial 7**](<../en/BGRABitmap_tutorial_7.md> "BGRABitmap tutorial 7") | [ **Tutorial 8**](<../en/BGRABitmap_tutorial_8.md> "BGRABitmap tutorial 8") | [ **Tutorial 9**](<../en/BGRABitmap_tutorial_9.md> "BGRABitmap tutorial 9") | [ **Tutorial 10**](<../en/BGRABitmap_tutorial_10.md> "BGRABitmap tutorial 10") | [ **Tutorial 11**](<../en/BGRABitmap_tutorial_11.md> "BGRABitmap tutorial 11") | [ **Tutorial 12**](<../en/BGRABitmap_tutorial_12.md> "BGRABitmap tutorial 12") | [ **Tutorial 13**](<../en/BGRABitmap_tutorial_13.md> "BGRABitmap tutorial 13") | [ **Tutorial 14**](<../en/BGRABitmap_tutorial_14.md> "BGRABitmap tutorial 14") | [ **Tutorial 15**](<../en/BGRABitmap_tutorial_15.md> "BGRABitmap tutorial 15") | [ **Tutorial 16**](<../en/BGRABitmap_tutorial_16.md> "BGRABitmap tutorial 16") | Edit
+
+Этот первый урок покажет Вам как использовать [BGRABitmap](<../en/BGRABitmap.md> "BGRABitmap") библиотеку. 
+
+Вы можете скачать библиотеку по ссылке [GitHub](<https://github.com/bgrabitmap>). 
+
+## Contents
+
+  * 1 Создаём новый проект
+  * 2 Add reference to BGRABitmap
+    * 2.1 Alternative ways of referencing
+      * 2.1.1 By installing BGRABitmap package
+      * 2.1.2 By adding BGRABitmap units to the search path
+  * 3 Add some drawing
+  * 4 Resulting code
+  * 5 Run the program
+
+
+
+### Создаём новый проект
+
+Создайте оконное приложение с помощью меню **Project > New project**. 
+
+The main form unit should look like this (the 2015 Linux version cannot process the below files, for working samples see the test-apps ("test 4 lcl") in the BGRA source tar-ball) : 
+    
+    
+    unit UMain;
+    
+    {$mode objfpc}{$H+}
+    
+    interface
+    
+    uses
+      Classes, SysUtils, FileUtil, LResources, Forms, Controls, Graphics, Dialogs;
+    
+    type
+    
+      { TForm1 }
+    
+      TForm1 = class(TForm)
+      private
+        { private declarations }
+      public
+        { public declarations }
+      end; 
+    
+    var
+      Form1: TForm1; 
+    
+    implementation
+    
+    initialization
+      {$I UMain.lrs}
+    
+    end.
+    
+
+If you do not find it, use **Ctrl-F12** to show file list. 
+
+Save your project next to BGRABitmap library with menu **File > Save all** (not necessarily in the same folder). 
+
+### Add reference to BGRABitmap
+
+The first time you use BGRABitmap, open bgrabitmappack.lpk with Lazarus and click on "Use > Add to Project". Then, if you need to add the reference in another project, you can do it through the Project inspector and click on "Add... > New condition" and choose BGRABitmapPack. 
+
+In the unit clause, add a reference to BGRABitmap and BGRABitmapTypes after Dialogs. 
+    
+    
+    uses
+      Classes, SysUtils, FileUtil, LResources, Forms, Controls, Graphics, Dialogs,
+      BGRABitmap, BGRABitmapTypes;
+    
+
+#### Alternative ways of referencing
+
+##### By installing BGRABitmap package
+
+Open bgrabitmappack.lpk as a package. Make sure it is possible to install it by going in the package window into "Options > IDE Integration" and setting the package type to "designtime and runtime". Then in the package window, click on install. A dialog pops up, asking if the package must be added to Lazarus and if it needs to be compiled again. Choose Yes twice. 
+
+If everything is fine, Lazarus restarts and BGRABitmap units are available. If it does not work, you can simply add BGRABitmap to the search path without compiling Lazarus. 
+
+##### By adding BGRABitmap units to the search path
+
+Another way is to add BGRABitmap units to the search path of the project. To do this, go to compiler options with menu **Project > Compiler options**. In other unit files path, add the relative path to BGRABitmap. For example, if BGRABitmap is in a folder next to your project, the relative path could be "..\BGRABitmap". 
+
+If you copy BGRABitmap files in the same folder as your project, then you do not need to add such search path. However, it is not recommended because if you have multiple projects using the library, it could become a repetitive task to update to a new version of the library. 
+
+If you are lost with relative path, you can also add the relative path by adding the BGRABitmap unit to your project. To do so, open within your project the file bgrabitmap.pas. Then use menu **Project > Add file to project**. Lazarus will ask if you want to add the file and the new directory to the project. 
+
+### Add some drawing
+
+Add a painting event. To do this, click on the form, then go to the object inspector, in the event tab, and double click on the OnPaint line. Lazarus will add automatically a FormPaint handler to the main form unit. Add for example the following code inside it : 
+    
+    
+    procedure TForm1.FormPaint(Sender: TObject);
+    var bmp: TBGRABitmap;
+    begin
+      bmp := TBGRABitmap.Create(ClientWidth, ClientHeight, BGRABlack);
+      bmp.FillRect(20, 20, 100, 40, BGRA(255,192,0), dmSet);  //fill an orange rectangle
+      bmp.Draw(Canvas, 0, 0, True);                           //render BGRABitmap on the form
+      bmp.Free;                                               //free memory
+    end;
+    
+
+As you can see, you need to define a [TBGRABitmap](<../en/TBGRABitmap_class.md> "TBGRABitmap class") variable and create it. There are several constructors for [TBGRABitmap](<../en/TBGRABitmap_class.md> "TBGRABitmap class"). The one used here creates a bitmap of size ClientWidth x ClientHeight and filled with black. ClientWidth and ClientHeight are form properties that return the available space for drawing inside the form. 
+
+The FillRect procedure takes usual parameters for drawing a rectangle, that is the upper-left corner followed by the lower-right corner plus 1. It means that the pixel at (100,40) is excluded from the rectangle. 
+
+After that, there is a color parameter with red/green/blue components, and a drawing mode. dmSet means to simply replace the pixels. 
+
+Do not forget to free the object after using it, to avoid a memory leak. 
+
+### Resulting code
+
+You should obtain the following code: 
+    
+    
+    unit UMain;
+    
+    {$mode objfpc}{$H+}
+    
+    interface
+    
+    uses
+      Classes, SysUtils, FileUtil, LResources, Forms, Controls, Graphics, Dialogs,
+      BGRABitmap, BGRABitmapTypes;
+    
+    type
+    
+      { TForm1 }
+    
+      TForm1 = class(TForm)
+        procedure FormPaint(Sender: TObject);
+      private
+        { private declarations }
+      public
+        { public declarations }
+      end; 
+    
+    var
+      Form1: TForm1; 
+    
+    implementation
+    
+    { TForm1 }
+    
+    procedure TForm1.FormPaint(Sender: TObject);
+    var bmp: TBGRABitmap;
+    begin
+      bmp := TBGRABitmap.Create(ClientWidth,ClientHeight,BGRABlack);
+      bmp.FillRect(20,20,100,40,BGRA(255,192,0),dmSet);
+      bmp.Draw(Canvas,0,0,True);
+      bmp.Free;
+    end;
+    
+    initialization
+      {$I UMain.lrs}
+    
+    end.
+    
+
+### Run the program
+
+You should obtain a window filled in black with an orange rectangle in it. 
+
+[![BGRATutorial1.png](https://wiki.freepascal.org/images/e/ea/BGRATutorial1.png)](</File:BGRATutorial1.png>)
+
+[Go to next tutorial (image loading)](<../en/BGRABitmap_tutorial_2.md> "BGRABitmap tutorial 2")
+
+---
+
+_Source: [https://wiki.freepascal.org/BGRABitmap_tutorial_1/ru](https://web.archive.org/web/20250113143433/https://wiki.freepascal.org/BGRABitmap_tutorial_1/ru)_

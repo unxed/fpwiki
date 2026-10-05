@@ -1,0 +1,72 @@
+# Basic Pascal Tutorial/Chapter 4/Solution
+
+│ **[български (bg)](</Basic_Pascal_Tutorial/Chapter_4/Solution/bg> "Basic Pascal Tutorial/Chapter 4/Solution/bg")** │  **English (en)** │  **[français (fr)](</Basic_Pascal_Tutorial/Chapter_4/Solution/fr> "Basic Pascal Tutorial/Chapter 4/Solution/fr")** │  **[日本語 (ja)](</Basic_Pascal_Tutorial/Chapter_4/Solution/ja> "Basic Pascal Tutorial/Chapter 4/Solution/ja")** │  **[中文（中国大陆）‎ (zh_CN)](</Basic_Pascal_Tutorial/Chapter_4/Solution/zh_CN> "Basic Pascal Tutorial/Chapter 4/Solution/zh CN")** │    
+****
+
+[ ◄ ](<Basic_Pascal_Tutorial/Chapter_4/Programming_Assignment.md> "Basic Pascal Tutorial/Chapter 4/Programming Assignment") | [ ▲ ](<Basic_Pascal_Tutorial/Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Basic_Pascal_Tutorial/Chapter_5/Enumerated_types.md> "Basic Pascal Tutorial/Chapter 5/Enumerated types")  
+---|---|---  
+  
+4Ga - Solution to Towers of Hanoi (author: Tao Yue, state: unchanged) 
+    
+    
+    (* Author:    Tao Yue
+       Date:      13 July 2000
+       Description:
+          Solves the Towers of Hanoi
+       Version:
+          1.0 - original version
+    *)
+    
+    program TowersofHanoi;
+    
+    var
+       numdiscs : integer;
+    
+    (********************************************************)
+    
+    procedure DoTowers (NumDiscs, OrigPeg, NewPeg, TempPeg : integer);
+    (* Explanation of variables:
+          Number of discs -- number of discs on OrigPeg
+          OrigPeg -- peg number of the tower
+          NewPeg -- peg number to move the tower to
+          TempPeg -- peg to use for temporary storage
+    *)
+    
+    begin
+       (* Take care of the base case -- one disc *)
+       if NumDiscs = 1 then
+          writeln (OrigPeg, ' ---> ', NewPeg)
+       (* Take care of all other cases *)
+       else
+          begin
+             (* First, move all discs except the bottom disc
+                to TempPeg, using NewPeg as the temporary peg
+                for this transfer *)
+             DoTowers (NumDiscs-1, OrigPeg, TempPeg, NewPeg);
+             (* Now, move the bottommost disc from OrigPeg
+                to NewPeg *)
+             writeln (OrigPeg, ' ---> ', NewPeg);
+             (* Finally, move the discs which are currently on
+                TempPeg to NewPeg, using OrigPeg as the temporary
+                peg for this transfer *)
+             DoTowers (NumDiscs-1, TempPeg, NewPeg, OrigPeg)
+          end
+    end;
+    
+    (********************************************************)
+    
+    
+    begin    (* Main *)
+       write ('Please enter the number of discs in the tower ===> ');
+       readln (numdiscs);
+       writeln;
+       DoTowers (numdiscs, 1, 3, 2)
+    end.     (* Main *)
+    
+
+[ ◄ ](<Basic_Pascal_Tutorial/Chapter_4/Programming_Assignment.md> "Basic Pascal Tutorial/Chapter 4/Programming Assignment") | [ ▲ ](<Basic_Pascal_Tutorial/Contents.md> "Basic Pascal Tutorial/Contents") | [ ► ](<Basic_Pascal_Tutorial/Chapter_5/Enumerated_types.md> "Basic Pascal Tutorial/Chapter 5/Enumerated types")  
+---|---|---
+
+---
+
+_Source: [https://wiki.freepascal.org/Solution_4](https://web.archive.org/web/20230205053000/https://wiki.freepascal.org/Solution_4)_

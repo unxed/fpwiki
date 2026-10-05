@@ -1,0 +1,37 @@
+# RTTI controls
+
+│ **[Deutsch (de)](</RTTI_controls/de> "RTTI controls/de")** │  **[English (en)](<../en/RTTI_controls.md> "RTTI controls")** │  **[español (es)](</RTTI_controls/es> "RTTI controls/es")** │  **[français (fr)](</RTTI_controls/fr> "RTTI controls/fr")** │  **[日本語 (ja)](</RTTI_controls/ja> "RTTI controls/ja")** │  **[português (pt)](</RTTI_controls/pt> "RTTI controls/pt")** │  **русский (ru)** │    
+****
+
+## Введение
+
+Эта страница описывет пакет RunTimeTypeInfoControls в _< lazarusdir>_/components/rtticontrols/. 
+
+Компоненты RTTI расширяют многие компоненты LCL возможностью напрямую соединяться с опубликованными свойствами классов. Они значительно сокращают написание скучного кода, автоматически загружая/сохраняя данные между компонентами LCL и опубликованными свойствами. Фактически, вы можете создавать работающие формы вообще без написания какого-либо кода. 
+
+В комбинации с [Streaming components](<../en/Streaming_components.md> "Streaming components") вы можете уменьшить количество кода, необходимого для соединения данных программы с GUI и диском/сетью, до минимума. 
+
+Хорошее объяснение RTTI для Delphi, которое также может быть применено и к Free Pascal, можно найти здесь: <http://www.blong.com/Conferences/BorConUK98/DelphiRTTI/CB140.htm>
+
+## Тестирование компонентов
+
+Элементы управления RTTI очень полезны при написании/тестировании компонентов. 
+
+  * Поместите ваш компонент на форму
+  * Поместите элемент управления RTTI на форму
+  * Укажите ваш компонент в свойстве **TIObject** компонента RTTI
+  * Укажите нужное свойство (из выпадающего списка) в свойстве **TIPropertyName** компонента RTTI
+  * Теперь вы можете редактировать свойство в интерактивном режиме и видеть результаты ваших изменений во время выполнения (а иногда и во время разработки, в зависимости от компонента)
+  * Каждый элемент управления RTTI будет пытаться вызвать соответствующий редактор свойства для вашего выбранного свойства.
+
+
+
+Например, если свойство имеет тип StringList, то RTTIButton будет вызывать редактор StringList, RTTIMemo - отображать его, и всё это - без написания и строчки кода! 
+
+## См. также
+
+  * [Runtime Type Information (RTTI)](<Runtime_Type_Information_\(RTTI\).md> "Runtime Type Information \(RTTI\)/ru")
+
+---
+
+_Source: [https://wiki.freepascal.org/RTTI_controls/ru](https://web.archive.org/web/20250426104043/https://wiki.freepascal.org/RTTI_controls/ru)_

@@ -1,0 +1,197 @@
+# Zeos tutorial
+
+│ **[Deutsch (de)](</Zeos_tutorial/de> "Zeos tutorial/de")** │  **English (en)** │  **[español (es)](</Zeos_tutorial/es> "Zeos tutorial/es")** │  **[français (fr)](</Zeos_tutorial/fr> "Zeos tutorial/fr")** │  **[português (pt)](</Zeos_tutorial/pt> "Zeos tutorial/pt")** │  **[русский (ru)](<../ru/Zeos_tutorial.md> "Zeos tutorial/ru")** │  **[中文（中国大陆） (zh_CN)](</Zeos_tutorial/zh_CN> "Zeos tutorial/zh CN")** │    
+****  
+  
+---  
+[**Databases portal**](<Portal_Databases.md> "Portal:Databases")  
+References: 
+
+  * [General info](<Databases.md> "Databases")
+  * [Libraries](<Database_libraries.md> "Database libraries")
+  * [Field types](<Database_field_type.md> "Database field type")
+  * [Controls](<Data_Controls_tab.md> "Data Controls tab")
+  * [FAQ](<Lazarus_DB_Faq.md> "Lazarus DB Faq")
+  * [SQL how-to](<SqlDBHowto.md> "SqlDBHowto")
+  * [Working With TSQLQuery](<Working_With_TSQLQuery.md> "Working With TSQLQuery")
+  * [In-memory database applications](<How_to_write_in-memory_database_applications_in_Lazarus/FPC.md> "How to write in-memory database applications in Lazarus/FPC")
+
+Tutorials/practical articles: 
+
+  * [Overview](<Lazarus_Database_Overview.md> "Lazarus Database Overview")
+  * [0 - Database set-up](<SQLdb_Tutorial0.md> "SQLdb Tutorial0")
+  * [1 - Getting started](<SQLdb_Tutorial1.md> "SQLdb Tutorial1")
+  * [2 - Editing](<SQLdb_Tutorial2.md> "SQLdb Tutorial2")
+  * [3 - Queries](<SQLdb_Tutorial3.md> "SQLdb Tutorial3")
+  * [4 - Data modules](<SQLdb_Tutorial4.md> "SQLdb Tutorial4")
+  * [SQLdb Programming Reference](<SQLdb_Programming_Reference.md> "SQLdb Programming Reference")
+
+Databases  
+
+
+    [Advantage](<Advantage_Database_Server.md> "Advantage Database Server") \- [MySQL](<MySQLDatabases.md> "MySQLDatabases") \- [MSSQL](<mssqlconn.md> "mssqlconn") \- [Postgres](<postgres.md> "postgres") \- [Interbase](<Firebird.md> "Firebird") \- [Firebird](<Firebird.md> "Firebird") \- [Oracle](<Oracle.md> "Oracle") \- [ODBC](<ODBCConn.md> "ODBCConn") \- [Paradox](<TParadox.md> "TParadox") \- [SQLite](<SQLite.md> "SQLite") \- [dBASE](<Lazarus_Tdbf_Tutorial.md> "Lazarus Tdbf Tutorial") \- [MS Access](<MS_Access.md> "MS Access") \- Zeos  
+  
+## Contents
+
+  * 1 Overview
+  * 2 Getting Zeos
+    * 2.1 SVN
+      * 2.1.1 Windows
+      * 2.1.2 Linux/BSD
+    * 2.2 ZIP
+  * 3 Installing the components
+  * 4 Installing Zeos components in MSEide
+  * 5 Make your first Zeos application
+  * 6 Possible Bugs and Issues
+  * 7 See also
+
+
+
+# Overview
+
+This tutorial is about getting, installing and using [Zeoslib](<http://zeos.firmos.at/portal.php>) with [Lazarus](<Glossary.md> "Glossary") and [FPC](<Glossary.md> "Glossary"). 
+
+# Getting Zeos
+
+Zeos has recently been ported to [Lazarus](<Glossary.md> "Glossary") and there are no releases yet that officially support it but you can easily get it from SVN if you follow these steps: 
+
+## SVN
+
+### Windows
+
+  * get a SVN client [TortoiseSVN](<http://tortoisesvn.tigris.org>) and install
+  * see [Getting Started with TortoiseSVN](<http://tortoisesvn.net/docs/release/TortoiseSVN_en/help-onepage.html#tsvn-dug-general>)
+  * do Checkout from Windows Explorer: <http://svn.code.sf.net/p/zeoslib/code-0/trunk>
+
+
+
+### Linux/BSD
+
+  * [FreeBSD](<Portal_FreeBSD.md> "Portal:FreeBSD") comes with '_svnlite_ (an svn client) preinstalled
+  * get an SVN client (esvn, kdesvn, etc.)
+  * create zeosdbo directory, go in that directory and do
+  * svn checkout <http://svn.code.sf.net/p/zeoslib/code-0/trunk>
+
+
+
+## ZIP
+
+You can download the latest version as a ZIP file from sourceforge.net: 
+
+  * <http://sourceforge.net/projects/zeoslib/>
+
+
+
+# Installing the components
+
+This is a tricky part so you should have a little patience and read this part carefully. 
+
+  * Make sure you have the latest [Lazarus snapshot](<http://www.de.freepascal.org/lazarus/>) and the at least FPC 2.0.3 not older than 6th March 2006.
+  * Start one instance of Lazarus.
+
+
+  1. Use **Components/Open Package File(.lpk)** from the main menu.
+  2. Go to **zeosdbo_rework\packages\lazarus\** and open **zcomponent.lpk**. Note: Starting with Zeos 7.3 / 8.0 Zeos has a new zcomponentdesign package for Lazarus. Please use this package on these versions.
+  3. Press **[Compile]** only if you don't want to install the components into the IDE
+  4. Press **[Install]**
+  5. You are asked if you want to recompile Lazarus.
+
+
+  * Answer **[Yes]** this time.
+  * Wait until compilation ends, Lazarus should restart itself after that.
+  * If all is ok you should now be able to see the **[Zeos Access]** tab in the Component Palette.
+
+
+
+[![Zeos Components.png](https://wiki.freepascal.org/images/2/25/Zeos_Components.png)](</File:Zeos_Components.png>)
+
+If you receive the error "Cannot find unit ZClasses" or something similar, then you need to carefully check the case of the filenames in your Zeos source distribution. 
+
+  * Even if the cases match exactly, the autogenerated package source file can generate the wrong case name in the uses clause (Lazarus 0.9.18), i.e.:
+
+
+    
+    
+    { This file was automatically created by Lazarus. Do not edit!
+      This source is only used to compile and install the package.
+    }
+    unit Zcore; 
+    interface
+    uses
+      Zclasses, Zcollections, Zcompatibility, Zexprparser, Zexprtoken, Zexpression, 
+      Zfunctions, Zmatchpattern, Zmessages, Zsysutils, Ztokenizer, Zvariables, 
+      Zvariant; 
+    implementation
+    end.
+    
+
+  * Notice that Lazarus has named the unit ZClasses Zclasses, resulting in a naming conflict. Presumably this is a bug in Lazarus, not the Zeos packages. One way around this is to rename all the zeos source files to lowercase. Trawl through each subdirectory under src/ and execute this command in a bash window:
+
+
+    
+    
+     rename -v 'y/A-Z/a-z/' *
+    
+
+  * Then, in Lazarus, reopen the package (.lpk) and fix the filename cases by clicking on "More..."/"Fix Files Case"
+  * The package should compile now.
+
+
+
+# Installing Zeos components in MSEide
+
+In order to install the Zeos components: 
+
+  * add the path to the Zeos source to 'Project'-'Options'-'Make'-'Directories'
+  * and compile the IDE with **-dmse_with_zeoslib -dMSEgui**.
+  * There is a predefined IDE project **apps/ide/mseide_zeos.prj** , update 'Project'- 'Options'-'Macros' according to your installation.
+  * A simple demo is in [mseuniverse](<https://github.com/mse-org/mseuniverse/tree/main/samples/db/zeos>).
+
+
+
+# Make your first Zeos application
+
+  * Drop a **ZConnection**. 
+    * Set your User, Password, Host, Port and Protocol (and any other params if needed).
+    * Set Connected to True.
+
+
+  * Drop a **ZQuery** (do not mistake with ZReadOnlyQuery). 
+    * Set the Connection to your active ZConnection.
+    * Set the Sql property to something like **SELECT * FROM MyTable**
+    * Set Active to True.
+
+
+  * Drop a **DataSource** from the **[Data Access]** tab. 
+    * Set the DataSet to your active ZQuery.
+
+
+  * Drop a **DBGrid** from the **[Data Controls]** tab. 
+    * Set the Datasource to your DataSource.
+    * If all is ok you should now be able to see the records from your table.
+
+
+
+# Possible Bugs and Issues
+
+  * I have noticed that sometimes when building Lazarus it cannot find some Zeos files, as a quick workaround try this: 
+    * Use **Components/Package Graph** from the main menu.
+    * Open the **ZComponent** package.
+    * Right Click on the **Files** item in the list.
+    * Choose **[Recompile all required]**.
+    * When asked "Re-Compile this and all required packages?" answer **[Yes]**.
+    * Recompile Lazarus normally (with packages).  
+  
+
+
+
+
+# See also
+
+  * [Forum for ZeosLib](<http://zeoslib.sourceforge.net/index.php>)
+  * [ZeosDBO](<ZeosDBO.md> "ZeosDBO")
+  * [Tutorial Lazarus/Zeos/Firebird (Windows)](<https://lazarus.intern.es/tutorial_firebird_lazarus_zeos_2.html>) German/Parts in English [download site](<https://lazarus.intern.es/download_tutorials_lazarus_zeos_firebird.html>)
+
+---
+
+_Source: [https://wiki.freepascal.org/Zeos](https://web.archive.org/web/20250513161718/https://wiki.freepascal.org/Zeos)_

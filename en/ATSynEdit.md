@@ -1,0 +1,1542 @@
+# ATSynEdit
+
+## Contents
+
+  * 1 About
+  * 2 License
+  * 3 Keyboard shortcuts
+  * 4 Mouse shortcuts
+  * 5 Multi-carets
+    * 5.1 Multi-selections
+    * 5.2 Clipboard commands with selections
+  * 6 Help topics
+    * 6.1 Compilation errors
+    * 6.2 What limitations it has?
+    * 6.3 What features it has?
+    * 6.4 Difference from other components
+    * 6.5 Does it need to be installed?
+    * 6.6 What parts does it have?
+      * 6.6.1 Strings object
+      * 6.6.2 Strings.Bookmarks object
+      * 6.6.3 Strings.Bookmarks2 object
+      * 6.6.4 Carets object
+      * 6.6.5 CaretsSel object
+      * 6.6.6 Keymap object
+      * 6.6.7 WrapInfo object
+      * 6.6.8 Undo object
+      * 6.6.9 Gutter object
+      * 6.6.10 GutterDecor object
+      * 6.6.11 Fold object
+      * 6.6.12 Markers object
+      * 6.6.13 Attribs object
+      * 6.6.14 Colors object
+      * 6.6.15 Gaps object
+      * 6.6.16 DimRanges object
+      * 6.6.17 Hotspots object
+      * 6.6.18 Micromap object
+    * 6.7 What are the basic methods/properties?
+    * 6.8 Basic example how to use?
+    * 6.9 How does it manage the coordinates?
+      * 6.9.1 Text position to/from screen coordinates
+      * 6.9.2 Text posistion to/from column index
+    * 6.10 How to manage the caret, the selection?
+    * 6.11 How to modify text?
+    * 6.12 How to highlight syntax?
+    * 6.13 How to set same text-source to several editors?
+    * 6.14 How to add/change commands?
+    * 6.15 How to emulate Edit, Combobox?
+    * 6.16 What props are useful for statusbar?
+    * 6.17 How to customize popup menu?
+    * 6.18 How to know indexes of changed lines in OnChange?
+    * 6.19 How to export text to HTML?
+    * 6.20 Short description of events?
+    * 6.21 What is logic of grouped-undo?
+    * 6.22 How to record/playback macros?
+    * 6.23 How to configure modifier-keys with click?
+    * 6.24 Does it use PrimarySelection on gtk?
+    * 6.25 How to handle OnCalcLineHilite event
+    * 6.26 Details about highlighting rendering
+    * 6.27 How to control vert/horz scrolling?
+    * 6.28 When Update call is needed?
+    * 6.29 Behaviour of column selection
+    * 6.30 Horizontal scrollbar only increases but never shrinks?
+    * 6.31 more
+  * 7 Auto-completion lists
+    * 7.1 General auto-completion API
+    * 7.2 Auto-completion using acp-files
+    * 7.3 Auto-completion for CSS
+    * 7.4 Auto-completion for HTML
+  * 8 Finder
+  * 9 Adapters
+    * 9.1 Adapters description
+    * 9.2 Adapter for EControl lexers
+  * 10 How to adapt TRegExpr upstream for ATSynEdit
+
+
+
+# About
+
+**ATSynEdit** is the multi-line editor control. 
+
+  * Homepage: <https://github.com/Alexey-T/ATSynEdit>
+  * Support for EControl adapter: <https://github.com/Alexey-T/EControl>
+
+
+
+Author: Alexey Torgashin 
+
+[![atsynedit.png](https://wiki.freepascal.org/images/4/49/atsynedit.png)](</File:atsynedit.png>)
+
+# License
+
+ATSynEdit files licensed under MPL 2.0. You can optionally use them under LGPL if your project needs it. 
+
+EControl files licensed under special license (readme.txt), usage allowed only in open-source projects. 
+
+# Keyboard shortcuts
+
+Run demo_editor and call menu item "Help - Commands'. You'll see all shortcuts in a dialog like this: 
+
+[![atsynedit keymap.png](https://wiki.freepascal.org/images/5/54/atsynedit_keymap.png)](</File:atsynedit_keymap.png>)
+
+# Mouse shortcuts
+
+Multi-carets: 
+
+  * Ctrl+click - add/delete caret
+  * Ctrl+drag - add caret with selection
+  * Ctrl+Shift+click - add carets column in several lines (from previous caret to clicked line)
+
+
+
+Select: 
+
+  * Alt+drag - select column of text (Note: it may look weird if word-wrap on, because wrap is not considered here at all. Simple rectangle of coordinates [x1,y1]-[x2,y2] is always selected, even if this gives bad looking screen)
+  * drag on gutter's line numbers - select by entire lines
+  * double-click and immediately drag - select text by words
+
+
+
+Clicks: 
+
+  * double-click - select clicked word
+  * triple-click - select entire line (limited by end-of-lines)
+  * middle-button click - start "Browser Scroll" mode: circle mark appears and mouse moving around this mark auto-scrolls text in 4 directions; speed of scrolling depends on distance of cursor from circle mark (any click to turn off)
+
+
+
+# Multi-carets
+
+Multi-carets are several carets at once. All carets work together for many editing commands: caret moving, text typing, deleting, selection with keyboard. See "Mouse shortcuts", how to add/remove carets. 
+
+Animation: 
+
+[![atsynedit-carets.gif](https://wiki.freepascal.org/images/a/a7/atsynedit-carets.gif)](</File:atsynedit-carets.gif>)
+
+## Multi-selections
+
+If you add caret with Ctrl+click, caret has no selection. If you add caret with Ctrl+drag, caret will have selection. You can add selections to carets later, by Shift+arrows, Shift+Home, Shift+End etc. 
+
+Multi-selections are handled specially on copy/paste. If you copy selections, then move carets, then paste, paste will insert clipboard lines into carets: line-1 at caret-1, line-2 at caret-2 etc (only if carets count equals to lines count in clipboard, otherwise result is different). 
+
+Animation shows this: 
+
+[![atsynedit-sel.gif](https://wiki.freepascal.org/images/b/b7/atsynedit-sel.gif)](</File:atsynedit-sel.gif>)
+
+## Clipboard commands with selections
+
+Clipboard-related commands work with carets, both with selections and without them. Some details about this: 
+
+Command | Behaviour, when there're no selections | Behaviour, when at last one selection present  
+---|---|---  
+Copy to clipboard | Copies entire lines, containing carets. (Ignores multiple carets on same line.) | Copies only selections text. (Ignores carets without selections.)  
+Cut to clipboard | Similarly to "Copy" w/o selections. | Similarly to "Copy" with selections.  
+Paste from clipboard | First, selections are cleared (deleted). Then, command pastes text into each caret position. Special case is when clipboard lines count equals to carets count - in this case, first line is inserted at first caret, second line is inserted at 2nd caret, etc.  
+Delete char | Deletes one char at each caret position. | Deletes only selections text. (Ignores carets without selections.)  
+  
+# Help topics
+
+## Compilation errors
+
+**IME error on GTK2.**
+
+You may get this error: 
+    
+    
+    atsynedit.pas(9067,9) Error: (5000) Identifier not found "IM_Context_Set_Cursor_Pos"
+    
+
+To fix it, edit the file "atsynedit/atsynedit_package.lpk" and remove this block there: 
+    
+    
+          <Other>
+            <CustomOptions Value="-dGTK2_IME_CODE"/>
+            <OtherDefines Count="1">
+              <Define0 Value="GTK2_IME_CODE"/>
+            </OtherDefines>
+          </Other>
+    
+
+## What limitations it has?
+
+  * All lines have the same height
+  * Cannot set different fonts for different parts
+  * No support for right-to-left mode, only limited support for Arabic text
+
+
+
+## What features it has?
+
+  * Fast editing of big texts (tested 10M log)
+  * Syntax highliting using 'adapters'
+  * Multi-carets from birth. All code carets aware.
+  * Strings object is holder of text. 2+ editors can have 1 strings obj. (Split editor.)
+  * Unicode (used UnicodeString in Strings obj)
+  * Word-wrap (wrap at control edge, wrap at column)
+  * Inter-line gaps (see #Gaps_object)
+  * Undo/redo
+  * Column blocks
+  * Gutter (line numbers, folding, colored line states)
+  * Bookmarks (with icons)
+  * Supports Win/Unix/Mac line ends
+  * Minimap like Sublime Text
+  * Micromap (owner drawn)
+  * Ruler (at top edge)
+  * Renders wrapped indent (line contains some indent, wrapped parts contain the same indent)
+  * Renders CJK chars with big width
+  * Renders some Unicode chars as "AABB" hex code
+  * Renders unprintable chars (space, tab, line end)
+  * Can highlight/activate URLs
+  * Can set color attributes for ranges (to highlight pair brackets or same words)
+  * Supports proportional fonts
+
+
+
+## Difference from other components
+
+  * Adapters to support syntax highlighting. In theory, using adapters it's possible to support syntax files from any app: Sublime Text, Atom, EmEditor etc.
+  * Muti-carets, multi-selections
+  * Inter-line gaps, can insert pictures in it
+  * Minimap, Micromap (rare in others editors)
+  * Smooth per-pixel scrolling (option)
+
+
+
+## Does it need to be installed?
+
+It may be installed or not. 
+
+  * Use not installed: see below "Basic example how to use".
+  * Use installed: in Lazarus IDE, open package file "atsynedit\atsynedit_package". Install it in Package dialog. You 'll have components installed in "Misc" page of component pallette: TATSynEdit, TATEdit (single line edit), etc.
+
+
+
+## What parts does it have?
+
+### Strings object
+
+type TATStrings in unit atstrings. Storage of text lines. It includes managing of Undo/Redo too. 
+
+Methods: 
+
+  * To add/delete lines: LineAdd, LineInsert, LineDelete. They automatically create/update Undo/Redo data. Methods with "Raw" word in name: ignore Undo/Redo data, usually don't use them.
+  * To insert/delete blocks of lines: LineBlockInsert, LineBlockDelete.
+  * Methods starting with "Text" support basic text operations: TextReplace, TextAppend, TextInsert etc. They operate on one caret position and get parameters AShift (shift of caret after text operation, by x/y) and APosAfter (position of caret after the operation).
+  * To load entire content into Strings object: LoadFromFile, LoadFromStream, LoadFromString (multi-line string).
+
+
+
+To get/set lines, use properties: 
+
+  * Lines[i]: text, of type UnicodeString
+  * LinesUTF8[i]: text, of type string (faster than Lines[])
+  * LinesLen[i]: integer: same as Length(Lines[i]), but faster
+  * LinesEnds[i]: enum: kind of end-of-line chars
+  * LinesHidden[i]: bool: true if line is fully hidden (inside folded block)
+  * LinesFoldFrom[i]: byte: 0 if line is not folded, >0 if line is folded from this char-pos
+  * LinesState[i]: enum: line state, normal/changed/saved, it's shown by color on gutter
+  * LinesSeparator[i]: enum: kind of horizontal separator line to paint near text (rarely needed for apps).
+
+
+
+Auto-adjustments of other objects when lines are added/deleted: 
+
+  * Strings object updates Strings.Bookmarks, Strings.Bookmarks2 objects.
+  * Strings object updates Gaps (actually Strings.Gaps) object.
+  * If Strings.GutterDecor1 / .GutterDecor2 properties are set, Strings object updates GutterDecor object(s). Properties are not set in ATSynEdit, application must set them.
+  * Objects Attribs / Markers / HotSpots are updated not inside Strings object, but in main ATSynEdit code.
+
+
+
+### Strings.Bookmarks object
+
+type TATBookmarks in unit atsynedit_bookmarks. Holds list of bookmarks of type TATBookmarkItem. Each item has props: 
+
+  * Data.LineNum: line index (in Strings object)
+  * Data.Kind: int kind value
+  * Data.Hint: tooltip string, which is shown on mouse-over for bookmark gutter icon
+  * Data.Tag: int value, for custom application needs
+  * Data.DeleteOnDelLine: bool, enables to auto delete item, when its line is deleted
+  * Data.ShowInBookmarkList: bool, for custom application needs
+
+
+
+Kind specifies background color and gutter icon for bookmarks of this kind. Kind value 0 must not be used (previously value 0 meaned "no bookmark"), value 1 should be used for "usual" bookmarks, value>1 should be used for custom application bookmarks. ATSynEdit has 2 events: to paint bookmark icon (from its kind), and to get color of bookmark (from its kind). 
+
+Bookmarks object is always sorted by line index. Duplicate bookmarks (for the same line index) are auto removed. To change bookmarks, use methods Add, Delete, DeleteForLine, Clear. Also use method Find. 
+
+### Strings.Bookmarks2 object
+
+Same type as Strings.Bookmarks object. This list holds "background bookmarks", which have lower paint priority than usual bookmarks. So if a line has usual bookmark - it is painted, and if not - background bookmark is searched for this line and painted. Bookmarks2 allows to colorize entire lines, but not to interfere with usual bookmarks - it is "passive coloring". Additionally, marks in Bookmarks2 don't have gutter icon, and mouse-over tooltip. Marks in Bookmarks/Bookmarks2 use the same Kind values space. 
+
+### Carets object
+
+type TATCarets in unit atsynedit_carets. Holds list of items of type TATCaretItem. Each caret item has properties: 
+
+  * PosY: index of line in Strings object, 0-based
+  * PosX: offset of caret from line start, 0-based
+  * EndY, EndX: position for selection edge for this caret, or -1/-1 if no selection for this caret
+  * CoordY, CoordX: screen coordinates (usually you don't need these)
+
+
+
+For forward sel, pair (PosY, PosX) is after pair (EndY, EndX); for backward sel the order is reversed. So if you want to get pos of selection start (e.g. to delete this selection), get minimal pair. 
+
+Carets object is sorted by text position, method Sort does this. Duplicate carets (they appear during work with multi-carets) are auto removed. If you try to add overlapping caret selections, they will be auto merged to one caret. To add/delete carets, use methods Add, Clear. Also ATSynEdit has methods DoCaretNNNNN, eg DoCaretSingle makes single caret. 
+
+### CaretsSel object
+
+type TATCaretSelections in unit atsynedit_carets. It is helping object, internally it holds array of carets coordinates, sorted by text position, but only for carets with selection (carets w/o selection are not included). It is read-only, ie it's needed only to find some info about selections, not to store it. Finding some info about selections is much faster with CaretsSel object, though you can use Carets object too (slower). It uses binary search. 
+
+Note: object is updated (from contents of Carets) in Paint method, not immediately after you add/change something in Carets. 
+
+### Keymap object
+
+type TATKeymap in unit atsynedit_keymap. 
+
+Holds list of keyboard actions of type TATKeymapItem. It's inited at start. And to init items at start, two "filling" procedures exist in code: one for TATSynEdit, and simpler one for TATEdit (single line version, less commands). And you can add more keymap items or change hotkeys for any keymap item. 
+
+Each keymap item has 2 (yet) hotkeys, second is needed for e.g.: Copy-to-clipboard (Ctrl+C and Ctrl+Ins), Paste-from-clipbd (Ctrl+V and Shift+Ins) etc. 
+
+When adding keymap item, you can set simple hotkeys (e.g. "Alt+Shift+F") or key combos (several simple hotkeys which must be pressed in order). Example adds commands with simple hotkey and combo: 
+    
+    
+      var 
+        M: TATKeymap;
+      const 
+        cmd_My1 = 3000; 
+        cmd_My2 = 3001;
+      begin
+        M.Add(cmd_My1, 'cmd with simple hotkey', ['Ctrl+Shift+F'], []);
+        M.Add(cmd_My2, 'cmd with 3 keys combo', ['Ctrl+B', 'Ctrl+B', 'Ctrl+M'], []);
+    
+
+After you added new keymap items, add reaction for them: use OnCommand event as usual. 
+
+### WrapInfo object
+
+type TATWrapInfo in unit atsynedit_wrapinfo. Holds list of wrap items, each is info about wrapped part of line or about entire line: 
+
+  * its original line index in Strings object (0-base)
+  * its char offset in original line (0-base)
+  * its length
+  * its indent size (if feature "wrapped indent" is on)
+  * its final-state: is it first/middle part of wrapped line, or final part
+
+
+
+One wrap item renders on control as one short line. It is part of wrapped line or entire line. Also used for wrap-mode off, this is simple case - one wrap item per one line. Wrap items exist only for lines not hidden by folding feature (with Strings.LinesHidden[i]=true). 
+
+  
+WrapInfo has weird property VirtualMode. This prop is set if a) no fold ranges created (ie no lexer is active, or lexer didn't create fold ranges), b) word wrapping is off. VirtualMode means that WrapInfo don't store any data in internal TList, it is empty and fast, it only reads props of Strings and returns them. Indeed, when no fold ranges, and word wrapping off, all items of WrapInfo must be simple "mirror" of Strings items props (and count is the same). 
+
+VirtualMode makes loading of huge logs (100-500Mb) ~1.5 times faster. 
+
+### Undo object
+
+Holds list of actions for Undo/Redo. You must not touch it. Filled auto by changing-adding-deleting of lines in Strings object (by any API). Also holds end-of-lines markers (changed ends-of-lines can undo too). 
+
+Items in Undo object have 'group marker'. This means that some editor commands set this marker, and items after marked item will undo as a group (if option "Group undo" on). You can set group marker (for next editor action) by method SetGroupMark of Strings object. 
+
+### Gutter object
+
+type TATGutter in unit atsynedit_gutter. Holds list of gutter items. Each gutter item has properties: 
+
+  * Visible: gutter band is shown on gutter
+  * Size: width of gutter band
+  * Left/Right: calculated auto from Visible and Size, coordinates of band on control
+
+
+
+To know which band of gutter does what, use properties of ATSynEdit: GutterBandNum (index of band for line numbers), GutterBandFold (index of band for folding) etc. Example shows/hides gutter column: 
+    
+    
+      ed.Gutter[ed.GutterBandNum].Visible:= checkGutterNum.Checked;
+      ed.Gutter.Update;
+      ed.Update;
+    
+
+### GutterDecor object
+
+type TATGutterDecor in unit atsynedit_gutter_decor. Holds list of items, which are painted over gutter, for decoration purpose. Items can hold short text strings (e.g. normal/square/curly brackets to show pair brackets in text), or icon from TImageList. If item has not empty Text, then text is shown, otherwise icon is shown. Each item has props: 
+
+  * Data.LineNum: line index (in Strings object)
+  * Data.Tag: int value, for custom app needs
+  * Data.ImageIndex: icon index in TATSynEdit.ImagesGutterDecor image list
+  * Data.Text: short string
+  * Data.TextBold: bool, text font is bold
+  * Data.TextItalic: bool, text font is italic
+  * Data.TextColor: color of text
+  * Data.DeleteOnDelLine: bool, enables to auto delete item, when its line is deleted
+
+
+
+Items in this object are auto adjusted when text is edited. But note: for this to work, you must assign GutterDecor object to Strings object prop GutterDecor1 or GutterDecor2. 
+
+Duplicate items (for the same line index) are auto removed. TATSynEdit.GutterBandDecor sets index of gutter band for decorations. If -1, then gutter band for bookmarks is used. 
+
+### Fold object
+
+type TATSynRanges in unit atsynedit_ranges. Holds list of ranges which can be folded and show plus/minus on gutter. Each range is of type TATSynRange, it has properties: 
+
+  * Y: starting line of range (0-based)
+  * Y2: ending line of range (if same as Y, plus/minus not shown on gutter)
+  * X: char-offset in starting line (must be >0, 1 means fold from 1st char)
+  * Folded: boolean, state: folded/unfolded
+  * Staple: boolean, true if range has staple shown (vertical line on text area)
+  * Hint: string, shown in rectangle when range is folded
+
+
+
+Example adds few ranges to text: 
+    
+    
+      Edit1.Fold.Clear;
+      Edit1.Fold.Add(1, 4, 15, false, ''); //line 4 to 15, range1
+      Edit1.Fold.Add(1, 5, 9, false, ''); //line 5 to 9, nested into range1
+      Edit1.Fold.Add(1, 7, 8, false, ''); //line 7 to 8, nested into range2
+    
+
+  * To fold/unfold a range, don't change Folded field, use methods of ATSynEdit: DoRangeFold, DoRangeUnfold.
+  * To fold/unfold all, use commands via DoCommand method: cCommand_FoldAll, cCommand_UnfoldAll.
+  * In Fold object, items are not sorted, but usually syntax-adapters add these ranges as sorted (by Y).
+  * Fold object has methods, which find ranges, e.g. all ranges which contain any line from N1 to N2, etc.
+
+
+
+### Markers object
+
+type TATMarkers in unit atsynedit_markers. Holds list of marker items. Each marker item has properties: 
+
+  * PosX, PosY: position of marker (like caret position).
+  * LineLen: if not 0, render horizontal line to the left (LineLen<0) or right (LineLen>0).
+  * CoordX, CoordY: screen coordinates.
+  * CoordX2, CoordY2: screen coordinates of LineLen end.
+  * SelX, SelY: used in CudaText: when "collect marker" gets this marker, caret will be with selection. 
+    * if SelY=0 - SelX is length of selection (single line selection)
+    * if SelY>0 - SelY is Y-delta of selection end, SelX is absolute X of selection-end
+  * Tag (Int64): some integer value, useful for apps: e.g. CudaText holds here tabstop-index (several markers with the same index >0 give multi-carets, when user jumps to one of markers).
+  * Value (Int64): some integer value, attached to marker.
+  * Ptr (TObject): some application-specific object. Object is freed automatically when marker item is freed.
+  * MicromapOnly (enum): where to render the marker: on text area, on micromap, on both text/micromap.
+
+
+
+Markers are painted as red triangles below their positions (PosX, PosY). They are needed e.g. for making snippets, where user needs to jump over snippet's insert points and wants to see these points. Also it's good for IDE to have commands like "drop marker here", "remove last marker", "swap caret and last marker" etc (like CodeRush). 
+
+Example code from CudaText: 
+    
+    
+    procedure EditorMarkerGotoLast(Ed: TATSynEdit; AndDelete: boolean);
+    var
+      Caret: TATCaretItem;
+      Mark: TATMarkerItem;
+    begin
+      if Ed.Carets.Count<>1 then exit;
+      if Ed.Markers.Count=0 then exit;
+      Caret:= Ed.Carets[0];
+      Mark:= Ed.Markers[Ed.Markers.Count-1];
+      Caret.PosX:= Mark.PosX;
+      Caret.PosY:= Mark.PosY;
+      if AndDelete then
+        Ed.Markers.Delete(Ed.Markers.Count-1);
+      Ed.DoGotoCaret(cEdgeTop);
+      Ed.Update;
+    end;
+    
+
+### Attribs object
+
+type TATMarkers (same as for Markers). Holds list of additional color/font attribute items, these items are added to syntax hiliting and selection hiliting. Each item has properties: 
+
+  * PosX, PosY: see Markers object.
+  * SelX, SelY: see Markers object.
+  * Ptr (TObject): object of type TATLinePartClass, which has Data field. This Data is record, it contains all color/font/borders properties of this attr.
+
+
+
+Attribs object is used in CudaText: app adds attr items to hilite brackets, to hilite misspelled words, etc. 
+
+If you add attrib item, create new object of type TATLinePartClass, fill its Data, and pass object to TATMarkers.Add. This object is freed automatically if attrib item deleted or all attribs cleared. 
+
+### Colors object
+
+Contains color properties of type TColor. For ex, Colors.TextFont is text font color, Colors.TextBG is text background color. 
+
+### Gaps object
+
+type TATGaps in unit atsynedit_gaps. Holds list of items TATGapItem. Each item has properties: 
+
+  * LineIndex: index in Strings object; and special value -1 is allowed: gap before the first line
+  * Size: height in pixels
+  * Tag: int value, to difference gaps from several plugins
+  * Bitmap: TBitmap which is painted on gap, when it's visible
+  * DeleteOnDelLine: bool, enables to auto delete item, when its line is deleted
+
+
+
+Gap item paints as rectangle (it is owner-drawn), just between lines N and N+1, not overlapping text. When user adds/deletes lines, gaps auto-shift with their lines; gap is deleted if its line is deleted. 
+
+Use cases: 
+
+  * App wants to show picture preview, when picture is linked in HTML. It creates small preview picture e.g. 100x50, and adds gap: gap size=52, picture height and 2 pixels of border.
+  * App runs linter on JS code, for JS errors it places bookmarks, and adds gaps with size=15 for error lines: in gaps it writes errors, maybe icons.
+
+
+
+To add/remove gaps: 
+    
+    
+      //to add
+      ed.Gaps.Add(NLine, NGapHeight, FSomeBitmap, NGapTag);
+      ed.Update;
+      //to delete this gap
+      ed.Gaps.DeleteForLineRange(NLine, NLine);
+      ed.Update;
+    
+
+Event OnDrawGap is used to paint gaps, it gets canvas, and rectangle on canvas. Note: if you add gap to the last line, you must turn on option OptLastLineOnTop, better don't turn it off later (to not scroll, when gap added/removed). 
+
+### DimRanges object
+
+type TATDimRanges in unit atsynedit_dimranges. Holds list of ranges which shade/dim/fade text font color, ie blend font color with background color. Each range is of type TATDimRange, it has properties: 
+
+  * LineFrom: range starts from this line (0-based)
+  * LineTo: range ends on this line (can use MaxInt)
+  * DimValue: dim value from 0 to 255. 0 means "no effect", 255 means "transparent text".
+
+
+
+To dim all text except current paragraph, you must add 2 ranges: before/after paragraph, then correct line indexes in them. 
+
+There is no checking for line indexes, ranges can have any indexes, but overlapping indexes not good (first found range will give dim value). 
+
+Example adds 2 ranges and changes them later: 
+    
+    
+      R1:= Ed.DimRanges.Add(0, 6, 100{dim value});
+      R2:= Ed.DimRanges.Add(20, MaxInt, 100{dim value});
+      Ed.Update;
+      //change ranges
+      R1.LineTo:= 10;
+      R2.LineFrom:= 30;
+      Ed.Update;
+    
+
+### Hotspots object
+
+type TATHotspots in unit atsynedit_hotspots. Holds list of ranges, which need special tooltip on mouse-over. Each range is of type TATHotspotItem, it has props: 
+
+  * PosX, PosY: start of range (text position)
+  * EndX, EndY: end of range
+  * Tag: some custom int value
+  * TagString: some custom string value
+
+
+
+You can add hotspots via Add method, and find them later by Tag, by TagString, by text position - methods FindByPos, FindByTag, FindByTagString. To support mouse-over for these ranges, two events exist: OnHotspotEnter, OnHotspotExit. 
+
+Example of usage: in HTML file, app can find all HTML color tokens #rrggbb, add hotspots for them, and store color value to Tag. Then on mouse-over app can show colored tooltip. 
+
+### Micromap object
+
+type TATMicromap in unit atsynedit_micromap. Holds list of micromap's columns (by default only one column is added, and CudaText adds 2nd column to paint marks from plugins). The micromap is shown by ATSynEdit property OptMicromapVisible and must be painted by the app via OnDrawMicromap event. Micromap object has Columns property, "array of TATMicromapColumn". 
+
+Type TATMicromapColumn is record with the fields: 
+
+  * NTag: Int64 tag value, so app can find this column by tag - app can change this
+  * NWidthPercents: Width of column in percents of average char width - app can change this
+  * NWidthPixels: Width of column in pixels - auto calculated, app must not change this
+  * NLeft, NRight: Control-related coordinates of column left and right edge - auto calculated, app must not change this
+
+
+
+Micromap object holds Columns prop, and several methods to add/delete columns: ColumnAdd, ColumnDelete, and method ColumnFromTag to find columns by int tag. Application can paint anything on micromap, but it's recommented to paint small marks per editor lines. To get coordinates of such marks, use ATSynEdit method RectMicromapMark, it does calculations to get coords for all editor lines, to fill the entire micromap. 
+
+## What are the basic methods/properties?
+
+Objects 
+
+  * property Strings
+  * property Strings.Bookmarks
+  * property Strings.Bookmarks2
+  * property Carets
+  * property Gutter
+  * property GutterDecor
+  * property Keymap
+  * property Fold
+  * property Markers
+  * property Attribs
+  * property Colors
+  * property WrapInfo
+  * property Gaps
+  * property DimRanges
+  * property Hotspots
+  * property Micromap
+
+
+
+Files 
+
+  * procedure LoadFromFile(const AFilename: string): load text from file (filename uses utf-8)
+  * procedure SaveToFile(const AFilename: string): save text to file
+
+
+
+States 
+
+  * property Modified: modified state (cleared on file loading)
+  * property ModeOverwrite: mode insert/overwrite state (Ins key toggles it)
+  * property ModeReadOnly: mode read-only state
+
+
+
+More 
+
+  * procedure Update(AUpdateWrapInfo: boolean = false; AUpdateCaretsCoords: boolean = true): to repaint+invalidate; 1st param must be True to recalculate WrapInfo object (usually it's auto updated, but if text change detection don't work, e.g. Strings object changed directly, pass True here)
+  * procedure DoCommand(ACmd: integer; const AText: UnicodeString = ""): command runner, pass command code to run it (see file atsynedit_commands)
+  * property Text: unicodestring which gives entire editor text with LF separator
+
+
+
+Caret 
+
+  * procedure DoCaretSingle(AX, AY: integer): make single caret
+  * function CaretPosToClientPos(P: TPoint): TPoint: convert caret coords to screen coords
+  * function ClientPosToCaretPos(P: TPoint; out AEndOfLinePos: boolean): TPoint: convert screen coords to caret coords
+  * function IsLineWithCaret(ALine: integer): boolean: is line index contains any caret
+
+
+
+  
+Selection 
+
+(P.Y is line index, P.X is char offset in line, 0-based) 
+
+  * property SelRect: for column selection, rectangle of column block
+  * function IsSelRectEmpty: is column selection exists
+  * procedure DoSelect_All: select all text (makes single caret)
+  * procedure DoSelect_Line(P: TPoint): select single line
+  * procedure DoSelect_Word(P: TPoint): select single word
+  * procedure DoSelect_LineRange(ALineFrom: integer; P: TPoint): select several lines from line index to given point
+
+
+
+View 
+
+  * property LineTop: index of line visible at the top of control (almost vertical scroll, though exact scroll pos is different, it considers WrapInfo object)
+  * property LineBottom: index of line visible at the bottom of control (because of folding you cannot simply calculate it)
+  * property ColumnLeft: index of left visible column (ie, horizontal scroll)
+  * procedure DoRangeFold(ARange: TATSynRange): fold range, which exists in the Fold object
+  * procedure DoRangeUnfold(ARange: TATSynRange): unfold range
+  * procedure DoScrollByDelta(Dx, Dy: integer): scroll editor area by Dx chars right and Dy lines down
+  * procedure DoGotoPos(APnt: TPoint; AIndentHorz, AIndentVert: integer): scroll editor to given caret pos
+
+
+
+Options 
+
+I cannot post here options. See ATSynEdit properties beginning with "Opt", these are props which can change in design time in IDE. You can place on form ATSynEdit and see in IDE its "Opt" properties and see their values. 
+
+Encodings 
+
+  * Strings.EncodingDetect: boolean
+  * Strings.Encoding: enum (cEncAnsi, cEncUTF8, cEncWideLE, cEncWideBE)
+  * Strings.EncodingCodepage: string (used for Encoding=cEncAnsi)
+  * Strings.SaveSignUtf8: boolean
+
+
+
+## Basic example how to use?
+
+  * Add "uses ATSynEdit".
+  * Add variable "ed".
+  * Add OnCreate event to new form.
+  * How to load file "unit1.pas":
+
+
+    
+    
+        procedure TForm1.FormCreate(Sender: TObject);
+        begin
+          ed:= TATSynEdit.Create(Self);
+          ed.Parent:= Self;
+          ed.Align:= alClient;
+          ed.Font.Name:= 'Courier New';
+          ed.OptUnprintedVisible:= false;
+          ed.OptRulerVisible:= false;
+          ed.LoadFromFile(ExtractFilePath(Application.ExeName)+'unit1.pas');
+        end;
+    
+
+  * How to save file: call "ed.SaveToFile()".
+
+
+
+## How does it manage the coordinates?
+
+Carets object contains list of caret items. Each caret item, e.g. Carets[0], has properties: 
+
+  * PosY: line index in Strings object
+  * PosX: char offset from line start
+  * EndY, EndX: selection end for caret, both -1 if no selection
+  * CoordX, CoordY: control-relative coordinates of caret
+
+
+
+Strings object holds UnicodeString's, where each WideChar gives offset=1, and even Tab char gives offset=1. Component auto-calculates properties CoordX/CoordY for all carets, screen coordinates. Don't touch CoordX/CoordY, change only PosX/PosY and EndX/EndY. 
+
+### Text position to/from screen coordinates
+
+Methods allow to convert text position to/from control-relative coordinates (in pixels). Layout of gutter, ruler and other UI elements are already considered by methods. 
+    
+    
+        function CaretPosToClientPos(P: TPoint): TPoint;
+        function ClientPosToCaretPos(P: TPoint;
+          out ADetails: TATPosDetails;
+          AGapCoordAction: TATGapCoordAction=cGapCoordToLineEnd): TPoint;
+    
+
+  * Param ADetails: returned True if text pos is after real end-of-line, False if text pos is inside line.
+  * Param AGapCoordAction: you must specify here what to do if coordinates are over inter-line gap (see Gaps object).
+
+
+
+Functions give Result.Y<0 if cannot calculate pos. For example, if line index is too big or line with this index is fully folded. 
+
+Property OptCaretVirtual exists. If it's True, caret is allowed after end-of-line. Methods consider it. 
+
+### Text posistion to/from column index
+
+To convert text coordinate X to/from column index (considering Tab chars), ATSynEdit has TabHelper object and methods of Strings object. Here is example, code which converts X of first caret to its column index: 
+    
+    
+        var
+          ed: TATSynEdit;
+          caret: TATCaretItem;
+        //...
+    
+        caret:= ed.Carets[0];
+        if ed.Strings.IsIndexValid(caret.PosY) then
+        begin
+          //optimized for huge lines
+          ColumnIndex:= ed.Strings.CharPosToColumnPos(caret.PosY, caret.PosX, ed.TabHelper)+1;
+        end;
+    
+
+## How to manage the caret, the selection?
+
+See topic "Carets object". To change position of carets, get Carets property of editor, get each item Carets[N], and change caret items' properties PosX/PosY and/or EndX/EndY, then call editor's method Update. To change selection for any caret (each caret has own selection): get caret item, and change its propeties EndX/EndY (set both to -1 to remove selection), then call editor's method Update. 
+
+Better don't do overlapping selections (when e.g. selection of caret-2 overlaps selection of caret-3), but even here you can call Carets.Sort, which should sort carets by PosX/PosY and fix them. 
+
+You can delete and add caret items. 
+    
+    
+      var
+        Caret: TATCaretItem;
+        i: integer;
+      begin
+        for i:= 0 to edit.Carets.Count-1 do
+        begin
+          Caret:= edit.Carets[i];
+          {
+          change here Caret.PosX and Caret.PosY
+          }
+        end;
+        edit.Update;    
+      end;
+    
+
+## How to modify text?
+
+See topic above about "Strings object". To change text, get Strings property of editor. "Strings.Count" is number of lines in object. Then access methods of Strings: LineAdd, LineInsert, LineDelete. To get/set lines by index, use properties of Strings: Strings.Lines[i], etc, listed above. 
+
+To do advanced changes, use TATStrings.Text* methods: 
+    
+    
+        procedure TextInsert(AX, AY: integer; const AText: atString; AOverwrite: boolean;
+          out AShift, APosAfter: TPoint);
+        procedure TextAppend(const AText: atString; out AShift, APosAfter: TPoint);
+        procedure TextInsertColumnBlock(AX, AY: integer; ABlock: TATStrings;
+          AOverwrite: boolean);
+        procedure TextDeleteLeft(AX, AY: integer; ALen: integer; out AShift, APosAfter: TPoint);
+        procedure TextDeleteRight(AX, AY: integer; ALen: integer; out AShift,
+          APosAfter: TPoint; ACanDelEol: boolean=true);
+        function TextDeleteRange(AFromX, AFromY, AToX, AToY: integer; out AShift, APosAfter: TPoint): boolean;
+        procedure TextInsertEol(AX, AY: integer; AKeepCaret: boolean;
+          const AStrIndent: atString; out AShift, APosAfter: TPoint);
+        procedure TextDeleteLine(AX, AY: integer; out AShift, APosAfter: TPoint);
+        procedure TextReplaceInOneLine(AY, AX1, AX2: integer; const AText: atString);
+        procedure TextReplaceRange(AFromX, AFromY, AToX, AToY: integer;
+          const AText: atString; out AShift, APosAfter: TPoint);
+        function TextReplaceLines_UTF8(ALineFrom, ALineTo: integer; ANewLines: TStringList): boolean;
+        function TextSubstring(AX1, AY1, AX2, AY2: integer; const AEolString: string = #10): atString;
+    
+
+Strings.Lines[i] do not contain end-of-line chars. Usually not needed to change end-of-line chars. You can change them using Strings.LinesEnds[i]. 
+
+  * After changes in Strings object, always call editor.Update(true). Update(false) only repaints editor, Update(true) invalidates WrapInfo object first (must be called after changes to Strings, or after window resize).
+  * You can read Strings from one editor1 and set it to Strings of editor2. This will make editor2 having same strings object (needed for split-tab).
+
+
+
+## How to highlight syntax?
+
+There're 2 ways: 
+
+  * OnCalcHilite event (better, if your code is small, e.g. colorize few tokens)
+  * Adapter (better, if your code is big, e.g. support for EControl lexers)
+
+
+
+You can set handler of OnCalcHilite event. Adapter is different way to do the same. Instead of using event, you write code in the new class which is child of TATAdapterHilite. Then you link adapter to editor: 
+    
+    
+      Adapter.AddEditor(editor1);
+      Adapter.AddEditor(editor2); //if 2 editors share the same text buffer
+    
+
+To unlink adapter from all editors, call: 
+    
+    
+      Adapter.AddEditor(nil);
+    
+
+If adapter assigned, editor will call adapter's methods (first called adapter, next OnCalcHilite). 
+
+See file "atsynedit_adapters.pas". It has base class for such adapters. Main method in adapter, which is called by ATSynEdit is: 
+    
+    
+      procedure OnEditorCalcHilite(Sender: TObject;
+          var AParts: TATLineParts;
+          ALineIndex, ACharIndex, ALineLen: integer;
+          var AColorAfterEol: TColor);
+    
+
+Parameters here: 
+
+  * Sender: editor object.
+  * AParts: array of "parts": each part has Offset, Len, colors, font style. Adapter must create parts for entire string (1st part takes 1st chars of string, last part takes last chars of string). See code about TATLineParts.
+  * ALineIndex: index of passed line (0-based).
+  * ACharIndex: index of 1st char in line (it's not 0 if wrapped part of line is shown, 0-based).
+  * ALineLen: length of substring to hilite.
+  * AColorAfterEol: return here color for background of line after end-of-line. Return clNone if no color needed.
+
+
+
+Real string which you must hilite: see example project how to get it. 
+
+## How to set same text-source to several editors?
+
+Several editors can have same text source, text source is ATStrings object which holds 
+
+  * same text for all editors
+  * separate folding states for each editor
+
+
+
+Each editor holds its own WrapInfo object so wrapped states are separate. Each editor holds its own Carets object, so carets/selections are separate. 
+
+Tech details: items in ATStrings object have fields: 
+    
+    
+        ItemHidden: packed array[0..cMaxStringsClients-1] of ByteBool;
+          // this line is fully hidden
+        ItemFoldFrom: packed array[0..cMaxStringsClients-1] of byte;
+          //  0: line not folded
+          // >0: line folded from this char-pos
+    
+
+(constant can be changed in source). These fields allow to hold separate fold-info for each "editor client" of ATStrings. Each client must have it's own EditorIndex (0 to cMaxStringsClients-1). Example, make 4 editors ed0..ed3. 
+
+  * change cMaxStringsClients to 4
+  * set ed0.EditorIndex:=0
+  * set ed1.EditorIndex:=1
+  * set ed2.EditorIndex:=2
+  * set ed3.EditorIndex:=3
+  * set ed1.Strings:=ed0.Strings
+  * set ed2.Strings:=ed0.Strings
+  * set ed3.Strings:=ed0.Strings
+
+
+
+If user changes text in ed3, ed3 will update but others will not: you need to force it: 
+
+  * ed0.Update(true)
+  * ed1.Update(true)
+  * ed2.Update(true)
+
+
+
+## How to add/change commands?
+
+To change action of internal commands (file atsynedit_commands.pas) you need to use event OnCommand which can do any action for any command (and return AHandled=True to disable default code). Better use OnCommand handler for all commands, even new ones. So you can call DoCommand() and have one handler to do anything. 
+
+Example func which adds new commands to Keymap object: 
+    
+    
+    const
+      cmd_FileNew = 2500;
+      ...
+    
+    procedure InitKeymapApp(M: TATKeymap);
+    begin
+      M.Add(cmd_FileNew, 'file: new file', ['Ctrl+N'], []);
+      M.Add(cmd_FileOpen, 'file: open file', ['Ctrl+O'], []);
+      M.Add(cmd_FileSave, 'file: save file', ['Ctrl+S'], []);
+      ...
+    end;
+    
+
+Example handler for new commands: some close editor tabs (special case: cannot close tabs just inside OnCommand) and some commands copy something to clipboard: 
+    
+    
+    procedure TfmMain.EditorOnCommand(Sender: TObject; Cmd: integer; var Handled: boolean);
+    begin
+      Handled:= true; //by default command marked as handled
+      case Cmd of
+        cmd_FileNew,
+        cmd_FileOpen,
+        cmd_FileClose,
+        cmd_FileCloseAll,
+        cmd_FileReopen:
+          begin
+            //these commands close tabs so cannot handle here.
+            //we start timer which will handle them.
+    	TimerCmd.Tag:= Cmd;
+    	TimerCmd.Enabled:= true;
+          end;
+    
+        cmd_CopyLine:         DoCopyLine;
+        cmd_CopyFilenameFull: DoCopyFilenameFull;
+        cmd_CopyFilenameDir:  DoCopyFilenameDir;
+        cmd_CopyFilenameName: DoCopyFilenameName;
+    
+        else
+          Handled:= false; //unknown command: don't mark handled
+      end;
+    end;
+    
+
+## How to emulate Edit, Combobox?
+
+Special child of ATSynEdit exists: ATEdit. It's single line control in which all multiline text editing is disabled. And paste can give only single line. And scrollbars are disabled. And many commands (like "Move lines up/down") are removed from Keymap object. 
+
+Special child of ATEdit exists: ATComboEdit. It has micromap area which paints dropdown arrow to look like combobox. Click on this arrow gives popup-menu with entered variants. 
+
+[![atsynedit combo.png](https://wiki.freepascal.org/images/2/2d/atsynedit_combo.png)](</File:atsynedit_combo.png>)
+
+Variants must be added to history by user code, using OnCommand handler: react to command "cCommand_KeyEnter". Example of handler: 
+    
+    
+    procedure TfmCombo.ComboCommand(Sender: TObject; ACmd: integer;
+      var AHandled: boolean);
+    var
+      s: string;
+      n: integer;
+    begin
+      if ACmd=cCommand_KeyEnter then
+      begin
+        with ed do
+        begin
+          s:= UTF8Encode(Trim(Text));
+    
+          Text:= '';
+          DoCaretSingle(0, 0);
+    
+          n:= Items.IndexOf(s);
+          if n>=0 then Items.Delete(n);
+          Items.Insert(0, s);
+        end;
+        AHandled:= true;
+      end;
+    end;
+    
+
+## What props are useful for statusbar?
+
+  * number of carets: Carets.Count
+  * positions of carets: Carets.Items[i].PosX (column), PosY (line)
+  * text encoding: Strings.Encoding 
+    * cEncAnsi: then codepage is given by Strings.EncodingCodepage
+    * cEncUTF8: then presence of utf8 bom is given by Strings.SaveSignUtf8
+    * cEncWideLE, cEncWideBE: then presense of Unicode bom is given by Strings.SaveSignWide
+  * text line endings (win/unix/mac): Strings.Endings
+  * tab-char width: OptTabSize
+  * tab-char entered by spaces: OptTabSpaces
+  * index of top visible line: LineTop
+  * index of left visible column: ColumnLeft
+  * modified state: Modified
+  * read-only mode: ModeReadOnly
+  * insert/overwrite mode: ModeOverwrite
+  * word-wrap mode: OptWrapMode
+  * unprinted chars shown: OptUnprintedVisible
+  * selection: get Carets.Items[i].PosX/PosY/EndX/EndY, for state of column selection get IsSelRectEmpty, SelRect
+
+
+
+## How to customize popup menu?
+
+These properties allow to change all menus in control (you cannot modify default menu): 
+
+  * PopupText: for text area
+  * PopupRuler
+  * PopupMinimap
+  * PopupMicromap
+  * PopupGutterBm: for bookmarks column
+  * PopupGutterFold: for folding column
+  * PopupGutterNum: for line numbers column
+
+
+
+Prop OptMouse* exists, which allows to show menus on mouse-down or on mouse-up. 
+
+## How to know indexes of changed lines in OnChange?
+
+You have event Strings.OnLog. It gives parameters: 
+
+  * ALine: index of line at which change occurs
+  * ALen: len of text which is added (ALen>0) or deleted (ALen<0) at line start
+
+
+
+Get the log, save it, and then parse it during OnChange. 
+
+## How to export text to HTML?
+
+Unit atsynedit_export_html has the function which does HTML report. It has several parameters to customize output. See example of usual parameters in the demo_editor. 
+
+ATSynEdit has API which allows to make report to any format. It's function DoCalcLineHiliteEx. It returns syntax highlight info for any line. Info is stored in TATLineParts struct, see HTML exporter code how to use it. 
+
+## Short description of events?
+
+  * OnBeforeCalcHilite: Called before OnCalcHilite for first visible line.
+  * OnCalcBookmarkColor: Called to determine color of bookmark (background color of line with bookmark).
+  * OnCalcHilite: Called to calculate syntax highlight for a line (or wrapped part of line). You need to fill TATLineParts struct for this line.
+  * OnCalcStaple: Called to determine color of block staple (vertical line which is painted near fold-ranges).
+  * OnChange: Called after any command which changes text.
+  * OnChangeCaretPos: Called after any command which changes caret(s) position(s).
+  * OnChangeState: Called after any command which changes editor state, such as read-only, insert/overwrite, word-wrap etc.
+  * OnClickDouble: Called on double-click on text area.
+  * OnClickGutter: Called on click on gutter area.
+  * OnClickMicromap: Called on click on micromap area.
+  * OnClickMiddle: Called on middle button click on text area.
+  * OnClickTriple: Called on triple-click on text area.
+  * OnClickMoveCaret: Called just before changing caret pos via mouse click (you get prev caret pos, new caret pos).
+  * OnClickEndSelect: Called just after mouse-up, if single selection made (you get selection start pos, end pos).
+  * OnCommand: Called before running any command. You can disable any command processing, or perform custom processing before/instead of command.
+  * OnCommandAfter: Called after running command.
+  * OnDrawBookmarkIcon: Called on painting gutter mark for line with bookmark.
+  * OnDrawEditor: Called after painting entire text area.
+  * OnDrawLine: Called after painting line (or wrapped part of line) on canvas. You can paint some "image" over this line.
+  * OnDrawMicromap: Called on painting micromap area.
+  * OnDrawRuler: Called after painting ruler area.
+  * OnScroll: Called after any command which scrolls text.
+  * OnPaste: Called just before pasting text. App can disable/override default pasting.
+  * OnHotspotEnter: Called when mouse moving enters one of the ranges in Hotspots object.
+  * OnHotspotExit: Called when mouse moving exits hotspot.
+
+
+
+## What is logic of grouped-undo?
+
+There're kinds of group-marks in undo-items: hard-marks, soft-marks. 
+
+  * Hard-marks are placed on undo-items if you call Strings.BeginUndoGroup, editing, Strings.EndUndoGroup. All items marked with hard-marks are undone as group, even of OptUndoGrouped=false.
+  * Soft-marks used only if OptUndoGrouped=true. Soft-marks are placed on one next undo-item, when user does mouse click (or some similar action); or in code by call Strings.SetGroupMark. All items beginning with last soft-marked item are undone as group.
+
+
+
+Example 1. OptUndoGrouped=true, such undo-items exist: 
+
+  * item1
+  * item2
+  * item3, soft-mark
+  * item4
+  * item5, hard-mark
+  * item6, hard-mark
+  * item7
+  * item8, soft-mark
+  * item9
+  * item10
+
+
+
+Undo: 
+
+  * undone: item10..8; until soft-mark.
+  * undone: item7..3; until soft-mark.
+  * undone: item2..1.
+
+
+
+Example 2. OptUndoGrouped=false, undo-items: 
+
+  * item1
+  * item2
+  * item3, hard-mark
+  * item4, hard-mark
+  * item5, hard-mark
+  * item6
+  * item7
+
+
+
+Undo: 
+
+  * Undone: item7
+  * Undone: item6
+  * Undone: item5..3
+  * Undone: item2
+  * Undone: item1
+
+
+
+Soft-marks also used together with hard-marks. Soft-mark is placed with first hard-mark after call Strings.BeginUndoGroup. This allows to undo N groups of edits, if many items hard-marked (w/out gaps). 
+
+Example 3. Undo-items: 
+
+  * item1, hard-mark
+  * item2, hard-mark, soft-mark
+  * item3, hard-mark
+  * item4, hard-mark, soft-mark
+  * item5, hard-mark
+  * item6, hard-mark
+
+
+
+Undo: 
+
+  * undone: item6..4
+  * undone: item3..2
+  * undone: item1
+
+
+
+## How to record/playback macros?
+
+Macro support must be done on app level, component does support by event OnCommand. Handle OnCommand and you get all command codes which run. Real app adds more commands in Keymap object and it must decide which of them it wants to record (e.g. don't record commands to show dialogs, and record commands which comment/uncomment lines). 
+
+To playback macro, call DoCommand for all codes in macro. 
+
+Hint. CudaText also adds 3 commands to help with macros: 
+
+  * "mouse click" (command recorded in OnClick event of editor)
+  * "goto pos" (command recorded by GoTo dialog)
+  * "finder action" (command recorded when doing find/replace actions)
+
+
+
+## How to configure modifier-keys with click?
+
+You can configure some of mouse clicks with modifier keys: simple click, Ctrl+click, Shift+click, Ctrl+Shift+click, middle click, etc. Property MouseMap configures it, it's array, type TATMouseActions. Default code configures it in InitMouseActions like this: 
+    
+    
+    procedure InitMouseActions(var M: TATMouseActions);
+    //...
+    begin
+      SetLength(M, 0);
+      Add(cMouseActionClickSimple, [ssLeft]);
+      Add(cMouseActionClickRight, [ssRight]);
+      Add(cMouseActionClickAndSelBlock, [ssLeft, ssShift]);
+      Add(cMouseActionMakeCaret, [ssLeft, ssXControl]);
+      Add(cMouseActionMakeCaretsColumn, [ssLeft, ssXControl, ssShift]);
+      Add(cMouseActionNiceScrolling, [ssMiddle]);
+      //...
+    
+
+## Does it use PrimarySelection on gtk?
+
+It can use it, all methods which work with clipboard, get AClipboardObject:TClipboard, here you can pass Clipboard, PrimarySelection, SecondarySelection. 
+
+Command codes for Paste: exist for Clipboard, and for PrimarySelection. This is part which reacts to command codes: 
+    
+    
+        cCommand_ClipboardCopy:            Res:= DoCommand_ClipboardCopy(false, Clipboard);
+        cCommand_ClipboardCopyAdd:         Res:= DoCommand_ClipboardCopy(true, Clipboard);
+        cCommand_ClipboardCut:             Res:= DoCommand_ClipboardCut(Clipboard);
+    
+        //use Clipboard:TClipboard
+        cCommand_ClipboardPaste:                 Res:= DoCommand_ClipboardPaste(false, false, Clipboard);
+        cCommand_ClipboardPaste_Select:          Res:= DoCommand_ClipboardPaste(false, true, Clipboard);
+        cCommand_ClipboardPaste_KeepCaret:       Res:= DoCommand_ClipboardPaste(true, false, Clipboard);
+        cCommand_ClipboardPaste_Column:          Res:= DoCommand_ClipboardPasteColumnBlock(false, Clipboard);
+        cCommand_ClipboardPaste_ColumnKeepCaret: Res:= DoCommand_ClipboardPasteColumnBlock(true, Clipboard);
+    
+        //same, but use PrimarySelection:TClipboard
+        cCommand_ClipboardAltPaste:                 Res:= DoCommand_ClipboardPaste(false, false, PrimarySelection);
+        cCommand_ClipboardAltPaste_Select:          Res:= DoCommand_ClipboardPaste(false, true, PrimarySelection);
+        cCommand_ClipboardAltPaste_KeepCaret:       Res:= DoCommand_ClipboardPaste(true, false, PrimarySelection);
+        cCommand_ClipboardAltPaste_Column:          Res:= DoCommand_ClipboardPasteColumnBlock(false, PrimarySelection);
+        cCommand_ClipboardAltPaste_ColumnKeepCaret: Res:= DoCommand_ClipboardPasteColumnBlock(true, PrimarySelection);
+    
+
+Default code uses PrimarySelection in one place: on copy, it copies to Clipboard, then (under Linux/Mac) copies the same to PrimarySelection. 
+
+To make middle-button-click paste from PrimarySelection, you need to handle OnClickMiddle, here's example from CudaText: 
+    
+    
+    procedure TEditorFrame.EditorOnClickMiddle(Sender: TObject; var AHandled: boolean);
+    begin
+      AHandled:= false;
+      if EditorOps.OpMouseMiddleClickPaste then
+      begin
+        AHandled:= true;
+        (Sender as TATSynEdit).DoCommand(cmd_MouseClickAtCursor);
+        (Sender as TATSynEdit).DoCommand(cCommand_ClipboardAltPaste); //uses PrimarySelection:TClipboard
+        exit;
+      end;
+    end;
+    
+
+## How to handle OnCalcLineHilite event
+
+This event has type: 
+    
+    
+    type
+      TATSynEditCalcHiliteEvent = procedure(Sender: TObject; var AParts: TATLineParts;
+        ALineIndex, ACharIndex, ALineLen: integer; var AColorAfterEol: TColor) of object;
+    
+
+Handler gets: 
+
+  * ALineIndex: index of line (in Strings object)
+  * ACharIndex: offset of fragment in line (not trivial only if line is wrapped)
+  * ALineLen: length of fragment in line (in WideChars)
+
+
+
+Handler must fill: 
+
+  * AParts: array of highlighted parts, one part per one "syntax token" (e.g. one symbol, one keyword, one string const, one comment, etc). Fill all other parts with zeros.
+  * AColorAfterEol: color of background after line end (for empty area).
+
+
+
+Handler must handle the situation of line-wrapping inside long comments (or long string constants, etc), when one fragment gives part for ALineIndex=N, and next fragment gives part for ALineIndex=N+1. 
+
+Example. Handler gets string with Pascal syntax like "procedure AB(name: word)". It must create such "parts" for this string: 
+
+  * part[0]: for "procedure": TATLinePart properties: offset=0, len=9, etc
+  * part[1]: for "AB": offset=10, len=2
+  * part[2]: for "(": offset=12, len=1
+  * part[3]: for "name": offset=13, len=1
+  * part[4]: for ":": offset=17, len=1
+  * part[5]: for "word": offset=19, len=4
+  * part[6]: for ")": offset=23, len=1
+  * other parts must have offset=0, len=0
+
+
+
+## Details about highlighting rendering
+
+Central procedure is DoCalcLineHilite. For items of WrapInfo object, it calculates "line parts" (array TATLineParts of record TATLinePart). Each "part" here is one colored/styled fragment of string. After line parts are calculated, they pass to ATSynEdit_CanvasProc.CanvasTextOut to render. 
+
+DoCalcLineHilite works like this: 
+
+  * Updates adapter's "dynamic hilites enabled" flag (to on/off) and calls adapter's OnCalcLineHilite. This makes initial version of line parts.
+  * Calculated line parts are added to cache (same calculation of same WrapInfo item will not happen, only cache item is used).
+  * Updates line parts via OnCalcHilite event (it's additional method to hilite, first is adapter, usually only adapter is used).
+  * Calls DoPartCalc_ApplyAttribsOver to apply Attribs object to line parts. E.g. add parts for spell-checker bad words. E.g. add parts for underlined URLs.
+  * Calls DoPartCalc_ApplySelectionOver to apply selection (for all multi-carets, or one column selection) to parts.
+
+
+
+DoPartCalc_ApplySelectionOver is complex function. It updates TATLineParts. How it works: 
+
+  * It tests entire TATLineParts - is it all selected (optimization for selected-all), or all unselected (optimization for selected-none), or partly selected.
+  * If all selected, it just marks all parts (already calc'ed) with selection color. If partly selected, it finds parts, which are all/partly selected.
+  * For parts, which are all selected, it marks them with selection color.
+  * For parts, which are partly selected, it makes slow loop over offsets in parts. This slow loop finds chars which are selected and inserts new parts (with selection color) for them.
+
+
+
+To find/insert parts to TATLineParts, funcs DoPartFind/ DoPartInsert are used. 
+
+## How to control vert/horz scrolling?
+
+Property LineTop is index of top visible line, it is not precise vert scroll position, if long wrapped lines present. 
+
+Public prop: WrapInfo, it's list of wrapinfo items. You can read it to get all info about wrapped lines, at which offsets they are wrapped. This allows to make smart jump of caret on wrapped lines. 
+
+Public props: ScrollVert, ScrollHorz. They are records, NPos is scroll pos. ScrollVert.NPos is index in WrapInfo list, change it to make precise scrolling (call Update() then). ScrollHorz.NPos is horz scroll pos, now it's the same as prop ColumnLeft. 
+
+Method DoScrollByDelta(Dx, Dy) allows to increment/decrement horz (Dx) and vert (Dy) scroll positions. 
+
+## When Update call is needed?
+
+First param of Update() method is boolean: force updating the WrapInfo object. 
+
+  * Update(true): needed if you changed Strings contents - directly via Strings object; or changed Fold ranges - directly via Fold object. Ie, if WrapInfo object needs update (and component cannot detect this automatically).
+  * Update(false): needed if you only changed look, ie carets, scroll position, bookmarks, markers, etc.
+  * no Update() call is needed, if you only called DoCommand(). DoCommand does it automatically.
+
+
+
+## Behaviour of column selection
+
+ATSynEdit gives two modes of column selection, which have differences when you select over wrapped lines, or lines with full-width characters. This is controlled by property OptCaretsPrimitiveColumnSelection. 
+
+  * Value True: "pritimive mode" which behaves much like Sublime Text. In this mode editor places multi-selections over visual rectangle of characters. In this mode, one line can have 6 chars selected, and another line can have 8 chars selected. This depends on visual positions of chars in those lines.
+
+
+  * Value False: in this mode, all affected lines have the same number of selected chars. But when full-width chars (e.g. CJK) are present in text, selection may look weird. Here is an example picture where starting lines are ASCII and ending lines have full-width chars.
+
+
+
+[![cudatext-column-sel-cjk.png](https://wiki.freepascal.org/images/d/d5/cudatext-column-sel-cjk.png)](</File:cudatext-column-sel-cjk.png>)
+
+It is not a bug. In this example, user selected column block from column 7 (at line 1) until column 20 (at line 6), so column block takes columns 7...20 from all lines. On first ASCII lines, columns 7...20 take different visual area, than columns on last lines. When you copy/paste that block to another program, block may look differently. But that block contains equal number of chars on each line. 
+
+Even more weird look happens when user selects column block over word-wrapped lines. 
+
+[![cudatext-column-sel-weird.png](https://wiki.freepascal.org/images/5/52/cudatext-column-sel-weird.png)](</File:cudatext-column-sel-weird.png>)
+
+Here is the code's logic in all these cases (with full-width characters and with word-wrapped lines). Code calculates (line1, column1) text position of column block left-top edge. Then code calculates (line2, column2) text position of column block right-bottom edge. Then code selects characters in range column1...column2 in all those affected lines line1...line2. And this code logic produces so weird look in word-wrapped mode. 
+
+## Horizontal scrollbar only increases but never shrinks?
+
+Horizontal scrollbar has unusual behaviour: its width only increases (when long lines appear in the visible area). It never shrinks when we scroll to shorter lines. It was made as a workaround to GTK2 widgetset freezes - it freezes when scrollbar shows/hides/shows/hides/etc on scrolling. 
+
+You can try to disable this workaround in file atsynedit_defines.inc: 
+    
+    
+    {$define fix_horzscroll} //workaround for gtk2 widgetset unstable: it freezes app
+                             //when horz-scroll hides/shows/hides/...
+                             //ok also for win32
+    
+
+## more
+
+# Auto-completion lists
+
+## General auto-completion API
+
+You need to install package ATSynEdit_Cmp, from repo <https://github.com/Alexey-T/ATSynEdit_Cmp> . 
+
+Unit atsynedit_cmp_form (from ATSynEdit_Cmp package) has the function to show completion listbox in the editor. This listbox is not modal, it only emulates modality of some degree. It keeps editor caret blinking. While completion listbox is shown, editor doesn't get keyboard input, but listbox passes typing letters/Backspace/Left/Right to the editor, so it looks like editor gets some part of keyboard input. Listbox performs insertion of chosen item on Enter/Tab keys, and it hides on Esc-key or clicking outside of the listbox. 
+    
+    
+    type
+      TATCompletionPropEvent = procedure (Sender: TObject;
+        AContent: TStringList; out ACharsLeft, ACharsRight: integer) of object;
+      TATCompletionResultEvent = procedure (Sender: TObject;
+        const ASnippetId: string; ASnippetIndex: integer) of object;
+    
+    procedure EditorShowCompletionListbox(AEd: TATSynEdit;
+      AOnGetProp: TATCompletionPropEvent;
+      AOnResult: TATCompletionResultEvent = nil;
+      AOnChoose: TATCompletionResultEvent = nil;
+      const ASnippetId: string = '';
+      ASelectedIndex: integer = 0;
+      AAllowCarets: boolean = false);
+    
+
+Callback AOnGetProp params: 
+
+  * AContent: list of lines, each line is S_id+'|'+S_text+'|'+S_desc. S_id is a prefix before actual text (good to pass here short texts: "var", "func"). S_text (it is usually second item) is text which is inserted into editor on closing listbox. After id/text several items may exist, all '|'-separated, they will show in additional listbox columns. For example, this TStringList line makes the listbox line of 3 columns:
+
+
+    
+    
+      'func|FuncName|(param1, param2)'#9'Func description';
+    
+
+  *     * If you need to insert not only S_text but also additional substring (showing in the listbox only S_text), use such S_text: S_text+#1+S_before_caret+#1+S_after_caret (also substrings will be added before and after caret). This is used by HTML autocompletion: here S_before_caret is ">" and S_after_caret is "</tag>".
+    * At the end of lines, you may add Chr(9)+S_tooltip: string S_tooltip will show outside of listbox, in a tooltip, when user selects its line. To show multi-line tooltip, separate it with Chr(2).
+
+
+  * ACharsLeft, ACharsRight: count of chars, to the left and right of the caret, which will be replaced by selected listbox item. These counts must be detected by app. Some app may need to count only word chars, some may need spaces/brackets.
+
+
+
+Notes: 
+
+  * Function EditorShowCompletionListbox doesn't work for a) read-only editor, b) multi-carets.
+  * You can change colors/sizes/font of listbox: see unit source, it gives the global variable (record with many fields).
+
+
+
+## Auto-completion using acp-files
+
+Unit atsynedit_cmp_acpfiles has the function to show auto-completion listbox, from CudaText/SynWrite .acp files. Acp file must be in the format described in the SynWrite help file. You may copy acp files from CudaText distro, or from additional lexers, ie from CudaText lexers on CudaText.SF.net. 
+
+[![cudatext-php-complete.png](https://wiki.freepascal.org/images/5/53/cudatext-php-complete.png)](</File:cudatext-php-complete.png>)
+
+## Auto-completion for CSS
+
+Unit atsynedit_cmp_css has the function to show auto-completion listbox, for CSS syntax. You must pass path of the file "data/autocompletespec/css_list.ini" from CudaText distro. CSS completion supports several modes: 
+
+  * caret is on css attrib before ":" char - then list of css attribs is shown (which match the substring under caret),
+  * caret is after css attrib and ":" char (before closing ";") - then list of values for this attrib is shown.
+  * and more
+
+
+
+[![cudatext-css-complete.png](https://wiki.freepascal.org/images/6/64/cudatext-css-complete.png)](</File:cudatext-css-complete.png>)
+
+## Auto-completion for HTML
+
+Unit atsynedit_cmp_html has the function to show auto-completion listbox, for HTML syntax. You must pass path of the file "data/autocompletespec/html_list.ini" from CudaText distro. HTML completion supports several modes: 
+
+  * caret on opening/closing tag name: list of tags shown
+  * caret after tag, on attribute place before "=": list of attribs for found tag shown
+  * caret after tag, after attribute, after "=": list of values of found tag+attrib shown
+  * and more
+
+
+
+[![cudatext-html-complete.png](https://wiki.freepascal.org/images/6/6d/cudatext-html-complete.png)](</File:cudatext-html-complete.png>)
+
+# Finder
+
+Finder class TATEditorFinder is in unit atsynedit_finder. To use it, create Finder object and set its props: 
+
+  * Editor: editor object (text will be read automatically)
+  * StrFind: search-string (simple string or regex)
+  * StrReplace: replace-string (simple string or some regex, eg with "$0", "$1")
+  * boolean search flags: 
+    * OptRegex: treat StrFind/StrReplace as regex
+    * OptCase: case-sensitive (for normal and regex modes)
+    * OptWords: whole-words search (for non-regex mode, for regex you must use "\b" specifier in search-string)
+    * OptBack: backward search (for non-regex mode)
+    * OptWrapped: continue search from top, if bottom reached (for back-search: continue from bottom, if top reached)
+    * OptInSelection: do search/replace in selection only (limitation exists: only 1st selection used)
+    * OptFromCaret: search goes from position of first caret (else: from start/end of text)
+    * OptConfirmReplace: each replace will occur after event OnConfirmReplace
+
+
+
+Dialog of demo: 
+
+[![atsynedit finder.png](https://wiki.freepascal.org/images/5/5a/atsynedit_finder.png)](</File:atsynedit_finder.png>)
+
+Methods to find/replace text (they will place selection on found match, and scroll editor to caret, except method CountAll): 
+    
+    
+    function DoAction_FindSimple(const APosStart: TPoint): boolean;
+    function DoAction_FindOrReplace(AReplace, AForMany: boolean; out AChanged: boolean;
+      AUpdateCaret: boolean): boolean;
+    function DoAction_ReplaceSelected(AUpdateCaret: boolean): boolean;
+    procedure DoAction_FindAll(AResults: TATFinderResults; AWithEvent: boolean);
+    function DoAction_CountAll(AWithEvent: boolean): integer;
+    procedure DoAction_ExtractAll(AWithEvent: boolean; AMatches: TStringList; ASorted: boolean;
+      ADuplicates: TDuplicates);
+    function DoAction_ReplaceAll: integer;
+    
+
+Found position and len are saved in props: MatchPos, MatchLen. Internally Finder object uses ATStringBuffer to read editor lines into buffer and search inside buffer. Then ATStringBuffer methods used to calculate caret position (from buffer offset) and place caret/selection. Note for regex search: buffer contains only "\n" line ends, other ends don't happen (original file may have any ends). 
+
+Finder has events: 
+
+  * OnProgress: allows to show progressbar during search
+  * OnFound: called when result found
+  * OnConfirmReplace: called before replacing text (to show confirmation) if OptConfirmReplace set
+
+
+
+Finder can handle multi-selections, by option OptInSelection. Selections are handled by CountAll, ReplaceAll. For other actions, selections don't make sense, because find-next makes new smaller selection (for found fragment) so prev big selection is lost. Tech note for replace-all: selections are looked from top to bottom, if they don't have common lines, and looked from bottom to top, if they have. This is done to not break lines, which are touched by 2+ selections. Count-all handles selections from top to bottom. 
+
+# Adapters
+
+## Adapters description
+
+To support syntax-highlighting in some way, you need 
+
+  * Add event OnCalcHilite handler, which must fill the TATLineParts array with needed highlighting, or
+  * Create the unit with adapter class, child of TATAdapterHilite (unit atsynedit_adapters), which must fill the TATLineParts array, again. Partial code of the adapter class:
+
+
+    
+    
+    type
+      TATAdapterHilite = class(TComponent)
+      ...
+      public
+        constructor Create(AOwner: TComponent); override;
+        //
+        procedure OnEditorChange(Sender: TObject); virtual;
+        //called when editor's text changes.
+    
+        procedure OnEditorChangeEx(Sender: TObject; AChange: TATLineChangeKind; ALine, AItemCount: integer); virtual;
+        //detailed version of OnEditorChange
+    
+        procedure OnEditorIdle(Sender: TObject); virtual;
+        //called after text is changed, and pause passed (OptIdleInterval)
+        //fast changes (faster than OptIdleInterval): called only after last change
+    
+        procedure OnEditorCalcHilite(Sender: TObject;
+          var AParts: TATLineParts;
+          ALineIndex, ACharIndex, ALineLen: integer;
+          var AColorAfterEol: TColor;
+          AMainText: boolean); virtual;
+        //called to calculate hilite of entire line.
+        //ACharIndex is starting offset in this line, >0 if editor scrolled horizontally.
+        //ALineLen is len of line part, starting from ACharIndex.
+        ...
+    
+
+You need your custom adapter class, child of TATAdapterHilite, which must implement some of methods. You don't have to implement all of them, if your adapter doesn't need that. Then you must create an object of your adapter class, and assign this object to editor's AdapterForHilite property. 
+
+The package ATSynEdit_Ex contains 2 ready adapter classes: for complex EControl .lcf lexers, and for CudaText simplified "lite" lexers. The lexer files are distributed in the CudaText repos on SourceForge. 
+
+## Adapter for EControl lexers
+
+See [ATSynEdit EControl adapter](<ATSynEdit_EControl_adapter.md> "ATSynEdit EControl adapter")
+
+# How to adapt TRegExpr upstream for ATSynEdit
+
+TRegExpr upstream is <https://github.com/andgineer/TRegExpr> . How to convert it to atsynedit_regexpr unit. 
+
+  * rename unit
+  * change "uses regexpr_unicodedata" to "uses ATSynEdit_UnicodeData"
+  * comment line {$I regexpr_compilers.inc}
+  * set define on: UniCode
+  * set define on: FastUnicodeData
+  * set defines off: UseSpaceChars, UseWordChars
+  * fix vars:
+
+
+    
+    
+      RegExprModifierI: boolean = False; // default value for ModifierI
+      RegExprModifierR: boolean = True; // default value for ModifierR
+      RegExprModifierS: boolean = False; // default value for ModifierS
+      RegExprModifierG: boolean = True; // default value for ModifierG
+      RegExprModifierM: boolean = True; // default value for ModifierM
+      RegExprModifierX: boolean = False; // default value for ModifierX
+    
+      RegExprLineSeparators: RegExprString = #$a#$b#$c
+        {$IFDEF UniCode}
+        + #$2028#$2029#$85
+        {$ENDIF}; 
+      RegExprLinePairedSeparator: RegExprString = ''; //#$d#$a;  
+    
+      FUseOsLineEndOnReplace := False;
+      FReplaceLineEnd := #10; //not sLineBreak, it is CR LF on Windows
+
+---
+
+_Source: [https://wiki.freepascal.org/ATSynEdit](https://web.archive.org/web/20231203214807/https://wiki.freepascal.org/ATSynEdit)_
