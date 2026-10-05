@@ -2,12 +2,18 @@
 
 English and Russian article pages from [wiki.freepascal.org](https://wiki.freepascal.org/), restored from the [Wayback Machine](https://web.archive.org/) after the live wiki became unreachable behind a broken Anubis challenge.
 
-## Contents
+## Navigation
 
-| Path | Language | Pages |
-|------|----------|------:|
-| `en/` | English | 2766 |
-| `ru/` | Russian | 645 |
+GitHub truncates folder listings when there are thousands of files. Use the indexes instead of browsing `en/` or `ru/` directly:
+
+| Language | Index |
+|----------|-------|
+| English (2766 pages) | **[en/INDEX.md](en/INDEX.md)** — alphabet (A–Z, …) → [by-letter/](en/by-letter/) |
+| Russian (645 pages) | **[ru/INDEX.md](ru/INDEX.md)** — alphabet → [by-letter/](ru/by-letter/) |
+
+Each index also has a collapsible full A–Z list on one page.
+
+## Layout
 
 Subpages become nested folders (e.g. `en/ZSeries/Part_4.md`).
 
